@@ -1,0 +1,650 @@
+Security Certiﬁcations 
+
+•  General Security: Basic | Intermediate | Advanced  
+•  Forensics/Anti-Hacking: Basic | Intermediate | Advanced  
+
+GENERAL SECURITY - Basic 
+
+ 
+
+•  BISA – Brainbench Information Security Administrator 
+
+This  Brainbench  certiﬁcation  tests  knowledge  of  networking  and  Internet  security, 
+including authorization, authentication, ﬁrewalls, encryption, disaster recovery and more. 
+Source: Brainbench  
+
+•  BITSF – Brainbench Information Technology Security Fundamentals 
+
+This  Brainbench  certiﬁcation  tests  basic  knowledge  of  information  security  concepts, 
+skills and best practices. Topics covered include: 
+
+This entry- to mid-level security certiﬁcation focuses on two primary topics: ﬁrewalls and 
+intrusion detection. Related curriculum and exams cover network security fundamentals, 
+
+Page 1 of 13 
+
+o  Attack recognition, prevention and response  
+o  Content security  
+o  Database infrastructure protection  
+o  General concepts  
+o  Network infrastructure protection  
+o  Perimeter and Internet security  
+o  Security management systems and security technologies  
+
+Source: Brainbench  
+
+•  GIAC – Global Information Assurance Certiﬁcation Program 
+
+This program seeks to identify individuals who can demonstrate knowledge of and the 
+ability to manage and protect important information systems and networks. The SANS 
+organization is well known for its timely, focused, and useful security information and 
+certiﬁcation  program.  A  shining  star  on  this  landscape,  the  GIAC  program  aims  at 
+serious,  full-time  security  professionals  responsible  for  designing,  implementing  and 
+maintaining a state-of-the-art security infrastructure that may include incident handling 
+and emergency response team management. Available entry-level certiﬁcations include 
+the following: 
+
+o  GIAC Information Security Fundamentals (GISF)  
+o  GIAC Security Essentials Certiﬁcation (GSEC)  
+
+Source: Global Information Assurance Certiﬁcation  
+•  SCNP – Security Certiﬁed Network Professional 
+
+•  Security+ 
+
+and network defense and countermeasures. Individuals who attain this certiﬁcation will 
+be able to work as full-time IT security professionals with an operations focus.  
+Source: Security Certiﬁed Program  
+
+This security certiﬁcation focuses on important security fundamentals related to security 
+concepts and theory, as well as best operational practices. In addition to functioning as a 
+standalone exam for CompTIA, Microsoft accepts the Security+ as an alternative to one 
+of  the  specialization  exams  for  the  MCSA  and  MCSE  Messaging  and  Security 
+specializations.  
+Source: CompTIA Security+ Certiﬁcation Overview  
+
+•  SSCP – Systems Security Certiﬁed Practitioner 
+
+The  entry-level  precursor  to  ISC2’s  CISSP,  the  SSCP  exam  covers  seven  of  the  10 
+domains  in  the  CISSP  Common  Body  of  Knowledge.  The  exam  focuses  more  on 
+operational  and  administrative  issues  relevant  to  information  security  and  less  on 
+information policy design, risk assessment details and other business analysis skills that 
+more germane to a senior IT security professional (and less so to a day-to-day security 
+administrator, which is where the SSCP is really focused).  
+Source: (ISC)2  
+
+•  TICSA – TruSecure ICSA Certiﬁed Security Associate 
+
+TICSA demonstrates basic familiarity with vendor-neutral system- and network-security 
+principles,  practices  and  technologies.  It  is  an  entry-level  security  certiﬁcation  for 
+network or system administrations and for those interested in climbing the ﬁrst rung in a 
+security certiﬁcation ladder suitable for full-time IT security work.  
+Source: TruSecure ICSA Practitioner Certiﬁcation  
+
+ 
+
+GENERAL SECURITY - Intermediate 
+
+•  BIS – Brainbench Internet Security Certiﬁcation 
+
+The BIS seeks to identify individuals with a good working knowledge of Internet security 
+practices,  principles  and  technologies.  It  is  aimed  at  full-time  network  or  system 
+administrators who must manage systems with Internet connections or access.  
+Source: Brainbench  
+
+•  BNS – Brainbench Network Security Certiﬁcation 
+
+The  BNS  seeks  to  identify  individuals  with  a  good  working  knowledge  of  network 
+security practices, principles and technologies. This cert is aimed at full-time network 
+administrators who must deal with external threats through boundary devices like routers, 
+ﬁrewalls or intrusion-detection systems, as well as more typical internal threats.  
+Source: Brainbench  
+
+Page 2 of 13 
+
+•  CIW Security Analyst 
+
+Individuals who take and pass the CIW-Security Professional (CIW-SP) exam, and hold 
+one of the following certiﬁcations qualify as a CIW Security Analyst (CIW-SA):  
+
+o  Microsoft Certiﬁed Systems Administrator (MCSA)  
+o  Microsoft Certiﬁed Systems Engineer (MCSE) 4  
+o  Microsoft Certiﬁed Systems Engineer (MCSE) 2000  
+o  Certiﬁed Novell Engineer (CNE) 4  
+o  Certiﬁed Novell Engineer (CNE) 5  
+o  Cisco Certiﬁed Network Associate (CCNA)  
+o  Cisco Certiﬁed Network Professional (CCNP)  
+o  Cisco Certiﬁed Internetwork Expert (CCIE)  
+o  Linux Professional Institute (LPI) Level 2  
+
+Individuals who hold this credential can carry out security policy, identify and handle 
+security  threats,  and  apply  countermeasures  using  ﬁrewalls,  intrusion  detection  and 
+related systems. The program’s Web focus also includes coverage of online payments, 
+transaction processing and related security matters.  
+Source: ProsoftTraining Inc.  
+
+•  CIW-SP – Certiﬁed Internet Webmaster-Security Professional 
+
+The  CIW-SP  demonstrates  knowledge  of  Web-  and  e-commerce-related  security 
+principles  and  practices.  It  is  of  primary  interest  to  Web  administrators  who  must 
+implement and manage a secure and working Web presence that may also include e-
+commerce capabilities.  
+Source: ProsoftTraining Inc.  
+
+•  CWSP – Certiﬁed Wireless Security Professional  
+
+This certiﬁcation recognizes individuals who can design, implement and manage wireless 
+LAN security. To obtain this credential, candidates must ﬁrst acquire CWNA certiﬁcation 
+and  pass  one  exam.  Planet3  Wireless  recommends  that  candidates  obtain  a  Security 
+Certiﬁed  Program  certiﬁcation  or  the  Security+  certiﬁcation  before  taking  the  CWSP 
+course.  
+Source: Planet3 Wireless  
+
+•  EWSCP – Enterprise and Web Security Certiﬁed Professional  
+
+This certiﬁcation recognizes systems administrators, managers and IT support personnel, 
+among others, who are responsible for the security of enterprise-wide networks, VPNs 
+and Web communications. To obtain this cert, candidates must attend three core courses 
+and one elective course, and pass all associated exams.  
+Source: Learning Tree International  
+
+Page 3 of 13 
+
+•  GIAC – Global Information Assurance Certiﬁcation Program 
+
+This cert program seeks to identify individuals who can demonstrate knowledge of and 
+the  ability  to  manage  and  protect  important  information  systems  and  networks.  The 
+SANS organization is well known for its timely, focused, and useful security information 
+and certiﬁcation program. A shining star on this landscape, the GIAC program aims at 
+serious,  full-time  security  professionals  responsible  for  designing,  implementing  and 
+maintaining a state-of-the-art security infrastructure that may include incident handling 
+and emergency response team management. Available intermediate certiﬁcations include 
+the following: 
+
+o  GIAC Auditing Wireless Networking (GAWN)  
+o  GIAC Certiﬁed Firewall Analyst (GCFW)  
+o  GIAC Certiﬁed Intrusion Analyst (GCIA)  
+o  GIAC Certiﬁed ISO-17799 Specialist (G7799)  
+o  GIAC Certiﬁed Incident Handler (GCIH)  
+o  GIAC Certiﬁed Windows Security Administrator (GCWN)  
+o  GIAC Certiﬁed UNIX Security Administrator (GCUX)  
+o  GIAC Security Leadership (GSLC)  
+o  GIAC IT Security Audit Essentials (GSAE)  
+o  GIAC Systems and Network Auditor (GSNA)  
+o  GIAC Certiﬁed Security Consultant (GCSC)  
+Source: Global Information Assurance Certiﬁcation  
+•  NSCP – Network Security Certiﬁed Professional 
+
+The  NSCP  demonstrates  the  ability  to  design  and  implement  organizational  security 
+strategies,  and  secure  the  network  perimeter  and  component  systems.  It  is  an 
+intermediate-level IT security certiﬁcation aimed at network or systems administrators 
+with heavy security responsibilities or those who work full-time on IT security matters.  
+Source: Learning Tree International  
+
+•  SCNA – Security Certiﬁed Network Architect 
+
+This is a mid- to senior-level security certiﬁcation that focuses on concepts, planning and 
+implementation  of  Private  Key  Infrastructure  and  biometric  authentication  and 
+identiﬁcation systems. Individuals who attain this certiﬁcation will be able to implement 
+either  or  both  of  these  technologies  within  organizations  or  as  consultants  to  such 
+organizations.  
+Source: Security Certiﬁed Program  
+
+Page 4 of 13 
+
+GENERAL SECURITY - Advanced 
+
+ 
+
+•  AIS – Advanced Information Security Certiﬁcation 
+
+Security  University’s  AIS  program  combines  coverage  of  key  information  security 
+topics, tools and technologies with a hands-on, lab-oriented learning and testing program. 
+To obtain AIS certiﬁcation, security professionals must complete eight courses, including 
+six tools-oriented classes on topics such as: 
+
+o  Network penetration testing  
+o  Firewalls and VPNs  
+o  Virus analysis, patch management and incident response  
+o  PKI  
+o 
+o  Anti-hacking  
+
+Intrusion detection and computer forensics  
+
+Two management classes on network security policy and architecture security are also 
+required. Students must take and pass a demanding exam.  
+Source: Security University  
+
+•  CCISM – Certiﬁed Counterespionage and Information Security Manager 
+
+The  purpose  of  CCISM  is  to  prepare  individuals  to  study  potential  sources  of  threat, 
+defeat attacks and manage information security at an organizational level. CCISM is a 
+management-level certiﬁcation, where CCISMs generally manage, work with or consult 
+IT organizations, technical specialists and other IT security professionals.  
+Source: Espionage Research Institute  
+
+•  CERI-ACSS – Advanced Computer System Security 
+
+The  CERI-ACSS  seeks  to  identify  law  enforcement  ofﬁcials  with  advanced  computer 
+crime investigation experience and training. Requirements include two years of computer 
+investigation/debugging,  three  years  of  Microsoft  platform  analysis,  one  year  of  non-
+Microsoft platform analysis, 40 hours of approved training, a written exam and successful 
+completion of hands-on exercises. 
+Source: Cyber Enforcement Resources Inc.  
+
+•  CISM – Certiﬁed Information Security Manager 
+
+The  CISM  demonstrates  knowledge  of  information  security  for  IT  professionals 
+responsible for handling security matters, issues and technologies. This cert is of primary 
+interest  to  IT  professionals  responsible  for  managing  IT  systems,  networks,  policies, 
+practices and procedures to make sure organizational security policies meet governmental 
+and regulatory requirements, conform to best security practices and principles, and meet 
+or exceed requirements stated in an organization’s security policy.  
+
+Page 5 of 13 
+
+Source: Information Systems Audit and Control Association  
+
+•  CISSP – Certiﬁed Information Systems Security Professional 
+
+The  CISSP  demonstrates  knowledge  of  network  and  system  security  principles, 
+safeguards and practices. It is of primary interest to full-time IT security professionals 
+who  work  in  internal  security  positions  or  who  consult  with  third  parties  on  security 
+matters.  CISSPs  are  capable  of  analyzing  security  requirements,  auditing  security 
+practices and procedures, designing and implementing security policies, and managing 
+and maintaining an ongoing and effective security infrastructure. CISSP candidates must 
+have four years of experience (or a college degree plus three years of experience). 
+Source: (ISC)2  
+
+•  CPTS – Certiﬁed Penetration Testing Specialist 
+
+An offering from Iowa-based training company, Mile 2, this credential stresses currency 
+on the latest exploits, vulnerabilities, and system penetration techniques. It also focuses 
+on  business  skills,  identiﬁcation  of  protection  opportunities,  testing  justiﬁcations,  and 
+optimization of security controls to meet business needs and control risks and exposures. 
+The  credential  is  structured  around  a  ﬁve-day,  $2,600  course  that’s  backed  up  by  a 
+Prometric exam.  
+Source: Mile2  
+
+•  CPP – Certiﬁed Protection Professional 
+
+The  CPP  demonstrates  a  thorough  understanding  of  physical,  human  and  information 
+security principles and practices. The most senior and prestigious IT security professional 
+certiﬁcation  covered  in  this  article,  the  CPP  requires  extensive  on-the-job  experience 
+(nine years or seven years with a college degree), as well as a profound knowledge of 
+technical and procedural security topics and technologies. Only those who have worked 
+with and around security for some time are able to qualify for this credential.  
+Source: American Society for Industrial Security (ASIS)  
+
+•  CWPSS – Certiﬁed Web Professional Security Specialist 
+
+Obtaining  this  credential  requires  passing  the  CIW  Security  Professional  exam  and 
+meeting additional work experience requirements. Please see the CIW-SP listing for more 
+information.  
+Source: International Webmasters’ Association (IWA)  
+
+•  GIAC – Global Information Assurance Certiﬁcation Program 
+
+This cert program seeks to identify individuals who can demonstrate knowledge of and 
+the  ability  to  manage  and  protect  important  information  systems  and  networks.  The 
+SANS organization is well known for its timely, focused, and useful security information 
+and certiﬁcation program. A shining star on this landscape, the GIAC program aims at 
+serious,  full-time  security  professionals  responsible  for  designing,  implementing  and 
+maintaining a state-of-the-art security infrastructure that may include incident handling 
+and emergency response team management. The GIAC Security Engineer (GSE) track is 
+
+Page 6 of 13 
+
+the senior-level certiﬁcation. All mid-level specializations, as well as additional exams 
+and work, are required.  
+Source: Global Information Assurance Certiﬁcation  
+ISSAP – Information Systems Security Architecture Professional 
+The ISSAP permits CISSPs to concentrate further in information security architecture 
+and stresses the following elements of the CBK: 
+
+o  Access control systems and methodologies  
+o  Telecommunications and network security  
+o  Cryptography  
+o  Requirements analysis and security standards, guidelines and criteria  
+o  Technology-related business continuity and disaster recovery planning (BCP and 
+
+DRP)  
+Source: (ISC)2  
+ISSEP – Information Systems Security Engineering Professional 
+The ISSEP permits CISSPs who work in areas related to national security to concentrate 
+further  in  security  engineering,  in  cooperation  with  the  NSA.  The  ISSEP  stresses  the 
+following elements of the CBK: 
+
+o  Systems security engineering  
+o  Certiﬁcation and accreditation  
+o  Technical management  
+
+• 
+
+• 
+
+• 
+
+Plus, it adds profound coverage of U.S. Government information assurance regulations.  
+Source: (ISC)2  
+ISSMP – Information Systems Security Management Professional 
+The  ISSMP  permits  CISSPs  to  concentrate  further  in  security  management  areas  and 
+stresses the following elements of the CBK: 
+
+o  Enterprise security management practices  
+o  Enterprise-wide system development security  
+o  Overseeing compliance of operations security  
+o  Understanding BCP, DRP and continuity of operations planning (COOP)  
+o  Law, investigations, forensics and ethics  
+
+Source: (ISC)2  
+
+•  PSP – Physical Security Professional 
+
+Another  high-level  security  certiﬁcation  from  ASIS,  this  program  focuses  on  matters 
+relevant to maintaining security and integrity of the premises, and access controls over 
+the devices and components of an IT infrastructure. Key topics covered include physical 
+
+Page 7 of 13 
+
+security assessment, and selection and implementation of appropriate integrated physical 
+security measures. Requirements include ﬁve years of experience in physical security, a 
+high school diploma (or GED) and a clean criminal record.  
+Source: ASIS International: Physical Security Professional  
+
+ 
+
+FORENSIC/ANTI-HACKING - Basic 
+
+•  CCCI – Certiﬁed Computer Crime Investigator (Basic)  
+
+The CCCI is one of two computer forensic certiﬁcations aimed at law enforcement and 
+private IT professionals seeking to specialize in the investigative side of the ﬁeld. Basic 
+requirements  include  two  years  of  experience  (or  a  college  degree,  plus  one  year  of 
+experience), 18 months of investigative experience, 40 hours of computer crimes training 
+and documented experience from at least 10 investigated cases. Advanced requirements 
+bump experience to three years (or a college degree, plus two years of experience), four 
+years of investigations, 80 hours of training and involvement as a lead investigator in 20 
+cases, with involvement in over 60 cases overall.  
+Source: High Tech Crime Network certiﬁcations  
+
+•  CCFT – Certiﬁed Computer Forensic Technician (Basic)  
+
+The CCFT is one of two computer forensic certiﬁcations aimed at law enforcement and 
+private IT professionals seeking to specialize in the investigative side of the ﬁeld. Basic 
+requirements  include  three  years  of  experience  (or  a  college  degree,  plus  one  year  of 
+experience), 18 months of forensics experience, 40 hours of computer forensics training 
+and documented experience from at least 10 investigated cases. Advanced requirements 
+include three years of experience (or a college degree, plus two years of experience), four 
+years of investigations, 80 hours of training and involvement as a lead investigator in 20 
+cases with involvement in over 60 cases overall.  
+Source: High Tech Crime Network certiﬁcations  
+
+•  CEECS – Certiﬁed Electronic Evidence Collection Specialist Certiﬁcation 
+
+The  CEECS  identiﬁes  individuals  who  successfully  complete  the  CEECS  certiﬁcation 
+course. No prerequisites are required to attend the course, which covers the basics of 
+evidence collection in addition to highly technical terminology, theories and techniques. 
+Source: International Association of Computer Investigative Specialists  
+
+•  CERI-CFE – Computer Forensic Examination 
+
+The CERI-CFE seeks to identify law enforcement ofﬁcials with basic computer crime 
+investigation  experience  and  training.  Requirements  include  two  years  of  computer 
+investigation/debugging,  one  year  of  Microsoft  platform  analysis,  six  months  of  non-
+Microsoft platform analysis, 40 hours of approved training, a written exam and successful 
+completion of hands-on exercises.  
+Source: Cyber Enforcement Resources Inc.  
+
+Page 8 of 13 
+
+ 
+
+FORENSIC/ANTI-HACKING - Intermediate 
+•  CCE – Certiﬁed Computer Examiner 
+
+The CCE, offered by the Southeast Cybercrime Institute at Kennesaw State University in 
+partnership with Key Computer Service, seeks to identify individuals with no criminal 
+record  who  have  appropriate  computer  forensics  training  or  experience,  including 
+evidence  gathering,  handling  and  storage.  In  addition,  candidates  must  pass  an  online 
+examination and successfully perform a hands-on examination on three test media.  
+Source: Key Computer Service  
+
+•  CEH – Certiﬁed Ethical Hacker 
+
+The CEH identiﬁes security professionals capable of ﬁnding and detecting weaknesses 
+and  vulnerabilities  in  computer  systems  and  networks  by  using  the  same  tools  and 
+applying the same knowledge as a malicious hacker. Candidates must pass a single exam 
+and prove knowledge of tools used both by hackers and security professionals.  
+Source: EC-Council  
+
+•  CFCE – Computer Forensic Computer Examiner 
+
+The International Association of Computer Investigative Specialists (IACIS) offers this 
+credential to law enforcement and private industry personnel alike. Candidates must have 
+broad  knowledge,  training  or  experience  in  computer  forensics,  including  forensic 
+procedures  and  standards,  as  well  as  ethical,  legal  and  privacy  issues.  Certiﬁcation 
+includes both hands-on performance-based testing as well as a written exam.  
+Source: International Association of Computer Investigative Specialists  
+
+•  CHFI – Computer Hacking Forensic Investigator 
+
+The CHFI is geared toward personnel in law enforcement, defense, military, information 
+technology, law, banking and insurance, among others. To obtain CHFI certiﬁcation, a 
+candidate needs to successfully complete one exam.  
+Source: EC-Council  
+
+•  CIFI – Certiﬁed Information Forensics Investigator 
+
+Obtaining  the  credential  of  Certiﬁed  Information  Forensics  Investigator  requires 
+adherence to a code of ethics, successful completion of a rigorous exam and fulﬁllment of 
+speciﬁc  experience  requirements.  Aimed  at  full-time  professional  practitioners,  this 
+certiﬁcation is vendor-neutral and devoid of sponsored training requirements or the use or 
+purchase of speciﬁc products.  
+Source: International Information Systems Forensics Association  
+
+•  CPTP – Certiﬁed Penetration Testing Professional 
+
+An offering from Iowa-based training company, Mile2, this credential seeks to identify 
+individuals  who’ve  developed  the  skills  necessary  to  conduct  thorough,  painstaking 
+
+Page 9 of 13 
+
+penetration tests for their employers, or for customers who hire them to conduct such 
+testing independently. The credential is structured around a ﬁve-day, $2,600 course, and 
+followed up with a Prometric exam.  
+Source: Mile2  
+
+•  CSFA – CyberSecurity Forensic Analyst 
+
+The  CSFA  aims  to  identify  individuals  who  are  interested  in  information  technology 
+security  issues,  especially  at  the  hardware  level.  Prerequisites  include  at  least  one 
+certiﬁcation  in  computer  and  software  support,  networking  or  security  (such  as 
+CompTIA’s A+, Microsoft’s MCSA or MCSE, or Cisco’s CCNA), successful completion 
+of  an  introductory  and  an  advanced  computer  forensics  course  offered  through  the 
+CyberSecurity Institute and no criminal record.  
+Source: CyberSecurity Institute  
+
+•  FCSS – Field Certiﬁed Security Specialist 
+
+This  certiﬁcation  permits  individuals  to  specialize  in  Cisco,  Check  Point  or  cross-
+platform topics (which is why we list it in both the vendor-speciﬁc – although the parent 
+organization points out that these certs are "vendor-independent" – and vendor-neutral 
+surveys).  Candidates  must  pass  a  hands-on,  performance-based  test  to  obtain  FCSS 
+certiﬁcation.  
+Source: Field Certiﬁed Professional Association  
+
+•  GIAC – Global Information Assurance Certiﬁcation Program 
+
+This cert program seeks to identify individuals who can demonstrate knowledge of and 
+the  ability  to  manage  and  protect  important  information  systems  and  networks.  The 
+SANS organization is well known for its timely, focused, and useful security information 
+and certiﬁcation program. A shining star on this landscape, the GIAC program aims at 
+serious,  full-time  security  professionals  responsible  for  designing,  implementing  and 
+maintaining a state-of-the-art security infrastructure that may include incident handling 
+and  emergency  response  team  management.  The  program  includes  one  mid-level 
+forensics certiﬁcation – GIAC Certiﬁed Forensic Analyst (GCFA).  
+Source: Global Information Assurance Certiﬁcation  
+
+•  C3C – Certiﬁed Cyber-Crime Expert 
+
+The C3C identiﬁes computer forensics investigators, information technology and security 
+personnel, law enforcement ofﬁcials, lawyers and others, who must have the knowledge 
+and tools to effectively collect, handle, process and preserve computer forensic evidence. 
+The  certiﬁcation  requires  successful  completion  of  the  Computer  Forensic  and  Cyber 
+Investigation course, and a practical and written exam.  
+Source: E-business Process Solutions  
+
+•  CCCI – Certiﬁed Computer Crime Investigator (Advanced)  
+
+The CCCI is one of two computer forensic certiﬁcations aimed at law enforcement and 
+private IT professionals seeking to specialize in the investigative side of the ﬁeld. Basic 
+requirements  include  two  years  of  experience  (or  a  college  degree,  plus  one  year  of 
+
+Page 10 of 13 
+
+experience), 18 months of investigative experience, 40 hours of computer crimes training 
+and documented experience from at least 10 investigated cases. Advanced requirements 
+bump experience to three years (or a college degree, plus two years of experience), four 
+years of investigations, 80 hours of training and involvement as a lead investigator in 20 
+cases, with involvement in over 60 cases overall.  
+Source: High Tech Crime Network certiﬁcations  
+
+•  CCFT – Certiﬁed Computer Forensic Technician (Advanced)  
+
+The CCFT is one of two computer forensic certiﬁcations aimed at law enforcement and 
+private IT professionals seeking to specialize in the investigative side of the ﬁeld. Basic 
+requirements  include  three  years  of  experience  (or  a  college  degree,  plus  one  year  of 
+experience), 18 months of forensics experience, 40 hours of computer forensics training 
+and documented experience from at least 10 investigated cases. Advanced requirements 
+include three years of experience (or a college degree, plus two years of experience), four 
+years of investigations, 80 hours of training and involvement as a lead investigator in 20 
+cases with involvement in over 60 cases overall.  
+Source: High Tech Crime Network certiﬁcations  
+
+•  CERI-ACFE – Advanced Computer Forensic Examination 
+
+The  CERI-ACFE  seeks  to  identify  law  enforcement  ofﬁcials  with  advanced  computer 
+crime investigation experience and training. Requirements include two years of computer 
+investigation/debugging,  four  years  of  Microsoft  platform  analysis,  two  years  of  non-
+Microsoft platform analysis, 80 hours of approved training, a written exam and successful 
+completion of hands-on exercises.  
+Source: Cyber Enforcement Resources Inc.  
+
+•  CERI-ACSS – Advanced Computer System Security 
+
+The  CERI-ACSS  seeks  to  identify  law  enforcement  ofﬁcials  with  advanced  computer 
+crime investigation experience and training. Requirements include two years of computer 
+investigation/debugging,  three  years  of  Microsoft  platform  analysis,  one  year  of  non-
+Microsoft platform analysis, 40 hours of approved training, a written exam and successful 
+completion of hands-on exercises.  
+Source: Cyber Enforcement Resources Inc.  
+
+•  CPTS – Certiﬁed Penetration Testing Specialist 
+
+An offering from Iowa-based training company, Mile 2, this credential stresses currency 
+on the latest exploits, vulnerabilities, and system penetration techniques. It also focuses 
+on  business  skills,  identiﬁcation  of  protection  opportunities,  testing  justiﬁcations,  and 
+optimization of security controls to meet business needs and control risks and exposures. 
+The  credential  is  structured  around  a  ﬁve-day,  $2,600  course  that’s  backed  up  by  a 
+Prometric exam.  
+Source: Mile2  
+
+Page 11 of 13 
+
+•  PCI – Professional Certiﬁed Investigator 
+
+This is a high-level certiﬁcation from the American Society for Industrial Security (ASIS 
+is also home to the CPP and PSP certiﬁcations) for those who specialize in investigating 
+potential cybercrimes. Thus, in addition to technical skills, this certiﬁcation concentrates 
+on testing individuals’ knowledge of legal and evidentiary matters required to present 
+investigations in a court of law, including case management, evidence collection and case 
+presentation. This cert requires ﬁve years of investigation experience, with at least two 
+years in case management (a bachelor’s degree or higher counts for up to two years of 
+such experience) and a clean legal record for candidates.  
+Source: ASIS International  
+
+ 
+
+FORENSIC/ANTI-HACKING - Advanced 
+
+•  Brainbench HIPAA (Security)  
+
+The Brainbench HIPAA (Security) cert deals with topics and requirements that drive the 
+Health  Insurance  Portability  and  Accountability  Act  (HIPAA)  of  1996,  to  help  IT 
+professionals  understand  and  implement  related  information  handling  and  processing 
+requirements.  
+Source: Brainbench  
+
+•  CCSA – Certiﬁcation in Control Self-Assessment 
+
+The  CCSA  demonstrates  knowledge  of  internal  control  self-assessment  procedures, 
+primarily aimed at ﬁnancial and records controls. This cert is of primary interest to those 
+professionals  who  must  evaluate  IT  infrastructures  for  possible  threats  to  ﬁnancial 
+integrity, legal requirements for conﬁdentiality and regulatory requirements for privacy.  
+Source: Institute of Internal Auditors  
+
+•  CFE – Certiﬁed Fraud Examiner 
+
+The CFE demonstrates ability to detect ﬁnancial fraud and other white-collar crimes. This 
+cert is of primary interest to full-time security professionals in law, law enforcement or 
+those who work in organization with legal mandates to audit for possible fraudulent or 
+illegal  transactions  and  activities  (such  as  banking,  securities  trading  or  classiﬁed 
+operations).  
+Source: Association of Certiﬁed Fraud Examiners  
+
+•  CIA – Certiﬁed Internal Auditor 
+
+The CIA cert demonstrates knowledge of professional ﬁnancial auditing practices. The 
+cert is of primary interest to ﬁnancial professionals responsible for auditing IT practices 
+and procedures, as well as standard accounting practices and procedures to insure the 
+integrity and correctness of ﬁnancial records, transaction logs and other records relevant 
+to commercial activities.  
+Source: Institute of Internal Auditors  
+
+Page 12 of 13 
+
+•  CISA – Certiﬁed Information Systems Auditor 
+
+The CISA demonstrates knowledge of IS auditing for control and security purposes. This 
+cert is of primary interest to IT security professionals responsible for auditing IT systems, 
+practices and procedures to make sure organizational security policies meet governmental 
+and regulatory requirements, conform to best security practices and principles, and meet 
+or exceed requirements stated in an organization’s security policy.  
+Source: Information Systems Audit and Control Association  
+
+•  GIAC – Global Information Assurance Certiﬁcation Program 
+
+This cert program seeks to identify individuals who can demonstrate knowledge of and 
+the  ability  to  manage  and  protect  important  information  systems  and  networks.  The 
+SANS organization is well known for its timely, focused, and useful security information 
+and certiﬁcation program. A shining star on this landscape, the GIAC program aims at 
+serious,  full-time  security  professionals  responsible  for  designing,  implementing  and 
+maintaining a state-of-the-art security infrastructure that may include incident handling 
+and  emergency  response  team  management.  Available  certiﬁcates,  which  indicate 
+successful  completion  of  a  relatively  short  but  highly  focused  course,  include  the 
+following: 
+
+o  GIAC HIPAA Security Certiﬁcate (GHSC)  
+o  GIAC Solaris Gold Standard Certiﬁcate (GGSC-0200)  
+o  GIAC E-Warefare Certiﬁcate (GEWF)  
+o  GIAC Ethics in IT (GEIT)  
+o  GIAC Cutting Edge Hacking Techniques Certiﬁcate (GHTQ)  
+o  GIAC Reverse Engineering Malware (GREM)  
+o  GIAC Security Awareness (GSAW)  
+o  GIAC Cyber Warrior Certiﬁcate (GCWY)  
+o  GIAC Business Law and Computer Security (GBLC)  
+o  GIAC Legal Issues in Information Technologies (GLIT)  
+o  GIAC Contracting for Data Security (GCDS)  
+o  GIAC Law of Fraud (GLFR)  
+o  GIAC Windows 2000 Gold Standard Certiﬁcate (GGSC-0100)  
+o  GIAC Auditing Cisco Routers Gold Standard Certiﬁcate (GGCS-0400)  
+
+Source: Global Information Assurance Certiﬁcation  
+
+ 
+
+Page 13 of 13 
+
+

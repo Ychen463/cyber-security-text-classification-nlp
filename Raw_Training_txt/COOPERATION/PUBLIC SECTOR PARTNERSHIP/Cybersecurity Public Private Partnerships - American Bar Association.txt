@@ -1,0 +1,154 @@
+Cybersecurity Public Private Partnerships: Challenges and Opportunities  
+
+By Justin S. Daniels and Joe D. Whitley 
+
+Originally published in Law Journal Newsletters' Cybersecurity Law & Strategy, February 2017 
+
+The  allegations  that  Russia  hacked  the  Democratic  National  Committee  (DNC)  is  the  latest 
+evidence  that  cybersecurity  has  and  will  continue  to  have  an  overarching  impact  on  our  daily 
+lives.  Further  complicating the cyber threat is  that it is  evolving so quickly that  it outstrips the 
+ability  of  our  private  or  government  sectors  to  adequately  address  the  threat  and  its 
+consequences. The severity of the cyber threat has resulted in the private sector and the United 
+States government partnering to identify and respond to threats that can impact entire industries, 
+especially  financial  services  and the  electrical  grid,  two  essential  parts of  our  country’s  critical 
+infrastructure. This article examines: 1) the challenges that inhibit partnering between the private 
+and  public  sectors;  2)  how  such  partnership  is  addressed  in  the  Cybersecurity  Information 
+Sharing Act (CISA) of 2015; and 3) what this all means going forward.  
+
+Cybersecurity  impacts  individual  privacy,  commerce  among  businesses,  and  our  national 
+security. Critical infrastructure such as  financial services are owned, operated and protected by 
+the  private  sector,  which  is  mainly  concerned  with  competing  in  their  industry  and  making  a 
+profit.  See,  Eric  A.  Kaijankoski,  Cybersecurity  Information  Sharing  Between  Public-Private 
+Sector  Agencies,  Naval  Post  Graduate  School  Theses  and  Dissertation,  March,  2015,  page  35. 
+Moreover,  the  financial  services  industry  facilitates  commerce  globally.  Meanwhile,  the 
+government  is  concerned  that  a  hack  could  render  our  entire  financial  services  industry 
+inoperable for just a few days and place our national security in extreme peril.  
+
+The acceleration of global connectivity is unparalleled in human history. At the same time, it has 
+created  unprecedented  benefits  and  multifaceted  opportunities  for  those  who  wish  to  do 
+unimaginable  and  irreparable  harm.  Close  cooperation  between  the  public  and  private  sector  is 
+crucial,  given  the  enormous  risks  associated  with  the  continued  acceleration  of  global 
+connectedness. Upon closer inspection, however, significant cultural and legal barriers exist that 
+can hinder further cooperation necessary to effectively combat the cyber threat.  
+
+Cooperation Challenges  
+
+In  today’s  world,  significant  cooperation  challenges  continue  to  exist  between  the  private  and 
+public  sector.  The  biggest  challenge  that  undercuts  cooperation  is  a  lack  of  trust  between  the 
+public  and  private  sector.  Can  business  leaders  trust  that  the  government  won’t  interfere  with 
+operations?  Does  government  involvement  mean  providing  unfettered  access  to  systems  and 
+ceding  control  of  such  systems  along  with  confidential  information  and  incident  response 
+strategies?  See,  Judith  H.  Germano,  Cybersecurity  Partnerships:  A  New  Era  of  Public-Private 
+Collaboration, The Center on Law and Security NYU School of Law, October 2014, page 3.  
+
+The Snowden episode has made businesses wary of being seen in the marketplace as too closely 
+cooperating with government. The private sector is also concerned that disclosing vulnerabilities 
+or  threats  could  result  in  an  unwelcome  visit  from  the  Federal  Trade  Commission  (FTC), 
+Securities and Exchange Commission (SEC), Department of Health and Human Services (HHS) 
+or  other  industry  government  regulators  voicing  concerns  about  cyber  compliance.  A  company 
+
+may  fear  that  such  collaboration  with  a  government  entity  might  intentionally  or  unwittingly 
+result  in  a  release  of  proprietary  information  that  makes  industry  competitors  aware  of  a 
+vulnerability that they might exploit for economic benefit.  
+
+Additionally  the  unsettled,  conflicting  and  evolving  cybersecurity  U.S. regulatory  regime  gives 
+the private sector pause when considering closer collaboration with the government. Liability for  
+
+breaches  under  the  current  regulatory  framework  can  include  actions  by  diverse  governmental 
+agencies  that  can  include  the  FTC,  SEC,  Department  of  Justice  (DOJ)  and  state  attorneys 
+general.  In  addition  to  government  enforcement  actions,  data  breaches  may  also  result  in  class 
+action  lawsuits.  All  these  challenges  occur  in  an  environment  where  there  is  no  federal  data 
+breach  notification  law.  Therefore,  companies  are  left  to  navigate  the  conflicting  data  breach 
+notification laws currently enacted by 47 states.  
+
+Criminals  and  nation  states  who  conduct  cyberattacks  are  a  separate  category  of  challenges 
+impacting  the  development  of  a  private  and  public  partnership.  According  to  Assistant  U.S. 
+Attorney (AUSA) Steven D. Grimberg, Deputy Chief, Financial Fraud & Cyber Division of the 
+U.S. Attorney’s Office, Northern District of Georgia: “It is difficult to overstate the importance 
+of reporting breach activity to the government, especially if it’s coming from actors outside the 
+United States. A Chief Information Security Officer (CISO) may think no information has been 
+taken, but it does not address that the network that was breached might be used to gain access to 
+another network, or used as a test run to see if a method of attack is successful.”  
+
+In  response  to  CISO’s  who  believe  that  sharing  information  with  government  prosecutors  may 
+trigger a visit from a regulator; AUSA Grimberg emphasized that: “Prosecutors are not generally 
+in  the  business  of  sharing  information  with  regulators.  The  prosecutor’s  goal  is  to  find  the 
+perpetrator or perpetrators who may be hurting multiple companies and possible national security 
+implications.”  These  comments  underline  the  delicate  balance  between  a  company  concerned 
+that sharing information may trigger a regulatory investigation with the prompt investigation of 
+perpetrators  whose  attack  may  have  industry  wide  or  national  security  implications.  AUSA 
+Grimberg’s  comments  also  draw  a  sharp  distinction  between  the  government’s  role  in 
+apprehending  cyber  criminals  and  regulating  the  private  sector.  From  a  private  sector 
+perspective,  industry  is gratified  when  cyber criminals  are  brought  to  justice  while at  the  same 
+time  chafing  over  the  cost  of  complying  with  what  the  company  or  private  sector  believes  are 
+overly burdensome government regulations.  
+
+Trust,  complicated  and  overlapping  Federal  and  state  cybersecurity  regulatory  regimes,  and 
+balancing the prosecutor and regulator roles are a significant but not exhaustive list of challenges 
+that face the growth of public private partnership. How are these challenges addressed by CISA? 
+
+CISA 
+
+CISA was signed into law on Dec. 18, 2015  and has two main components. First, it authorizes 
+companies  to  monitor  and  implement  defensive  measures  on  their  own  information  systems  to 
+counter  cyber  threats.  Second,  the  law  provides  certain  protections  to  encourage  companies  to 
+voluntarily  share  information  —  specifically,  information  about  “cyber  threat  indicators”  and 
+“defensive measures” — with the federal, state and local governments, and other companies and 
+
+private entities. See, Brad S. Karp, Federal Guidance on the Cybersecurity Information Sharing 
+Act  of  2015,  Harvard  Law  School  Forum  on  Corporate  Governance  and  Financial  Regulation, 
+March 3, 2016, page 1. 
+
+CISA  specifically  addresses  private  sector  concerns  about  legal  liability  by  shielding  private 
+entities from any cause of action brought in a federal or state court for monitoring an information 
+system and for sharing cyber threat indicators or defensive measures in accordance with CISA. 
+Information shared under CISA will not be used for federal and state regulatory purposes. CISA 
+also grants information shared with the government an exemption from Freedom of Information 
+Act (FOIA) requests under federal or state law. CISA’s utility however, is weakened by the fact 
+that it applies only if a company voluntarily shares information with the government and there is 
+no statutory or regulatory requirement that a company share such information. A public company 
+will  also  have  to  weigh  if  sharing  information  with  the  government  under  CISA  satisfies  a 
+materiality threshold triggering disclosure in a public filing. Ibid, page 6. 
+
+Moving Forward 
+
+While CISA attempts to address barriers that inhibit closer public private partnership, it does not 
+replace building the trust that is essential to closer collaboration. The financial services industry 
+is  undertaking  efforts  that  are  worthy  of  emulation  by  other  industries.  The  Financial  Services 
+Information  Sharing  Analysis  Center  (FS-ISAC)  is  one  of  several  sharing  centers  that  are 
+conduits  for  information  sharing  among  the  public  and  private  sector.  See,  Kaijankoski,  supra, 
+page 49. 
+
+In  addition  to  information  sharing,  the  FS-ISAC  conducts  an  annual  Cyber  Attack  Against 
+Payment  Processes  Simulation.  FS-ISAC  tests  the  nearly  1,000  and  growing  participating 
+financial institutions that use payment services in responding to simulated cyber attacks. Ibid. 
+
+The value of cyber attack simulations and evaluating the incident response to the attack cannot 
+be overemphasized. When asked what the most important thing companies can do differently in 
+dealing  with  a  cyber  threat,  AUSA  Grimberg  responded:  “Many  companies  that  have  a  cyber 
+incident response plan fail to practice the plan and see how it works in a cyber attack simulation. 
+Companies  should  have  a  tabletop  exercise  in  responding  to  a  hack  to  see  how  their  cyber 
+incident  response  plan  works,  and  if  it  needs  to  be  refined  based  on  that  simulated  situation.” 
+Cyber  threat  simulations  are  a  key  ingredient  in  a  21st  century  trust  recipe  that  is  necessary  to 
+cultivate improved public private collaboration. 
+
+The high stakes, sophistication and acceleration of technology vulnerable to cyber attacks means 
+that  existing  collaboration  is  necessary,  but  not  sufficient,  in  responding  to  the  cyber  threat.  In 
+the coming years, the private and public sector will need to find proactive, sensible and flexible 
+ways  to  share  information.  The  recent  DNC  breach  represents  another  example  that  the 
+consequences for continuing with the status quo presents more opportunities for those who hack 
+for  profit,  or  commercial  or  geopolitical  gain.  The  economic  repercussions  from  the  next  hack 
+could very well make the 2008 recession seem mild by comparison. 
+
+***** 
+
+Justin  S.  Daniels,  a  shareholder  in  Baker  Donelson’s  Atlanta  office,  serves  as  the  head  of  the 
+Baker Donelson Cybersecurity Accelerator and Baker Donelson’s Atlanta Emerging Companies 
+Group.  He  may  be  reached  at  jdaniels@bakerdonelson.com.  Joe  D.  Whitley,  a  shareholder  in 
+Baker  Donelson’s  Atlanta  and  Washington,  DC,  offices,  chairs  the  firm’s  Government 
+Enforcement  and  Investigations  Group  and  served  as  the  first  General  Counsel  of  the  United 
+States Department of Homeland Security. He may be reached at jwhitley@bakerdonelson.com. 
+
+ 
+
+

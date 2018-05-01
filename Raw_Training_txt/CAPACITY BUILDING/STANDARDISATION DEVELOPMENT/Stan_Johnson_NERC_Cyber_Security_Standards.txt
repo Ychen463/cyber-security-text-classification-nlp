@@ -1,0 +1,822 @@
+NERC Cyber Security Standards 
+NERC Cyber Security Standards 
+
+SANS
+January, 2008
+
+Stan Johnson
+Manager of Situation Awareness 
+
+and Infrastructure Security
+
+Stan.johnson@NERC.net
+609-452-8060
+
+Agenda
+Agenda
+
+(cid:131) History and Status of NERC Cyber Security Standards
+(cid:131) Applicable Entities
+(cid:131) Definitions
+(cid:131) High Level Overview of Standards Requirements
+(cid:131) Implementation Plans
+(cid:131) Implementation Schedule
+
+NERC Cyber Security Standards 
+
+Overview
+
+2
+
+Brief History of NERC Cyber Security Standards
+Brief History of NERC Cyber Security Standards
+
+(cid:131) NERC Critical Infrastructure Protection Advisory Group (CIPAG) 
+
+response to FERC request (5/9/02 to 7/31/02)
+•  “Appendix G” of the FERC SMD NOPR
+
+(cid:131) NERC Urgent Action (UA) 1200 Standard
+
+•  Temporary standard currently in place (approved 8/13/04)
+•  Focus on Control Center
+•  Authorized until August 2006
+
+(cid:131) NERC CIP Standards (formerly NERC 1300) 
+
+•  Recently Approved by Industry & NERC Board of Trustees
+•  Permanent replacement
+•  NERC 1200 & Substation & Power Plant
+
+NERC Cyber Security Standards 
+
+Overview
+
+3
+
+Drafting Process
+Drafting Process
+
+(cid:131) Standards Authorization Request:
+
+•  Started on August 21, 2003
+•  2 drafts with industry comments
+
+(cid:131) 95 pages of comments and responses 
+
+(cid:131) Standard:
+
+•  Started on June 8, 2004
+•  3 drafts with industry comments
+
+(cid:131) 2580 pages of comments and responses
+
+•  Ballot Version
+
+(cid:131) 104 pages of comments and responses
+
+NERC Cyber Security Standards 
+
+Overview
+
+4
+
+Current Status
+Current Status
+
+(cid:131) Approved by industry: 
+
+•  Second Ballot complete March 24, 2006
+•  88.82% Approval by industry
+
+(cid:131) Approved by NERC Board of Trustees on May 2, 2006
+
+•  “Effective Implementation” June 1, 2006
+
+(cid:131) Implementation Schedule starts
+
+(cid:131) Submitted to FERC on August 28, 2006
+
+•  Waiting for FERC action (Docket RM06-22)
+
+NERC Cyber Security Standards 
+
+Overview
+
+5
+
+Current Status
+Current Status
+
+(cid:131) Staff Assessment of CIP-002 through CIP-009
+
+•  Issued December 12, 2006
+•  Responses filed February 12, 2007
+
+(cid:131) FERC Final Rule
+
+•  NOPR issued on July 20, 2007
+•  Industry Comment filed by October 5, 2007
+•  Final Rule Issued sometime “early” 2008
+
+NERC Cyber Security Standards 
+
+Overview
+
+6
+
+Future Status
+Future Status
+
+(cid:131) Final Rule will (likely) contain directed changes to 
+
+standards
+•  Clarify Requirements / Remove ambiguity
+•  Include “implied” requirements
+•  Some controversial issues 
+
+(cid:131) Final Rule cannot change the standards language
+
+•  Changes must go through Standards Development 
+
+Process
+
+•  Changes will therefore have their own implementation 
+
+plan and schedule
+
+NERC Cyber Security Standards 
+
+Overview
+
+7
+
+Definitions
+Definitions
+
+NERC Cyber Security Standards 
+
+Overview
+
+8
+
+Definitions
+Definitions
+
+(cid:131) Critical Assets:
+
+•  Facilities, systems, and equipment which, if destroyed, 
+
+degraded, or otherwise rendered unavailable, would 
+affect the reliability or operability of the Bulk Electric 
+System. 
+
+NERC Cyber Security Standards 
+
+Overview
+
+9
+
+Definitions
+Definitions
+
+(cid:131) Cyber Assets:
+
+•  Programmable electronic devices and communication 
+
+networks including hardware, software, and data. 
+
+NERC Cyber Security Standards 
+
+Overview
+
+10
+
+Definitions
+Definitions
+
+(cid:131) Critical Cyber Assets:
+
+•  Cyber Assets essential to the reliable operation of 
+
+Critical Assets. 
+
+NERC Cyber Security Standards 
+
+Overview
+
+11
+
+Definitions
+Definitions
+
+(cid:131) Bulk Electric System:
+
+•  As defined by the Regional Reliability Organization, the 
+
+electrical generation resources, transmission lines, 
+interconnections with neighboring systems, and 
+associated equipment, generally operated at voltages 
+of 100 kV or higher. Radial transmission facilities 
+serving only load with one transmission source are 
+generally not included in this definition.
+
+NERC Cyber Security Standards 
+
+Overview
+
+12
+
+Definitions
+Definitions
+
+(cid:131) Adverse Reliability Impact:
+
+•  The impact of an event that results in frequency-related 
+instability; unplanned tripping of load or generation; or 
+uncontrolled separation or cascading outages that 
+affects a widespread area of the Interconnection.
+
+NERC Cyber Security Standards 
+
+Overview
+
+13
+
+Definitions
+Definitions
+
+(cid:131) Technical Feasibility:
+
+•  refers only to engineering possibility and is expected to be a 
+“can/cannot” determination in every circumstance. It is also 
+intended to be determined in light of the equipment and 
+facilities already owned by the Responsible Entity. The 
+Responsible Entity is not required to replace any equipment 
+in order to achieve compliance with the Cyber Security 
+Standards. When existing equipment is replaced, however, 
+the Responsible Entity is expected to use reasonable 
+business judgment to evaluate the need to upgrade the 
+equipment so that the new equipment can perform a 
+particular specified technical function in order to meet the 
+requirements of these standards.
+
+(from the FAQ)
+
+NERC Cyber Security Standards 
+
+Overview
+
+14
+
+Definitions
+Definitions
+
+(cid:131) Reasonable Business Judgment:
+
+•  The phrase is in NERC Standards CIP-002 through 
+
+CIP-009 to reflect — and to inform — any 
+regulatory body or ultimate judicial arbiter of 
+disputes regarding interpretation of these 
+Standards — that Responsible Entities have a 
+significant degree of flexibility in implementing 
+these Standards.
+
+•  This principle, however, does not protect an entity 
+
+from simply failing to make a decision.
+
+(from the FAQ)
+
+NERC Cyber Security Standards 
+
+Overview
+
+15
+
+Definitions
+Definitions
+
+(cid:131) Significant Adverse Impact:
+
+•  With due regard for the maximum operating capability of the affected 
+
+system, one or more of the following conditions arising from faults 
+or disturbances, shall be deemed as having significant adverse 
+impact:
+
+(cid:131) System instability;
+(cid:131) Unacceptable system dynamic response or equipment tripping’
+(cid:131) Voltage limits in violation of applicable emergency limits; 
+(cid:131) Loadings on transmission facilities in violation of applicable emergency 
+
+limits;
+
+(cid:131) Unacceptable loss of load.
+
+(IEEE C37.100-1981)
+
+NERC Cyber Security Standards 
+
+Overview
+
+16
+
+Applicable Entities
+Applicable Entities
+
+(cid:131) Reliability Coordinator
+(cid:131) Balancing Authority
+(cid:131) Interchange Authority
+(cid:131) Transmission Service 
+
+Provider
+
+(cid:131) Transmission Owner
+(cid:131) Transmission Operator
+
+(cid:131) Generator Owner
+(cid:131) Generator Operator
+(cid:131) Load Serving Entity
+(cid:131) NERC Office *
+(cid:131) Regional Reliability 
+
+Organization *
+
+*  Not part of NERC Functional 
+
+Model
+
+See http://www.nerc.com/~filez/functionalmodel.html
+
+NERC Cyber Security Standards 
+
+Overview
+
+17
+
+Not Applicable
+Not Applicable
+
+(cid:131) “Facilities regulated by the U.S. Nuclear Regulatory 
+
+Commission or the Canadian Nuclear Safety 
+Commission”
+
+(cid:131) Communications networks between discrete 
+
+Electronic Security Perimeters
+
+(cid:131) Entities with no “Critical Cyber Assets” determined 
+
+after complying with NERC Standard CIP-002
+•  Must only annually comply with Standard CIP-002
+
+NERC Cyber Security Standards 
+
+Overview
+
+18
+
+General Concept
+General Concept
+
+(cid:131) Applying IT “thought concepts” to control network environment
+
+•  Policy & Procedure
+•  Access control
+•  Security perimeters
+•  Auditing
+•  Change management
+
+(cid:131) Focus on Bulk Electric System “Critical Assets”
+(cid:131) Focus on “Critical Cyber Assets”
+(cid:131) Focus on “routable protocol” communications
+(cid:131) Process and documentation centric
+
+•  Including annual reviews
+
+NERC Cyber Security Standards 
+
+Overview
+
+19
+
+NERC CIP Standards
+NERC CIP Standards
+
+(cid:131) CIP-002 – Critical Cyber Assets
+(cid:131) CIP-003 – Security Management Controls
+(cid:131) CIP-004 – Personnel and Training
+(cid:131) CIP-005 – Electronic Security
+(cid:131) CIP-006 – Physical Security
+(cid:131) CIP-007 – Systems Security Management
+(cid:131) CIP-008 – Incident Reporting & Response Management
+(cid:131) CIP-009 – Recovery Plans
+
+(cid:131) Implementation Plan
+
+NERC Cyber Security Standards 
+
+Overview
+
+20
+
+CIPCIP--002 
+
+002 –– Critical Cyber Assets
+Critical Cyber Assets
+
+(cid:131) Derive list of Critical Assets
+
+•  Risk-based approach
+•  Electrically critical for reliable BES operations
+
+(cid:131) Derive list of Critical Cyber Assets
+
+•  “Essential to the reliable operations” of Critical Assets
+•  Considerations for communications characteristics
+
+(cid:131) Senior Management approval
+
+•  Annual review
+•  May determine null set of Critical Cyber Assets
+
+NERC Cyber Security Standards 
+
+Overview
+
+21
+
+RiskRisk--Based Methodology
+Based Methodology
+
+(cid:131)
+
+Risk to Bulk Electric System – therefore an Impact Analysis
+•  Must “consider”:
+
+(cid:131) Control centers and backup control centers performing the 
+
+functions of the entities listed in the Applicability section of this 
+standard.
+Transmission substations that support the reliable operation of the 
+Bulk Electric System.
+
+(cid:131)
+
+(cid:131) Generation resources that support the reliable operation of the 
+
+Bulk Electric System.
+
+(cid:131) Systems and facilities critical to system restoration, including
+blackstart generators and substations in the electrical path of 
+transmission lines used for initial system restoration.
+
+(cid:131) Systems and facilities critical to automatic load shedding under a 
+
+common control system capable of shedding 300 MW or more.
+
+(cid:131) Special Protection Systems that support the reliable operation of 
+
+the Bulk Electric System.
+
+(cid:131) Any additional assets that support the reliable operation of the
+
+Bulk Electric System that the Responsible Entity deems 
+appropriate to include in its assessment.
+NERC Cyber Security Standards 
+
+Overview
+
+22
+
+Critical Cyber Assets
+Critical Cyber Assets
+
+Bulk 
+Electric 
+System 
+Assets
+
+Critical 
+Assets
+
+Critical 
+Cyber
+Assets
+
+Electric 
+System
+
+NERC Cyber Security Standards 
+
+Overview
+
+23
+
+CIPCIP--003 
+
+003 –– Security Management Controls
+Security Management Controls
+
+(cid:131) Documented Cyber Security Policy
+
+•  “control system specific”
+
+(cid:131) Senior Management responsibility
+(cid:131) Exception process defined
+(cid:131) Information classification & protection program
+(cid:131) Access control program
+(cid:131) Change control & configuration management program
+
+NERC Cyber Security Standards 
+
+Overview
+
+24
+
+CIPCIP--004 
+
+004 –– Personnel and Training
+Personnel and Training
+
+(cid:131) Awareness
+
+•  Continual, informal, ongoing
+
+(cid:131) Training
+
+•  Annual, formal, attendance records
+
+(cid:131) Personal Risk Assessment
+
+•  a.k.a Background Checks
+•  Management observation 
+
+(cid:131) Access management
+
+•  Approvals, records retention, termination
+•  Escorted access
+
+NERC Cyber Security Standards 
+
+Overview
+
+25
+
+CIPCIP--005 
+
+005 –– Electronic Security
+Electronic Security
+
+(cid:131) Electronic Security Perimeter identification
+
+•  Contains “all” Critical Cyber Assets
+•  May have multiple Electronic Security Perimeters
+•  May contain non-critical cyber assets
+•  Access point identification & protection
+
+(cid:131) Electronic access controls
+•  Access point protection
+
+(cid:131) Electronic access monitoring
+
+•  Review access logs
+
+(cid:131) Cyber vulnerability assessment (of perimeter)
+
+NERC Cyber Security Standards 
+
+Overview
+
+26
+
+Electronic Security Perimeter
+Electronic Security Perimeter
+
+Network of 
+Critical Cyber 
+Assets
+
+Network of Critical Cyber 
+Assets may contain Non- 
+Critical Assets
+
+Network of Non- 
+Critical Cyber 
+Assets
+
+Serial RTU 
+Communication
+
+RTU
+
+Another Network 
+of Critical Cyber 
+Assets
+
+NERC Cyber Security Standards 
+
+Overview
+
+27
+
+CIPCIP--006 
+
+006 –– Physical Security
+Physical Security
+
+(cid:131) Physical Security Plan with identified Physical Security 
+
+Boundary
+•  Must contain all Critical Cyber Assets
+•  May have multiple Physical Security Perimeters
+
+(cid:131) Physical access controls
+•  e.g., electronic card key
+
+(cid:131) Physical access monitoring
+
+•  e.g., CCTV
+
+(cid:131) Physical access logging
+
+•  e.g., card access log
+
+(cid:131) Access log retention and review
+
+NERC Cyber Security Standards 
+
+Overview
+
+28
+
+CIPCIP--007 
+
+007 –– Systems Security Management
+Systems Security Management
+
+(cid:131) Test Procedures for new systems and significant changes
+(cid:131) Disable unused & unneeded ports and services
+(cid:131) Security patch management
+(cid:131) Malicious software prevention
+(cid:131) Account management
+(cid:131) Security event & status monitoring
+(cid:131) Disposal or redeployment of Cyber Assets
+(cid:131) Cyber vulnerability assessment (of Cyber Assets)
+
+NERC Cyber Security Standards 
+
+Overview
+
+29
+
+CIPCIP--008 
+
+008 –– Incident Reporting & 
+Incident Reporting & 
+
+Response Management
+Response Management
+
+(cid:131) Documented Cyber Security Incident Response Plan
+•  Refer to NERC / ES-ISAC “Indications Analysis & 
+
+Warning” (IAW) procedures
+
+•  Currently under review by CIPC
+•  Annual exercise of plan
+
+(cid:131) Incident documentation
+
+•  Keep documentation relating to incidents, including 
+logs, surveillance, investigations, recovery, reports, 
+etc.
+
+•  Special care if law enforcement and prosecution will be 
+
+involved
+
+NERC Cyber Security Standards 
+
+Overview
+
+30
+
+CIPCIP--009 
+
+009 –– Recovery Plans
+Recovery Plans
+
+(cid:131) Recovery plan documentation
+
+•  For varying duration and severity
+•  Defined roles and responsibilities
+
+(cid:131) Annual exercise of plans
+(cid:131) Update plans to reflect environment changes
+(cid:131) Backup, restore and secure storage of information
+(cid:131) Testing backup media
+
+NERC Cyber Security Standards 
+
+Overview
+
+31
+
+Implementation Plan
+Implementation Plan
+
+(cid:131) Phased Plan
+(cid:131) 4 (really 3½) “levels” of compliance:
+
+•  “BW” – Begin Work
+
+(cid:131) Entity has a plan to address requirements
+
+•  “SC” – Substantially Compliant
+
+(cid:131) Entity is implementing its plan
+
+•  “C” – Compliant 
+
+(cid:131) Entity has completed technical work, but does not 
+
+have a full year of required logs
+
+•  “AC” – Auditably Compliant
+
+(cid:131) Entity meets full requirements of standard – with all 
+
+logs and records
+
+NERC Cyber Security Standards 
+
+Overview
+
+32
+
+Implementation Plan
+Implementation Plan
+
+(cid:131)
+
+Four separate compliance schedule tables:
+1)  Balancing Authorities and Transmission Operators that 
+were required to self-certify compliance to UA1200, and 
+Reliability Coordinators
+
+2)  Transmission Operators and Balancing Authorities that 
+were not required to self-certify compliance to UA1200, 
+along with Transmission Providers, and the Offices of 
+NERC and the Regional Reliability Organizations
+
+NERC Cyber Security Standards 
+
+Overview
+
+33
+
+Implementation Plan
+Implementation Plan
+
+3)  All entities required to register to the Functional 
+Model during calendar year 2006 (pursuant to the 
+NERC / ERO filing activities).
+
+4)  All entities registering to a Functional Model function 
+
+in 2007 and thereafter.
+(cid:131) Entities that currently do not “exist”
+
+NERC Cyber Security Standards 
+
+Overview
+
+34
+
+Implementation Plan
+Implementation Plan
+
+(cid:131) Implementation Plan tables specified by CIP Standard and 
+
+individual requirement
+
+(cid:131) 4 years for all currently (2006) registered entities to reach 
+
+“Auditable Compliant” (2007 to 2010)
+•  Maximum of 3 years to complete work and achieve 
+
+“Compliant” (2009)
+
+•  Some requirements in Table 1 reach “Compliant” in 2008
+
+NERC Cyber Security Standards 
+
+Overview
+
+35
+
+
