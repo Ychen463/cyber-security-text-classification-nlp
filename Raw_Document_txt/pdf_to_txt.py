@@ -4,6 +4,8 @@ import os
 
 
 import io
+from os import listdir
+from os.path import isfile, join
 
 from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.converter import TextConverter
@@ -38,10 +40,8 @@ def convert_pdf_to_txt(path):
     return text
 
 
-from os import listdir
-from os.path import isfile, join
 
-directory = 'C:/Users/gisel/Desktop/UN Project/Official Data/AllPDF'
+directory = '#Your_PDF_dicrectory'
 
 for file_path in listdir(directory):
     country = str(file_path).split("_", 1)[0]
