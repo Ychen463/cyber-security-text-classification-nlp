@@ -55,9 +55,9 @@ def convert_pdf_to_txt(path):
 # In[3]:
 
 
-directory = r"C:\Users\gisel\Desktop\UN Project\Training data\PDF"
+directory = r"#your_PDF_directories"
 categoryList = os.listdir(directory)
-outputTXTdirectory = r"C:\Users\gisel\Desktop\UN Project\Training data\TXT"
+outputTXTdirectory = r"#your_txt_directories"
 
 
 # In[4]:
