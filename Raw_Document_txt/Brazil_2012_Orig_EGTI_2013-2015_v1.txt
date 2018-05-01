@@ -1,0 +1,5193 @@
+2013 / 2015
+
+Versão 1.0
+
+PRESIDENTA DA REPÚBLICA
+Dilma Vana Rousseff Linhares
+
+MINISTRA DO MINISTÉRIO DO 
+PLANEJAMENTO, ORÇAMENTO  
+E GESTÃO
+Ministra Miriam Belchior
+
+SECRETÁRIO DE LOGÍSTICA E 
+TECNOLOGIA DA INFORMAÇÃO
+Delfino Natal de Souza 
+
+DEPARTAMENTO DE GOVERNO 
+ELETRÔNICO
+João Batista Ferri de Oliveira 
+
+DEPARTAMENTO DE SISTEMAS  
+DE INFORMAÇÃO 
+Corinto Meffe
+
+DEPARTAMENTO DE SERVIÇOS DE REDE
+Jacob Batista de Castro Junior
+
+EQUIPE TÉCNICA DE ELABORAÇÃO  
+DA EGTI:
+Adriano César de Oliveira – MP 
+Ana Carolina R. Degaspari P.  
+de Castro – MP 
+Cláudia Roos Diehl – MP 
+Everson Lopes de Aguiar – MP 
+Fábio Gomes Barros – MP 
+João Alberto Muniz Gaspar – MP 
+Katia Macarini  – MP 
+Leandro Bahia – MP 
+Tiago Chaves Oliveira – MP  
+Roberto Shayer Lyra – MP  
+Ulisses Campoi Martins Rosa – MP 
+Vinicius Eloy dos Reis – MP
+
+EQUIPE DE APOIO 
+Participantes das Oficinas e Reuniões 
+Complementares
+Alexandre Palhares Ribeiro – MPA 
+Alionésimo Lobo Souza Júnior – MI 
+Américo Borghi – MP  
+Ana Vitoria Piaggio Albuquerque – MDA 
+
+Celson Carlos Martins Junior – SDH  
+César Gonçalves do Bomfim – MP  
+Daniel Moser Lopes – MPS 
+Daniel Rangel Carlos da Silva – MEC 
+Daniel Rogério Miranda Pontes – SDH 
+Daniel Troncoso – MP  
+David Fagundes – MP  
+Denio Morele  –  MME 
+Denise Barros de Sousa Nogueira – MEC 
+Dualceu Cortez D’avis – MD  
+Edson Marques – MTE  
+Eduardo Viola – MS  
+Fernanda Lobato – MP  
+Fernando Fonseca – MDIC 
+Fraide Sales – SG/PR  
+Gitia Albuquerque da Cruz – MTE  
+Graziano Lima Pires – MJ 
+Gustavo Vieira de Macedo – MC 
+Heber Fialho Maia Junior – MDS 
+Jean Carlo Galdino Rodrigues – SPM 
+José Romildo Araújo de Andrade – MT 
+Joyce Lustosa Belga – MP  
+Juliana de Albuquerque Gonçalves – MAPA 
+Laureano Struck – MP  
+Leonardo Boselli da Motta – MP  
+Lucas Souto – MDIC 
+Luis Eduardo Barreiro – SEP 
+Luis Felipe Salin Monteiro – MC 
+Maria Elda de Sousa – MCTI 
+Maria Emília Matheus Evora – SG/PR  
+Maria Pereira de Freitas – MF 
+Newton Vieira – MP  
+Núbia Moreira dos Santos – MP  
+Paulo Cesar Kluge – MinC 
+Paulo Roberto de Souza Lemos – MTur 
+Rafael Ferreira Luz – MRE  
+Raimundo R.Costa Filho – MCidades 
+Ranério Vieira – IPHAN 
+Reynado Aben-Athar – SEP  
+Roberto Wagner de Carvalho Araújo – ME 
+Sandro de Oliveira Araujo – MCTI 
+Sérgio Araújo Correia Lima – MS  
+Seyr Lemos de Souza – MP  
+Valéria Carla Curado Ribeiro – MD   
+
+Vanderson Covre Rocha – MME 
+Vanessa Rezende – MCTI 
+Vitor Alexandre Kessler de Almeida – MP  
+Wesley Lira – SDH 
+Zaira Rocha de Novais Coelho – MME
+
+COLABORAÇÃO:
+Ademir Dias Lima – UNIRIO
+Ana Mendonca - SG/PR
+André Campos – FIOCRUZ
+Antonella Donato – STM 
+Carlos Eduardo Araujo Vieira – MP
+Diana Santos – MPDFT 
+Eleidimar Odília Isaque da Silva – MP 
+Érica Jordana Bento Viana Cruz – ME 
+Francisco Edmundo Andrade – CD
+Frederico Palma – MDS
+Halisson Gomides – ITI 
+João Souza Neto – ECT
+Josane Borges das Neves Guimaraes – IFB
+Marcelo Almeida Gomes de Sousa – MDIC
+Marcelo José Ruiz – CIASC/SC
+Marcus Vinicius da Costa – SERPRO
+Reni Elisa da Silva Pontes – IFMT
+Sebastião Figueiredo de Morais Filho – MDIC 
+Sergio Tadeu Neiva Carvalho – MP
+Sérgio Soares da Silva – INEP
+
+Ministério do Planejamento,  
+Orçamento e Gestão, 2012.
+Qualquer parte desta publicação pode ser 
+reproduzida, desde que citada a fonte, 
+de acordo com as orientações da licença 
+Creative Commons (CC BY-NC-ND 3.0)
+Disponível em http://www.sisp.gov.br
+
+O trabalho Estratégia Geral de Tecnologia 
+da Informação 2013/2015 do SISP 
+foi licenciado com uma Licença Creative 
+Commons - Atribuição - NãoComercia - 
+SemDerivados 3.0 Brasil
+
+Normalização Bibliográfica: DIBIB/CODIN/SPOA
+
+Brasil. Ministério do Planejamento, Orçamento e Gestão.
+          Secretaria de Logística e Tecnologia da Informação.                      
+
+          Estratégia Geral de Tecnologia da Informação do SISP 2013-2015:  
+versão 1.0 / Ministério do Planejamento, Orçamento e Gestão, Secretaria de Logística e 
+Tecnologia da Informação. - Brasília : MP/SLTI, 2012.
+
+          69 p. : il.
+
+          1. Tecnologia da informação. 2. Gestão pública. 3. Administração pública.   
+4. Gestão e Governança I. Título
+
+                                                                  CDU 004:658w
+
+Sumário
+
+1.  CONTEXTO SISP • 6
+
+1.1.1  Órgãos Integrantes  • 6
+1.1.2  Competências • 7
+
+2.  HISTÓRICO • 8
+
+3.  METODOLOGIA DE TRABALHO • 9
+
+4.  REFERENCIAL ESTRATÉGICO • 10
+
+4.1  Missão • 10
+4.2  Visão • 10
+4.3  Valores • 10
+
+5.  PRIORIDADES ESTRATÉGICAS – 2013 • 11
+
+6.  MAPA ESTRATÉGICO • 11
+
+7.  ALINHAMENTO ESTRATÉGICO • 13
+
+7.1 Plano Brasil 2022 • 13
+
+Economia • 14
+Sociedade • 14
+Estado • 14
+
+7.2 Plano Plurianual 2012-2015 • 14
+
+8.  INDICADORES, METAS E INICIATIVAS ESTRATÉGICAS • 18
+
+8.1  Indicadores • 18
+8.2  Metas • 18
+8.3  Iniciativas Estratégicas • 18
+
+9.  SIGLAS • 28
+
+10.  GLOSSÁRIO • 29
+
+Anexos • 31
+
+ANEXO 1 - Lista dos Órgãos integrantes do SISP • 32
+
+ANEXO 2 – Análise Ambiental • 35
+
+ANEXO 3 – Plano de Metas 2011-2012 • 37
+
+ANEXO 4 – Pesquisa Situacional 2012 – Órgãos Setoriais • 46
+
+ANEXO 5 – Documentação dos Indicadores • 56
+
+APRESENTAÇÃO
+
+A Estratégia Geral de Tecnologia da Informação (EGTI) é um instrumento de gestão do Sistema 
+de Administração dos Recursos de Tecnologia da Informação (SISP), que traça a direção da 
+Tecnologia da Informação (TI), definindo o plano estratégico que visa promover a melhoria 
+contínua da gestão e governança de TI, assim como a sustentação da insfraestrutura, além de 
+subsidiar os órgãos do Sistema na elaboração dos Planejamentos de Tecnologia da Informação, 
+inclusive em atendimento ao que determina o Art. 3º. da Instrução Normativa (IN) SLTI/MP nº 
+04, de 12 de novembro de 2010:
+
+“Art. 3º Em consonância com o art. 4º do Decreto nº 7.579, de 2011, o Órgão Central do 
+SISP elaborará, em conjunto com os Órgãos Setoriais e Seccionais do SISP, a Estratégia Geral 
+de  Tecnologia da Informação - EGTI para a Administração direta, autárquica e fundacional 
+do  Poder  Executivo  Federal,  revisada  e  publicada  anualmente,  para  servir  de  subsídio  à 
+elaboração dos PDTI pelos órgãos e entidades integrantes do SISP.”
+
+O Plano Brasil 2022 e o Plano Plurianual (PPA) do quadriênio 2012-2015 alicerçam a orientação 
+estratégica  seguida  na  construção  desta  versão  da  EGTI  ao  valorizar  a  transversalidade  das 
+políticas públicas.
+
+A EGTI 2013-2015 estabelece nove objetivos estratégicos distribuídos em cinco perspectivas: 
+Sociedade;  Governo  Federal;  Processos  Internos;  Pessoas,  Aprendizado  e  Crescimento  e 
+Financeiro.  Após  a  definição  desses  objetivos  e  da  orientação  estratégica  para  alcançá-los, 
+foram estabelecidos indicadores e suas respectivas metas, de forma a mensurar objetivamente 
+os resultados alcançados pelos órgãos.
+
+Na EGTI 2013-2015 , destacam-se os objetivos associados à gestão orçamentária e de pessoas 
+de TI, dimensões fundamentais para o enfrentamento dos atuais desafios do SISP.
+
+O documento é um instrumento efetivo de comunicação da estratégia entre os Órgãos Setoriais, 
+Seccionais,  Correlatos  e  o  Órgão  Central  do  SISP  e  permite  o  acompanhamento  das  ações 
+realizadas, a retroalimentação e, em caso de necessidade, o realinhamento da estratégia.
+
+Assim, a atual versão da EGTI sinaliza para a busca do amadurecimento institucional do SISP e 
+do fortalecimento da atuação dos órgãos integrantes do sistema na gestão e governança de TI, 
+e destaca como tendência a unificação da tecnologia da informação (TI) com a comunicação 
+(C), gerando, assim, a “TIC”. Além disso, consolida um rico processo de construção colaborativa 
+entre os órgãos integrantes do SISP e torna pública a estratégia do governo federal para a área 
+de TI. Ainda quanto ao tema TIC, orienta-se os órgãos que possuem maturidade para tal, que  
+promovam, tão logo possível, a unificação de suas áreas de TI com a de Comunicações, a fim 
+de obter melhores resultados.
+
+Como  resultado  da  execução  desse  plano,  espera-se  que  os  objetivos  estratégicos  sejam 
+alcançados, consolidando as conquistas dos últimos anos e construindo novos caminhos para 
+solidificar o papel da TI como um ativo com poder de promover a excelência na prestação 
+de serviços e efetividade das políticas públicas, consolidando, assim,  a TI como elemento 
+estratégico para a gestão pública.
+
+1.  CONTEXTO SISP
+
+O  Sistema  de  Administração  dos  Recursos  de  Tecnologia  da  Informação  (SISP)  tem  por 
+objetivo, de acordo com o Decreto nº 7579, de 11 de outubro de 2011, o planejamento, a 
+coordenação, a organização, a operação, o controle e a supervisão dos recursos de tecnologia 
+da informação dos órgãos e entidades da administração pública federal direta, autárquica e 
+fundacional,  em  articulação  com  os  demais  sistemas  utilizados  direta  ou  indiretamente  na 
+gestão da informação pública federal.
+
+São finalidades do SISP:
+
+• assegurar ao Governo federal suporte de informação adequado, dinâmico,confiável e eficaz;
+
+• facilitar aos interessados a obtenção das informações disponíveis, resguardados os aspectos 
+de  disponibilidade,  integridade,  confidencialidade  e  autenticidade,  bem  como  restrições 
+administrativas e limitações legais;
+
+• promover a integração e a articulação entre programas de governo, projetos e atividades, 
+visando à definição de políticas, diretrizes e normas relativas à gestão dos recursos de tec-
+nologia da informação;
+
+• estimular o uso racional dos recursos de tecnologia da informação, no âmbito do Poder Exe-
+cutivo Federal, visando à melhoria da qualidade e da produtividade do ciclo da informação;
+
+• estimular o desenvolvimento, a padronização, a integração, a interoperabilidade, a norma-
+lização dos serviços de produção e disseminação de informações, de forma desconcentrada 
+e descentralizada;
+
+• propor adaptações institucionais necessárias ao aperfeiçoamento dos mecanismos de gestão 
+
+dos recursos de tecnologia da informação;
+
+• estimular e promover a formação, o desenvolvimento e o treinamento dos servidores que 
+
+atuam na área de tecnologia da informação; e
+
+•  definir  a  política  estratégica  de  gestão  de  tecnologia  da  informação  do  Poder  Executivo 
+
+Federal.
+
+1.1.1  Órgãos Integrantes
+
+De acordo com o Art. 3° do Decreto n° 7.579, de 11 de outubro de 2011,  
+integram o SISP: 
+
+• como Órgão Central, a Secretaria de Logística e Tecnologia da Informação do Ministério do 
+
+Planejamento, Orçamento e Gestão;
+
+• como Órgãos Setoriais, representadas por seus titulares, as unidades de administração dos 
+recursos de tecnologia da informação dos Ministérios e dos órgãos da Presidência da Repú-
+blica;
+
+• a Comissão de Coordenação, formada pelos representantes dos Órgãos Setoriais, presidida 
+
+por representante do Órgão Central;
+
+• como Órgãos Seccionais, representadas por seus titulares, as unidades de administração dos 
+
+recursos de tecnologia da informação das autarquias e fundações; e
+
+6
+
+• como Órgãos Correlatos, representados pelos seus titulares, as unidades desconcentradas e 
+formalmente constituídas de administração dos recursos de tecnologia da informação nos 
+Órgãos Setoriais e Seccionais.
+
+1.1.2  Competências
+
+São competências dos órgãos que compõem o SISP, segundo o Decreto n° 7.579, 
+de 11 de outubro de 2011:
+
+Compete ao Órgão Central do SISP:
+
+• orientar e administrar os processos de planejamento estratégico, de coordenação geral e 
+
+de normalização relativos aos recursos de tecnologia da informação abrangidos pelo SISP;
+
+• definir, elaborar, divulgar e implementar, com apoio da Comissão de Coordenação, as po-
+líticas, diretrizes e normas gerais relativas à gestão dos recursos do SISP e ao processo de 
+compras do Governo na área de tecnologia da informação;
+
+• promover a elaboração de planos de formação, desenvolvimento e treinamento do pessoal 
+
+envolvido na área de abrangência do SISP;
+
+• incentivar ações prospectivas, visando acompanhar as inovações técnicas da área de tecno-
+logia da informação, de forma a atender às necessidades de modernização dos serviços dos 
+órgãos e entidades abrangidos pelo SISP; e
+
+•  promover  a  disseminação  das  políticas,  diretrizes,  normas  e  informações  disponíveis,  de 
+
+interesse comum, entre os órgãos e entidades abrangidos pelo SISP.
+
+Compete à Comissão de Coordenação do SISP:
+
+• participar da elaboração e implementação das políticas, diretrizes e normas gerais relativas 
+à gestão dos recursos do SISP e ao processo de compras do Governo na área de tecnologia 
+da informação;
+
+• assessorar o Órgão Central do SISP no cumprimento de suas atribuições;
+
+• promover o intercâmbio de conhecimento entre seus participantes e homogeneizar o enten-
+
+dimento das políticas, diretrizes e normas gerais relativas ao SISP; e
+
+• acompanhar e avaliar os resultados da regulamentação emanada do Órgão Central do SISP, 
+
+e propor ajustamentos.
+
+Compete aos Órgãos Setoriais do SISP:
+
+• coordenar, planejar, articular e controlar as ações relativas aos recursos de tecnologia da 
+informação, no âmbito dos respectivos Ministérios ou órgãos da Presidência da República;
+
+• fornecer subsídios ao Órgão Central do SISP, por intermédio da Comissão de Coordenação, 
+
+para a definição e elaboração de políticas, diretrizes e normas gerais relativas ao SISP;
+
+• cumprir e fazer cumprir, por meio de políticas, diretrizes, normas e projetos setoriais, as 
+
+políticas, diretrizes e normas gerais emanadas do Órgão Central do SISP; e
+
+• participar, como membro da Comissão de Coordenação, dos encontros de trabalho progra-
+
+mados para tratar de assuntos relacionados ao SISP. 
+
+7
+
+Compete aos Órgãos Seccionais do SISP:
+
+• cumprir e fazer cumprir, por meio de políticas, diretrizes, normas e projetos seccionais, as 
+
+políticas, diretrizes e normas emanadas do Órgão Setorial do SISP a que estão vinculados;
+
+• subsidiar o Órgão Setorial do SISP a que estão vinculados na elaboração de políticas, dire-
+
+trizes, normas e projetos setoriais; e
+
+• participar dos encontros de trabalho programados para tratar de assuntos relacionados 
+
+ao SISP.
+
+Compete aos Órgãos Correlatos do SISP:
+
+• subsidiar a unidade de tecnologia da informação de seu respectivo Órgão Setorial ou Seccio-
+
+nal no cumprimento das políticas, diretrizes e normas gerais relativas ao SISP;
+
+• subsidiar a unidade de tecnologia da informação de seu respectivo Órgão Setorial ou Seccio-
+
+nal na elaboração de políticas, diretrizes, normas e projetos setoriais ou seccionais; e
+
+• participar dos encontros de trabalho programados para tratar de assuntos relacionados ao SISP.
+
+• Ainda para contextualização do SISP, convém destacar que os órgãos, devido à quantidade e 
+diversidade de estruturas, possuem realidades distintas no que se refere a recursos de todos 
+os tipos e condições de promover a gestão e governança da TI.
+
+2.  HISTÓRICO
+
+A primeira versão da EGTI foi elaborada no ano de 2008, para vigorar em 2009. Constituiu as origens 
+para o modelo de governança do SISP, tendo como objetivo principal estabelecer as bases para a 
+transição entre a situação atual da gestão de TI e o pleno cumprimento da Instrução Normativa SLTI 
+n° 4/2008. Por esse contexto, foi sintetizada pelo termo “transição”. Apresentou 4 metas, a saber:
+
+• Meta 01: Aperfeiçoamento da gestão de TI e alinhamento com o planejamento institucional 
+
+do órgão;
+
+• Meta 02: Aprimoramento quali-quantitativo dos Recursos Humanos;
+
+• Meta 03: Melhoria do Processo de Contratação de TI;
+
+• Meta 04: Adoção de Padrões.
+
+A segunda versão, elaborada em 2009 para ter vigência no ano de 2010, resultou da revisão 
+da EGTI anterior e buscou o alinhamento de estratégias de TI, a fim de subsidiar os órgãos 
+integrantes do Sistema a alcançar o aumento da maturidade de processos de Governança de 
+TI. A visão geral dessa versão foi sintetizada pela expressão “agregação de valor”. Apresentou 
+os seguintes temas focais:
+
+•  Aperfeiçoamento da gestão de TI e alinhamento com planejamento institucional do órgão;
+
+• Aprimoramento quali-quantitativo dos Recursos Humanos;
+
+• Melhoria do Processo de Contratação de TI;
+
+8
+
+• Construção e Adoção de Padrões e Modelos de Apoio à Gestão e à Tecnologia;
+
+• Gestão da Segurança da Informação;
+
+• Gestão do SISP;
+
+• Necessidade de alinhamento do PDTI à própria EGTI (conformidade estratégica).
+
+A  terceira  versão  foi  elaborada  em  2010  para  vigorar  no  biênio  2011-2012.  Buscou  a 
+continuidade das evoluções obtidas com as estratégias anteriores: o fortalecimento das áreas 
+de  TI,  a  entrega  de  valor  às  áreas  finalísticas  de  negócio  e  o  apoio  ao  cumprimento  das 
+metas governamentais. Foi sintetizada pela palavra “estruturação” e composta por 7 objetivos 
+estratégicos, 18 metas e 56 iniciativas estratégicas. De forma complementar, apresentou um 
+Plano de Execução com ações a serem realizadas pelos órgãos integrantes do Sistema.
+
+A  quarta  versão,  elaborada  em  2012,  contemplando  o  triênio  2013-2015,  cujo  termo  que  a 
+sintetiza é Integração, dá seguimento ao aprimoramento contínuo, avaliando os resultados dos 
+instrumentos  anteriores.  Com  isso,  busca-se  observar  a  oportunidade  de  tornar  a  EGTI  mais 
+objetiva e focada em estratégias que efetivamente levarão ao desenvolvimento das áreas de TI. 
+Alinha-se ao Plano Plurianual 2012-2015 – Plano Mais Brasil – bem com o ao Plano Brasil 2022. 
+
+A  EGTI  2013-2015  tem  o  compromisso  de  fortalecer  a  gestão  e  a  governança  estratégica 
+do  SISP,  fazendo  com  que  a  estratégia  definida  seja  sistematicamente  implementada, 
+acompanhada  e  analisada,  para  garantir  que  a  visão  de  futuro  e  os  objetivos  planejados 
+sejam alcançados.
+
+3.  METODOLOGIA DE TRABALHO
+
+O processo de elaboração da EGTI 2013-2015 baseou-se, com adaptações, na metodologia 
+Balanced Scorecard - BSC, desenvolvida pelos professores Robert Kaplan e David Norton, da 
+Harvard Business School.  
+
+O  BSC  traduz  a  estratégia  da  organização  para  realizar  sua  missão  e  alcançar  sua  visão  de 
+futuro, por meio de um conjunto de objetivos estratégicos, os quais mantêm relações de causa 
+e  efeito  entre  si,  definidos  em  diferentes  perspectivas.  O  desempenho  da  organização  na 
+busca de seus objetivos é medido por indicadores, para os quais são definidas metas a serem 
+alcançadas ao longo do tempo.
+
+A proposta do BSC é tornar entendível, para todos os níveis da organização, a visão, a missão 
+e os objetivos estratégicos, no intuito que todos saibam o que fazer e de que forma suas ações 
+impactam no desempenho organizacional.
+
+Assim, a execução do processo de elaboração da EGTI 2013-2015 foi pautada no desafio de 
+envolver,  do  início  ao  fim,  os  órgãos  integrantes  do  SISP.  O  envolvimento  ocorreu  de  forma 
+colaborativa, presencial ou virtual, de maneira que todos pudessem contribuir.
+
+Na abordagem presencial, foram realizadas oficinas técnicas, nas quais as dinâmicas aplicadas 
+permitiram que todos os participantes propusessem e analisassem conjuntamente as sugestões 
+dos  demais.  De  forma  virtual,  utilizou-se  o  fórum  eletrônico  do  Portal  do  SISP  (www.sisp.
+gov.br)  sendo  que  a  cada  encontro  presencial  realizado  o  conteúdo  era  disponibilizado  na 
+ferramenta virtual, possibilitando a colaboração dos demais membros da Comunidade SISP.
+
+9
+
+Durante as oficinas, revisou-se o referencial estratégico do SISP para os anos de  2013 a 2015, 
+definindo-se uma nova visão de futuro, na intenção de alinhar-se às expectativas dos órgãos, 
+uma nova missão, baseada no decreto de instituição do SISP, bem como valores consideráveis 
+em todas as ações do Sistema.
+
+Foi  realizada  a  análise  ambiental  do  SISP,  na  qual  foram  identificados  os    pontos  fracos  e 
+fortes do Sistema, assim como as oportunidades e ameaças externas. 
+
+Esta análise contribuiu com a definição de novos Objetivos Estratégicos, para os quais identificou-
+se  um  conjunto  de  Indicadores,  Metas  e  Iniciativas  Estratégicas,  que  permitirão  direcionar  o 
+atendimento dos objetivos definidos, bem como o alcance da nova Visão de futuro. 
+
+4.  REFERENCIAL ESTRATÉGICO
+
+4.1  Missão
+“Promover a melhoria da governança e da gestão de tecnologia da informação nos órgãos integrantes 
+do Sistema, agregando valor às políticas públicas e ao desenvolvimento sustentável do país.”
+
+4.2  Visão
+“Ser a principal referência de sucesso e inovação na gestão estratégica de recursos de tecnologia 
+da informação dos programas e políticas do governo federal.”
+
+4.3  Valores
+
+Colaboração
+• Promover um ambiente propício à integração e realização coletiva dos projetos e ações pro-
+
+postos, favorecendo o compartilhamento de soluções e do conhecimento.
+
+Sustentabilidade
+• Assegurar que a informação, as ações e os recursos de TI sejam economicamente viáveis, 
+
+ambientalmente corretos, socialmente justos e culturalmente aceitos.
+
+Confiança
+• Assegurar ações que garantam a credibilidade entre os órgãos  do Sistema.
+
+Liderança 
+• Atuar como protagonista na condução das ações estratégicas para o SISP.
+
+Foco em Resultados
+• Buscar sempre a efetividade na geração de valor para as instituições governamentais.
+
+Transparência 
+• Incentivar a cultura da publicidade das ações governamentais, com honestidade e respeito, 
+
+propiciando maior credibilidade à sociedade e ao próprio Governo.
+
+10
+
+Inovação
+• Promover um ambiente criativo, que propicie o desenvolvimento de ações inovadoras.
+
+Valorização das Pessoas
+• Garantir o reconhecimento da relevante atuação das pessoas nas ações do SISP.
+
+5.  PRIORIDADES ESTRATÉGICAS – 2013
+
+O Órgão Central entende que para viabilizar a concretização das estratégias definidas para 
+o SISP no triênio 2013-2015 é fundamental um direcionamento e priorização. Assim sendo, 
+para o primeiro ano da nova EGTI, optou-se por dar destaque a dois pilares para o sucesso 
+das ações em uma estratégia: pessoas e orçamento.
+
+É senso comum que pessoas capacitadas e motivadas fazem a diferença em todo o tipo de 
+organização,  e  no  setor  público  não  poderia  ser  diferente.  A  valorização  dos  servidores  é 
+questão estratégica para o SISP e deverá ser tratada de forma consistente.
+
+Por  outro  lado,  sem  recursos  orçamentários  e  financeiros,  mesmo  os  profissionais  mais 
+competentes não conseguem gerar resultados efetivos. Podem ter uma série de boas intenções, 
+mas não é possível transformá-las em realidade, inviabilizando o atingimento das metas.
+
+Assim, viu-se como de fundamental relevância definir os objetivos 1 e 2, contidos no Mapa 
+Estratégico do item 7 deste documento, como direcionadores para o ano de 2013:
+
+• Objetivo 1 - “Aprimorar a gestão de pessoas de TI”; e
+
+• Objetivo 2 - “Aperfeiçoar a gestão orçamentária de TI”.
+
+Considerar tais objetivos como prioridades para 2013 significa que o ano terá os temas Pessoa 
+e Orçamento como focos principais do Órgão Central, o que será refletido na priorização dos 
+projetos, ações e investimentos que os a bordem. 
+
+No  entanto,  é  válido  destacar  que  os  demais  assuntos  também  devem  ser  tratados  por  cada 
+equipe responsável no Órgão Central, bem como pelos órgãos que integram o SISP, haja vista a 
+complexidade e oportunidades que são inerentes às áreas de TI da Administração Pública Federal.
+
+6.  MAPA ESTRATÉGICO
+
+A estratégia do SISP foi sintetizada em um mapa, o qual constitui uma representação gráfica 
+do conjunto de objetivos a serem alcançados pelo Sistema. 
+
+O  mapa  tem  por  objetivo  facilitar  o  entendimento  da  estratégia  a  todos  os  interessados, 
+garantir coerência e colaborar com todo o processo de comunicação, divulgação e apresentação 
+dos objetivos. Esses objetivos interligam-se uns aos outros e formam uma relação de causa e 
+efeito, permitindo a demonstração de que devem ser cumpridos para o alcance da Visão de 
+futuro e para a realização da Missão.
+
+11
+
+O BSC organiza-se com base em perspectivas, as quais permitem a realização da estratégia 
+planejada de maneira equilibrada. As perspectivas originais, segundo Kaplan e Norton, são 
+Financeira,  Cliente,  Processos  Internos  e  Aprendizagem  e  Crescimento.  Todavia,  o  modelo 
+permite adaptações conforme a realidade da organização.
+
+Dessa  forma,  os  objetivos  estratégicos  do  SISP  estão  organizados  horizontalmente    em 
+perspectivas adaptadas do modelo original, sendo elas:
+
+• Pessoas, Aprendizado e Crescimento: contém os objetivos relacionados ao desenvolvi-
+
+mento de pessoas e de estruturação da organização;
+
+• Financeiro: relaciona-se  aos objetivos voltados para a gestão orçamentária;
+
+• Processos Internos: reúne os objetivos relacionados às ações internas e de apoio direto ao 
+
+alcance da visão;
+
+• Governo Federal: é a perspectiva intermediária entre os processos internos e os resultados 
+
+da sociedade, que visa aprimorar a capacidade de gestão do governo; e
+
+• Sociedade: reúne os resultados tangíveis da estratégia que impactam na sociedade.
+
+12
+
+MAPA ESTRATÉGICO SISP
+
+7.  ALINHAMENTO ESTRATÉGICO
+
+7.1 Plano Brasil 2022
+O  Plano  Brasil  2022  foi  idealizado  pelo  Presidente  Lula,  com  o  intuito  de    apresentar  as 
+“aspirações do povo para a sociedade brasileira” no ano de comemoração do bicentenário de 
+nossa Independência. O plano possui como premissas a viabilidade, a representatividade, a 
+possibilidade de avaliação e de correção.
+
+13
+
+O  documento  foi  publicado  em  2010,  sendo  objeto  de  ampla  consulta  a  todos  os  setores 
+da sociedade e do Estado, levando em conta a experiência da Administração Pública, que é 
+necessariamente instrumento de sua implementação.
+
+Considerando que o período de vigência é de doze anos e, portanto, três governos, ele nãodefine 
+programas  de  Governo  ou  apresenta  metas  financeiras.  Porém,  após  analisar  a  persperctiva 
+Mundo, América do Sul e Brasil em 2022, tem-se uma r elação de metas para o centenário.
+
+Abaixo, dentre várias metas do Plano Brasil 2022, listamos apenas aquelas que estão próximas 
+dos objetivos estratégicos da nova EGTI:
+
+Economia
+
+• Modernizar o funcionamento da Administração Pública.
+
+• Utilizar de forma estratégica o poder de compra e financiamento do Estado.
+
+• Garantir gestão eficaz e eficiente dos recursos humanos federais.
+
+Sociedade
+
+• Promover a inclusão digital e tecnológica da juventude.
+
+• Completar a transição democrática, assegurando o direito à verdade e à memória.
+
+Estado
+
+• Assegurar total transparência das despesas públicas nos três níveis e nos três poderes.
+
+• Garantir pleno exercício do direito de acesso a informações públicas.
+
+7.2 Plano Plurianual 2012-2015
+A visão de futuro do atual Governo está alicerçada em valores que irão orientar constantemente 
+as ações do Governo Federal: Soberania, Democracia, Justiça Social, Sustentabilidade, Diversidade 
+Cultural e Identidade Nacional, Participação Social e Excelência na Gestão.
+
+O Plano Plurianual 2012-2015 foi construído a partir da dimensão estratégica definida pelo 
+governo  e  organizado  à  luz  dos  cenários  econômico,  social,  ambiental  e  regional.  Com  a 
+finalidade de criar condições para que o PPA estabeleça relações mais adequadas  com todos 
+os  insumos  necessários  à  viabilização  das  políticas,  os  Programas  Temáticos  do  PPA  2012-
+2015 estão organizados em Objetivos que, por sua vez, são detalhados em Metas e Iniciativas.
+
+Sendo assim, é de fundamental importância o alinhamento dos planos estratégicos às ações 
+do PPA , buscando o aumento de sinergia entre os órgãos/entidades na busca de um mesmo 
+objetivo governamental.
+
+O  alinhamento  da  EGTI  ao  PPA  2012-2015  resultou  na  identificação  de  2  Programas  e  5 
+Objetivos, representando a sua participação nas políticas públicas do Governo Federal.
+
+A EGTI 2013-2015 se  conecta ao PPA  em relação aos compromissos políticos assumidos pelo 
+governo para a área da Democracia e Aperfeiçoamento da Gestão Pública e da Cidadania e Justiça.
+
+14
+
+PROGRAMA: 2038 - DEMOCRACIA E APERFEIÇOAMENTO DA GESTÃO 
+PÚBLICA (PPA 2012-2015)
+
+OBJETIVOS – PPA 2012-2015
+
+OBJETIVOS EGTI – 2013-2015
+
+OBJETIVO: 0605 - Ampliar a oferta de serviços públicos de excelência 
+ao cidadão, às empresas e às demais organizações da sociedade, me-
+diante a melhoria dos marcos legais, dos processos de trabalho e da 
+tecnologia da informação.
+
+5. Fomentar a adoção de padrões tecnológicos e solu-
+ções de TI
+
+6. Garantir a Segurança da Informação e Comunicações
+
+Metas:
+
+9. Melhorar continuamente a prestação de serviços e a 
+transparência de informações à sociedade
+
+• Implementar e disponibilizar a Agenda Brasil Digital de Governo 
+
+Eletrônico à sociedade; 
+
+•  Implementar  Modelo  de  Acessibilidade  de  Governo  Eletrônico  
+
+(e- MAG) nos sítios governamentais;
+
+• Massificação do uso de Certificados Digitais da ICP- Brasil.
+
+Iniciativas: 
+
+• 02D1 - Aperfeiçoamento e ampliação dos serviços eletrônicos dis-
+
+ponibilizados à sociedade (E-Gov).
+
+• 02D2 - Massificação e aperfeiçoamento da Certificação Digital ICP 
+Brasil e outras tecnologias de segurança da informação e identi-
+ficação digital necessárias às transações eletrônicas de interesse 
+da União, dos Estados, dos Municípios e da sociedade, mediante a 
+garantia de pleno funcionamento da Infraestrutura de Chaves Pú-
+blicas Brasileira e de Carimbo do Tempo da ICP Brasil, como forma 
+de  assegurar  sua  interoperabilidade,  capilaridade,  acessibilidade 
+e  eficácia  jurídica  às  transações  e  documentos  eletrônicos,  bem 
+como contribuir para a preservação do meio ambiente ao permitir 
+a desmaterialização de processos e documentos.
+
+OBJETIVO: 0606 - Aperfeiçoar a gestão de pessoas na administração 
+pública federal, orientada por competências e pela democratização 
+das relações de trabalho, visando aumentar a capacidade do gover-
+no na implementação de políticas públicas.
+
+Metas: 
+
+• Aperfeiçoamento da política de carreiras do Poder Executivo Fe-
+
+deral;
+
+• Aperfeiçoamento do planejamento e dimensionamento da força 
+
+de trabalho, em perspectivas de médio e longo prazos; 
+
+• Redirecionamento da Política de Desenvolvimento de Pessoas.
+
+Iniciativas: 
+
+• 02D4 - Aperfeiçoamento do planejamento, da organização, do di-
+mensionamento e da gestão da força de trabalho, considerando 
+perspectivas de médio e longo prazos; Implementação de polí-
+tica  de  desenvolvimento  de  pessoas  na  Administração  Pública 
+Federal
+
+15
+
+1. Aprimorar a gestão de pessoas de TI
+
+PROGRAMA: 2020 - CIDADANIA E JUSTIÇA (PPA 2012-2015)
+
+OBJETIVOS – PPA 2012-2015
+
+OBJETIVOS – EGTI 2013-2015
+
+OBJETIVO: 0607 - Aperfeiçoar o processo de alocação e de gestão 
+dos recursos públicos mediante o fortalecimento e a integração das 
+funções  de  planejamento,  orçamento,  execução,  monitoramento, 
+avaliação e controle de políticas públicas.
+
+2. Aperfeiçoar a gestão orçamentária de TI
+
+3. Aperfeiçoar a governança de TI
+
+4. Alcançar a efetividade na gestão de TI
+
+Metas: 
+
+• Ampliar a quantidade de serviços atualmente utilizados pelos ór-
+gãos e entidades da administração pública, através da rede IN-
+FOVIA Brasília, acrescentando sessenta serviços contratados até 
+2015; 
+
+• Definição do Modelo de governança e sistemática para alocação e 
+gestão dos recursos públicos, considerando a articulação e a inte-
+gração entre as diversas funções alocativas; 
+
+• Realizar vinte e cinco contratações conjuntas de soluções de TI, 
+
+até 2015
+
+Iniciativas: 
+
+• 02D9 - Aperfeiçoamento e disseminação de metodologias para o 
+planejamento, o orçamento, o monitoramento e a avaliação das 
+ações governamentais; 
+
+• 02DA - Aperfeiçoamento de mecanismos para a gestão e compar-
+tilhamento de informações visando a produção de conhecimento 
+e a melhoria do processo decisório; 
+
+• 02DB - Aperfeiçoamento dos processos de gerenciamento inten-
+
+sivo dos projetos estratégicos; 
+
+•  02DE  - Aperfeiçoamento  dos processos de  compras e  contrata-
+
+ções (ciclo de suprimentos do Governo Federal)
+
+16
+
+PROGRAMA: 2020 - CIDADANIA E JUSTIÇA (PPA 2012-2015)
+
+OBJETIVOS – PPA 2012-2015
+
+OBJETIVOS – EGTI 2013-2015
+
+OBJETIVO: 0579 - Fortalecer a governança e ampliar a capacidade 
+institucional da Administração Pública, visando a melhor organiza-
+ção e funcionamento do Estado.
+
+3. Aperfeiçoar a governança de TI 
+
+Metas:
+
+• Aprovação de mecanismos para a pactuação de resultados, com 
+metodologias de gestão do desempenho, para a Administração 
+Pública Federal;
+
+• Fomentar inovações de gestão no âmbito da Administração Pú-
+
+blica Federal
+
+Iniciativas: 
+
+• 029M - Aperfeiçoamento da gestão de processos e dos mecanis-
+mos para indução e fomento de melhorias e inovações na gestão 
+na Administração Pública Federal; 
+
+•  029P  -  Ampliação  de  estudos  e  pesquisas  para  o  planejamento 
+e a gestão de políticas públicas, inclusive com o intercâmbio de 
+experiências com outros países por meio da cooperação interna-
+cional
+
+OBJETIVO: 0872 - Consolidar a política nacional de arquivos, moder-
+nizar os serviços arquivísticos governamentais e preservar o patrimô-
+nio arquivístico nacional de forma a harmonizar a responsabilidade 
+do poder público com o direito constitucional dos cidadãos de aces-
+so à informação e contribuir para a promoção do direito à memória 
+e à verdade.
+Meta: 
+- Aprovar marcos legais para os Sistema de Administração de Recur-
+sos  de  Informação  e  Informática  (SISP),  Sistema  de  Serviços  Gerais 
+(SISG) e Sistema de Gestão de Documentos de Arquivo (SIGA) da Ad-
+ministração Pública Federal
+Iniciativa:
+- 03KR - Modernização e integração sistêmica dos serviços arquivísti-
+cos dos órgãos e entidades da Administração Pública Federal.
+
+7. Fortalecer a integração e comunicação institucio-
+nal do SISP
+
+8. Promover a Gestão do Conhecimento
+
+9. Melhorar continuamente a prestação de serviços e 
+a transparência de informações à sociedade
+
+17
+
+8.  INDICADORES, METAS E INICIATIVAS ESTRATÉGICAS
+
+Estão conceituados, abaixo, os termos específicos relacionados ao complemento da estratégia, 
+quais sejam indicadores, metas e iniciativas estratégicas. Os conceitos adotados pela EGTI 2013-
+2015 estão alinhados à metodologia Balanced Scored Card - BSC.
+
+8.1  Indicadores
+Indicadores  são  instrumentos  de  gestão  essenciais  nas  atividades  de  monitoramento  e 
+avaliação dos resultados das organizações. 
+
+Representam métricas que permitem acompanhar o alcance dos objetivos, identificar avanços, 
+melhorias de qualidade, correção de problemas, necessidades de mudança, entre outros.
+
+8.2  Metas
+A partir dos indicadores são definidas as metas, as quais representam os resultados numéricos 
+a serem alcançados para atingir os objetivos propostos.
+
+O estabelecimento de metas permite um maior controle dos resultados, pois também estão 
+associadas a um prazo de execução e abrangência.
+
+8.3  Iniciativas Estratégicas
+Indicam, em linhas gerais, ações em alto nível que têm por finalidade garantir que o Sistema 
+migre da situação atual para a desejada no futuro.
+
+18
+
+PERSPECTIVA: PESSOAS, APRENDIZADO E CRESCIMENTO
+
+1. Aprimorar a gestão de 
+
+pessoas de TI
+
+DESCRIÇÃO DO OBJETIVO
+
+Permitir que a gestão de pessoas seja realizada de forma  
+ampla  e  integrada,  destacando  a  importância  que  elas 
+têm para o sucesso da organização.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+ind. 1.1
+
+Número de capacitações realizadas por 
+servidores em competências alinhadas com 
+a EGTI.
+
+SISP
+
+1875
+
+2500
+
+3125
+
+ind. 1.2 Número de órgãos com mapeamento de 
+
+competências da área de TI.
+
+Órgãos 
+Setoriais
+
+-
+
+5
+
+15
+
+ind. 1.3 Percentual anual de evasão dos servidores 
+
+com GSISP dos órgãos do SISP.
+
+SISP
+
+5%
+
+4%
+
+3%
+
+   INICIATIVA ESTRATÉGICA
+
+Articular a criação da carreira de TI  do SISP.
+
+Propor modelo de estrutura organizacional e quadro de pessoal de TI.
+
+Desenvolver ações para ampliação do quadro existente de TI.
+
+Gerir competências relacionadas à TI.
+
+Estabelecer formas efetivas para atuação dos ATI e GSISP alinhadas às estratégias do SISP.
+
+Ini. 1.1
+
+Ini. 1.2
+
+Ini. 1.3
+
+Ini. 1.4
+
+Ini. 1.5
+
+19
+
+PERSPECTIVA: FINANCEIRO
+
+2. Aperfeiçoar a gestão 
+
+orçamentária de TI
+
+DESCRIÇÃO DO OBJETIVO
+
+Adotar  boas  práticas  de  gestão  orçamentária  para  ga-
+rantir o uso efetivo dos recursos financeiros necessários 
+ao cumprimento das metas relacionadas à tecnologia da 
+informação.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+Ind. 2.1
+
+Ind. 2.2
+
+Número de órgãos que possuem 
+um processo formalizado de gestão 
+orçamentária de TI.
+
+Número de órgãos em que a área de TI 
+acompanha o planejamento e a execução 
+do orçamento de TI.
+
+SISP
+
+SISP
+
+Ind. 2.3 Número de órgãos que possuem dotação 
+
+orçamentária/rubrica específica de TI.
+
+Órgãos 
+Setoriais
+
+50
+
+50
+
+10
+
+65
+
+65
+
+15
+
+80
+
+80
+
+–
+
+   INICIATIVA ESTRATÉGICA
+
+Ini. 2.1
+
+Ini. 2.2
+
+Ini. 2.3
+
+Promover a alocação de recursos orçamentários/financeiros para implementação  
+das ações do PDTI.
+Aprimorar e fortalecer a gestão orçamentária de TI.
+Propiciar o alinhamento do orçamento de TI às estratégias do órgão e do Governo.
+Articular a criação da carreira de TI  do SISP.
+
+ 
+
+20
+
+PERSPECTIVA: PROCESSOS INTERNOS
+
+3. Aperfeiçoar a  
+governança de TI
+
+DESCRIÇÃO DO OBJETIVO
+
+Alinhar a TI às estratégias e objetivos da organização, de-
+finindo  papéis  e  responsabilidades  e  envolvendo  a  alta 
+administração nas decisões, além de adotar  práticas de 
+governança que permitam a entrega de valor ao órgão.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+Ind. 3.1
+
+Número de órgãos que realizaram no 
+mínimo 4 (quatro) reuniões do Comitê de 
+TI. 
+
+Órgãos 
+Setoriais
+
+7
+
+15
+
+25
+
+Ind. 3.2 Número de órgãos com PDTI publicado e 
+
+vigente
+
+SISP
+
+100
+
+120
+
+140
+
+Ind. 3.3 Número de órgãos com PDTI aderente ao 
+
+modelo de referência do SISP
+
+Órgãos 
+Setoriais
+
+10
+
+15
+
+25
+
+Ini. 3.1
+
+Fortalecer a atuação do Comitê de TI.
+
+   INICIATIVA ESTRATÉGICA
+
+Ini. 3.2
+
+Fortalecer o alinhamento entre o planejamento de TI, as estratégias da organização e a EGTI
+
+ 
+
+21
+
+PERSPECTIVA: PROCESSOS INTERNOS
+
+4. Alcançar a efetividade  
+
+na gestão de TI
+
+DESCRIÇÃO DO OBJETIVO
+
+Adotar processos de trabalho e boas práticas de gestão 
+relevantes e sensíveis à gestão de TI visando à melhoria 
+contínua dos resultados.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+Ind. 4.1
+
+Número de órgãos que adotam processos 
+formais de gerenciamento de projetos 
+baseadas na Metodologia de Gerenciamento 
+de Projetos do SISP (MGP-SISP) ou em outra 
+metodologia. 
+
+Ind. 4.2 Número de órgãos que adotam processos 
+
+formais de gestão de Serviços de TI.
+
+Ind. 4.3
+
+Número de órgãos que adotam o processo 
+de software do SISP (PSW-SISP) ou outro 
+processo formal de software.  
+
+SISP
+
+SISP
+
+SISP
+
+40
+
+50
+
+60
+
+50
+
+60
+
+70
+
+60
+
+70
+
+80
+
+   INICIATIVA ESTRATÉGICA
+
+Fortalecer a gestão de TI com base nas melhores práticas compartilhadas no âmbito do SISP.
+
+Estabelecer um processo de integração entre a Tecnologia da Informação e a Comunicação.
+
+Ini. 4.1
+
+Ini. 4.2
+
+ 
+
+22
+
+PERSPECTIVA: PROCESSOS INTERNOS
+
+5. Fomentar a adoção de 
+padrões tecnológicos  
+
+e soluções de TI
+
+DESCRIÇÃO DO OBJETIVO
+
+Prover condições para uso de padrões tecnológicos, so-
+luções em software integradas e padronizadas, infraes-
+trutura  e  métodos  para  aquisições  conjuntas,  os  quais 
+permitam o melhor desempenho nas atividades relacio-
+nadas à TI e forneçam serviços de qualidade, com racio-
+nalização dos recursos disponíveis.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+Ind. 5.1 Número de serviços disponibilizados no 
+
+catálogo de serviços interoperáveis.
+
+SISP
+
+Ind. 5.2 Número de órgãos que utilizam solução 
+
+disponibilizada no portal do SPB.
+
+Órgãos 
+Setoriais
+
+Ind. 5.3 Número de órgãos que utilizam serviços da 
+
+INFOVIA.
+
+Ind. 5.4
+
+Número médio de órgãos participantes dos 
+processos de compras compartilhadas de  
+soluções de TI.
+
+SISP
+
+SISP
+
+14
+
+7
+
+76
+
+20
+
+18
+
+19
+
+79
+
+25
+
+22
+
+25
+
+81
+
+28
+
+   INICIATIVA ESTRATÉGICA
+
+Adotar e  desenvolver novos padrões tecnológicos de Governo.
+
+Ampliar a adoção e a oferta de plataformas, sistemas e serviços em software público.
+
+Disponibilizar INFRASIGS padronizados e interoperáveis.
+
+Promover a adoção dos serviços ofertados pela INFOVIA.
+
+Estimular o uso de compras compartilhadas de soluções de TI.
+
+Promover a integração e a interoperabilidade dos sistemas do Governo.
+
+Aprimorar o desempenho e a disponibilidade das soluções de TI existentes.
+
+Ini. 5.1
+
+Ini. 5.2
+
+Ini. 5.3
+
+Ini. 5.4
+
+Ini. 5.5
+
+Ini. 5.6
+
+Ini. 5.7
+
+ 
+
+23
+
+PERSPECTIVA: PROCESSOS INTERNOS
+
+6. Garantir a Segurança  
+
+da Informação  
+e Comunicações
+
+DESCRIÇÃO DO OBJETIVO
+
+Implementar  ações  a  fim  de  que  a  segurança  da  infor-
+mação  e  comunicações  seja  efetiva  em  seus  princípios 
+de disponibilidade, integridade, confidencialidade e au-
+tenticidade.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+Ind. 6.1
+
+Número de órgãos com as determinações 
+da IN01/GSI e suas normas 
+complementares formalizadas e em 
+execução.
+
+Ind. 6.2 Percentual médio de servidores dos órgãos 
+capacitados em Segurança da Informação.
+
+Ind. 6.3
+
+Número de órgãos com mapeamento das 
+infraestruturas críticas de informação  
+(do último biênio) publicado.
+
+SISP
+
+30
+
+40
+
+50
+
+SISP
+
+1%
+
+2%
+
+3% 
+
+SISP
+
+-
+
+-
+
+30
+
+   INICIATIVA ESTRATÉGICA
+
+Promover o desenvolvimento de políticas de segurança da informação e  comunicações.
+Estimular a adoção de práticas de gestão de incidentes de segurança da informação e 
+comunicações.
+Implementar práticas de gerenciamento de riscos e continuidade de negócios.
+
+Promover a participação no Centro de Tratamento de Incidentes de Rede – CETRIS.
+
+Ini. 6.1
+
+Ini. 6.2
+
+Ini. 6.3
+
+Ini. 6.4
+
+ 
+
+24
+
+PERSPECTIVA: GOVERNO FEDERAL
+
+7. Fortalecer a integração  
+
+e a comunicação  
+institucional do SISP
+
+DESCRIÇÃO DO OBJETIVO
+
+Ampliar  a  sinergia  entre  os  órgãos  do  SISP  estimulando  a 
+integração e a comunicação institucional.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+Ind. 7.1
+
+Número médio de órgãos setoriais 
+participantes das reuniões da comissão 
+de coordenação.
+
+Órgãos 
+Setoriais
+
+Ind. 7.2
+
+Número médio de órgãos participantes dos 
+eventos oficiais do SISP.
+
+Ind. 7.3 Número de órgãos que publicaram notícias 
+
+sobre TI no Portal do SISP.
+
+SISP
+
+SISP
+
+15
+
+50
+
+10
+
+17
+
+60
+
+20
+
+2015
+
+20
+
+100
+
+30
+
+   INICIATIVA ESTRATÉGICA
+
+Ini. 7.1
+
+Implementar processos que permitam o monitoramento das ações de interesse do SISP.
+
+Ini. 7.2
+
+Estimular parcerias entre os órgãos do SISP, Centros de Pesquisa, Universidades e Institutos.
+
+Ini. 7.3
+
+Aperfeiçoar os meios de colaboração e integração do SISP.
+
+ 
+
+25
+
+PERSPECTIVA: GOVERNO FEDERAL
+
+8. Promover a Gestão de 
+Conhecimento do SISP
+
+DESCRIÇÃO DO OBJETIVO
+
+Apoiar o uso das práticas relacionadas à gestão do conheci-
+mento, de forma a incentivar a cultura do compartilhamen-
+to e simplificação do acesso à informação na administração 
+pública, ampliando  a geração e a troca de informações en-
+tre as diversos órgãos  do SISP.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+Ind. 8.1
+
+Ind. 8.2
+
+Número de eventos técnicos do SISP 
+realizados com o tema Gestão do 
+Conhecimento.
+
+Número de órgãos com iniciativas internas 
+formalizadas para a implementação da 
+gestão do conhecimento
+
+SISP
+
+Órgãos 
+Setoriais
+
+1
+
+-
+
+META
+2014
+
+2
+
+5
+
+2015
+
+2
+
+10
+
+   INICIATIVA ESTRATÉGICA
+
+INI. 8.1
+
+Adotar práticas de gestão do conhecimento no SISP.
+
+INI. 8.2
+
+Aprimorar o ambiente para compartilhar conhecimento.
+
+INI. 8.3
+
+INI. 8.4
+
+Compartilhar projetos, ações ou soluções para o SISP.
+Prover informações que subsidiem a tomada de decisões estratégicas e a gestão  
+das políticas públicas.
+
+ 
+
+26
+
+PERSPECTIVA: SOCIEDADE
+
+9. Melhorar continuidade  
+a prestação de serviços  
+
+e a transparência de 
+
+informações à sociedade
+
+DESCRIÇÃO DO OBJETIVO
+
+Promover a melhoria dos serviços prestados aos cidadãos 
+brasileiros, por meio de ações de TI que contribuam para 
+a democratização e a transparência no acesso às informa-
+ções públicas e na conscientização dos direitos, e deveres 
+do cidadão.
+
+INDICADOR
+
+ABRANGÊNCIA
+
+2013
+
+META
+2014
+
+2015
+
+Ind. 9.1 Número de páginas web aderentes  
+
+ao e-MAG.
+
+SISP
+
+10%
+
+20%
+
+30%
+
+Ind. 9.2 Quantidade de serviços eletrônicos 
+
+catalogados no Guia de Serviços.
+
+SISP
+
+1100
+
+1300
+
+1500
+
+Ind. 9.3 Número de órgãos com cartas de serviços 
+
+cadastradas no Guia de Serviços.
+
+Órgãos 
+Setoriais
+
+Ind. 9.4
+
+Número de órgãos que disponibilizam 
+conjunto de dados no Portal de Dados 
+Abertos.
+
+SISP
+
+10
+
+30
+
+16
+
+42
+
+28
+
+50
+
+   INICIATIVA ESTRATÉGICA
+
+Oferecer serviços públicos de qualidade, baseados no Decreto Cidadão e de acordo com as 
+expectativas da sociedade.
+Desenvolver ações que estimulem a ampliação e melhoria  dos serviços eletrônicos 
+disponibilizados à sociedade.
+Desenvolver projetos de integração e gestão de serviços eletrônicos internos à Administração 
+Pública Federal.
+Evoluir as ferramentas e os instrumentos de apoio à acessibilidade na internet.
+
+Ampliar o acesso às informações e serviços públicos.
+
+Ini. 9.1
+
+Ini. 9.2
+
+Ini. 9.3
+
+Ini. 9.4
+
+Ini. 9.5
+
+ 
+
+27
+
+9.  SIGLAS
+
+SIGLA
+
+APF
+
+BSC
+
+DSI
+
+EGTI
+
+e-Ping
+
+e-Mag
+
+e-PWG
+
+IN
+
+DESCRIÇÃO
+
+Administração Pública Federal
+
+Balanced Score Card
+
+Departamento de Sistemas de Informação
+
+Estratégia de Geral de Tecnologia da Informação
+
+Padrões de Interoperabilidade de Governo Eletrônico
+
+Modelo de Acessibilidade de Governo Eletrônico
+
+Padrões Web em Governo Eletrônico
+
+Instrução Normativa
+
+MGP-SISP
+
+Metodologia de Gerenciamento de Projetos do SISP
+
+MP
+
+PDTI
+
+Ministério do Planejamento, Orçamento e Gestão
+
+Plano Diretor de Tecnologia da Informação
+
+PSW-SISP
+
+Processo de Software do SISP
+
+PPA
+
+SISP
+
+SLTI
+
+SPB
+
+TI
+
+Plano Plurianual
+
+Sistema de Administração de Recursos de Tecnologia da Informação
+
+Secretaria de Logística e Tecnologia da Informação
+
+Software Público Brasileiro
+
+Tecnologia da Informação
+
+28
+
+10.  GLOSSÁRIO
+
+ITEM
+
+Boa prática
+
+DESCRIÇÃO
+
+Existência de consenso geral de que a aplicação correta de habilidades, ferramentas e técnicas pode au-
+mentar as chances de sucesso em uma ampla gama de projetos.
+(Guia PMBOK, 4ª Edição, 2008)
+
+Capacitação
+
+Processo permanente e deliberado de aprendizagem, com o propósito de contribuir para o desenvolvi-
+mento de competências institucionais por meio do desenvolvimento de competências individuais.
+
+Dados Abertos
+
+e-MAG
+
+e-PING
+
+e-PWG
+
+Segundo a definição  da Open Knowledge Foundation, dados são abertos quando qualquer pessoa pode 
+livremente usá-los, reutilizá-los e redistribui-los, estando sujeito a, no máximo, a exigência de creditar a 
+sua autoria e compartilhar pela mesma licença. Isso geralmente é satisfeito pela publicação dos dados em 
+formato aberto e sob uma licença aberta.
+Consiste em um conjunto de recomendações a ser considerado para que o processo de acessibilidade dos 
+sítios e portais do governo brasileiro seja conduzido de forma padronizada e de fácil implementação.
+Padrões de Interoperabilidade de Governo Eletrônico, que definem um conjunto mínimo de premissas, 
+políticas e especificações técnicas que regulamentam a utilização da Tecnologia de Informação e Comuni-
+cação no governo federal, estabelecendo as condições de interação com os demais poderes e esferas de 
+governo e com a sociedade em geral.
+São recomendações de boas práticas agrupadas em formato de cartilhas com o objetivo de aprimorar a 
+comunicação e o fornecimento de informações e serviços prestados por meios eletrônicos pelos órgãos 
+do Governo Federal.
+
+Gestão do  
+Conhecimento
+
+A  gestão  do  conhecimento  pode  ser  vista  como  um  conjunto  de  processos  que  orientam  a  criação, 
+disseminação  e  utilização  do  conhecimento  para  atingir  plenamente  os  objetivos  da  organização. 
+(Davenport& Prusak, 1998)
+
+Governança 
+
+de TI
+
+InFraSIGS
+
+Inovação
+
+Consiste em aspectos de liderança, estrutura organizacional e processos que garantam que a área de TI da 
+organização suporte e aprimore os objetivos e as estratégias da organização. É de responsabilidade dos 
+executivos e da alta direção.
+(COBIT 4.1)
+Sistemas internos de informações gerenciais de cada instituição da Administração Pública Federal e, ge-
+ralmente, devem inserir ou obter informações dos sistemas estruturantes do governo. Eles têm o foco em 
+atender aos anseios da gestão interna da organização ao passo que os sistemas estruturantes focam-se 
+na gestão unificada do Estado. Exemplos de InfraSigs são: sistemas de patrimônio, almoxarifado, recursos 
+humanos de cada órgão.
+Inovação significa novidade  ou renovação, referindo-se a uma ideia, método ou objeto que é criado e que 
+pouco se parece com padrões anteriores. Pode ser também definida como fazer mais com menos recursos, 
+por permitir ganhos de eficiência em processos, quer produtivos quer administrativos ou financeiros, quer 
+na prestação de serviços, potenciar e ser motor de competitividade. A inovação quando cria aumentos de 
+competitividade pode ser considerada um fator fundamental no crescimento econômico de uma sociedade.
+
+Plano 
+
+Plurianual
+
+Instrumento legal de planejamento de maior alcance temporal no estabelecimento das prioridades e no 
+direcionamento das ações do governo. Estabelece para a administração pública, de forma regionalizada, as 
+diretrizes, objetivos e metas que orientarão a aplicação dos recursos públicos para um período equivalente 
+ao do mandato do chefe do Poder Executivo deslocado em um exercício (atualmente, quatro anos).
+
+Processo
+
+Representativo
+
+Tecnologia da  
+Informação
+
+Conjunto definido de atividades ou comportamentos executados por humanos ou máquinas para alcan-
+çar uma ou mais metas. Os processos são disparados por eventos específicos e apresentam um ou mais 
+resultados que podem conduzir ao término do processo ou a outro processo. Processos são compostos 
+por várias tarefas ou atividades inter-relacionadas e consomem recursos na sua execução (tempo, dinheiro, 
+materiais). (BPM-CBOK®)
+No âmbito do Comitê de TI, considera-se representativo quando a composição é feita pelos dirigentes das 
+áreas de negócio, tendo a efetiva participação e deliberação por parte de seus membros nas reuniões pe-
+riódicas.
+
+Recursos necessários para adquirir, processar, armazenar e disseminar informações. (NBR ISO/IEC 38500: 
+2009)
+
+29
+
+A n e x o s
+
+ANEXO 1 - Lista dos Órgãos integrantes do SISP
+
+Estão  relacionados,  a  seguir,  os  órgãos  que  compõem  o  SISP,  agrupando  os  setoriais  (31), 
+como seccionais (159) e correlatos (18).
+
+1. SETORIAIS
+
+Advocacia Geral da União - AGU
+
+Controladoria Geral da União - CGU
+
+Ministério das Relações Exteriores - MRE
+
+Ministério de Minas e Energia - MME
+
+Gabinete de Segurança Institucional - GSI
+
+Ministério do Desenvolvimento Agrário - MDA
+
+Ministério da Agricultura, Pecuária e Abastecimento – MAPA
+
+Ministério do Desenvolvimento Social e Combate à Fome - MDS
+
+Ministério da Ciência e Tecnologia – MCT
+
+Ministério do Desenvolvimento, Indústria e Comércio Exterior - MDIC
+
+Ministério da Cultura – MinC
+
+Ministério da Defesa – MD
+
+Ministério da Educação – MEC
+
+Ministério da Fazenda – MF
+
+Ministério da Integração Nacional – MI
+
+Ministério da Justiça – MJ
+
+Ministério da Pesca e Aquicultura – MPA
+
+Ministério da Previdência Social – MPS
+
+Ministério da Saúde – MS
+
+Ministério das Cidades - MCidades
+
+Ministério das Comunicações - MC
+
+Ministério do Esporte - ME
+
+Ministério do Meio Ambiente - MMA
+
+Ministério do Planejamento, Orçamento e Gestão - MPOG
+
+Ministério do Trabalho e Emprego - MTE
+
+Ministério do Turismo - MTur
+
+Ministério dos Transportes - MT
+
+Secretaria de Direitos Humanos - SDH
+
+Secretaria de Políticas para as Mulheres - SPM
+
+Secretaria de Portos - SEP
+
+Secretaria-Geral da Presidência da República
+
+2. SECCIONAIS 
+
+Agência Espacial Brasileira
+Agência Nacional de Águas - ANA
+Agência Nacional de Aviação Civil - ANAC
+Agência Nacional de Energia Elétrica - ANEEL
+Agência Nacional de Saúde Suplementar - ANS
+Agência Nacional de Telecomunicações - ANATEL
+
+Agência Nacional de Transportes Aquaviários – ANTAQ
+
+Agência Nacional de Transportes Terrestres – ANTT
+Agência Nacional de Vigilância Sanitária – ANVISA
+Agência Nacional do Cinema - ANCINE
+Agência Nacional do Petróleo - ANP
+Banco Central do Brasil – BCB
+Centro de Desenvolvimento de Tecnologia Nuclear – CDTN
+Centro Federal de Educação Tecnológica ´Celso Suckow da 
+Fonseca´
+
+Centro Federal de Educação Tecnológica de Minas Gerais
+
+Centro Regional de Ciências Nucleares do Nordeste – CRCN-NE
+
+Fundação Casa de Rui Barbosa
+Fundação Cultural Palmares - FCP
+Fundação Escola Nacional de Administração Pública - ENAP
+Fundação Instituto Brasileiro de Geografia e Estátistica – IBGE
+Fundação Instituto de Pesquisa Econômica Aplicada - IPEA
+Fundação Joaquim Nabuco
+Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do 
+Trabalho
+Fundação Nacional de Artes
+Fundação Nacional de Saúde - FUNASA
+Fundação Nacional do Índio - FUNAI
+Fundação Oswaldo Cruz - FIOCRUZ
+Fundação Universidade de Brasília - UNB
+Fundação Universidade do Amazonas
+
+Fundação Universidade Federal da Grande Dourados
+
+Fundação Universidade Federal de Ciências da Saúde de Porto 
+Alegre
+Fundação Universidade de Mato Grosso
+
+32
+
+Colégio Pedro II
+Comissão de Valores Mobiliários – CVM
+Comissão Nacional de Energia Nuclear – CNEN
+Conselho Administrativo de Defesa Econômica - CADE
+Conselho Nacional de Desenvolvimento Científico e Tecnológico – 
+CNPQ
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - 
+CAPES
+Departamento nacional de Infraestrutura de Transportes - DNIT
+Departamento Nacional de Obras Contra as Secas - DNOCS
+Departamento Nacional de Produção Mineral - DNPM
+Empresa Gerencial de Projetos Navais – ENGEPROM
+Fundação Alexandre de Gusmão
+Fundação Biblioteca Nacional - BN
+Fundação Universidade Federal do Maranhão
+Fundação Universidade Federal do Pampa
+Fundação Universidade Federal do Piauí
+Fundação Universidade do Rio Grande
+
+Fundação Universidade Federal do Tocantins
+
+Fundação Universidade Federal do Vale do São Francisco
+Fundo Nacional de Desenvolvimento
+Fundo Nacional de Desenvolvimento da Educação - FNDE
+Instituto Brasileiro de Museus – IBRAM
+Instituto Brasileiro de Turismo - EMBRATUR
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais 
+Renováveis - IBAMA
+
+Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio
+
+Instituto de Engenharia Nuclear – IEN
+
+Instituto de Pesquisas Energéticas e Nucleares – IPEN
+
+Instituto de Pesquisas Jardim Botânico do Rio de Janeiro - JBRJ
+
+Instituto de Radioproteção e Dosimetria – IRD
+
+Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN
+Instituto Federal de Educação, Ciência e Tecnologia  Sul-Rio-
+Grandense
+Instituto Federal de Educação, Ciência e Tecnologia Baiano
+
+Instituto Federal de Educação, Ciência e Tecnologia Catarinense
+
+Instituto Federal de Educação, Ciência e Tecnologia da Bahia – IFBA
+
+Instituto Federal de Educação, Ciência e Tecnologia da Paraíba
+
+Instituto Federal de Educação, Ciência e Tecnologia de Alagoas
+
+Instituto Federal de Educação, Ciência e Tecnologia de Brasília
+
+Instituto Federal de Educação, Ciência e Tecnologia de Goiás
+
+Instituto Federal de Educação, Ciência e Tecnologia do Tocantins
+
+Fundação Universidade Federal do Mato Grosso do Sul
+Fundação Universidade de Ouro Preto
+Fundação Universidade Federal de Pelotas
+Fundação Universidade Federal de Rondônia
+
+Fundação Universidade Federal de Roraima
+
+Fundação Universidade Federal de São Carlos
+
+Fundação Universidade Federal de São João Del Rei
+Fundação Universidade Federal de Sergipe
+Fundação Universidade de Viçosa
+Fundação Universidade Federal do ABC
+Fundação Universidade Federal do Acre
+Fundação Universidade Federal do Amapá
+Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais
+Instituto Federal de Educação, Ciência e Tecnologia de Pernambuco
+Instituto Federal de Educação, Ciência e Tecnologia de Rondônia
+Instituto Federal de Educação, Ciência e Tecnologia de Roraima
+Instituto Federal de Educação, Ciência e Tecnologia de Santa 
+Catarina – IFSC
+Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+Instituto Federal de Educação, Ciência e Tecnologia de Sergipe
+Instituto Federal de Educação, Ciência e Tecnologia do Acre
+Instituto Federal de Educação, Ciência e Tecnologia do Amapá
+Instituto Federal de Educação, Ciência e Tecnologia do Amazonas
+
+Instituto Federal de Educação, Ciência e Tecnologia do Ceará
+
+Instituto Federal de Educação, Ciência e Tecnologia do Espírito 
+Santo – IFES
+Instituto Federal de Educação, Ciência e Tecnologia do Maranhão
+Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso  
+- IFTM
+Instituto Federal de Educação, Ciência e Tecnologia do Mato Grosso 
+do Sul
+Instituto Federal de Educação, Ciência e Tecnologia do Norte de 
+Minas Gerais – IFNMG
+Instituto Federal de Educação, Ciência e Tecnologia do Pará
+
+Instituto Federal de Educação, Ciência e Tecnologia do Paraná
+
+Instituto Federal de Educação, Ciência e Tecnologia do Piauí
+Instituto Federal de Educação, Ciência e Tecnologia do Rio de 
+Janeiro
+Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande 
+do Norte
+Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande 
+do Sul
+
+Instituto Federal de Educação, Ciência e Tecnologia do Sertão 
+Pernambucano
+
+Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de 
+Minas Gerais
+Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas 
+Gerais
+Universidade Federal de Minas Gerais
+
+33
+
+Universidade Federal de Santa Catarina
+Universidade Federal de Santa Maria
+Universidade Federal de São Paulo
+Universidade Federal de Uberlândia
+Universidade Federal do Ceará
+
+Universidade Federal do Espírito Santo
+
+Universidade Federal do Estado do Rio de Janeiro
+
+Universidade Federal de Pernambuco
+
+Instituto Federal de Educação, Ciência e Tecnologia do Triângulo 
+Mineiro
+Instituto Federal de Educação, Ciência e Tecnologia Farroupilha
+Instituto Federal de Educação, Ciência e Tecnologia Fluminense
+Instituto Federal de Educação, Ciência e Tecnologia Goiano
+Instituto Nacional da Propriedade Industrial - INPI
+Instituto Nacional de Colonização e Reforma Agrária - INCRA
+Instituto Nacional de Estudos e Pesquisas Educacionais Anísio 
+Teixeira - INEP
+Instituto Nacional de Metrologia, Qualidade e Tecnologia - 
+INMETRO
+Universidade Federal do Oeste do Pará
+Instituto Nacional de Tecnologia da Informação – ITI
+Universidade Federal do Pará
+Instituto Nacional do Seguro Social – INSS
+Universidade Federal do Paraná
+Superintendência da Zona Franca de Manaus
+Universidade Federal do Recôncavo da Bahia
+Superintendência de Desenvolvimento do Centro-Oeste
+Universidade Federal do Rio de Janeiro
+Superintendência de Seguros Privados - SUSEP
+Universidade Federal do Rio Grande do Norte
+Superintendência do Desenvolvimento da Amazônia - SUDAM
+Superintendência do Desenvolvimento do Nordeste – SUDENE
+Universidade Federal do Rio Grande do Sul
+Superintendência Nacional de Previdência Complementar – PREVIC Universidade Federal do Triângulo Mineiro
+Universidade da Integração Internacional da Lusofonia Afro-
+Brasileira
+Universidade Federal da Bahia
+Universidade Federal da Fronteira Sul
+Universidade Federal da Integração Latino-Americana
+Universidade Federal da Paraíba
+Universidade Federal de Alagoas
+Universidade Federal de Alfenas
+Universidade Federal de Campina Grande
+Universidade Federal de Goiás
+Universidade Federal de Itajubá
+Universidade Federal de Juiz de Fora
+Universidade Federal de Lavras
+
+Universidade Federal Fluminense
+Universidade Federal Rural da Amazônia
+Universidade Federal Rural de Pernambuco
+Universidade Federal Rural do Rio de Janeiro
+Universidade Federal Rural do Semi-Árido
+Universidade Tecnológica Federal do Paraná
+
+Universidade Federal dos Vales do Jequitinhonha e Mucuri
+
+3. CORRELATOS
+
+Agência  Brasileira de Inteligência – ABIN
+Arquivo Nacional – AN
+Departamento de Polícia Federal – DPF
+Departamento de Polícia Rodoviária Federal – DPRF
+Escola de Administração Fazendária – ESAF
+Gabinete do Ministério do Planejamento
+Hospital das Forças Armadas – HFA
+Imprensa Nacional - IN
+Instituto Brasileiro de Informação em Ciência e Tecnologia – IBICT
+Instituto Nacional de Cardiologia – INC/SAS
+
+Instituto Nacional de Pesquisas Espaciais - INPE
+Laboratório Nacional de Computação Científica – LNCC
+Observatório Nacional - ON
+Procuradoria-Geral da Fazenda Nacional - PGFN
+Secretaria da Receita Federal do Brasil - RFB
+Secretiaria de Orçamento Federal - SOF
+Secretaria de Patrimônio da União - SPU
+Secretaria de Planejamento e Investimentos Estratégicos - SPI
+Secretaria de Gestão Pública - SEGEP
+Secretaria do Tesouro Nacional – STN
+
+34
+
+ANEXO 2 – Análise Ambiental
+
+A  seguir,  estão  relacionados  os  tópicos  que  identificam  a  análise  ambiental,  no  contexto 
+interno e externo do SISP. No ambiente interno ao SISP, destacam-se os pontos fortes que dão 
+suporte à execução das estratégias e pontos fracos que identificam a carência do Sistema. No 
+ambiente  externo,  tem-se  as  oportunidades  e  ameaças,  sendo  fatores  externos  que  podem 
+influenciar positivamente ou  negativamente a execução das estratégias.
+
+PONTOS FORTES
+
+Competência Formal
+A existência da Instrução Normativa 04/2012 que 
+dispõe sobre contratação de soluções de TI
+Competência formal na definição de políticas e 
+normas de TI.
+Existência de padrões e modelos para apoiar os 
+órgãos em seu processo de gestão e governança de 
+TI.
+
+Produtos e Serviços
+
+Capacidade instalada da Infovia.
+
+AMBIENTE INTERNO
+
+PONTOS FRACOS
+
+Maturidade Institucional
+Diversidade de maturidade de TI entre os órgãos e desnível entre a qualificação 
+das equipes de TI.
+
+Baixa participação da área de TI dos órgãos nas decisões institucionais.
+
+Comitê de TI inexistente, não atuante ou não estruturado da maneira adequada, 
+tendo como foco garantir a participação da alta administração nas decisões de TI.
+
+Dificuldades na execução do processo de contratação e uso inadequado das 
+modalidades relacionadas.
+Pouco aproveitamento da capacidade de influência política do SISP, com baixo 
+alinhamento de ações e programas de governo relacionados aos órgãos do sistema
+
+A existência da C3S, com destaque para as 
+consultorias oferecidas pelo órgão central do SISP.
+Capacitações técnicas e de aperfeiçoamento 
+profissinal ofertadas pelas escolas de governo.
+Existência de soluções compartilhadas no catálogo de 
+software do SISP.
+Realização de compras compartilhadas.
+Capilaridade na atuação dos profissionais do SISP 
+(descentralização dos ATI, GSISP e consultores).
+
+Contexto Ambiental
+
+O autoconhecimento dos órgãos, que têm clareza de 
+seus pontos fortes e fracos.
+
+Ambiente propício à inovação.
+
+ Baixa adoção de padrões tecnológicos do governo.
+
+Gestão de Pessoas
+
+Ausência de método para proposição de quadro de pessoal de TI do SISP.
+
+Quadro reduzido de pessoal de TI.
+Servidores com GSISP realizando atividades diferentes das inerentes à 
+gratificação.
+Alta rotatividade de pessoal de TI devido à ausência de carreira de TI e aos 
+salários atuais não atraentes.
+Terceirização de atividades de gestão, haja vista o quadro reduzido e a carência 
+de pessoal qualificado para as atividades.
+ Integração e Comunicação Institucional
+Baixa integração entre os órgãos do SISP.
+Comunicação pouco efetiva entre os órgãos do SISP- Baixo alinhamento entre 
+ações da SLTI (órgão central) e as necessidades dos órgãos.
+Divergência quanto ao entendimento das competências do SISP por parte dos 
+dirigentes de TI.
+
+ Carência de ações e projetos relacionados à gestão do conhecimento e baixa 
+disponibilidade de informações sobre experiências de TI dos órgãos do SISP.
+
+Gestão e Governança
+Baixa utilização dos métodos de gerenciamento por processos e por projetos.
+Dificuldade de aplicar as boas práticas propostas para a gestão e governança de TI.
+Falta de padrão governamental para desenvolvimento de sistemas e grande 
+diversidade de soluções para atender os mesmos objetivos.
+Gestão Orçamentária
+Não há rubrica específica para o orçamento da TI.
+Falta de autonomia da área de TI para gerir os recursos orçamentários com pouco 
+diálogo entre esta e a área responsável pelo orçamento no órgão.
+
+35
+
+OPORTUNIDADES
+
+AMEAÇAS
+
+AMBIENTE EXTERNO
+
+Tecnologia da Informação
+Aumento da prioridade de projetos relevantes para a área de 
+TI, devido a realização dos grandes eventos esportivos (Copa e 
+Olimpíadas).
+Crescimento do uso da TI pela Administração Pública Federal.
+
+Crescimento do uso de recursos tecnológicos pela sociedade.
+Destaque da agenda de Governança de TI no governo.
+
+Aumento da institucionalidade e reconhecimento do Software 
+Público Brasileiro – SPB.
+Gestão
+
+Amadurecimento da gestão governamental em TI, refletindo em 
+aprimoramento dos fornecedores de serviço ao governo.
+Disponibilização e possibilidade de acesso a financiamentos 
+internacionais para TI.
+Uso dos instrumentos e orientações disponibilizados pela 
+GesPública para promover o desenvolvimento da gestão das áreas 
+de TI.
+Diversidade de soluções de TI no mercado.
+
+Transparência
+A Lei de Acesso a Informação que exige, para ser cumprida, que os 
+órgãos tenham maior organização e facilidade no acesso aos dados 
+e informações
+Integração e Comunicação
+Crescente uso das redes sociais, que facilitam o compartilhamento 
+da informação.
+Aumento de demanda por mobilidade no uso de serviços de TIC.
+Evolução do segmento da tecnologia da comunicação.
+Estabelecimento de parcerias com outros órgãos de outros poderes, 
+visando ações sinérgicas.
+
+Integração e Comunicação
+Falta de conhecimento das competências do SISP por parte da alta 
+administração do governo.
+
+Baixa sinergia e pouco alinhamento entre programas e políticas de 
+governo
+Alterações de prioridade das políticas governamentais
+Alinhamento com a TI
+Definições de programas de governo sem posicionamento da TI
+
+Pouca percepção das áreas de negócio em relação à realidade e às 
+características das áreas de TI
+Falta de apoio da alta administração do governo em relação às 
+diretrizes do SISP.
+Influência do mercado
+
+Poder de articulação de empresas em processos licitatórios de TI.
+
+Baixo interesse dos fornecedores líderes de mercado em participar 
+das aquisições governamentais de TI, dadas as condições praticadas
+Gestão de Pessoas
+Atratividade de outras carreiras dos poderes legislativo e judiciário, 
+bem como de outras esferas
+
+Gestão Orçamentária
+Contingenciamento orçamentário.
+
+Altos custos dos serviços de TI.
+Orçamento insuficiente para atender às demandas da TI.
+
+36
+
+ANEXO 3 – Plano de Metas 2011-2012
+
+Meta 1 - Fortalecer o quadro de pessoal de TI nos órgãos integrantes do SISP
+
+Meta 2 - Reduzir a saída de servidores das unidades de TI dos órgãos integrantes do SISP
+
+37
+
+Meta 3 - Aumentar o quantitativo de servidores de TI capacitados nos programas de 
+treinamento do SISP
+
+Meta 4 - Aprimorar o processo de gestão orçamentária
+
+38
+
+Meta 5 - Promover o aumento do nível de maturidade de governança em Ti no âmbito 
+do SISP
+
+Meta 6 - Promover a Segurança de Tecnologia da Informação e de Comunicações nos 
+órgãos integrantes do SISP
+
+39
+
+Meta 7: Estimular parcerias entre os órgãos do SISP, Centros de Pesquisa, Universidades 
+e Institutos para realização de pesquisas em governança e gestão de TI no setor público.
+
+Dentre os órgãos que informaram os resultados atuais das metas e ações para o biênio 2011-
+2012, não houve adesão à meta 07.
+
+Meta 8 - Adotar um processo formal de gestão de projetos baseado nas melhores prátias 
+de mercado
+
+40
+
+Meta 9 - Adotar processo de Contratações de Soluções Conforme a IN SLTI 04/2010 e o 
+Manual de Contratações de Soluções de TI
+
+Meta 10 - Definir e formalizar um processo de desenvolvimento de software
+
+41
+
+Meta 11 - Aprimorar processo de gestão de serviços de TI
+
+Meta 12 - Promover o aumento dos níveis de maturidade na adesão dos padrões e-ping
+
+42
+
+Meta 13 - Promover a adoção de soluções de Software padronizadas na APF
+
+Meta 14 - Estimular a adoção de serviços ofertados pela lNFOVIA
+
+43
+
+Meta 15 - Promover processos de contratações conjuntas
+
+Meta 16 - Estimular a criação e utilização de software público no âmbito do SISP
+
+44
+
+Meta 17 - Aumentar a utilização de serviços de Governo Eletrônico
+
+Meta 18 - Aumentar o percentual de páginas Web aderentes aos padrões de 
+acessibilidade do Governo Federal (e-MAG)
+
+45
+
+ANEXO 4 – Pesquisa Situacional 2012 – Órgãos Setoriais
+
+Com o objetivo de obter subsídios para a elaboração da EGTI 2013-2015, realizou-se uma 
+pesquisa situacional junto aos órgãos setoriais do SISP. A pesquisa foi aplicada em formato 
+de questionário durante a reunião da Comissão de Coordenação do SISP realizada dia 25 de 
+junho de 2012. Na oportunidade, os presentes deliberaram que os demais órgãos pudessem 
+ter a oportunidade de responder ao questionário, sendo o período de preenchimento definido 
+para 25 de junho à 03 de julho de 2012. Do total de 28 órgãos setoriais, teve-se 21 órgãos 
+respondentes.
+
+Período de 25/06 a 03/07/2012.
+
+Objetivo: obter subsídios para a elaboração da EGTI 2013-2015, tendo como público-alvo os 
+órgãos setoriais, que são foco para os trabalhos realizados pela SLTI/MP, órgão central do SISP.
+
+Método de Aplicação:
+
+* Reunião da Comissão de coordenação do SISP, realizada dia 25/06;
+* Para os que não compareceram à reunião, preenchimento eletrônico, dando um prazo de 5 
+dias úteis para retorno. 
+* Em ambos os casos, o órgão poderia não se identificar.
+Índice de Retorno: 75% (21 de 28)
+
+1. A alta administração tem consciência da necessidade de governar a TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+
+Discordo parcialmente
+
+Nem concordo, nem discordo
+
+Concordo parcialmente
+
+Concordo totalmente
+
+3
+
+2
+
+3
+
+5
+
+8
+
+14%
+
+10%
+
+14%
+
+24%
+
+38%
+
+2. O comitê de TI tem direcionado, monitorado e avaliado  
+os projetos e as atividades da TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+
+Discordo parcialmente
+
+Nem concordo, nem discordo
+
+Concordo parcialmente
+
+Concordo totalmente
+
+3
+
+3
+
+2
+
+7
+
+6
+
+46
+
+14%
+
+14%
+
+10%
+
+33%
+
+29%
+
+3. O planejamento de TI está alinhado às necessidades  
+das áreas finalísticas do órgão.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+3
+2
+10
+4
+
+5%
+14%
+10%
+48%
+19%
+
+4. O planejamento de TI tem sido um instrumento efetivo da gestão de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+3
+1
+3
+7
+6
+
+14 %
+5 %
+14 %
+33 %
+29 %
+
+5. O orçamento de TI é suficiente para a execução do planejamento de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+5
+5
+3
+4
+4
+
+24 %
+24 %
+14 %
+19 %
+19 %
+
+6. A unidade de TI participa do planejamento orçamentário.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+3
+5
+1
+7
+5
+
+14 %
+24%
+5 %
+33 %
+24 %
+
+7. A unidade de TI possui autonomia para realizar a gestão do orçamento de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+24 %
+14 %
+ 10 %
+33 %
+19 %
+
+5
+3
+2
+7
+4
+
+47
+
+8. A quantidade de servidores da unidade de TI é suficiente  
+para realizar as atividades de gestão de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+10
+7
+0
+3
+1
+
+48 %
+ 33 %
+ 0 %
+14%
+1 %
+
+9. Os servidores da unidade de TI estão capacitados para exercerem  
+atividades de gestão de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+9
+5
+4
+2
+
+5%
+43 %
+ 24 %
+19 %
+10 %
+
+10. A oferta de cursos do SISP atende às demandas por capacitação da unidade 
+de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+2
+6
+4
+7
+2
+
+10 %
+29 %
+19 %
+33 %
+10 %
+
+11. Os cursos do SISP estão alinhados às necessidades de desenvolvimento de 
+competências da unidade de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+5 %
+10 %
+19 %
+43 %
+24 %
+
+1
+2
+4
+9
+5
+
+48
+
+12. Os servidores de TI capacitados nos cursos do SISP têm demonstrado as 
+competências requeridas.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+2
+3
+11
+4
+
+5 %
+10 %
+14 %
+52 %
+19 %
+
+13. Em geral, percebo que os servidores estão interessados e motivados a 
+permanecer trabalhando na unidade de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+4
+3
+7
+6
+
+5 %
+19 %
+14 %
+33 %
+42 %
+
+14. A área de TI é capaz de contratar soluções de TI e gerir contratos conforme a 
+IN SLTI 04/2010.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+2
+3
+7
+9
+
+0 %
+10 %
+14 %
+33 %
+43 %
+
+15. Estou satisfeito(a) com a qualidade dos serviços prestados pelos 
+fornecedores do mercado privado.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0 %
+19 %
+38 %
+38 %
+0 %
+
+0
+2
+8
+8
+0
+
+49
+
+16. Estou satisfeito(a) com a qualidade dos serviços prestados pelo 
+fornecedores que são empresas públicas de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+7
+6
+7
+1
+
+0 %
+33 %
+29 %
+33 %
+5 %
+
+17. Os processos de compras compartilhadas do SISP atendem às necessidades 
+e expectativas de prazo, qualidade e custo da unidade de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+2
+7
+4
+7
+0
+
+10 %
+33 %
+19 %
+33 %
+0 %
+
+18. Sinto-me motivado(a) participar de processos de compras  
+compartilhadas do SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+6
+5
+6
+3
+
+5 %
+29 %
+24 %
+29 %
+14 %
+
+19. Os sítios web, os sistemas de informação e a infraestrutura de TI estão 
+aderentes aos padrões e-PING.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0 %
+19 %
+24 %
+52 %
+5 %
+
+0
+4
+11
+5
+1
+
+50
+
+20. Os sítios web, serviços eletrônicos, intranets e demais sistemas de 
+informação estão aderentes aos padrões e-MAG.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+5
+4
+8
+4
+
+0 %
+24 %
+19 %
+38 %
+19 %
+
+21. Os sítios web, serviços eletrônicos, intranets e demais sistemas de 
+informação estão aderentes aos padrões e-PWG.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+5
+4
+7
+2
+
+5 %
+24 %
+19 %
+33 %
+10 %
+
+22. Os guias e manuais do SISP atendem as necessidades de conhecimento de 
+gestão e de governança de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+1
+4
+10
+5
+
+5 %
+5 %
+19 %
+48 % 
+24 %
+
+23. A unidade de TI utiliza as soluções do Portal do Software Público.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+10 %
+5 %
+24 %
+38 %
+24 %
+
+2
+1
+5
+8
+5
+
+51
+
+24. Estou satisfeito(a) com qualidade das soluções do Portal do  
+Software Público.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+1
+9
+7
+3
+
+5 %
+5 %
+43 %
+33 %
+14 %
+
+25. Os serviços oferecidos pela C3S atendem às necessidades de gestão e de 
+conhecimento da unidade de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+2
+8
+10
+1
+
+5 %
+10 %
+38 %
+48 %
+5 %
+
+26. A forma de atuação dos consultores da C3S atende as necessidades de 
+consultoria da unidade de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+4
+7
+8
+2
+
+0 %
+19 %
+33 %
+38 %
+10 %
+
+27. A EGTI 2011-12 têm sido um instrumento efetivo de promoção da melhoria 
+da governança e da gestão de TI dos órgãos integrantes do SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+10 %
+10 %
+14 %
+43 %
+24 %
+
+2
+2
+3
+9
+5
+
+52
+
+28. As metas e ações definidas no Plano de Metas enviado à SLTI têm sido 
+realizadas pela unidade de TI.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+1
+8
+5
+6
+
+5 %
+5 %
+38 %
+43 %
+24 %
+
+29. Sinto-me motivado(a) a participar das reuniões da Comissão de 
+Coordenação do SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+1
+3
+8
+9
+
+0 %
+5 %
+14 %
+38 %
+43 %
+
+30. Sinto-me motivado(a) a participar dos eventos promovidos pelo SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+2
+2
+8
+9
+
+0 %
+10 %
+10 %
+38 %
+43 %
+
+31. Sinto-me motivado(a) a colaborar nos grupos de trabalho e núcleos do SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+5 %
+10 %
+14 %
+38 %
+43 %
+
+1
+2
+3
+7
+8
+
+53
+
+32. Estou satisfeito(a) com a comunicação institucional do SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+3
+3
+6
+9
+
+0 %
+14 %
+14 %
+29 %
+43 %
+
+33. A atuação da SLTI considera a realidade dos órgãos integrantes do SISP.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+1
+5
+1
+9
+5
+
+5 %
+24 %
+5 %
+43 %
+24 %
+
+34. A SLTI tem envolvido os órgãos integrantes do SISP nas decisões relativas ao 
+sistema.
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+0
+2
+4
+9
+6
+
+35. A atuação da SLTI tem fortalecido o SISP.
+
+0 %
+10 %
+19 %
+43 %
+29 %
+
+Nº ÓRGÃOS
+
+PERCENTUAL
+
+Discordo totalmente
+Discordo parcialmente
+Nem concordo, nem discordo
+Concordo parcialmente
+Concordo totalmente
+
+5 %
+5 %
+10 %
+38 %
+43 %
+
+1
+1
+2
+8
+9
+
+54
+
+36. Que assunto importante e não mencionado nessa pesquisa deve  merecer 
+atenção na elaboração da EGTI 2013-20 15?
+
+• Armazenamento de dados único no Governo Federal
+
+• Infovia unificada
+
+• Ferramentas de TI da alta adm. Unificadas
+
+• Padronização dos sistemas (amigáveis) na adm.
+
+• A forma como o planejamento orçamentário vem sendo conduzido nos órgãos do SISP.
+
+• A exemplo do TCU, o SISP deveria ter um índice de Governança do SISP, de onde o grupo 
+de consultores da SLTI, junto com o órgão, poderiam partir para um plano de crescimento/
+amadurecimento do órgão de forma planejada.
+
+• A utilização de terceirizados atende plenamente aos serviços de TI? Minha resposta é: não.
+
+55
+
+ANEXO 5 – Documentação dos Indicadores
+
+Objetivo estratégico primário: 1.Aprimorar a gestão de pessoas de TI
+
+Código:
+
+Ind. 1.1
+
+Nome do indicador: Número de capacitações realizadas por servidores 
+
+em competências alinhadas com a EGTI.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados: Núcleo de Gestão de pessoas do SISP
+Fórmula de cálculo: Somatório do número de servidores 
+
+capacitados, incluindo os cursos do Programa de 
+Desenvolvimento de Gestores de TI na ENAP em 
+forma presencial ou virtual, seminários, eventos 
+técnicos e demais capacitações.
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+1875
+
+Jun
+–
+
+Dez
+2500
+
+Jun
+–
+
+Dez
+3125
+
+Objetivo estratégico primário: 1.Aprimorar a gestão de pessoas de TI
+
+Código:
+
+Ind. 1.2
+
+Nome do indicador: Número de órgãos com mapeamento de 
+
+competências relacionadas à área de TI.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos Setorias
+
+Fórmula de cálculo: Somatório do número de órgãos com competências 
+
+relacionadas a área de TI mapeadas anualmente.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos Setoriais
+
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+–
+
+Jun
+–
+
+Dez
+5
+
+Jun
+–
+
+Dez
+15
+
+56
+
+Objetivo estratégico primário: 1.Aprimorar a gestão de pessoas de TI
+
+Código:
+
+Ind. 1.3
+
+Nome do indicador: Percentual anual de evasão dos servidores que 
+
+recebem a gratificação GSISP.
+
+Interpretação do indicador / Recomendações: Menor melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Percentual (%)
+
+Fonte de dados: Núcleo de Gestão de pessoas do SISP
+
+Fórmula de cálculo:
+
+(Número de servidores exonerados durante o 
+exercício / número total de vagas ocupadas no início 
+do exercício) * 100.
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+5%
+
+Jun
+–
+
+Dez
+4%
+
+Jun
+–
+
+Dez
+3%
+
+Objetivo estratégico primário: 2.Aperfeiçoar a gestão orçamentária de TI
+
+Código:
+
+Ind. 2.1
+
+Nome do indicador: Número de órgãos que possuem um processo 
+
+formalizado de gestão orçamentária de TI.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos com processo 
+
+formal de gestão orçamentária de TI.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+50
+
+Jun
+–
+
+Dez
+65
+
+Jun
+–
+
+Dez
+80
+
+57
+
+Objetivo estratégico primário: 2.Aperfeiçoar a gestão orçamentária de TI
+
+Código:
+
+Ind. 2.2
+
+Nome do indicador: Número de órgãos em que a área de TI acompanha 
+
+o planejamento e a execução do orçamento de TI
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos onde a área de 
+TI acompanha o planejamento e a execução do 
+orçamento de TI
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+50
+
+Jun
+–
+
+Dez
+65
+
+Jun
+–
+
+Dez
+80
+
+Objetivo estratégico primário: 2.Aperfeiçoar a gestão orçamentária de TI
+
+Código:
+
+Ind. 2.3
+
+Nome do indicador: Número de órgãos que possuem dotação 
+
+orçamentária/rubrica específica de TI.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados: Órgãos Setoriais
+
+Fórmula de cálculo: Somatório do número de órgãos setoriais que 
+
+possuem dotação orçamentária/rubrica específica 
+de TI
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos Setoriais
+
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+10
+
+Jun
+–
+
+Dez
+15
+
+Jun
+–
+
+Dez
+20
+
+58
+
+Objetivo estratégico primário: 3.Aperfeiçoar a governança de TI
+
+Código:
+
+Ind. 3.1
+
+Nome do indicador: Número de órgãos que realizaram no mínimo 4 
+
+(quatro) reuniões do Comitê de TI.
+
+Interpretação do indicador / Recomendações: Maior melhor.
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que realizaram ao 
+
+menos quatro (4) reuniões registradas em atas do 
+Comitê de TI.
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+7
+
+Jun
+–
+
+Dez
+15
+
+Jun
+–
+
+Dez
+25
+
+Objetivo estratégico primário: 3.Aperfeiçoar a governança de TI
+
+Código:
+
+Ind. 3.2
+
+Nome do indicador: Número de órgãos com PDTI publicado e vigente.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que possuem PDTI 
+publicado e vigente para o ano subsequente ao da 
+apuração.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: Deve-se considerar os órgãos do SISP que possuem 
+
+PDTI disponível para consulta na internet e 
+intranet dos órgãos, bem como o extrato ou link 
+da localização do documento publicado no Diário 
+Oficial da União, vigente para o ano subsequente ao 
+da apuração do indicador.
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+Jun
+–
+
+Dez
+100
+
+2014
+
+Jun
+–
+
+Dez
+120
+
+2015
+
+Jun
+–
+
+Dez
+140
+
+59
+
+Objetivo estratégico primário: 3.Aperfeiçoar a governança de TI
+
+Código:
+
+Ind. 3.3
+
+Nome do indicador: Número de órgãos com PDTI aderente ao modelo 
+
+de referência do SISP.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados: Órgãos Setoriais
+
+Fórmula de cálculo: Somatório do número de órgãos setoriais que 
+
+possuem PDTI aderente ao Modelo de Referência de 
+PDTI do SISP.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos Setoriais
+
+Responsável pela apuração: Órgão Central
+
+Observação: Deve-se considerar os órgãos que possuem PDTI 
+
+com conteúdo mínimo orientado pelo Guia de 
+Elaboração de PDTI do SISP.
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+10
+
+Jun
+–
+
+Dez
+15
+
+Jun
+–
+
+Dez
+20
+
+Objetivo estratégico primário: 4.Alcançar a efetividade na gestão de TI
+
+Código:
+
+Ind. 4.1
+
+Nome do indicador: Número de órgãos que adotam  processos formais 
+
+de gerenciamento de projetos baseadas na 
+Metodologia de Gerenciamento de Projetos do SISP 
+(MGP-SISP) ou em outra metodologia.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que possuem 
+
+processos formais para gerenciamento de projetos.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+40
+
+Jun
+–
+
+Dez
+50
+
+Jun
+–
+
+Dez
+60
+
+60
+
+Objetivo estratégico primário: 4.Alcançar a efetividade na gestão de TI
+
+Código:
+
+Ind. 4.2
+
+Nome do indicador: Número de órgãos que adotam processos formais de 
+
+gestão de Serviços de TI.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que 
+
+disponibilizaram os fluxos dos processos 
+formalizados gestão de Serviços de TI.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+
+Jun
+
+Dez
+50
+
+Jun
+
+Dez
+60
+
+Dez
+80
+
+Objetivo estratégico primário: 4.Alcançar a efetividade na gestão de TI
+
+Código:
+
+Ind. 4.3
+
+Nome do indicador: Número de órgãos que adotam o processo de 
+software do SISP (PSW-SISP) ou outro processo 
+formal de software.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+- Órgãos do SISP
+- Fluxos dos processos enviados pelos órgãos
+
+Fórmula de cálculo: Somatório do número de órgãos que 
+
+disponibilizaram os fluxos dos processos de 
+desenvolvimento de software
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+60
+
+Jun
+–
+
+Dez
+70
+
+Jun
+–
+
+Dez
+80
+
+61
+
+Objetivo estratégico primário: 5. Fomentar a adoção de padrões tecnológicos e 
+
+soluções de TI
+Ind. 5.1
+
+Código:
+
+Nome do indicador: Número de serviços disponibilizados no catálogo de 
+
+serviços interoperáveis.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Qualidade do produto / serviço
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+- Órgãos do SISP
+- Formulário de documentação de serviços de 
+interoperabilidade enviado pelos órgãos.
+
+Fórmula de cálculo: Somatório do número de serviços disponíveis no 
+
+catálogo de serviços interoperáveis
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+14
+
+Jun
+–
+
+Dez
+18
+
+Jun
+–
+
+Dez
+22
+
+Objetivo estratégico primário: 5. Fomentar a adoção de padrões tecnológicos e 
+
+soluções de TI
+Ind. 5.2
+
+Código:
+
+Nome do indicador: Número de órgãos que utilizam solução 
+
+disponibilizada no portal do SPB.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Cobertura
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que utilizam as 
+soluções disponibilizadas no Portal do Software 
+Público.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: Deve-se considerar os órgãos que efetivamente 
+
+utilizam soluções do Portal do SPB em seus 
+processos rotineiros.
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+7
+
+Jun
+–
+
+Dez
+19
+
+Jun
+–
+
+Dez
+25
+
+ 
+
+62
+
+Objetivo estratégico primário: 5. Fomentar a adoção de padrões tecnológicos e 
+
+soluções de TI
+Ind. 5.3
+
+Código:
+
+Nome do indicador: Número de órgãos que utilizam serviços da 
+
+INFOVIA.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que usam os 
+
+serviços da rede de dados governamental, levando-
+se em consideração voz e vídeoconferência.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: Deve-se considerar os órgão que contrataram os 
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+seviços de voz e vídeoconfrência.
+2014
+
+2013
+
+2015
+
+Jun
+–
+
+Dez
+76
+
+Jun
+–
+
+Dez
+79
+
+Jun
+–
+
+Dez
+81
+
+Objetivo estratégico primário: 5. Fomentar a adoção de padrões tecnológicos e 
+
+soluções de TI .
+Ind. 5.4
+
+Código:
+
+Nome do indicador: Número médio de órgãos participantes dos 
+
+processos de compras compartilhadas de soluções 
+de TI.
+
+Interpretação do indicador / Recomendações: Maior – Melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+Fórmula de cálculo:
+
+- Órgãos do SISP
+- DW – SIASG
+(Somatório do número de órgãos participantes dos 
+processos compras compartilhadas) / (Quantidade 
+de processos de compras compartilhadas)
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+63
+
+Observação: Na apuração do indicador serão consideradas apenas as 
+compras e contratações efetuada por SRP, pelos órgãos 
+integrantes do SISP, com 2 ou + órgãos participantes. 
+A  apresentação  do  indicador  será  em  quantidade  e 
+em  percentual  da  variação  de  um  ano  para  o  outro.  
+A meta estabelecida prevê um acréscimo de cerca de 
+50% para 2015, de forma escalonada, em relação ao 
+volume atual.
+Não são considerados nesta conta os “caronas”.
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+20
+
+Jun
+–
+
+Dez
+25
+
+Jun
+–
+
+Dez
+28
+
+Objetivo estratégico primário: 6. Garantir a segurança da informação e 
+
+comunicações
+Ind. 6.1
+
+Código:
+
+Nome do indicador: Número de órgãos com as determinações da IN01/
+GSI e suas normas complementares formalizadas e 
+em execução
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório da quantidade de órgãos do SISP que 
+
+implantaram práticas de segurança da informação 
+de acordo com as normas do GSI.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+64
+
+Observação:
+
+Identificação  da  abrangência  do  aplicação  das 
+determinações sobre segurança da informação emitidas 
+pelo GSI no âmbito do SISP.
+Atender  os  seguintes  aspectos  da  IN01  GSI/PR  de 
+13/06/2008 e suas normas complementares, de acordo 
+com as orientações a seguir:
+Primeira etapa:
+Elaboração de Política de Segurança da Informação e 
+Comunicações de acordo com a Norma Complementar 
+03/IN01/DSCI/GSIPR,  de  30/06/2009  (com  especial 
+atenção para os itens “5 – Elaboração da POSIC”, “6 
+–  Institucionalização  da  POSIC”,  “7  –  Divulgação  da 
+POSIC”)
+Criação  de  Equipe  de  Tratamento  e  Resposta  de 
+Incidentes  em  Redes  Computacionais  –  ETIR  de 
+acordo  com  a  Norma  Complementar  05/IN01/DSCI/
+GSIPR, de 14/08/2009 (com especial atenção para os 
+modelos  de  implementação  -  Item  7  -    e  autonomia 
+da ETIR - item 9), e Norma Complementar 08/IN01/
+DSCI/GSIPR, de 19/08/2009 (em especial os itens “6 – 
+Relacionamentos da ETIR”, “7 – Gestão de Serviços”, 
+além dos procedimentos mínimos previstos no item “8 
+– disposições gerais”)
+Estabelecimento de métodos para Gestão de Risco de 
+SIC, de acordo com a Norma Complementar 04/IN01/
+DSCI/GSIPR, de 14/08/2009;
+Segunda Etapa:
+Estabelecimento  de  Gestão  de  Continuidade  de 
+Negócios em SIC de acordo com a Norma Complementar 
+06/IN01/DSCI/GSIPR,  de  11/11/2009, 
+a 
+elaboração, no mínimo, dos seguintes planos: Plano de 
+Gerenciamento  de  Incidentes;  Plano  de  Continuidade 
+de  Negócios;  e  Plano  de  Recuperação  de  Negócios 
+(conforme descritos no item “5 – Procedimentos”)
+Estabelecimento de Controles de Acesso relativos a SIC 
+de acordo com a Norma Complementar 07/IN01/DSCI/
+GSIPR, de 06/05/2010
+
+com 
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+30
+
+Jun
+–
+
+Dez
+40
+
+Jun
+–
+
+Dez
+50
+
+65
+
+Objetivo estratégico primário: 6. Garantir a segurança da informação e 
+
+comunicações
+Ind. 6.2
+
+Código:
+
+Nome do indicador: Percentual médio de servidores dos órgãos 
+
+capacitados em Segurança da Informação
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Abrangência
+
+Unidade de medida: Percentual
+
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório da quantidade de servidores capacitados 
+
+em segurança da informação dividido pela 
+quantidade total de servidores ativos nos órgãos 
+da administração pública direta, fundacional e 
+autárquica.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos públicos da administração direta, 
+
+fundacional e autárquica
+
+Responsável pela apuração: Órgão Central
+
+Observação: Atender  os  serviços  previstos  no  item  7.2  da  Norma 
+Complementar  08/IN01/DSCI/GSIPR,  de  19/08/2009; 
+e  Desenvolver  competências  para  atender  o  previsto 
+na    Norma  Complementar  04/IN01/DSCI/GSIPR,  de 
+14/08/2009
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+1%
+
+Jun
+–
+
+Dez
+2%
+
+Jun
+–
+
+Dez
+3%
+
+Objetivo estratégico primário: 6. Garantir a segurança da informação e 
+
+comunicações
+Ind. 6.3
+
+Código:
+
+Nome do indicador: Número de órgãos com mapeamento das 
+
+infraestruturas críticas de informação (do último 
+biênio) publicado
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Abrangência
+
+Unidade de medida: Unidade (UN)
+Fonte de dados: Órgãos do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que publicou 
+o mapeamento das infraestruturas críticas de 
+informação
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgão Central
+Responsável pela apuração: Órgãos do SISP
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+–
+
+Jun
+–
+
+Dez
+–
+
+Jun
+–
+
+Dez
+30
+
+66
+
+Objetivo estratégico primário: 7. Fortalecer a comunicação e a integração 
+
+institucional do SISP.
+Ind. 7.1
+
+Código:
+
+Nome do indicador: Número médio de órgãos setoriais participantes das 
+
+reuniões da comissão de coordenação.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados: Listas de Presença (Departamento de Sistemas de 
+
+Informação – DSI)
+(Somatório do número de órgãos setorias 
+participantes de cada reunião de coordenação) / 
+(Quantidade de reuniões realizadas)
+
+Fórmula de cálculo:
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos Setoriais
+
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+15
+
+Jun
+–
+
+Dez
+17
+
+Jun
+–
+
+Dez
+20
+
+Objetivo estratégico primário: 7. Fortalecer a comunicação e a integração 
+
+institucional do SISP
+Ind. 7.2
+
+Código:
+
+Nome do indicador: Número médio de órgãos participantes dos eventos 
+
+oficiais do SISP.
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados: Lista de Presença e Portal do SISP (Lista de inscrições 
+
+Fórmula de cálculo:
+
+e eventos realizados)
+(Somatório do número de órgãos participantes de 
+cada evento) / (Quantidade de eventos realizados)
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+Jun
+–
+
+Dez
+50
+
+Jun
+–
+
+Dez
+60
+
+2015
+
+Jun
+–
+
+Dez
+100
+
+67
+
+Objetivo estratégico primário: 7. Fortalecer a comunicação e a integração 
+
+institucional do SISP
+Ind. 7.3.
+
+Código:
+
+Portal do SISP.
+Interpretação do indicador / Recomendações: Maior melhor
+
+Nome do indicador: Número de órgãos que publicaram notícias de TI no 
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+- Órgãos do SISP
+- Portal do SISP
+
+Fórmula de cálculo: Somatório do número de órgãos que publicaram 
+
+notícias no Portal do SISP.
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+10
+
+Jun
+–
+
+Dez
+20
+
+Jun
+–
+
+Dez
+30
+
+Objetivo estratégico primário: 8. Promover a gestão do conhecimento do SISP.
+
+Código:
+
+Ind. 8.1.
+
+Nome do indicador: Número de eventos técnicos do SISP realizados com 
+
+o tema Gestão do Conhecimento.
+
+Interpretação do indicador / Recomendações: Maior melhor.
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN).
+
+Fonte de dados:
+
+- Órgãos do SISP
+- Portal do SISP e Sistema de Protocolos da SLTI.
+
+Fórmula de cálculo: Somatório do número de eventos técnicos realizados 
+
+com o tema Gestão do Conhecimento.
+
+Valor acumulado nos anos? Sim.
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: Deve-se verificar o número de órgãos do SISP que 
+tenham compartilhado, no Portal do SISP, projetos, 
+ações ou soluções que compartilhem informação ou 
+promovam a gestão do conhecimento. 
+Esses  projetos,  ações  e  soluções  são  contabilizados, 
+também, desde que apresentados em eventos do SISP.
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+1
+
+Jun
+–
+
+Dez
+2
+
+Jun
+–
+
+Dez
+3
+
+68
+
+Objetivo estratégico primário: 8. Promover a gestão do conhecimento do SISP.
+
+Ind. 8.2
+Número de órgãos com iniciativas internas 
+formalizadas.para implementação da gestão do 
+conhecimento.
+Interpretação do indicador / Recomendações: Maior melhor.
+
+Nome do indicador:
+
+Código:
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+Fórmula de cálculo:
+
+- Órgãos Setoriais
+- Órgão Central
+Somatório do número de órgão setoriais que 
+possuem iniciativas sobre gestão do conhecimento 
+implementadas e formalizadas.
+
+Valor acumulado nos anos? Não
+
+Responsável pelo desempenho: Órgãos Setoriais
+
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+–
+
+Jun
+–
+
+Dez
+5
+
+Jun
+–
+
+Dez
+10
+
+Objetivo estratégico primário: 9. Melhorar continuamente a prestação de serviços 
+
+à sociedade e a transparência de informa.
+Ind. 9.1
+
+Código:
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Nome do indicador: Número de páginas web aderentes ao e-MAG.
+
+Dimensão / Subdimensão: Eficácia / Qualidade do Serviço ou Produto.
+
+Unidade de medida: Percentual (%)
+
+Fonte de dados:
+
+- Órgãos Setoriais
+- Pesquisa TIC Web (antigo Censo da Web)
+
+Fórmula de cálculo: Consultar,  nos dados disponibilizados pela Pesquisa 
+TIC Web, o percentual médio do número de páginas 
+web aderentes ao e-MAG, considerando os sítios 
+principais dos órgãos do SISP.
+
+Valor acumulado nos anos? Sim
+Responsável pelo desempenho: SISP
+
+Responsável pela apuração: Órgão Central
+
+Observação: Nos anos em que não houver a pesquisa TIC Web, ou 
+por decisão da SLTI, será feita uma inferência estatística 
+para estimar o nível de acessibilidade.
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+10
+
+Jun
+–
+
+Dez
+20
+
+Jun
+–
+
+Dez
+30
+
+69
+
+Objetivo estratégico primário: 9. Melhorar continuamente a prestação de serviços 
+
+à sociedade.
+Ind. 9.2
+
+Código:
+
+Nome do indicador: Quantidade de serviços eletrônicos catalogados no 
+
+Guia de Serviços.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+- Órgãos do SISP
+- Guia de Serviços (www.servicos.gov.br).
+
+Fórmula de cálculo: Somatório do número de serviços eletrônicos 
+
+catalogados no Guia de Serviços (www.servicos.gov.br)
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação:
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+1100
+
+Jun
+–
+
+Dez
+1300
+
+Jun
+–
+
+Dez
+1500
+
+Objetivo estratégico primário: 9. Melhorar continuamente a prestação de serviços 
+
+à sociedade.
+Ind. 9.3
+
+Código:
+
+Nome do indicador: Número de órgãos com cartas de serviços 
+
+cadastradas no Guia de Serviços.
+
+Interpretação do indicador / Recomendações: Maior melhor
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+- Órgãos Setoriais
+- Guia de Serviços (www.servicos.gov.br).
+
+Fórmula de cálculo: Somatório do número de órgãos setoriais que 
+
+possuem cartas de serviços cadastradas no Guia de 
+Serviços.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos Setoriais
+
+Responsável pela apuração: Órgão Central
+
+Observação:
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+10
+
+Jun
+–
+
+Dez
+16
+
+Jun
+–
+
+Dez
+28
+
+70
+
+Objetivo estratégico primário: 9. Melhorar continuamente a prestação de serviços 
+
+à sociedade.
+Ind. 9.4
+
+Código:
+
+Nome do indicador: Número de órgãos que disponibilizam conjunto de 
+
+dados no Portal de Dados Abertos.
+
+Interpretação do indicador / Recomendações: Número de órgãos que disponibilizam conjunto de 
+
+dados no Portal de Dados Abertos.
+
+Dimensão / Subdimensão: Eficácia / Quantidade.
+
+Unidade de medida: Unidade (UN)
+
+Fonte de dados:
+
+Fórmula de cálculo:
+
+- Órgãos do SISP
+- Portal de Dados Abertos (www.dados.gov.br).
+Somatório do número de órgãos que disponibilizam 
+ao menos um dataset (conjunto de dados) no portal  
+www.dados.gov.br.
+
+Valor acumulado nos anos? Sim
+
+Responsável pelo desempenho: Órgãos do SISP
+Responsável pela apuração: Órgão Central
+
+Observação: –
+
+Série histórica / Metas 2010
+Previsto: Dez
+–
+
+Realizado:
+
+2013
+
+2014
+
+2015
+
+Jun
+–
+
+Dez
+30
+
+Jun
+–
+
+Dez
+42
+
+Jun
+–
+
+Dez
+50
+
+71
+
+72
+
+

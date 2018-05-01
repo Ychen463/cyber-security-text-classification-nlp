@@ -1,0 +1,3764 @@
+National Digital Strategy 2014 – 2020
+
+1
+
+Publication Date: 24th March 2014
+Version: 1.0
+
+TABLE OF CONTENTS
+
+Abbreviations 
+
+Foreword by Joseph Muscat, Prime Minister 
+Foreword by Edward Zammit Lewis, Parliamentary Secretary 
+
+1. 
+
+Introduction 
+
+2.  The Local ICT Landscape: Challenges And Opportunities 
+
+3.  The Digital Malta Vision 
+3.1  Strategic Themes 
+3.2  Underlying Principles 
+
+4.  Digital Citizen 
+4.1  Goals 
+4.2  Guiding Principles 
+4.3  Actions 
+ 
+ 
+ 
+
+Enhancing Digital Literacy and Social Equality 
+Access For All 
+Stimulating Local Content 
+
+5.  Digital Business 
+5.1  Goals 
+5.2  Guiding Principles 
+5.3  Actions 
+ 
+ 
+ 
+ 
+
+Transforming Business 
+Sustaining Entrepreneurship and Attracting New Businesses 
+eCommerce - Going Global 
+Stimulating Research & Innovation 
+
+6.  Digital Government 
+6.1  Goals 
+6.2  Guiding Principles 
+6.3  Actions 
+ 
+ 
+ 
+ 
+
+Citizen and Business-Centric Government 
+Efficient Government 
+Open Government 
+Essential Government Services 
+
+7.  Regulation And Legislation 
+7.1  Goals 
+7.2  Guiding Principles 
+7.3  Actions 
+ 
+ 
+ 
+
+Legislative Infrastructure 
+Interoperability and Standards 
+A Robust Internet 
+
+3
+
+4
+5
+
+6
+
+10
+
+20
+20 
+23
+
+24
+24
+25
+28
+28
+29
+29
+
+30
+30
+31
+34
+34
+35
+36
+37
+
+38
+38 
+39
+42 
+42
+43
+44
+45
+
+46
+46 
+46 
+48
+48 
+49 
+49
+
+National Digital Strategy 2014 – 2020
+
+1
+
+50
+50
+51
+52
+52
+52
+54
+54
+55
+
+56
+56
+57
+58
+58
+60
+61
+
+62
+65
+66
+66
+67
+68
+
+70
+73
+73
+74
+75
+76
+
+Infrastructure 
+
+8. 
+8.1  Goals 
+8.2  Guiding Principles 
+8.3  Actions 
+ 
+ 
+ 
+ 
+ 
+
+A Nationwide NGA Network 
+Spectrum and Networks 
+International and Regional Connectivity 
+Cyber Security 
+Government Shared Infrastructure 
+
+9.  Human Capital 
+9.1  Goals 
+9.2  Guiding Principles 
+9.3  Actions 
+ 
+ 
+ 
+
+Building Capacity and Skills 
+Strengthening The Workforce 
+Regional Hub for High Quality eSkills Education and Training 
+
+10.  Attaining The Vision 
+10.1  Critical Success Factors 
+10.2 Political Leadership 
+10.3 Governing Body 
+10.4 Operational Bodies 
+10.5 Support Functions 
+
+11.  Measuring Success 
+11.1  Performance Targets 
+11.2  Performance Indicators 
+11.3  Benchmarking Exercises 
+11.4  Qualitative Evaluations 
+11.5  Specific Assessments 
+
+2
+
+ABBREVIATIONS
+
+BYOD 
+
+Bring Your Own Device
+
+CHOGM  Commonwealth Heads of Government Meeting
+
+CIO 
+
+Chief Information Officer
+
+CSIRT 
+
+Computer Security and Incident Reporting Team
+
+DAE 
+
+Digital Agenda for Europe
+
+ENISA 
+
+European Union Agency for Network and Information Security
+
+EU 
+
+FDI 
+
+European Union 
+
+Foreign Direct Investment
+
+FITA 
+
+Foundation for IT Accessibility
+
+FSWS 
+
+Foundation for Social Welfare Services
+
+GCI 
+
+GDP 
+
+ICT 
+
+IPv6 
+
+IT 
+
+LGA 
+
+LSA 
+
+Global Competitiveness Index
+
+Gross Domestic Product
+
+Information and Communications Technology
+
+Internet Protocol version 6
+
+Information Technology
+
+Lotteries and Gaming Authority
+
+Learning Support Assistant
+
+MBPS 
+
+MegaBits Per Second
+
+MCA 
+
+Malta Communications Authority
+
+MCST 
+
+Malta Council for Science and Technology
+
+ME 
+
+MITA 
+
+NGA 
+
+NSO 
+
+PC 
+
+QoS 
+
+R&D 
+
+R&I 
+
+SME 
+
+Malta Enterprise
+
+Malta Information Technology Agency
+
+Next Generation Access
+
+National Statistics Office
+
+Personal Computer
+
+Quality of Service
+
+Research and Technological Development
+
+Research and Innovation
+
+Small and Medium Enterprise
+
+STEM 
+
+Science, Technology, Engineering and Mathematics
+
+National Digital Strategy 2014 – 2020
+
+3
+
+Foreword by 
+JOSEPH MUSCAT 
+Prime Minister
+
+The advance of technology is exciting with so many opportunities. We as a country need to embrace 
+technology, set a path and ensure we use it well. The Digital Malta Strategy is that path.
+
+It is important that all our people are involved in the advance of the Maltese economy. Nobody 
+should be left behind. This Strategy not only results from a wide consultation but also from an 
+underlying deep concern to involve everyone. In its pages are actions and commitments to turn us 
+into a digital society.
+
+Information and Communications Technology is an important industry in itself, while just about every 
+other industry depends on ICT to thrive. This strategy will encourage innovation and entrepreneurial 
+ventures and will help all businesses remain competitive and fight their corner in the global economy.
+
+There is also a clear message here that Malta is a good place to set up business. We not only 
+offer the European open market, and good links with Africa and the Middle East, but we are well 
+positioned on the digital superhighway. We are accelerating in the fast lane of technology and don’t 
+intend to take our foot off the pedal.
+
+The road ahead is a lot clearer because of the Digital Malta Strategy. I encourage you to be part of it.
+
+4
+
+Foreword by 
+EDWARD ZAMMIT LEWIS 
+Parliamentary Secretary 
+
+We live in a competitive world. We can buy products from around the corner or thousands 
+of miles away. And what we make we can sell in the local shop or to a market of millions. This is the 
+global economy. 
+
+Barriers have come tumbling down. We can be continents apart yet communicate in an instant. The 
+world is more inter-connected and that is the way it will stay.
+
+In both government and business there has been recognition of the need to understand new 
+technology and utilise it. But could we be doing more? The answer is yes. We would be foolish to 
+allow ourselves to lag behind our competitors. 
+
+The Digital Malta Strategy sets out how everyone can learn, broaden their skills and make good use 
+of technology. It sets out what we should be doing for the next few years, but it is also flexible in that 
+it recognises how fast technology changes and puts us on alert for future developments. The young 
+are born into modern technology and have never known a world without gaming, mobiles and the 
+Internet. Grandparents may not be so enthusiastic with gadgetry yet they still delight in video chats 
+with their grandchildren on the other side of the world. And everybody else is constantly living in an 
+online world of email, social media and the web. Government has increasingly put its services online 
+and there can be few businesses not powered by technology. 
+
+Technology matters to us all, and that is why the Digital Malta Strategy is so important. It is the way 
+forward for all Maltese.
+
+National Digital Strategy 2014 – 2020
+
+5
+
+1
+
+INTRODUCTION
+
+ICT can empower the economy and society, 
+directly and indirectly. It is both critical 
+infrastructure and an enabling tool. Malta 
+recognises this and government is setting out a 
+vision to transform the country into one which 
+will prosper as a digitally-enabled nation in all 
+sectors of society.  
+
+This will be done through the implementation 
+of this strategy, which is being branded as 
+Digital Malta.
+
+1.  The term ‘digital’ within this text refers to the application 
+  of information and communication technology
+
+6
+
+National Digital Strategy 2014 – 2020
+
+7
+
+1  INTRODUCTION
+
+The Strategy outlines three strategic themes - 
+Digital Citizen, Digital Business and Digital Government, 
+and these are supported by three strategic enablers: Regulation and 
+Legislation, Infrastructure and Human Capital.  
+
+The Strategy puts forward a suite of guiding principles and actions for 
+ICT to be used for socio-economic development.  It sets out how ICT can 
+make a difference in areas such as the economy, employment, industry 
+and small businesses, and how it can be used for national development, to 
+empower citizens and transform government.  It encourages everyone to 
+reap the benefits that ICT can bring: better education, stronger businesses, 
+efficient Government, sustainable economic growth and much more. 
+Truly, it can provide a better quality of life for the Maltese. It is essential 
+that the benefits of this nation’s knowledge society are enjoyed by every 
+citizen irrespective of age, gender, sexual orientation, disability, education, 
+economic means or race.  This will be achieved through intervention to 
+circumvent obstacles. There will be action to enhance digital literacy and 
+social equality, increase access for all and stimulate local content. 
+
+8
+
+The ICT industry in Malta has achieved 
+substantial growth in the past decade. 
+Excluding the iGaming sector, it now accounts 
+for more than 5% of the nation’s GDP. Besides 
+being a sector in its own right, ICT also helps 
+other business sectors to develop and grow. 
+It is the enabler of the smart specialisation 
+areas identified in the National Research and 
+Innovation Strategy 2020.  The Digital Malta 
+Strategy has been designed to foster a strong, 
+competitive, ICT-enabled and export-oriented 
+industry, able to compete globally. It will also 
+propel ICT further in sustaining business and 
+innovation, contributing to economic growth.
+
+Innovative application of ICT is also a crucial 
+catalyst in the transformation of government.  
+Sophisticated ICT implementations carry little 
+value if citizens and businesses are not able to 
+use public services or participate in the policy 
+making process in meaningful ways.  This 
+strategy advocates the re-engineering of public 
+services to achieve greater responsiveness 
+to citizen and business needs, using multiple 
+channels.  Government will have an open 
+approach to communicating and sharing 
+information following the principles of 
+transparency, participation and collaboration.
+
+Technology is continually advancing so this 
+strategic plan will not, in the conventional 
+jargon of management, be limited only to 
+rational policy interventions. The Digital Malta 
+Strategy is pragmatic, and flexible enough to 
+react to future developments. There is high-level 
+strategic direction that allows entities flexibility 
+in implementation.  
+
+Digital Malta is not just a Strategy to provide 
+national policy direction on ICT initiatives 
+covering 2014-2020. It also constitutes a 
+framework, permitting policy makers, business 
+leaders and entrepreneurs to take decisions now 
+knowing they will be supported by policy that is 
+responsive to the technological advances of the 
+coming years.
+
+The Digital Malta vision is ambitious. The 
+path towards achieving it will no doubt need 
+refinement and, sometimes major updating, 
+because today’s assumptions will carry 
+diminished significance as events unravel and 
+competitive advantages shift.  These refinements 
+will be reflected in the Programme of Initiatives 
+complementing the Digital Malta Strategy. Each 
+year a recalibration of the Initiatives will take 
+place after measuring outcomes and targets 
+achieved.
+
+This document is the result of an extensive 
+consultative process.  The first phase covered 
+a series of consultation workshops with ICT 
+stakeholders from the public and private sectors, 
+associations and other interest groups from 
+civil society, as well as the public at large.  The 
+second phase included more focused discussions 
+with stakeholders involved in the eventual 
+implementation and ownership of parts of 
+the Strategy.  This consultative approach will 
+continue during the life-time of the Strategy.
+
+Digital Malta reflects the collective aspirations 
+and goodwill of stakeholders, structured in 
+the form of a national plan owned by the 
+stakeholders themselves. It is a journey that all 
+stakeholders will nurture to attain a vision of 
+where Malta wants to be.  
+
+National Digital Strategy 2014 – 2020
+
+9
+
+2
+
+THE LOCAL ICT LANDSCAPE: 
+CHALLENGES AND OPPORTUNITIES
+
+Malta has shown remarkable resilience in the 
+face of the sovereign debt crisis that affected 
+many other countries in Europe 2. Nevertheless, 
+the crisis cannot be ignored because of the 
+exposure that comes from having a small, open 
+economy.  Indeed, in May 2013, the European 
+Commission recommended that Malta be 
+placed under an Excessive Deficit Procedure 
+and called for reforms in pensions, healthcare 
+and sustainable public finances.  According 
+to Eurostat, the unemployment rate in Malta 
+ranks among the lowest in the EU and, in 2013, 
+the inflation rate fell to 1.38% compared to 
+2.72% and 2.42% in 2011 and 2012 respectively.  
+The rate of economic growth for 2013 was 
+higher than expected 3 and a growth of 1.7% is 
+projected for 2014 4.  
+
+2.  Most affected countries were southern European countries, Ireland and Slovenia.
+3.  Source: Statement published by Standard & Poor’s on 17th January 2014.
+4.  Source: 2014 Budget Speech as presented on 4th November 2013.
+
+10
+
+National Digital Strategy 2014 – 2020
+
+11
+
+2  THE LOCAL ICT LANDSCAPE
+
+In the GCI for 2013-2014, Malta has climbed six places and now ranks number 41, out of 148 
+countries 5.  Switzerland, Singapore and Finland are ranked in the top three positions.  Compared to 
+other European countries, Malta is placed 17th 6.  Among southern European countries, France and 
+Spain performed better than Malta, while Italy, Turkey, Portugal and Cyprus performed worse.  The 
+results are encouraging, but there is no room for complacency and Malta should actively strive to 
+improve its competitiveness.  A strong digital economy is central to any country’s competitiveness, 
+growth and jobs strategy.  Our technological readiness is vital in this regard, with Malta ranking 16th 
+in the Technology Readiness index (Fig. 1).
+
+Fig. 1
+
+TECHNOLOGICAL 
+READINESS INDEX 
+MALTA RANKS 16 
+OUT OF 148 COUNTRIES. 
+(Source: World Economic Forum)
+
+5.  Source: The Global Competitiveness Report (2013 – 2014) - 
+  http://reports.weforum.org/the-global-competitiveness-report-2013-2014/.
+6. This ranking takes into consideration European countries that are not members 
+  of the EU, such as Switzerland and Norway.
+
+12
+
+Universally, ICT is acknowledged as a fundamental 
+enabler and one of the pillars for socio-economic 
+development.  The past ten years have seen a 
+rapid growth of the ICT industry in Malta.   ICT 
+contributes circa 5.7% value-added to national 
+GDP 7 (Fig. 2) and employs 3.3% of a population 
+of 165,300 gainfully employed 8 (Fig. 3).  
+   
+
+In 2013, the World Economic Forum ranked 
+Malta in 28th place (out of 138 countries) in 
+its Networked Readiness Index (Fig. 4), which 
+measures the preparedness of an economy 
+to use ICT to boost competitiveness and well 
+being.  Malta also featured in fourth place for the 
+importance of ICT to the government vision and 
+in fifth place for successfully promoting the use 
+of ICT within the country 9. The fact that there is 
+political consensus on ICT strategic direction is a 
+strength.
+
+Fig. 2
+
+Source: NSO
+
+Fig. 3
+
+Source: NSO
+
+7.  Source: NSO – Gross Domestic Product.  The ICT sector excludes iGaming, which is classified under a different category.
+8.  Source: NSO - Gainfully Occupied Population.
+9.  Source: The Global Information Technology Report 2013 prepared by the World Economic Forum.
+
+National Digital Strategy 2014 – 2020
+
+13
+
+2  THE LOCAL ICT LANDSCAPE
+
+Fig. 4
+
+NETWORKED READINESS INDEX
+MALTA RANKS 28 OUT OF 138 COUNTRIES. 
+(Source: World Economic Forum)
+
+TAKE-UP OF ICT
+
+Improving ICT access and its use is an important 
+challenge.  Although the ICT footprint is 
+increasing, not all homes, schools, or businesses 
+have taken it up or are using it as they could.
+
+Compared to other EU countries, Malta falls 
+behind in the numbers using the Internet, 
+uploading self-created content, using Internet 
+banking, taking online courses, and looking for a 
+job or sending a job application.
+
+SMEs and start-up companies need 
+encouragement to see ICT more as a tool for 
+reducing costs, innovating and gaining access 
+to wider markets. Citizens are expecting ICT to 
+play a more significant role in the next generation 
+of healthcare services; it shall enable patient 
+empowerment, and safer and more 
+personalised care.
+
+14
+
+Fig. 5
+
+Source: Eurostat
+
+People with age-related 
+dependencies or different 
+abilities need to be empowered 
+to stay active, live independently 
+and avoid institutionalisation. 
+All citizens, including those at 
+risk of exclusion (for example, 
+those with different abilities, 
+low digital literacy/eSkills), need 
+access to smart environments 
+and innovative services.
+
+Greater effort is needed to 
+encourage learning among 
+unskilled working-age adults, 
+the elderly and people with 
+disabilities.  Those without 
+eSkills risk not reaping benefits 
+from ICT, both in terms of 
+earnings and job prospects.  ICT 
+offers great potential to bring 
+the unemployed back into the 
+workforce.
+
+Over the past decade ICT has 
+become integrated in schools, 
+with all pupils having access 
+to computers and the Internet.  
+Yet, building capacity in 
+education remains a challenge. 
+It is important that teachers 
+have the skills to harness 
+eLearning materials. Teaching 
+methods need updating and 
+there must be sufficient digital 
+content for students to gain full 
+advantage of the benefits of ICT.  
+
+HUMAN CAPITAL
+
+The industry, both the ICT-
+producing and the ICT-using 
+sectors, are supported by 
+experienced, efficient, skilled 
+and multi-lingual professionals.  
+In 2012, Eurostat reported that 
+Malta ranked in 23rd position 
+out of the EU27+ in terms of 
+computer skills. Between the 
+2007 and 2012, the average 
+number of ICT-related graduates 
+from the University of Malta was 
+151.  The highest number of ICT 
+graduates from the University 
+of Malta was registered in 2011 
+with 197 – a share of 6.8% of all 
+graduates.  During the same 
+period, the average number of 
+
+graduates from the ICT Institute 
+within MCAST, which is the 
+country’s leading vocational 
+education and training institution, 
+in levels 5 & 6 was 542 graduates.  
+
+Work practices are flexible and 
+unit labour costs are generally 
+competitive and responsive 
+to market conditions.  These 
+attributes are complemented by 
+a competitive tax regime. 
+
+Within the ICT labour market, 
+the low female participation rate, 
+the misalignment between the 
+ICT education curriculum and 
+industry needs (such as the lack of 
+specialised skills for the iGaming 
+sector) and the lack of supportive 
+education are serious weaknesses.  
+These are hampering resource 
+capacity, resource readiness and 
+innovation.  
+
+The arrival of ‘cheaper’ skilled 
+competitors, particularly from 
+the Baltic region, Eastern 
+Europe and Asia, poses a new 
+threat to the digital industry in 
+Malta.   
+
+National Digital Strategy 2014 – 2020
+
+15
+
+2  THE LOCAL ICT LANDSCAPE
+
+THE CHALLENGES 
+FOR THE LOCAL ICT INDUSTRY
+
+Similar to other industries, it is clear that the ICT 
+industry in Malta is past the stage where it can 
+attempt to achieve higher levels of economic activity 
+on the basis of low labour costs.  Incentive packages 
+are no longer sufficient in attracting investment, 
+because today there are equally attractive incentives 
+in other countries.  Investors seek profitable 
+opportunities in countries offering the best prospects 
+in terms of competitiveness.  If Malta is to improve 
+its performance in attracting FDI, greater focus on 
+knowledge and innovation-based investment and on 
+economic efficiency 10 is needed.  These factors 
+carry the promise of sustained growth in the 
+wealth-generating capacity of the Digital Economy. 
+
+SMEs within the ICT industry know that their main 
+weakness in terms of growth is the small size of the 
+local market.  Some of these businesses are adopting 
+a more outward-looking entrepreneurial culture that 
+is focused on exports rather than relying on short-
+term advantages in the captive domestic market.  
+However, these SMEs face a multitude of difficulties.  
+The World Economic Forum has identified a list of 
+problematic factors for doing business in Malta.  The 
+top three are inefficient government bureaucracy, 
+limited access to financing and insufficient capacity 
+to innovate.  Malta also lacks the adequate schemes 
+for business angel investors 11, who are generally 
+needed by start-ups to take off, and by established 
+ICT businesses to expand.  This may reflect Malta’s 
+entrepreneurial culture, which tends towards lower 
+risk or conventional “bricks-and-mortar” ventures. 
+
+Currently, most local ICT companies are software 
+services and hybrid solution providers and 
+integrators.  Few qualify as software products 
+companies, deriving well over half of their sales from 
+licence fees.  This may suggest that less intellectual 
+property, inherent in the software being developed, 
+can be translated into patents or copyrights.  
+Similarly, the lack of participation and contribution 
+
+in open source communities limits the exposure of 
+Maltese skills and the potential to increase FDI. 
+The small size of the Maltese islands presents special 
+opportunities for the ICT industry.  These include 
+the deployment of “first-in-the-world” nation-wide 
+projects or “test bed” projects in strategic alliances 
+with ICT multinational companies.  Highlighting 
+these opportunities is important in FDI strategy, 
+especially when it comes to targeting ICT investment 
+and building partnerships. With important events 
+due to take place, with ‘including the hosting of 
+the CHOGM in 2015, Malta’s EU Presidency during 
+the first half of 2017 and Valletta as the European 
+Capital of Culture in 2018, now is the time to launch a 
+branding exercise.
+
+TRUE VALUE TO CITIZENS
+
+For the past twenty years, government has 
+substantially invested in ICT.  Government capitalised 
+on the lack of complexity in Malta compared to 
+large countries, which often have two or more levels 
+and branches of administration, multiple police 
+forces, several courts of justice and region-based 
+healthcare systems. Government adopted policies 
+favouring the consolidation of its investments, as 
+well as standards to support such policies.  This led 
+to the adoption of corporate systems and shared 
+services across all departments. A robust and 
+resilient ICT infrastructure forms the back-bone 
+of an interconnected government.  Most of these 
+initiatives were implemented in partnership with 
+the private sector.  Government also established a 
+strong governance framework and strengthened the 
+eCommerce legislative framework.  More recently, 
+Government inaugurated a TIER III Data Centre, 12 
+hosting government infrastructure and information 
+systems.  This Data Centre is the fifth data centre 
+in Western Europe and one of only 34 data centres 
+worldwide certified to reach the Tier III Facility 
+Certification. 
+ 
+
+10. The term economic efficiency refers to the use of resources so as to maximize the production of  
+  goods and services - Sullivan, Arthur; Steven M. Sheffrin (2003). Economics: Principles in action.
+11. Business angel is an affluent individual who provides capital for a business start-up.
+12. Tier III Facility Certification verifies that each and every component within the MITA Data Centre 
+  can be maintained, replaced or upgraded without disrupting the service. 
+
+16
+
+Public projects are most fruitful when they are 
+owned and funded by the respective government 
+entity (as opposed to a more prescriptive, centralised 
+entity) and driven by business objectives.  In order 
+to widen government efficiency, ICT champions are 
+required in important decision-making positions 
+and ICT strategies need to be integrated into overall 
+government policy. 
+
+Malta is considered one of Europe’s high performers 
+in delivering eGovernment.  The country is constantly 
+improving its eGovernment platform to ensure 
+that the number of services available online can 
+increase without a proportionate increase in cost and 
+complexity.  The platform’s architecture promotes 
+reusability and scalability.  In the eGovernment 
+Benchmark 2012 report, Malta ranked first in four 
+benchmarks (user-centric government, transparent 
+
+government, citizen mobility, business mobility) 
+and second in the enablers benchmark.  The 2012 
+report also highlighted that eGovernment users are 
+expecting more from the services being supplied.  
+Statistics from Eurostat highlight that the take-up 
+of public online services by citizens is below the 
+EU average.  Malta ranked 18th (Fig. 6) in terms 
+of percentage of individuals using eGovernment 
+services and 15th (Fig. 7) in terms of enterprises 
+using the Internet to interact with government.  
+The messages are clear.  Users want to interact on 
+everything from health and education to security and 
+tax.  They expect government to focus on finding out 
+what citizens want, rather than deciding what they 
+need.  Citizens are also expecting government to cut 
+red tape.  The development of Digital Government 
+has to be hand-in-hand with efforts to reduce 
+bureaucracy. 
+
+Fig. 6
+
+Source: Eurostat
+
+Fig. 7
+
+Source: Eurostat
+
+National Digital Strategy 2014 – 2020
+
+17
+
+2  THE LOCAL ICT LANDSCAPE
+
+HARNESSING NEW PARADIGMS
+
+The drive of the European Commission to accelerate interoperability, making systems and organisations 
+work together, poses additional challenges and opportunities.  It nurtures the concept of connected 
+government through the alignment of departmental processes, standardisation, discovery and reuse 
+of ICT assets and continuous rigour in improving the level of trust in the services provided by the 
+public sector.  Implementation of information systems within the public sector needs to incorporate 
+the principles and recommendations of initiatives such as the European Interoperability Framework, 
+European Interoperability Strategy and the semantic initiatives promoted through the European 
+Commission’s Joinup platform13.
+
+National technological infrastructure is in a good shape and compares quite favourably at an 
+international level (Table 1).  Malta has an impressive proliferation of mobile telephony and Internet 
+access. Similarly, there is high digital confidence by consumers.  By 2012, the mobile penetration 
+rate in Malta reached 132%, slightly higher than the EU average of 130%14.  In 2012, 77% of households 
+had access to the Internet – slightly higher than the EU27 average of 76%.  In this regard, the main 
+concerns are the dependence on other countries for Internet connection, the capacity of international 
+connectivity, the affordability of broadband for users and the lack of local content for the web and 
+mobile devices15. 
+
+ 
+ 
+Indicator   
+
+ 
+Malta           EU Average        Malta Ranking
+
+                     
+
+Mobile Penetration Rate 
+Households having access to Broadband Internet 
+NGA lines as a % of total fixed broadband lines 
+
+132% 
+ 77% 
+ 47% 
+
+130% 
+  72% 
+ 20% 
+
+13th 
+7th 
+7th 
+
+Table 1
+
+The new enterprise ICT landscape of cloud services, mobility and BYOD, and social media usage, 
+creates very different types of network traffic to the traditional mix of in-house client-server workloads.  
+Architecture and networks need to evolve to keep pace.  Not only is more bandwidth required to 
+accommodate the workloads involved, but also time delay must be avoided. Lower latency, particularly 
+over wide-area networks, is needed to ensure good response times for cloud-based applications and 
+other services.
+
+13. JoinUp is the sharing and re-use interoperability solutions for public administrations platform (http://joinup.eu).
+14. Source: European Commission 
+  (http://ec.europa.eu/digital-agenda/sites/digital-agenda/files/DAE%20SCOREBOARD%202013%20-%20SWD%202013%20217%20FINAL.pdf).
+15. The term ‘mobile devices’ within the context of this document includes mobile phones, tablets, laptops, ultrabooks, etc.
+
+18
+
+MAXIMISING OPPORTUNITIES
+
+Malta’s ICT priorities are guided by government 
+strategic priorities and the Europe 2020 Strategy 
+flagship initiatives. More specifically these tie 
+in with the Digital Agenda for Europe and the 
+Innovation Union.  Malta already has strong 
+regulatory authorities and agencies including the 
+LGA, the MCA, the Government’s IT arm, MITA 
+and various other successful endeavours such 
+as the eSkills Malta Foundation, upon which it can 
+successfully build. 
+
+The expectations of what ICT can deliver, are 
+higher than ever and are likely to keep on 
+growing.  The main elements are in place for the 
+industry to prosper.  The challenges now are to 
+prioritise and implement the missing elements. 
+Malta’s ICT industry must emerge from its plateau 
+state and move quickly to exploit opportunities.  
+It needs to build on its strengths, minimise its 
+weaknesses and aim for sustained growth. 
+
+RAMPING UP ICT-DRIVEN 
+INNOVATION
+
+The budget allocation for ICT faces competition 
+within government, placing an onus on departments 
+and entities to make the most efficient use of 
+both national and EU funds.  Participation in 
+EU-funded projects by government bodies may 
+need increased resource and legal governance 
+support. Government needs to consider innovative 
+means to procure ICT services, explore the 
+feasibility of private funding and public-private 
+partnerships, and consider the prospect of re-using 
+and sharing with other countries.    
+
+In the past, R&I strategies for ICT had been 
+identified as a priority area. In the National Research 
+& Innovation Strategy 2020, ICT is now singled out 
+as an enabling technology for all sectors because 
+of its potential to innovate industries.  Since Malta’s 
+size cannot sustain the entire R&D life cycle, efforts 
+should be directed to applied research that is closer 
+to the market16 and in existing areas of strength 
+that could enhance Malta’s profile as a centre of 
+ICT excellence.  Many companies in Malta associate 
+R&D to the closed innovation model of larger 
+companies and multinationals.  In comparison, open 
+innovation approaches are more collaborative and 
+leverage complementarities, and are, therefore, 
+more adaptive to the needs of small businesses. 
+Combining industrial innovation with educational 
+policies and focusing on areas of strength (smart 
+specialisation) increases the chances of Malta and 
+its industrial base (both ICT and non-ICT) gaining a 
+competitive advantage through differentiation.
+
+The contribution of ICT towards energy efficiency 
+in Malta is still marginally low.  ICT offers many 
+opportunities to offset the costs of energy 
+through green ICT measures, such as, energy 
+efficient equipment, virtualised environments, grid 
+computing, cloud computing, home automation 
+systems and advanced virtual services.
+
+16. Source: MCST 2011.
+
+National Digital Strategy 2014 – 2020
+
+19
+
+3
+
+THE DIGITAL MALTA VISION
+
+Digital Malta is a vision for the country in 2020 when:
+
+“Malta will prosper as a digitally-enabled 
+   nation in all sectors of society.”
+This is an exciting goal, advancing the nation’s digital economy to let business prosper and 
+improve the quality of people’s lives. To meet this vision there is a need to address the most 
+pressing strategic issues and capitalise on digital opportunities.
+
+3.1  STRATEGIC THEMES
+
+Digital Malta will take ICT policy development and implementation 
+to a higher gear, meeting the expectations of all - the Citizen and 
+civil society, Business and government. This vision will be enabled 
+by supportive regulation and legislation, sound infrastructure and 
+productive human capital. These building blocks will empower 
+stakeholders to collaborate both within and across sectors.  
+This is represented by Fig. 8:
+
+20
+
+Fig. 8
+
+National Digital Strategy 2014 – 2020
+
+21
+
+3  THE DIGITAL MALTA VISION
+
+Digital Malta is built upon 
+three vertical strategic pillars 
+with clear goals to:
+
+Improve the wellbeing of 
+Citizens and civil society. 
+Everyone, including vulnerable 
+and minority groups, will benefit 
+from a higher standard of living. 
+Basic digital skills will empower 
+citizens to seize opportunities 
+presented by technology and 
+digitisation.  Digital services 
+will be affordable, secure and 
+accessible to all regardless 
+of skill and economic means. 
+Local digital content will be 
+encouraged.
+
+Transform the way Business 
+operate. Digital Malta will 
+increase competitiveness and 
+boost the attractiveness of 
+local industry. It will promote 
+more start-ups, attract foreign 
+investment, enable strategic 
+alliances, encourage angel 
+investment and nurture niche 
+service providers.  Business will 
+be encouraged and supported 
+to exploit (i) the opportunities 
+of the European Digital Single 
+Market, (ii) Malta’s strategic 
+location in the Mediterranean, 
+with ready access to the 
+European and North African 
+markets, (iii) Government’s 
+strategic alliances with 
+foreign ICT organisations, 
+(iv) opportunities to expand into 
+new or bigger markets.
+
+Enhance the delivery of 
+Government. Better application 
+of digitisation will result in 
+reduced bureaucracy, increased 
+efficiency and transparency. 
+The public service will be closer 
+to civil society and enterprises, 
+improving the government’s 
+decision-making processes. 
+Open Government and 
+eDemocracy will be facilitated. 
+On-line government services 
+will be more accessible through 
+the use of smart devices and 
+mobile-friendly applications 
+as well as websites and 
+social media. Government’s 
+technological capabilities will 
+be widened to include open-
+source, cloud computing and 
+big data concepts. Information 
+sharing across government 
+systems and services will be 
+promoted, as will be the re-use 
+of public sector information by 
+third parties.
+
+These vertical strategic pillars need to be supported by a suite of enabling / driving forces:
+
+Regulation & Legislation
+Of central importance will be 
+government’s direction and 
+priorities at a Strategic and 
+Digital Policy level. Regulation 
+and legislation will ensure an 
+empowered digital society is 
+realised. Good ICT governance 
+will be promoted, with 
+judicious use of resources and 
+participation by all stakeholders. 
+International best practices will 
+be adopted.  
+
+Infrastructure
+Infrastructure services need to 
+be accessible, reliable, secure, 
+affordable and resilient. They 
+shall provide for disaster 
+recovery where appropriate.   
+Investment by private sector, 
+will ensure fast broadband, 
+wifi, next-generation access and 
+robust government information 
+systems architecture.   
+
+Human Capital
+It is important to invest in 
+people to ensure the supply 
+of eSkills to meet the future 
+needs of different sectors. 
+Action will be taken to develop 
+a high quality specialised skills 
+base, maximising employment 
+opportunities, with an 
+emphasis on increasing female 
+participation and tackling 
+inequalities. 
+
+The portrayal of this six-pillar model, with a three-dimensional perspective, carries through to sectors 
+such as health, education, transport, justice, welfare and taxation, and themed areas of specialisation 
+identified in the ‘National Research and Innovation Strategy 2020’.  The diversity of each area and 
+sector will be taken into account when tailoring initiatives.
+
+22
+
+3.2  UNDERLYING PRINCIPLES
+
+Core principles 
+underpin the 
+implementation of the 
+Digital Malta vision:
+
+1.
+Ensuring all citizens 
+are offered the 
+possibility to 
+benefit from ICT as 
+a fundamental right.
+
+4.
+Engaging the 
+private sector 
+as an important 
+player in the 
+delivery of the 
+Strategy.
+
+2.
+Advocating 
+proactive 
+leadership, 
+and delivering 
+programmes that 
+meet needs.
+
+3.
+Supporting national 
+priorities in line with 
+government policy, 
+the National Reform 
+Programme and the 
+EU obligations. 
+
+5.
+Optimising value 
+and accountability.
+
+6.
+Ensuring 
+collaboration 
+between 
+stakeholders 
+to make the 
+best use of 
+national strategic 
+information 
+assets, encourage 
+synergies 
+and minimise 
+fragmentation. 
+
+8.
+Supporting and enabling R&I in identified areas 
+of strength, capability and centres of excellence 
+(smart specialisation).
+
+7.
+Encouraging a more-
+environmentally 
+friendly society 
+through greener 
+procurement, 
+implementation and 
+application of ICT. 
+
+9.
+Adopting an open and 
+experimental mindset, 
+capitalising on lessons learned 
+from success stories and 
+respecting best practices and 
+international standards.
+
+10.
+Maximising 
+opportunities from 
+multiple funding 
+sources, including 
+European and 
+international 
+funding 
+programmes and 
+the private sector.
+
+National Digital Strategy 2014 – 2020
+
+23
+
+4
+
+DIGITAL CITIZEN
+
+4.1  GOALS
+
+Digital technologies can improve the quality of life of all citizens.  Every Maltese, irrespective of age, 
+gender, sexual orientation, disability, education, economic means and race should grow as a digital 
+citizen with rights, responsibilities and abilities to access and use ICT.  Digital technologies must serve 
+as a social equaliser, enabling everyone to participate and contribute in community activity.
+
+Raise awareness 
+of how ICT can 
+improve daily life 
+and work.
+
+The goals of the 
+actions under this 
+strategic pillar are 
+to: 
+
+Build social 
+cohesion to 
+overcome social, 
+health, age 
+and disability 
+vulnerabilities.
+
+Provide every 
+citizen with the 
+tools to balance 
+work with family 
+commitments, 
+pursue leisure and 
+lifelong learning, 
+and to remain 
+active within the 
+community.
+
+Ease access to 
+technology and 
+connectivity, and 
+help citizens to 
+learn how to get 
+the best out of it.
+
+Empower civil 
+society to become 
+more actively 
+engaged in digital 
+activities of the 
+community.
+
+Build trust in the 
+digital world.
+
+Use digital 
+technologies to 
+preserve, enhance 
+and promote 
+Maltese culture 
+and identity, and 
+to enable access 
+to quality content 
+and services.
+
+24
+
+4.2  GUIDING PRINCIPLES
+
+A.
+
+Citizens will be supported to:
+
+i.  Adopt digital technologies to help with their work and improve 
+
+their quality of life.
+
+ii.  Create value content that can be accessed through digital means.
+iii.  Collaborate with others to make the Internet a safer place for 
+
+everyone.
+
+iv.  Re-use public sector information while respecting privacy 
+
+legislation, national security and the need to protect intellectual 
+property rights of third parties.
+
+v.  Be innovative in applying digital technology.
+
+C.
+
+Barriers that stop 
+citizens from 
+exploiting the 
+benefits of the 
+Internet must be 
+removed. 
+
+When planning 
+and implementing 
+digital initiatives, 
+feedback from 
+citizens and civil 
+society will be 
+sought.
+
+B.
+
+National Digital Strategy 2014 – 2020
+
+25
+
+Improve the wellbeing of 
+Citizens and civil society. 
+Everyone, including vulnerable 
+and minority groups, will benefit 
+from a higher standard of living. 
+Basic digital skills will empower 
+citizens to seize opportunities 
+presented by technology and 
+digitisation.  Digital services 
+will be affordable, secure and 
+accessible to all regardless 
+of skill and economic means. 
+Local digital content will be 
+encouraged.
+
+26
+
+National Digital Strategy 2014 – 2020
+
+27
+
+4  DIGITAL CITIZEN
+
+4.3  ACTIONS
+
+ENHANCING DIGITAL LITERACY AND SOCIAL EQUALITY
+
+Achieving widespread digital literacy is vital for inclusivity and social cohesion. For example, digitally 
+competent workers and digitally competent citizens can be more successful in the job market and 
+contribute more effectively within the community. Those without digital competences are in danger 
+of falling behind.
+
+ICT offers people the tools to overcome limitations.
+
+1. Basic level of ICT 
+
+competence
+
+An education and awareness programme will be launched to boost 
+ICT competences, media literacy and confident, critical and safe use of 
+the Internet.  The programme will be implemented at community level. 
+Vulnerable groups will be a major focus.
+
+2. Empowering the 
+young through a 
+safer Internet
+
+Digital Citizenship will become part of the National Education Curriculum, 
+to equip children and youths with the abilities to interact and use the 
+Internet safely and intelligently. Parents and carers will be involved 
+together with educators and youth workers. This action will stimulate the 
+production of creative online content, empower the younger generation 
+and help create a safer environment.  With the support of competent 
+authorities this measure will help combat cyber child abuse and 
+exploitation.
+
+3. Empowering 
+
+vulnerable/minority 
+groups and the 
+elderly
+
+Initiate an ongoing programme designed to assist every citizen, in par-
+ticular the ageing and the vulnerable to harness the potential of ICT. Ap-
+propriately equipped ICT access and training centers will be set up within 
+local communities to support the programme.
+
+4. Accessibility 
+and Assistive 
+Technology
+
+Internet accessibility standards will be promoted to enable everyone, 
+irrespective of  disability, to navigate and access content to access and 
+use of assistive technologies will be promoted and facilitated to help 
+independent living of the elderly and vulnerable groups. This will also 
+stimulate market demand for diverse, affordable technologies. 
+
+28
+
+ACCESS FOR ALL
+
+Every citizen, irrespective of age, gender, sexual orientation, disability, race, economic means and 
+employment should have the opportunity to access and make use of ICT for their daily needs.
+
+5. NGA Networks 
+
+There will be promotion of NGA networks by demonstrating their 
+potential applications and by supporting their introduction in homes, 
+offices and public buildings.
+
+6. Free access to 
+
+wireless Internet
+
+There will be free access to wireless Internet in public buildings, main 
+squares and many public spaces around the islands.
+
+7. Portable devices 
+
+for children
+
+Portable devices will be provided for children, their teachers and LSAs as 
+part of the government’s vision of transforming formal education through 
+the use of digital technologies.
+
+8. Citizen 
+
+Engagement
+
+Contact with citizens and between citizens will be promoted, especially 
+through the use of mobile apps and social networking websites.  
+Guidelines on social media strategies for local government and NGOs 
+will be developed, encouraging them to act as intermediaries in a more 
+participative civil society. 
+
+9. Promote innovative 
+
+ICT applications
+
+Innovative ICT applications that lead to a better lifestyle will be promoted 
+in a joint partnership with the private sector.  The initiative will focus on 
+developments that enhance daily activities such as shopping, banking, 
+commuting and entertainment.
+
+STIMULATING LOCAL CONTENT
+
+Relevant, alluring and engaging content drives people to make use of ICT. High quality local content 
+will draw more people online. The Internet offers the opportunity to overcome economic limitations, 
+and to reach households with greater ease. The Internet also offers unprecedented opportunities to 
+digitally preserve heritage.
+
+10. Developing online 
+
+content
+
+A programme will be established to support and stimulate the 
+development of high quality online content that is appealing, educational 
+and culturally distinctive. Government will support joint collaborations 
+between public and private media providers to produce, stream or make 
+available local digital content. 
+
+11. Maltese language 
+
+tools
+
+Government will facilitate the development and distribution of language 
+tools to support the use of Maltese as a medium for teaching and learning, 
+and therefore widening take-up of ICT in the Maltese language.
+
+ 
+
+National Digital Strategy 2014 – 2020
+
+29
+
+5
+
+DIGITAL BUSINESS
+
+5.1  GOALS
+
+Malta’s businesses will have a greater chance of success if powered by ICT. Local firms must be 
+encouraged and supported to embrace ICT to transform themselves into digital enterprises. This will 
+strengthen their competitiveness and make them more export-orientated. Local ICT companies have 
+an important role to play in bringing about this change. 
+
+Increase and 
+support ICT 
+entrepreneurial 
+activities.
+
+Support the 
+application of 
+ICT.
+
+Step up 
+investments 
+in R&I.
+
+The goals of the 
+actions under this 
+strategic pillar are 
+to: 
+
+Align the supply 
+and demand of 
+eSkills.
+
+Support local 
+businesses to be 
+more innovative 
+and offer more 
+competitive 
+products and 
+services.
+
+30
+
+5.2  GUIDING PRINCIPLES
+
+A.
+
+Because of the country’s size and limited resources, ICT should be 
+used in a strategic way, as an enabler of growth and innovation, and 
+as a driver of economies of scale and pools of knowledge.
+
+B.
+
+Collaboration between the main local 
+players in the ICT field will be fostered.  
+User communities, ICT specialists and 
+other professionals in ICT-enabled or 
+supporting services will be encouraged to 
+pool their resources to focus on generating 
+products and services which are not just 
+technological, but adaptive and value 
+creating and able to serve both business 
+and everyday needs.
+
+C.
+
+All stakeholders 
+must aim to 
+develop an 
+environment 
+that is conducive 
+to business. 
+Partnerships 
+within the EU 
+and with other 
+countries in the 
+region should be 
+established to 
+provide a platform 
+for cooperation.
+
+ICT-based R&I 
+investment needs 
+to be directed at 
+niches and sectors 
+of the economy 
+that are already 
+strong and areas 
+of specialisation 
+identified in the 
+National Research 
+and Innovation 
+Strategy 2020. 
+
+D.
+
+E.
+
+G.
+
+Business 
+sustainability 
+and growth will 
+be facilitated, 
+and emergent 
+economic 
+opportunities will 
+be exploited.  
+
+Students and young 
+entrepreneurs will 
+be encouraged 
+and supported 
+to make use of 
+local innovation/ 
+incubation centres.
+
+F.
+
+Local stakeholders 
+will be supported 
+to participate 
+in funding 
+programmes 
+supportive of local 
+incubation centres 
+and related efforts 
+to gain international 
+exposure.
+
+National Digital Strategy 2014 – 2020
+
+31
+
+Transform the way Business 
+operate. Digital Malta will 
+increase competitiveness and 
+boost the attractiveness of 
+local industry. It will promote 
+more start-ups, attract foreign 
+investment, enable strategic 
+alliances, encourage angel 
+investment and nurture niche 
+service providers.  Business will 
+be encouraged and supported 
+to exploit (i) the opportunities 
+of the European Digital Single 
+Market, (ii) Malta’s strategic 
+location in the Mediterranean, 
+with ready access to the 
+European and North African 
+markets, (iii) Government’s 
+strategic alliances with 
+foreign ICT organisations, 
+(iv) opportunities to expand into 
+new or bigger markets.
+
+32
+
+National Digital Strategy 2014 – 2020
+
+33
+
+5  DIGITAL BUSINESS
+
+5.3  ACTIONS
+
+TRANSFORMING BUSINESS 
+
+Demographic change, globalisation, and more recently, the worldwide economic crisis have placed 
+strains on industry. There have been radical changes in societal patterns and technology, leading to 
+changed business models and increased competition. The business landscape is complex but industries 
+will always seek to identify opportunities to capitalise on.  ICT can serve as an important enabler for 
+businesses in their transformation.
+
+12. ICT initiatives for 
+
+sectors facing stiff 
+competition 
+
+Government, working with industry, will organise a series of initiatives 
+for sectors facing stiff competition (e.g. manufacturing, construction and 
+retail) to help them benefit from ICT. 
+
+13. Forum for the 
+
+transformation of 
+industries 
+through ICT 
+
+14. ICT capability 
+framework for 
+SMEs and 
+co-operatives
+
+15. ICT training 
+programmes
+
+A forum will be established,  comprising of executives from leading local 
+firms and industry representative bodies. The forum’s mandate will be 
+to develop programmes to raise awareness about how ICT can help 
+industries transform themselves and become more profitable. The Forum 
+will discuss issues such as internationalisation, eCommerce, the use of 
+social networking as a business tool, the benefits of NGA networks, self-
+regulation, compliance with web accessibility guidelines, and supply chain 
+management.
+
+A framework will be developed to enable local SMEs and co-operatives to 
+assess their ICT capability, human capital and ICT-enabled processes and 
+technology.  This will be supported by ‘benchmarking’ and roadmaps to 
+enable these organisations to improve performance and derive increased 
+ICT business value from their human, technical and operational assets.
+
+Government will support enterprises by administering ICT training 
+programmes for their employees.  The programmes will focus on unskilled 
+and semi-skilled workers with the objective of improving their productivity, 
+employability and mobility. They will also promote understanding of new 
+business models enabled through technology.  In parallel, ICT up-skilling 
+and re-skilling programmes will be re-introduced.  
+
+34
+
+SUSTAINING ENTREPRENEURSHIP AND ATTRACTING NEW BUSINESSES
+
+The size, structure and type of ownership of many local enterprises, a tendency towards risk-aversion 
+and a perceived lack of funding, support mechanisms and incentives all run counter to the culture of 
+entrepreneurship needed for an innovation economy and towards attracting FDI.
+
+There are a number of ICT-themed measures that can be taken to support and improve the level of 
+business entrepreneurial activity in Malta.
+
+16. Supporting 
+
+entrepreneurship
+
+Collaborating with stakeholders, government will:
+
+    Invest resources to cultivate a widespread entrepreneurial mind-set, 
+
+allowing for the launch of more ICT start-ups and young high-growth 
+ventures exploiting ICTs.  Special emphasis will  be devoted to Gozo-
+based entrepreneurial initiatives in view of the island’s difficulties in 
+developing a mature ICT industry.
+
+    Facilitate improved ‘access to capital’ programmes for start-ups, micro 
+
+and small firms. This includes the setting up of a business angels 
+network, incentives for crowd-funding and other investor schemes.
+
+    Provide firms with incentives to deploy advanced ICT services in 
+
+unprofitable areas. These could be interest-free credit, subsidies, or 
+preferential tax rates.
+
+17. Attracting FDI 
+
+in ICT
+
+Measures will be taken to attract foreign ICT companies with the objective 
+of transforming Malta into a regional hub for technological cooperation 
+and trade.  These will include:
+
+    Corporate packages, structures and business models that target FDI 
+
+in ICT ventures, start-ups, ICT educational collaborations and niche 
+markets such as digital games, mobile apps and other creative content.
+
+    Actively supporting SmartCity Malta and others involved in incubation 
+
+or innovation activities.  
+
+18. Cloud Computing
+
+The government in partnership with industry will develop a strategy 
+on ‘Cloud Computing’ aimed at establishing Malta as a world-class hub 
+for the provision of cloud computing services, boosting innovation and 
+productivity across the digital economy.
+
+19. Digital Gaming 
+
+Execute a Digital Games strategy in an attempt to strengthen what Malta 
+offers operators in the sector, including improving the specialist skills base.   
+
+National Digital Strategy 2014 – 2020
+
+35
+
+5  DIGITAL BUSINESS
+
+ECOMMERCE - GOING GLOBAL
+
+The local ICT Industry is a vital part of the economy, but it must target international markets if it is to 
+advance.  Digital technologies provide significant opportunities for growth through exporting.
+
+eCommerce extends boundaries. Products and services can be easily marketed and traded over the 
+Internet, expanding markets from neighbourhood to global.  While local firms can gain substantially 
+from such opportunity, they also need to manage the challenges of eCommerce.
+
+20. Widening horizons Government, working with industry bodies, will develop policies and 
+
+incentives to:
+
+    Enable ICT clusters to flourish. Technology development, innovation 
+
+and internationalisation should be the main focus of clustering activity. 
+Support may include seed funding, market intelligence services, and 
+internationalisation services.
+
+    Exploit Malta’s eGovernment expertise to develop training and 
+
+consultancy services for other countries, especially those with cultural 
+or traditional links in the Mediterranean or the Commonwealth.
+
+    Promote the concept of ‘Born Global’ products and services.
+
+21. ICT-focused 
+
+incentive schemes
+
+Incentive schemes and voucher-based credit lines will be developed to 
+enable local SMEs and co-operatives to benefit from free or subsidised 
+consultancy services. This will help them adopt digital technology and 
+innovative business models to both establish themselves online and 
+internationalise their products and services. 
+
+22. eCommerce 
+
+Government and industry stakeholders will:
+
+markets
+
+    Develop measures to sustain and grow the local eCommerce market 
+
+on both the supply and demand sides.
+
+    Implement initiatives to assist and further drive the adoption of 
+
+eCommerce by business sectors with the potential to capitalise on 
+web technologies and penetrate foreign markets.
+
+Identify opportunities for Malta to attract business activities that operate 
+or support global eCommerce markets.
+
+23. Emerging 
+electronic 
+transactions
+
+Government, working with payment providers, will develop an education 
+programme to explain and promote different forms of electronic 
+transactions and emerging monetisation models. The programme will 
+explain business models, technologies, costs and risks.
+
+36
+
+STIMULATING RESEARCH & INNOVATION
+
+Besides being a sector in its own right, ICT is a horizontal enabler for R&I. There needs to be 
+continued investment in both ICT infrastructures, and innovation using ICT, as identified in the 
+National R&I Strategy 2020. The two lines of investment are mutually reinforcing, as investment in ICT 
+infrastructure and human capital provides the way for ICT-based innovation.
+
+24. Harnessing 
+
+international R&I 
+funding 
+
+Local ICT companies need to take advantage of pan-European and 
+international R&I funding frameworks and industrial development funding 
+opportunities.  To help in this, government will:
+
+    Provide logistical and brokerage support.
+
+    Offer incentives to companies to invest time and human resources 
+
+researching and developing innovative products, processes, and 
+services and new marketing methods.
+
+25. Open innovation
+
+Government will set up a multi-stakeholder Innovation Centre to offer 
+incentives for ICT-themed R&D, idea-generation, incubation and innovation 
+with a view towards co-creation and open innovation. Its purpose will be 
+to:
+
+    Create an environment to enable open collaboration by enterprises, 
+
+academic institutions and public bodies wishing to engage in R&I 
+activities, particularly projects requiring testing and validation in real-
+life settings.
+
+    Attract multi-national enterprises, contributing different technological 
+
+platforms and expertise.
+
+    Provide mentorship, specialised training and an alternative ICT 
+incubation facility for young entrepreneurs, students and start-
+ups wishing to test and demonstrate their innovations in a live 
+environment.
+
+    Serve as a networking hub and a show-case of locally developed talent 
+
+and products.
+
+National Digital Strategy 2014 – 2020
+
+37
+
+6
+
+DIGITAL GOVERNMENT
+
+6.1  GOALS
+
+Government services should be designed around the requirements of the people. They need to 
+be more user-friendly and less burdened by red tape. They should be accessible through multiple 
+channels. The concept of service to the community needs to be expanded so that government 
+involves citizens and businesses in decision-making processes. In addition, public data, which 
+government creates, designs and manages, should be openly shared across entities and authorities, 
+and externally with third parties for their commercial re-use. This will prevent costly duplication and 
+re-invention.
+
+Simplify existing 
+digital public 
+services.
+
+Promote higher 
+take-up of 
+eGovernment 
+services.
+
+Extend 
+government 
+transparency and 
+eDemocracy.
+
+38
+
+The goals of the 
+actions under this 
+strategic pillar are 
+to: 
+
+Enable fact-based 
+decision-making. 
+
+Encourage the 
+re-use of public 
+sector information.
+
+Make government 
+services accessible 
+through mobile 
+devices. 
+
+Engage citizens 
+and increase 
+participation.
+
+Stimulate greater 
+collaboration 
+between 
+international 
+partners, 
+government, local 
+enterprises and 
+citizens.
+
+6.2  GUIDING PRINCIPLES
+
+A.
+
+B.
+
+Online government services will meet EU 
+regulations and embrace EU building blocks 
+(e.g. eSignatures) in support of the EU 
+Single Market. 
+
+Online government 
+services will be 
+organised around 
+customers’ needs.  
+Businesses, 
+local councils, 
+community 
+learning centres 
+and the public 
+will have a role 
+in designing and 
+implementing 
+new or enhanced 
+services.  
+
+Government will 
+equip leaders and 
+decision makers to 
+be better tuned in 
+taking advantage 
+of technological 
+advancements.  
+Similarly, 
+government will 
+take measures to 
+cater for the needs 
+of digital employees 
+and to capitalise on 
+their digital skills.
+
+C.
+
+New or enhanced 
+government 
+services will be 
+designed for the 
+web and mobile 
+platforms. Most 
+ICT services should 
+function equally 
+well across different 
+platforms and 
+devices.
+
+Government 
+systems will be 
+regularly assessed 
+for efficiency and, 
+when necessary, 
+be enhanced or 
+replaced.
+
+G.
+
+F.
+
+E.
+
+16. Authorities, Corporations, 
+Agencies and commercial 
+public sector entities in which 
+government has a majority 
+shareholding, and are not  
+listed on the stock exchange.
+
+I.
+
+Government will adopt open standards, 
+encouraging the exchange of information and 
+innovation, while seeking healthy competition 
+and lower costs.  Equal consideration will be 
+given to open source and closed source software.
+
+D.
+
+Government will use technology, coupled 
+with business process reengineering, 
+to rethink and redesign resources. A 
+simplification of services will reduce paper 
+use, cut costs and lower the risks that arise 
+from cash handling.
+
+Government will 
+have an active 
+online presence 
+through social 
+media.
+
+Ministries and 
+entities17 will own 
+their ICT projects. 
+Only horizontal 
+services, shared 
+across government, 
+will be centrally 
+owned and 
+delivered.
+
+Government 
+employees will 
+be supported by 
+innovative, flexible 
+technologies and 
+associated business 
+models.  
+
+H.
+
+J.
+
+National Digital Strategy 2014 – 2020
+
+39
+
+Enhance the delivery of 
+Government. Better application 
+of digitisation will result in 
+reduced bureaucracy, increased 
+efficiency and transparency. 
+The public service will be closer 
+to civil society and enterprises, 
+improving the government’s 
+decision-making processes. 
+Open Government and 
+eDemocracy will be facilitated. 
+On-line government services 
+will be more accessible through 
+the use of smart devices and 
+mobile-friendly applications 
+as well as websites and 
+social media. Government’s 
+technological capabilities will be 
+widened to include open-source, 
+cloud computing and big data 
+concepts. Information sharing 
+across government systems and 
+services will be promoted, as will 
+be the re-use of public sector 
+information by third parties.
+
+40
+
+National Digital Strategy 2014 – 2020
+
+41
+
+6 DIGITAL GOVERNMENT
+
+6.3  ACTIONS
+
+CITIZEN & BUSINESS-CENTRIC GOVERNMENT 
+
+Government will expand its eco-system of easily accessible digital services and content.  Customers 
+will be provided with a seamless and integrated web experience across government websites, and on 
+mobile technologies too.  
+
+Online services will be more cost effective with wider benefits for customers.
+ 
+26. Transacting with 
+
+government
+
+Citizens and organisations will be able to transact securely with 
+government using different channels. The take-up of online services will be 
+encouraged by making them easy to use and available on mobile devices. 
+These services will include online forms, ePayments and eInvoicing.  
+
+27. One-stop shop
+
+Citizens and businesses will benefit from a one-stop shop concept.  
+They will be able to access services from their home or office, or 
+through agents.  
+
+Practices such as ‘one face to government’, ‘one-login’, 
+‘service-personalisation’ and ‘ask-only-once’ will be the driving force.
+
+42
+
+EFFICIENT GOVERNMENT
+
+Using technology and business process reengineering, Government will reduce bureaucracy and 
+implement leaner processes, with the aim of offering new and improved public services.
+
+Public officials will be empowered to share knowledge and collaborate within government and across 
+agencies to serve customers better.
+
+28. Collaborative 
+
+Government will work with stakeholders to:
+
+digital environment
+
+    Assist departments and entities to adopt technology that integrates 
+
+cross-departmental services.
+
+    Facilitate the use, management, retention, preservation and archiving 
+
+of born-digital records so that these remain accessible and usable.
+
+    Protect corporate knowledge, and improve data security, integrity, 
+
+accessibility, traceability and archiving.  Industry standards for records 
+and information management and business classification scheme will 
+be adopted.
+
+    Strengthen knowledge sharing. 
+
+    Enable workflows.
+
+    Provide collaborative environments for unified working across multiple 
+
+devices and media-types. 
+
+29. Business Analytics  Public officials will be equipped with the right tools to analyse 
+
+government data.  This will support decision-making and help identify 
+gaps and opportunities.
+
+30. ICT Innovation in 
+
+procurement
+
+Government will use its position as a major procurer to stimulate demand 
+for innovative ICT. It will encourage collaboration between local players 
+and, as an early adopter, it will act as a showcase for locally-produced 
+technology.  
+
+Innovative policies will improve procurement cycles and deliver better 
+value. The eProcurement framework will be extended to cover eOrdering, 
+eInvoicing and ePayments.
+
+31. Strategic Alliances Government will continue to explore opportunities for cooperation, 
+
+alliances and partnerships with reputable multinationals so as to maximise 
+the return on investments and adopt international best practices. 
+
+National Digital Strategy 2014 – 2020
+
+43
+
+6 DIGITAL GOVERNMENT
+
+OPEN GOVERNMENT 
+
+Government is committed to be transparent, and to encourage public engagement.  Online 
+engagement will increase using digital technologies such as social media and crowd-sourcing, 
+soliciting contributions from many.  Communications and eParticipation activities will be designed 
+to promote better development of public policy, increase public trust and encourage citizens and 
+businesses to collaborate with government.  
+
+In line with EU regulations, government will open up public data for use by private organisations and 
+the general public whilst promoting innovative application of such data.
+
+32. Open 
+
+Government 
+Data 
+
+In addition to facilitating the sharing of data across public administration, 
+government will make public sector information available to all as 
+allowed by law.  Structured data will be published in a way that it can be 
+interlinked (Linked Open Government Data) and become more useful to 
+Government entities, third parties and respective systems.  
+
+The adoption of Big Data technologies will allow complex data to be 
+processed, improving decision-making in critical areas such as finance, 
+healthcare, transport, utilities and the environment.
+
+33. eDemocracy
+
+Government is committed to using ICT to encourage citizens to take part 
+in democratic decision-making. Initiatives will be implemented to enhance 
+the visibility, transparency and accountability of government. 
+
+44
+
+ESSENTIAL GOVERNMENT SERVICES
+
+Government entities providing social initiatives and essential services such as education, healthcare, 
+welfare, justice, tourism, utilities and transport may require ad hoc ICT programmes. The input of ICT 
+should be seen as an opportunity to serve customers and cut across boundaries.
+
+34. Sector specific 
+ICT programmes
+
+Sector specific ICT programmes or strategies will be developed by 
+collaborating with all stakeholders.  There will be a philosophy of 
+cutting across ministerial boundaries. The ultimate aim will be to secure 
+consistency, buy-in, effectiveness in implementation and value to citizens 
+and businesses as the ultimate beneficiaries. 
+
+35. eLearning
+
+A complete ICT infrastructure will be provided for educators, students 
+and parents, encouraging a digital mindset and widening learning 
+opportunities.  Educators will be supported to make full use of eLearning 
+platforms and other digital learning technologies.  
+
+36. eHealth
+
+Citizens will be empowered by providing them with secure and easy 
+access to their health records. Similarly, healthcare providers will gain 
+secure and seamless access to the patients’ records.
+
+37. Transportation
+
+Government will use digital technology in land, sea and air transport. 
+Special emphasis will be given to the deployment of Intelligent 
+Transportation Systems for improving road safety, traffic flow and in-
+country travel.
+
+ 
+
+National Digital Strategy 2014 – 2020
+
+45
+
+7
+
+REGULATION AND LEGISLATION
+
+7.1  GOALS
+
+Digital Malta requires a supportive regulatory and legislative framework.  
+
+Continuously 
+enhance the 
+regulatory 
+framework in Malta 
+as it affects ICT, 
+whether directly or 
+indirectly.
+
+Protect rights and 
+freedoms.
+
+Ensure that 
+the Internet 
+remains universal, 
+innovative and 
+open.
+
+The goals of the 
+actions under this 
+strategic enabler 
+are to: 
+
+7.2  GUIDING PRINCIPLES
+
+A.
+
+B.
+
+ICT legislation and policy will be non-
+discriminatory and technology neutral. It will 
+foster value creation, innovation and growth 
+in all industries and society at large.
+
+Legislative measures and regulatory 
+strategies pursued in other jurisdictions 
+will be monitored and evaluated to see if 
+local legislation needs improving.
+
+46
+
+National Digital Strategy 2014 – 2020
+
+47
+
+7 REGULATION AND LEGISLATION
+
+7.3  ACTIONS
+
+LEGISLATIVE INFRASTRUCTURE 
+
+The benefits of the Internet are best reaped when regulatory and legal frameworks ensure universal 
+access, transparency, openness and economic sustainability. Specific actions will be required.
+
+ 
+38. Digital 
+
+Single Market
+
+Malta will seek to maximise the benefits and opportunities deriving from 
+legislation adopted within the EU.  As at 2014, these include:
+
+    The Data Protection Framework.
+
+    The Electronic Identification and Trust Services Regulation.
+
+    The Information Society Directive.
+
+    Regulation concerning the European single market for electronic 
+
+communications and achieving a Connected Continent.
+
+39. Radio spectrum 
+for mobile data 
+communications
+
+The regulatory framework will ensure sufficient radio spectrum for mobile 
+data communication while safeguarding the availability of spectrum for 
+public security.
+
+40. Digital legislation 
+
+Government will work with stakeholders to:
+
+and contracts
+
+    Have a process whereby new laws, once enacted, are digital by default.
+
+    Evaluate existing laws to align them with the Digital Malta vision.
+
+    Enable contracts, which are subject to the formalities of the Notarial 
+Profession and Notarial Archives Act, to be in digital format from the 
+outset. 
+
+41. Infrastructure 
+
+based competition
+
+The legal and regulatory framework shall support investment in new 
+broadband networks and stimulate infrastructure-based competition.
+
+48
+
+INTEROPERABILITY AND STANDARDS
+
+The fast pace of ICT development requires continuous review of industry standards. Government has 
+a leadership role to play. It must ensure standards and policies produce optimal returns on investment 
+in systems architecture and data that is open and interoperable.
+
+42. Standards and 
+Good Practice
+
+Government will collaborate with stakeholders to support and promote:
+
+    National and EU cross-border interoperability.
+
+    ICT standards based on industry best practices. 
+
+    Green ICT.
+
+A ROBUST INTERNET 
+
+Challenges posed by advancements such as cloud services, portability and social media require 
+legislation that safeguards and protects citizens’ data without inhibiting entrepreneurial initiative and 
+creativity.  Intellectual property and content will be protected through a regulatory framework that 
+will also ensure a level playing field for enterprises to thrive and prosper.
+
+43. Cyber Crime 
+
+Legislation
+
+Government will review existing legislation to ensure relevance and 
+effectiveness in the cyber world, for example in dealing with cyber 
+bullying. 
+
+44. Digital legislation 
+
+and regulation
+
+Government will provide measures to maintain privacy, safety and security 
+while surfing, transacting and operating on-line.  Legislation will address 
+several matters:
+
+    Safeguarding intellectual property rights.
+
+    Patents.
+
+    Sensitive and personal information.
+
+    Cloud Computing and data ownership.
+
+    Contentious content.
+
+    Net Neutrality.
+
+    Vendor Lock-in and Exit Management strategies.
+
+    Online contracts and license agreements.
+
+National Digital Strategy 2014 – 2020
+
+49
+
+8
+
+INFRASTRUCTURE
+
+8.1  GOALS
+
+Communications and information infrastructure is required to support government targets for 
+economic growth and social development.  
+
+Provide the 
+necessary 
+foundations for 
+a sound and 
+prosperous digital 
+ecosystem.
+
+Provide safe, 
+accessible and 
+trustworthy 
+services, while 
+protecting 
+fundamental 
+rights, freedom 
+of expression, 
+personal data and 
+privacy.
+
+The goals of the 
+actions under this 
+strategic enabler 
+are to: 
+
+Introduce 
+cost effective 
+and timely 
+technologies 
+to keep Malta 
+competitive and 
+vibrant as a digital 
+nation.
+
+Implement 
+infrastructure 
+that is resilient, 
+performs and 
+capable of 
+supporting future 
+demands.
+
+50
+
+8.2  GUIDING PRINCIPLES
+
+A.
+
+Government and the private sector will invest in network 
+infrastructures and technologies, keeping up with national and 
+international developments, providing Maltese citizens with platforms 
+that are accessible, reliable and secure.
+
+High quality 
+service and 
+affordable access 
+will be driving 
+forces.
+
+B.
+
+D.
+
+Government will 
+lead by example, 
+adopting high 
+quality standards 
+and embracing 
+important 
+technology 
+principles such 
+as abstraction, 
+loose coupling, 
+cohesiveness and 
+generality.
+
+The design and 
+implementation 
+of government 
+network 
+infrastructure 
+and applications 
+will be based on 
+open standards 
+to ensure 
+interoperability 
+and collaboration 
+at national and 
+international level.
+
+C.
+
+National Digital Strategy 2014 – 2020
+
+51
+
+8 INFRASTRUCTURE
+
+8.3  ACTIONS
+
+A NATIONWIDE NGA NETWORK
+
+The revolution in communications technology in the past few decades has created enormous social 
+and economic opportunities. Technology is always evolving, and new investments are required if the 
+country is to keep abreast of developments and provide industries and citizens with future-proof 
+communications infrastructure.
+ 
+45. Supporting NGA 
+
+The MCA regulatory regime will foster innovation and investment to 
+support the development of NGA Networks in Malta. It will have the 
+objectives of ensuring competition and affordable access to these 
+networks.
+
+Networks 
+
+46. Broadband Supply 
+
+and Demand
+
+The MCA will monitor supply and demand of broadband, anticipating 
+change, supporting development and facilitating the deployment and 
+development of NGA Networks in Malta.
+
+47. IPv6 
+
+Government will promote deployment of the IPv6 protocol, for identifying 
+and locating computers on networks and traffic routes across the Internet. 
+This acknowledges the need to prepare for an ‘Internet of Everything,’ 
+where all objects connected to the web must be uniquely identified.
+
+SPECTRUM AND NETWORKS 
+
+Malta will have an infrastructure that guarantees citizens and business opportunities for 
+socio-economic development. 
+
+48. Network 
+
+Infrastructure 
+Sharing 
+Opportunities
+
+A framework to facilitate  and regulate network infrastructure sharing 
+will be established to safeguard the long-term growth and development of 
+the telecommunications sector, while ensuring healthy competition.
+
+49. Safeguarding 
+
+Networks
+
+Risk mitigation measures will be introduced to safeguard networks from 
+damage caused by third-party operations.
+
+50. Quality of Service
+
+End-user interest in the electronic communications sector will be 
+safeguarded by improving the quality of information available to them and 
+ensuring service providers meet contractually agreed QOS levels.
+.
+
+52
+
+National Digital Strategy 2014 – 2020
+
+53
+
+8 INFRASTRUCTURE
+
+INTERNATIONAL AND REGIONAL CONNECTIVITY 
+
+Submarine cables are the backbone of the communication networks and the life blood of the Maltese 
+economy. A better connected environment will contribute greatly to the economy’s efficiency and 
+provide business opportunities.
+
+51. International 
+Connectivity
+
+Opportunities for new submarine cable routes, connecting Malta to 
+mainland Europe or North Africa, will be evaluated. The objective will be 
+to strengthen the country’s connectivity to international networks and 
+hubs, increase resilience and improve investment. 
+
+52. Connectivity 
+
+between Malta 
+and Gozo
+
+A feasibility study will determine optimal data connectivity between 
+the Maltese islands with a particular focus on resiliency and bandwidth 
+between Malta and Gozo.  The outcome will guide the type and extent of 
+investment to be made.
+
+CYBER SECURITY
+
+The Internet’s huge footprint, its impact on society, and the ever increasing range of threats and 
+vulnerabilities present a continuous need to protect cyberspace. A Critical Infrastructural Programme 
+is needed with the participation of government and the private sector to ensure that confidentiality, 
+integrity and availability of information and cyber systems are preserved. Cyber attacks pose a 
+relentless threat to Malta’s national security, economy and society.  Cyber security is also crucial 
+for protecting human rights, freedom of opinion, information and association, and for enforcing 
+obligations in cyberspace.  
+
+53. National Cyber 
+
+Security Strategy
+
+Government will enforce a National Cyber Security Strategy, to help 
+ensure a safer Internet, the protection of critical infrastructure, the rule of 
+law, accountability and privacy. The main pillars will be designed to:
+
+    Combat Cyber Crime. Law enforcement agencies will identify gaps and 
+
+strengthen their capability to investigate and combat cybercrime.
+
+    Strengthen National Cyber Defence.  Public and private entities will be 
+
+guided and assisted in strengthening their cyber defence capabilities.
+
+    Secure Cyberspace.  Higher levels of trust will be instilled through 
+
+awareness programmes and the delivery of trustworthy, ICT-enabled 
+services that assure confidentiality, integrity, availability and privacy.
+
+    Build Capacity.  The skills and educational frameworks required will be 
+
+identified and developed.
+
+54
+
+GOVERNMENT SHARED INFRASTRUCTURE
+
+Government will continue incrementally to enhance its infrastructure. It will draft a roadmap, based on 
+emerging business and technological requirements, to design and implement the next generation of 
+government ICT infrastructure.  
+
+54. Authentication 
+
+Government will: 
+
+Services 
+
+    Simplify the process for authentication to access its online services.
+
+    Work with banks and other organisations to develop a national 
+
+electronic identity card as a trusted source of authentication.
+
+    Bring authentication services into alignment with EU standards and 
+allow fellow European citizens access using their national electronic 
+identity.
+
+    Develop a roadmap, aligned to likely technological advancements and 
+
+emerging needs.
+
+55. Trust Services
+
+Services will be provided to facilitate the creation, verification, validation, 
+handling and preservation of electronic signatures, electronic seals, 
+electronic time stamps, electronic documents, electronic delivery services, 
+website authentication, and electronic certificates. 
+
+56. Modernisation and 
+
+Re-Use 
+
+Government will accelerate the modernisation of ICT implementations, 
+maintain a cartography of ICT assets, and promote the re-use of mature 
+local and EU established ICT building blocks using the Enterprise 
+Architecture & Road-mapping Initiative of MITA.
+
+57. Foresight
+
+Foresight projects will be launched to identify how important ICT driven 
+themes, such as identity and social networking, can be best used for 
+stimulating economic growth. 
+
+58. Incubation of novel 
+ICT driven solutions
+
+Government will pilot ICT projects and embrace those that modernise 
+public administration or promote economic growth. This will be delivered 
+in collaboration with various EU-led programmes.
+
+ 
+
+National Digital Strategy 2014 – 2020
+
+55
+
+9
+
+HUMAN CAPITAL
+
+9.1  GOALS
+
+The ability to develop and deploy educated and able workers is crucial in a knowledge economy. The 
+skills and capacities that reside in people and that are put to productive use are important to create 
+economic value in all sectors of society.  
+
+Help educators 
+embrace 
+technology 
+and adopt new 
+teaching methods 
+for developing 
+the skills of their 
+students.
+
+The goals of the 
+actions under this 
+strategic enabler 
+are to: 
+
+Exploit e-content 
+and technology 
+to attract more 
+people into 
+lifelong learning.
+
+Align the supply 
+of STEM skills with 
+the requirements 
+of industries.
+
+Increase female 
+participation in 
+STEM education 
+and the workforce.
+
+Develop a 
+specialised 
+skills base for 
+spurring business 
+development.
+
+56
+
+9.2  GUIDING PRINCIPLES
+
+A.
+
+B.
+
+The STEM skills 
+and employment 
+policy must 
+be an integral 
+chapter in national 
+educational and 
+employment 
+strategies and 
+policies.
+
+A stimulating 
+educational 
+environment is 
+needed to inspire 
+creativity and 
+innovation and 
+encourage young 
+adults to harvest 
+their entrepreneurial 
+skills. 
+
+C.
+
+Individuals will be encouraged to take up ICT, 
+and ICT-enabled professions, as a career.
+
+The application of digital technologies needs 
+to be embedded in all university, college 
+and school courses, and non-formal learning 
+environments. 
+
+D.
+
+Government must 
+address labour 
+market shortages 
+and industry 
+requirements, 
+ensuring there 
+is synergy 
+between industry, 
+educational 
+institutions and 
+other stakeholders.
+
+E.
+
+National Digital Strategy 2014 – 2020
+
+57
+
+9 HUMAN CAPITAL
+
+9.3  ACTIONS
+
+BUILDING CAPACITY AND SKILLS
+
+New skills are needed in an era of rapid economic and social change. Globalisation and technological 
+advancements will drive the future.   Students must be equipped to manage emerging technologies, 
+and the jobs and professions that will emanate from them.
+ 
+59. Integrating critical 
+
+skills across 
+educational 
+and formative 
+experiences
+
+Government will fund access to resources, training and industry readiness 
+programmes. These will include apprenticeships and internships, and help 
+with imparting skills such as problem-solving, computational thinking, 
+and data and information processing. Soft-skills and aptitudes, such as 
+intellectual curiosity, flexibility and e-entrepreneurship, will be woven 
+into the fabric of formal education. Programmes will be supported and 
+promoted in and after school, on and off campus, throughout the year, 
+across public and private institutions. Projects and spin-offs, arising 
+from such programmes, will be celebrated, for example through annual 
+competitions.
+
+60. Building national 
+
+capacity in 
+specialist skills-sets
+
+Through educational institutions and industry, government will support 
+the creation of specialist educational pathways, addressing labour market 
+requirements. Government will develop the curriculum and provide 
+technical materials.  
+
+61. Investing further 
+
+in and celebrating 
+the education 
+community 
+
+Educators will be given opportunities and incentives to explore cross-
+disciplinary approaches, embracing technology. Innovative teaching and 
+achievements will be celebrated. Local best practice will be shared.
+
+62. Awareness-raising 
+
+on eSkills education 
+and careers
+
+Government will resource awareness campaigns about careers requiring 
+eSkills and the education opportunities available. Target audiences will 
+be identified by collaborating with stakeholders. Action will be taken to 
+minimise the gender imbalance in the technology field.
+
+58
+
+National Digital Strategy 2014 – 2020
+
+59
+
+9 HUMAN CAPITAL
+
+STRENGTHENING THE WORKFORCE
+
+Globalisation puts Malta’s workforce in direct competition with workers in every corner of the globe. 
+Competency requirements are constantly changing at every level of business. Investment will take 
+place to strengthen the workforce. Government will:
+
+63. Improve 
+
+employability 
+through lifelong 
+learning and career 
+support
+
+Work with educational institutions, community organisations and industry, 
+to develop a Lifelong Learning Programme, with eSkills at its core, so 
+as to improve worker employability in the digital economy. There will 
+be a support framework of career guidance, financial incentives, flexible 
+learning paths and intense use of eLearning. Special emphasis will be 
+assigned to vulnerable groups.
+
+64. Update the 
+
+eCompetence 
+Framework
+
+Continue investing in the Standards for ITalent, as the eCompetence 
+framework for providing defined, visible career streams for individuals in 
+the ICT profession. The framework will be updated to reflect European 
+and international developments standards and reflect feedback from 
+stakeholders. Industry and educational institutions will be encouraged 
+to adopt this eCompetence framework. The standards will be promoted 
+as occupational guidelines with easy-to-use tools for professionals and 
+aspiring practitioners to map their skills portfolio with career development.
+
+65. Promote 
+
+excellence in the 
+professionalism 
+of the local ICT 
+workforce
+
+Support mechanisms to develop excellence in the ICT workforce. The 
+building blocks of the profession include the eCompetence framework, a 
+foundational body of knowledge, ethics and education. Other supporting 
+components will be explored, such as profiling tools, registers and 
+portfolios for practitioners.
+
+66. Quality assure for 
+
+ICT educational 
+programmes
+
+Ensure the adoption of quality assurance processes in the delivery of ICT 
+educational and training programmes so that the content and materials 
+are in line with industry demands. This will be managed through the 
+educational authorities.
+
+67. Validate technology 
+-related experience 
+and education
+
+Validate informal technology-related experience and education of ICT 
+practitioners. This will be done jointly with the educational authorities and 
+educational institutions.
+
+68. Increase female 
+
+participation 
+
+Identify the main challenges women face to participate in the ICT 
+workforce. Incentives will be offered to employers to recruit more women.
+
+69. Take informed 
+
+action
+
+Monitor demand for eSkills. Qualitative and quantitative research will be 
+shared with stakeholders for co-ordinated action when needed.
+
+60
+
+REGIONAL HUB FOR HIGH QUALITY ESKILLS EDUCATION AND TRAINING
+
+The global marketplace necessitates global citizenship. Internationalised educational institutions can 
+provide students with global perspectives of disciplines and careers. Growth in international STEM 
+education and training will broaden outlooks, strengthen educational institutions’ offerings and, 
+ultimately, improve national competitiveness.
+
+70. eSkills education 
+
+in other critical 
+sectors
+
+Government will embark on a plan to internationalise the Maltese eSkills 
+educational sector to attract education tourism. This will capitalise on 
+the success of the English-language educational tourism initiative. The 
+plan will address the need to enhance Malta’s attractiveness as an eSkills 
+training destination, deal with deficiencies, and provide investment 
+support for educational providers.
+
+71. International 
+ICT education 
+programmes
+
+Incentives will be provided for the creation of joint international ICT 
+education programmes at vocational, academic and executive levels. 
+These programmes will be carried out in co-operation with reputable 
+international educational institutions.
+
+National Digital Strategy 2014 – 2020
+
+61
+
+10
+
+ATTAINING THE VISION
+
+Everybody needs to work together to make 
+Digital Malta a success.  The Strategy is 
+an enabler for the different bodies and 
+organisations to achieve their objectives and 
+as such should be deemed as an integral part 
+of their operations. 
+
+62
+
+National Digital Strategy 2014 – 2020
+
+63
+
+10 ATTAINING THE VISION
+
+Fig. 9 depicts the role of the different stakeholders. 
+
+Fig. 9
+MAIN STAKEHOLDERS
+
+POLITICAL CHAMPION
+Office of the Prime Minister
+
+POLITICAL LEADERSHIP
+Ministry/Parliamentary Secretariat
+responsible for the Digital Economy
+
+Ministry
+responsible 
+for Finance
+
+GOVERNING BODY
+
+SUPPORT
+FUNCTIONS
+
+Planning
+Finance
+Monitoring
+Marketing
+Auditing
+
+OPERATIONAL BODIES
+
+Malta Information Technology Agency
+Malta Communications Authority
+Malta Enterprise
+Foundation for IT Accessibility
+ICT MALTA
+
+Business Champion
+Citizen Champion
+Ministry/Entity CIOs
+
+Chamber of Commerce
+eSkills Malta Foundation
+ICT Forums
+
+64
+
+10.1  CRITICAL SUCCESS FACTORS
+
+A suite of factors are critical for attaining the vision:
+
+Strong political 
+leadership, solid 
+governance and 
+commitment by 
+all stakeholders 
+to implement the 
+initiatives.
+
+Adequate 
+funding.
+
+Good programme 
+and project 
+management 
+throughout the life-
+cycle of initiatives.
+
+Continuous 
+engagement with 
+stakeholders.
+
+A culture of sharing 
+of resources 
+(accompanied by 
+supportive business 
+frameworks) across 
+and between 
+stakeholders.
+
+Re-skilling of 
+government 
+employees and 
+creating new 
+structures and 
+roles.
+
+Government, 
+business, 
+organisations, leaders 
+and individuals 
+being more creative 
+and open to 
+experimentation with 
+new technologies 
+and methods.
+
+National Digital Strategy 2014 – 2020
+
+65
+
+10 ATTAINING THE VISION
+
+10.2  POLITICAL LEADERSHIP
+
+10.3  GOVERNING BODY 
+
+Within the public sector, the goals identified in 
+Digital Malta will be considered as high priority and 
+strategic direction will be given.
+
+Politically championing the Strategy at the most 
+senior level, and securing ownership from the 
+respective areas, is fundamental for success.  
+The Cabinet, headed by the Prime Minister, will 
+champion the attainment of Digital Malta through 
+political will, supportive policy and adequate funding.  
+The Ministry / Parliamentary Secretariat responsible 
+for the Digital Economy will provide focus on 
+ultimate goals, overall governance and the 
+engagement of relevant parties.
+
+Strong governance will support the leaders.  It will 
+enable management of the dependencies and 
+interactions between players and mitigate the risks 
+associated with adopting different policies and 
+implementing various actions.  Stakeholders need to 
+work closely together to overcome challenges.
+A governing body, representing the primary 
+stakeholders, will be established.  It will report to the 
+Ministry / Parliamentary Secretariat responsible for 
+the Digital Economy and will:
+
+  Oversee the implementation of the Strategy 
+
+ensuring the necessary commitment, 
+engagement and collaboration of stakeholders.
+
+ 
+
+Senior figures within government will own and be 
+accountable for actions and initiatives.  
+
+  Provide leadership, mentorship and support to 
+
+stakeholders in understanding and implementing 
+the Strategy.
+
+  Approve a programme of initiatives within the 
+
+public sector on a yearly basis.
+
+  Oversee progress and provide direction on major 
+
+ICT investment.
+
+  Develop a framework and tools to measure the 
+benefits gained from the digital experience, and 
+make the results accessible to all.
+
+  Market and promote the Strategy and associated 
+
+actions and initiatives.
+
+  Celebrate and share success-stories.
+
+  Re-calibrate the Strategy as necessary.
+
+A sub-committee will be setup to determine yearly 
+ICT budgets and to ensure savings from ICT projects 
+are reinvested in ICT.  
+
+66
+
+10.4  OPERATIONAL BODIES 
+
+The Digital Malta Strategy will be supported by a yearly ‘Programme of Initiatives.’ Initiatives will be identified 
+and scoped by the respective owners and submitted to the Digital Malta Governing Body in the form of a 
+business case for approval and prioritisation.  Once this is done, the respective owners will take measures to 
+secure the necessary funding and to drive implementation in line with the direction provided.  
+
+In this regard, at different stages of the Strategy timeline, various organisations, entities and individuals will be 
+involved.  A number of new functions will be established:
+
+  A Digital Society Stakeholder 
+
+  An FDI multi-stakeholder 
+
+Forum will be established 
+for civil society, government 
+and industry to discuss how 
+ICT is impacting society, and 
+how it can be used to create 
+better social cohesion.  The 
+Forum will look at eInclusion, 
+digital citizenship and Internet 
+safety; it will propose policy to 
+government and encourage 
+industry self-regulation.
+
+  A Forum for Internet Safety 
+and minors will be set up to 
+bring together the MCA, the 
+Commissioner for Children, 
+FSWS, the Education 
+Directorates, the Malta Police 
+Force, industry representatives 
+and others to share knowledge 
+and to monitor developments.  
+The Forum will put forward 
+policy ideas and represent 
+Malta on European bodies 
+working in this field.  
+
+committee will be responsible 
+for designing corporate 
+packages specifically 
+targeting ICT multinationals. 
+Special attention will be 
+reserved for promoting 
+and facilitating knowledge 
+economy investments in Gozo. 
+The committee will include 
+stakeholders from public, 
+private and independent 
+bodies from both Malta and 
+Gozo.
+
+  An entity will be responsible 
+
+for the coordination of 
+national cyber security 
+efforts. This entity will be also 
+responsible for the creation, 
+maintenance and governance 
+of the National Cyber Security 
+Strategy.
+
+  A Data Governance Council 
+
+will provide strategic direction 
+for data related issues and 
+decisions.
+
+ 
+
+ICT Malta will be set up on 
+similar basis to Finance Malta. 
+It will be led by the business 
+community and will have 
+objectives to:
+
+  Promote and market Malta 
+to attract ICT investments;
+
+  Assist the local ICT industry 
+
+to penetrate the global 
+market;
+
+  Promote ownership of 
+
+the Malta brand among all 
+stakeholders;
+
+  Synergise business 
+
+sectors to create ICT 
+areas of strength (e.g. 
+software development), 
+to contribute towards 
+economic growth.
+
+  Citizen and Business 
+
+Champions.  Two individuals 
+will be appointed to champion 
+‘Digital Citizen’ and ‘Digital 
+Business’ activities.  They will 
+be the central contact point 
+for initiatives within these two 
+strategic themes and will lead 
+their implementation.
+
+National Digital Strategy 2014 – 2020
+
+67
+
+10 ATTAINING THE VISION
+
+In addition, where appropriate, the remit, the strategic direction, the structures and the operations of existing 
+organisations will be aligned in such a way so as to be in a stronger position to implement this Strategy:
+
+  The MITA will continue to 
+
+  The Ministry and Entity’s Office 
+
+drive government’s ICT policy, 
+programmes and initiatives 
+within Malta.  
+
+  The MCA will, in line with its 
+regulatory remit, continue to 
+ensure an optimal environment 
+for the deployment of multiple 
+high speed fixed and mobile 
+networks, while promoting 
+public and business uptake 
+
+  of ICT.
+
+  ME and MCST will promote 
+Digital Malta in their spheres.
+
+  The FITA will be given 
+a stronger role to build 
+and promote accessibility 
+standards across government 
+and industry.
+
+of CIOs will be responsible for 
+developing, managing and 
+implementing the Ministry’s ICT 
+strategy and an ICT programme 
+plan as directed by Digital 
+Malta.  The Office of CIOs will 
+be strengthened to ensure that 
+these Offices are in a position to 
+successfully deliver.   
+
+  Structures responsible for 
+
+combating cyber crime 
+and supporting Critical 
+Information Infrastructure 
+Protection, especially those 
+relating to CSIRT Malta, will 
+be reinforced.  Furthermore, 
+National early warning cyber 
+security advisory capability 
+and National law enforcement 
+agencies will be strengthened.
+
+  The Malta Internet Governance 
+Forum will serve as the national 
+platform for the protection of 
+human rights and democracy 
+on the Internet. The Forum will 
+be open to all local stakeholders. 
+Its aims will include activities to 
+promote data protection and 
+privacy; coordinate cooperation 
+against cyber crime and 
+maximise the Internet’s potential 
+to promote democracy and 
+cultural diversity.
+
+  eSkills Malta Foundation - 
+Government will transform 
+the eSkills Alliance into a 
+purpose foundation giving it 
+more independence, strength 
+and agility.
+
+10.5  SUPPORT FUNCTIONS 
+
+The execution of the Strategy also requires the creation or strengthening of a number of support functions 
+including:
+
+  Planning and budgeting, monitoring and auditing, and marketing of the Strategy.  
+
+  Foundation of bodies with a similar aim of increasing proliferation of ICT across the island.
+
+These support functions will work in liaison with the operational bodies to reap the benefits that result from 
+continuous collaboration. 
+
+68
+
+National Digital Strategy 2014 – 2020
+
+69
+
+11
+
+MEASURING SUCCESS
+
+Digital Malta has bold goals in order to deliver a 
+better quality of life and sustained economic growth.
+
+The Strategy will be measurable and transparent, 
+allowing all stakeholders to track its success.  
+
+It will continually be monitored by the Governing 
+Body. Reports will be presented on qualitative and 
+quantitative assessments and progress achieved.        
+
+The monitoring will also guide the re-calibration of 
+Digital Malta, so that it remains equipped to satisfy 
+evolving needs.
+
+70
+
+National Digital Strategy 2014 – 2020
+
+71
+
+11 MEASURING SUCCESS
+
+Fig. 10
+MEASURING 
+DIGITAL MALTA
+An open and participatory approach 
+will be adopted when measuring success.
+
+PLANNING
+
+CO-ORDINATION
+with budget processes, 
+other strategies and 
+stakeholders
+
+MONITORING
+
+IMPLEMENTATION
+
+PARTICIPATION
+ensure participation
+and build trust
+
+72
+
+11.1  PERFORMANCE TARGETS 
+
+The following DAE targets are adopted for the Digital Malta Strategy: 
+
+Target 
+
+33% of SMEs selling online 
+Fast broadband (>30 MBPS) coverage available for all 
+50% of households taking up broadband subscriptions having >100 MBPS 
+20% of population buying online across-borders 
+50% of population buying online 
+60% of disadvantaged people using Internet regularly 
+75% of population using Internet regularly 
+15% or less of the population have never used the Internet 
+100% increase in ICT R&D Public Spending 
+50% of population using eGovernment 
+25% of population using eGovernment and returning forms 
+
+Malta has already achieved the ‘Broadband coverage for all by 2013’ target. 
+
+By
+
+2015
+2020
+2020
+2015
+2015
+2015
+2015
+2015
+2020
+2015
+2015
+
+11.2  PERFORMANCE INDICATORS 
+
+The success of the Strategy will be measured using three performance indicators:
+
+  Existing benchmarking exercises carried out by reputable independent 
+
+organisations.  
+
+  Qualitative evaluations, identifying the extent of implementation and benefits 
+
+delivered to citizens, business and government.  
+
+  Assessments, surveys and audits analysing specific areas. 
+
+National Digital Strategy 2014 – 2020
+
+73
+
+11 MEASURING SUCCESS
+
+11.3  BENCHMARKING EXERCISES 
+
+Various international organisations carry out studies to measure and compare 
+the performance of different countries.  These measures will also be used by the 
+Governing Body to gauge success:
+
+Eurostat - Information Society Indicators
+
+United Nations - eGovernment Indices 
+
+  Percentage of Individuals using the Internet for 
+
+  eGovernment development index 
+
+interaction with public authorities
+
+  Percentage of Individuals using the Internet for 
+
+interaction with public authorities, by type of 
+interaction
+
+  Percentage of enterprises using the Internet for 
+
+interaction with public authorities
+
+  PC and Internet penetration rates for business of 
+
+different sizes
+
+  Percentage of Enterprises having purchased 
+
+online 
+
+  Percentage of Enterprises having received orders 
+
+online
+
+  Size of ICT workforce
+
+  Contribution of ICT sector to GDP
+
+  Contribution of ICT enabled sectors to GDP
+
+  Total eCommerce export (or percentage of 
+enterprises exporting through eCommerce)
+
+  Total percentage of eCommerce trade within the 
+
+local market
+
+World Economic Forum - The Networked 
+Readiness Index 
+
+  Environment index
+
+  Readiness index
+
+  Usage index
+
+ 
+
+Impact
+
+  Online Service index 
+
+  Telecommunication infrastructure index
+
+  eParticipation index
+
+European Commission - eGovernment
+benchmarking 
+
+  User-centric government
+
+  Transparent government 
+
+  Citizen mobility 
+
+  Business mobility 
+
+  Key enablers
+
+  Effective government
+
+  eGovernment use
+
+INSEAD & Singaporean Human Capital Institute –
+Global Talent Competitiveness Index 
+
+  Enablers
+
+  Attract
+
+  Grow
+
+  Retain
+
+  Labour and Vocational
+
+  Global Knowledge
+
+74
+
+11.4  QUALITATIVE EVALUATIONS 
+
+In addition to quantitative measures, qualitative criteria will be used to assess whether or not:
+
+ 
+
+ 
+
+ 
+
+ICT has contributed towards improving the economic competitiveness of the country. 
+
+ICT has brought sustained improvements in the quality of life of Maltese citizens.
+
+ICT has enabled sustainable economic growth in business.
+
+  The Maltese public are constructively engaged in realising Digital Malta. 
+
+  Government is more efficient and more open.
+
+  Areas of ICT skills shortages have been addressed.
+
+  Malta has a sound legal basis and regulatory framework for digital growth.
+
+  The Maltese ICT community has critical mass, access to resources and supporting infrastructure. 
+
+National Digital Strategy 2014 – 2020
+
+75
+
+11 MEASURING SUCCESS
+
+11.5  SPECIFIC ASSESSMENTS 
+
+The rhythm of achievement will be monitored by closely observing specific areas.  
+This will be done through assessing: 
+
+  The readiness and use of ICT by local entrepreneurs to determine levels of access, skills, perceptions and 
+
+technology foresight.
+
+  The extent of use of ICT by SMEs in Malta. 
+
+  The supply chain level of automation by industry sectors.
+
+  The readiness of logistics services.
+
+  The entrepreneurial culture and ICT integration within local business.
+
+  The readiness of Maltese enterprises to internationalise.
+
+  The attributes of non-users, particularly in relation to access, affordability and perceived uses.  Focus will 
+
+be on working adults, the unemployed and the elderly.
+
+  The use of ICT, perceptions and competence levels of the Maltese.  
+
+  The level of satisfaction of users of online government services.
+
+  The National Cyber Security Strategy based on considerations issued by International 
+
+Organisations e.g. the ENISA 18.
+
+  The realisation of benefits and value for money audits.
+
+18. ENISA, “National Cyber Security Strategies — ENISA” Report/Study, 2012.
+
+76
+
+National Digital Strategy 2014 – 2020
+
+77
+
+78
+
+

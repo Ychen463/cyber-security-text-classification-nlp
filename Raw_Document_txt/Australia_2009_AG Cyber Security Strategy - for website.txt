@@ -1,0 +1,1735 @@
+Cyber SeCurity Strategy
+
+MiNiSter’S FOreWOrD
+
+australians have been quick to embrace the Internet in their lives and businesses.  For most of us it is 
+now part of our daily routine for talking to our friends and family, studying, shopping and paying bills.  
+Equally, business has adopted the Internet and other information technology to improve efficiency, 
+improve the quality of service and gain access to new markets.
+
+Unfortunately our use of the Internet has also created new opportunities for criminals who seek to 
+access our personal and corporate secrets, steal our resources and intimidate Internet dependent 
+businesses.  the Prime Minister in his 2008 National Security Statement to Parliament acknowledged 
+that online threats now form one of our top tier national security priorities.
+
+Organised crime is increasingly employing information and communication technologies to facilitate 
+their illegal activities, particularly in relation to money laundering and identity crime.
+
+this Strategy shows how the australian government is harnessing the full range of resources to help 
+protect government, business and individual australians.  It describes how new capabilities have been 
+created to help australians, and the businesses they transact with, be better protected.
+
+Importantly, this Strategy calls upon all australian Internet users to be vigilant and informed about 
+online threats and how their own actions can be the first line of defence.
+
+the Hon robert McClelland MP 
+attorney-general
+
+i
+
+Cyber SeCurity Strategy
+Cyber SeCurity Strategy
+
+ISBN: 978-1-921241-99-4
+
+© Commonwealth of australia 2009
+
+this work is copyright. apart from any use as permitted under the Copyright act 1968, no part 
+may be reproduced by any process without prior written permission from the Commonwealth. 
+requests and inquiries concerning reproduction and rights should be addressed to the 
+Commonwealth Copyright administration, attorney general’s Department,  National Circuit, 
+Barton aCt 2600 or posted at http://www.ag.gov.au/cca
+
+ii
+
+table of Contents
+
+Minister’s Foreword 
+
+executive Summary 
+
+introduction 
+
+the australian government approach to cyber security 
+aim 
+Scope 
+
+Objectives 
+Objective One:   all australians are aware of cyber risks, secure their computers and  
+
+Objective two: 
+
+take steps to protect their identities, privacy and finances online 
+australian businesses operate secure and resilient information and communications 
+technologies to protect the integrity of their own operations and the identity and 
+privacy of their customers 
+
+Objective three:   the australian government ensures its information and communications 
+
+technologies are secure and resilient 
+
+Strategic Priorities 
+
+ 
+
+ 
+
+ 
+
+ 
+
+threat awareness and response – improve the detection, analysis, mitigation 
+and response to sophisticated cyber threats, with a focus on government, critical 
+infrastructure and other systems of national interest 
+Cultural Change – educate and empower all australians with the information, 
+confidence and practical tools to protect themselves online 
+Business-government Partnerships – partner with business to promote security and 
+resilience in infrastructure, networks, products and services 
+government Systems – model best practice in the protection of government ICt 
+systems, including the systems of those transacting with government online 
+International engagement – promote a secure, resilient and trusted global electronic 
+operating environment that supports australia’s national interests 
+Legal and Law enforcement – maintain an effective legal framework and 
+enforcement capabilities to target and prosecute cyber crime 
+Knowledge, Skills and Innovation – promote the development of a skilled cyber 
+security workforce with access to research and development to develop innovative 
+solutions 
+
+Conclusion 
+
+attachment a – australian government governance arrangements
+
+i
+
+v
+
+1
+
+5
+5
+5
+
+10
+
+10
+
+11
+
+14
+
+15
+
+15
+
+17
+
+18
+
+21
+
+22
+
+23
+
+25
+
+26
+
+27
+
+iii
+
+eXeCutiVe SuMMary
+
+the Prime Minister has indicated that cyber security is now one of australia’s top tier national security 
+priorities.  the global community continues to experience an increase in the scale, sophistication 
+and successful perpetration of cyber crime.  as the quantity and value of electronic information has 
+increased so too have the efforts of criminals and other malicious actors who have embraced the 
+Internet as a more anonymous, convenient and profitable way of carrying out their activities.
+
+australia’s national security, economic prosperity and social wellbeing are critically dependent upon 
+the availability, integrity and confidentiality of a range of information and communications technologies 
+(ICt).  this includes desktop computers, the Internet, mobile communications devices and other 
+computer systems and networks.  
+
+a more insidious and damaging threat
+
+The production, sale and distribution of malicious code has become a prolific criminal industry, making 
+malware stealthier, more targeted, multi-faceted and harder to analyse and defeat.  the risk to the 
+australian economy from computer intrusion and the spread of malicious code by organised crime 
+has been assessed as high.  This is particularly the case for financial transactions and sensitive 
+commercial or personal identity information.
+
+there is a growing array of state and non-state actors who are compromising, stealing, changing or 
+destroying information and therefore potentially causing critical disruptions to australian systems.  
+the distinction between traditional threat actors – hackers, terrorists, organised criminal networks, 
+industrial spies and foreign intelligence services – is increasingly blurred.  With the borderless, 
+anonymous nature of the Internet, attribution of the source of attacks is difficult.
+
+a government-led coherent, integrated approach
+
+Confronting and managing these risks must be balanced against the civil liberties of australians, 
+including the right to privacy, and the need to promote efficiency and innovation to ensure that 
+australia realises the full potential of the digital economy.
+
+the aim of the australian government’s cyber security policy is the maintenance of a secure, resilient 
+and trusted electronic operating environment that supports australia’s national security and maximises 
+the benefits of the digital economy.
+
+While the australian government’s cyber security policy is primarily concerned with the availability, 
+integrity and confidentiality of Australia’s ICT, it must be coordinated with those of other related policies 
+and programs such as cyber safety which is focused on helping to protect individuals, especially 
+children, from exposure to illegal and offensive content, cyber-bullying, stalking, and grooming online 
+for the purposes of sexual exploitation.  
+
+v
+
+Cyber SeCurity Strategy
+
+guiding principles
+
+Consistent with the enduring principles outlined in the Prime Minister’s National Security Statement, 
+the australian government’s cyber security policy is based on the following guiding principles:
+
+National leadership:  the scale and complexity of the cyber security challenge requires strong 
+national leadership.  
+
+Shared responsibilities:  All users, in enjoying the benefits of ICT, should take reasonable steps to 
+secure their own systems, exercise care in the communication and storage of sensitive information 
+and have an obligation to respect the information and systems of other users.
+
+Partnerships:  In light of these shared responsibilities, a partnership approach to cyber security 
+across all australian governments, the private sector and the broader australian community is 
+essential. 
+
+Active international engagement:  given the transnational nature of the Internet, in which effective 
+cyber security requires coordinated global action, australia must adopt an active, multi-layered 
+approach to international engagement on cyber security.  
+
+Risk management:  In a globalised world where all Internet-connected systems are potentially 
+vulnerable and where cyber attacks are difficult to detect, there is no such thing as absolute cyber 
+security.  australia must therefore apply a risk-based approach to assessing, prioritising and 
+resourcing cyber security activities.
+
+Protecting Australian values:  australia must pursue cyber security policies that enhance individual 
+and collective security while preserving australians’ right to privacy and other fundamental values and 
+freedoms.  Maintaining this balance is a continuing challenge for all modern democracies seeking to 
+meet the complex cyber security challenges of the future.
+
+Objectives
+
+the objectives of the australian government’s cyber security policy are that:
+
+• 
+
+• 
+
+• 
+
+All Australians are aware of cyber risks, secure their computers and take steps to protect their 
+identities, privacy and finances online.
+Australian businesses operate secure and resilient information and communications technologies 
+to protect the integrity of their own operations and the identity and privacy of their customers.
+The Australian Government ensures its information and communications technologies are secure 
+and resilient.
+
+vi
+
+Strategic priorities
+
+to achieve these objectives the australian government applies the following strategic priorities to its 
+programs:
+
+• 
+
+• 
+
+• 
+
+Improve the detection, analysis, mitigation and response to sophisticated cyber threats, with a 
+focus on government, critical infrastructure and other systems of national interest. 
+Educate and empower all Australians with the information, confidence and practical tools to 
+protect themselves online. 
+Partner with business to promote security and resilience in infrastructure, networks, products and 
+services.
+
+•  Model best practice in the protection of government ICT systems, including the systems of those 
+
+• 
+
+transacting with government online.
+Promote a secure, resilient and trusted global electronic operating environment that supports 
+australia’s national interests.
+
+•  Maintain an effective legal framework and enforcement capabilities to target and prosecute cyber 
+
+• 
+
+crime.
+Promote the development of a skilled cyber security workforce with access to research and 
+development to develop innovative solutions.
+
+New capabilities
+
+Integral to the australian government’s Cyber Security Strategy are two new mutually supporting 
+organisations: Cert australia and the Cyber Security Operations Centre (CSOC).  
+
+the australian government is bringing together australia’s national computer emergency response 
+team (Cert) arrangements into a new body, Cert australia.  Cert australia will be the national 
+coordination point within the australian government for the provision of cyber security information 
+and advice for the Australian community, and be the official point of contact in the expanding global 
+community of national Certs to support more effective international cooperation.
+
+established as an initiative of the australian government’s Defence White Paper, the CSOC provides 
+the australian government with all-source cyber situational awareness and an enhanced ability to 
+facilitate operational responses to cyber security events of national importance.  the CSOC will 
+identify and analyse sophisticated cyber attacks, and assist in responses to cyber events across 
+government and critical private sector systems and infrastructure.
+
+these new initiatives will build on existing australian government cyber security capabilities.
+
+Conclusion
+
+With the rapid escalation in the intensity and sophistication of cyber crime and other cyber security 
+threats, it is imperative that government, business and the community are aware of the severity of 
+cyber security risks, and commit to work together to protect what has become a vital component of our 
+economy and society.
+
+vii
+
+iNtrODuCtiON
+
+  …the sophistication of our modern community is a source of vulnerability in itself …. we are 
+highly dependent on computer and information technology to drive critical industries such as 
+aviation; electricity and water supply; banking and finance; and telecommunications networks.  
+This dependency on information technology makes us potentially vulnerable to cyber attacks 
+that may disrupt the information that increasingly lubricates our economy and system of 
+government.
+
+the Hon Kevin rudd MP, Prime Minister of australia
+
+the australian government acknowledges the scale of the cyber security challenge, which the 
+Prime Minister has indicated is now one of australia’s top tier national security priorities.  australia’s 
+national security, economic prosperity and social wellbeing are critically dependent upon the 
+availability, integrity and confidentiality of a range of information and communications technologies 
+(ICt).  this includes desktop computers, the Internet, mobile communications devices and other 
+computer systems and networks.  as these technologies become more pervasive in our lives, 
+government, business and individuals are becoming more dependent upon them for a variety of 
+purposes and functions, ranging from online purchases of goods and services (including government 
+services), communicating with others, searching for information and managing finances through to 
+controlling equipment in the mining and manufacturing industries.  Computers and computer-based 
+communications are ubiquitous in australian life.  Sometimes these uses are quite clear to see and 
+understand – whereas in other cases, such as the control of utilities, transport and hospital equipment 
+or the supply of food and pharmaceuticals, the extent of dependence on ICt is not as obvious.
+
+The Australian Government recognises the importance and benefits of the advances in technology to 
+australia’s digital economy.  the australian government has established a new company to invest up 
+to $43 billion over eight years to build and operate a National Broadband Network (NBN) to deliver 
+superfast broadband access for all australians.  the NBN represents the single largest investment 
+in broadband infrastructure in australia’s history and will further transform the way australians 
+communicate and do business.
+
+1
+
+Cyber SeCurity Strategy
+
+the Digital economy
+
+the australian government has outlined its vision for australia’s digital economy in the report 
+Australia’s Digital Economy: Future Directions. 
+
+the digital economy is the global network of economic and social activities that are enabled by 
+platforms such as the Internet, mobile and sensor networks.  a successful digital economy is 
+essential for australia’s economic growth and our ability to maintain our international standing.  
+the digital economy is highly dynamic.  It will ultimately encompass the entire economy and 
+many, if not all, aspects of our society.
+
+the key elements that a successful digital economy in australia will encompass are:
+
+• 
+• 
+• 
+
+a digitally aware and enabling Government
+a digitally confident, innovative and skilled industry, and
+a digitally literate and empowered community.
+
+effective cyber security is a critical enabler to the australian government’s goal of maximising 
+opportunities for all Australians to benefit from the digital economy. 
+
+the global community continues to experience an increase in the scale, sophistication and successful 
+perpetration of cyber crime.  as the quantity and value of electronic information has increased so too 
+have the efforts of criminals and other malicious actors who have embraced the Internet as a more 
+anonymous, convenient and profitable way of carrying out their activities.
+
+The financial loss from computer security events against Australian 
+businesses during the 2006-07 financial year is estimated by the 
+australian institute of Criminology to be between $595 and $649 
+million.1   given the tendency for much cyber crime to be under 
+reported, this could be a significant underestimate.
+
+Just as we have seen the benefits of ICT in promoting legitimate economic activity, we now see 
+cyber crime emerging on an unprecedented scale.  the emergence of an underground cyber crime 
+‘industry’ means that it is no longer necessary to possess technical skills to commit cyber crime.  an 
+underground economy has developed where criminal capabilities, techniques and tools can be readily 
+purchased or hired on a commercial basis.  these extend from compromised credit card details or 
+even complete identities and tools to create malicious software (malware) through to the ability to 
+hire networks of compromised computers (botnets) to undertake tasks such as spamming, hosting 
+offensive content and distributed denial of service (DDoS) attacks.
+
+1  K richards, The Australian business assessment of computer user security: a national survey, australian Institute of 
+
+Criminology, 2009.
+
+2
+
+Antivirus vendor Symantec identified that malicious code signatures had 
+increased globally by 265 percent between 2007 and 2008.  Sixty per cent 
+of all malware detected by Symantec to date was detected in 2008 alone.2 
+
+The production, sale and distribution of malicious code has become a prolific criminal industry, making 
+malware stealthier, more targeted, multi-faceted and harder to analyse and defeat.  the risk to the 
+australian economy from computer intrusion and the spread of malicious code by organised crime 
+has been assessed as high.  This is particularly the case for financial transactions and sensitive 
+commercial or personal identity information.
+
+attacks on critical computer systems in both the government and private sector are being 
+contemplated as an alternative way of conducting warfare and a means by which criminals, terrorist 
+groups and hostile intelligence services could damage australia’s national interests.  For example, 
+malicious activities against ICt systems have caused the disruption of electric power systems in 
+multiple regions overseas, including a case that resulted in a major multi-city power outage.3 
+
+according to antivirus vendor trend Micro, australian computers 
+experienced 17,692,567 malware infections in 2008.  australia reported 
+the fifth highest level of infections worldwide.4 
+
+Some recent DDoS attacks have resulted in the degradation and complete disruption of online 
+services in australia, impacting systems that are critical to australia’s national interest, such as the 
+financial sector.  Such attacks are inexpensive to conduct, potentially hugely destructive and can be 
+instigated from almost anywhere in the world.  
+
+there is a growing array of state and non-state actors who are compromising, stealing, changing or 
+destroying information and therefore potentially causing critical disruptions to australian systems.  
+the distinction between traditional threat actors – hackers, terrorists, organised criminal networks, 
+industrial spies and foreign intelligence services – increasingly appears to be blurring.  With the 
+borderless, anonymous nature of the Internet, attribution of the source of attacks is difficult.
+
+the speed of technological change associated with next generation networks is challenging traditional 
+notions of what constitutes computer networks and how we should secure them.  this includes the 
+combination of increased bandwidth; convergent voice, data, video networks; mobile wireless devices; 
+embedded processors and sensors; social networking and other Web 2.0 applications; and Internet-
+based networks (cloud computing).
+
+2  Symantec Corporation, Symantec global Internet security threat report - trends for 2008, Volume XIV, april 2009.
+3  United States Cyberspace policy review - assuring a trusted and resilient information and communications infrastructure, 
+
+2009 < http://www.whitehouse.gov/assets/documents/Cyberspace_Policy_Review_final.pdf>.
+
+4  trend Micro, Trend Micro 2008 annual threat roundup and 2009 forecast, 2008.
+
+3
+
+Cyber SeCurity Strategy
+
+The only prediction that can be made with any confidence is that modern ICT will continue to evolve in 
+ways not foreseen by its designers and that it will be used for malicious as well as legitimate purposes.
+
+these factors, combined with the global nature of the Internet and the limitations in the direct 
+influence of governments over modern ICT networks that are predominantly designed, built, owned 
+and operated by the private sector, serve to emphasise the complexity of the cyber security challenge 
+facing Australia in the twenty-first century. 
+
+National Security Statement 
+
+On 4 December 2008, the Prime Minister delivered australia’s inaugural National Security 
+Statement to the Parliament.  The Statement outlines five enduring national security interests 
+that constitute the australian government’s national security objectives:
+
+•  maintaining Australia’s territorial and border integrity
+• 
+• 
+• 
+• 
+
+promoting Australia’s political sovereignty
+preserving a cohesive and resilient society and strong economy
+protecting Australians and Australian interests both at home and abroad, and
+promoting a stable, peaceful and prosperous international environment, particularly in the 
+Asia Pacific region, together with a global rules-based order which enhances Australia’s 
+national interests.
+
+the Statement indicates electronic espionage, both commercial and state-based, will be a 
+growing vulnerability as the australian government and society become more dependent on 
+integrated information technologies.  It states that this challenge must and will be met with full 
+vigour and identifies cyber security as amongst the Australian Government’s top tier national 
+security priorities.
+
+australia is vulnerable to the loss of economic competitiveness through the continued exploitation 
+of ICt networks and the compromise of intellectual property and other sensitive commercial data.  
+This has the potential to undermine Australians’ confidence in the digital economy.  Cyber security is 
+therefore not just an issue of national security but also one of economic security.  
+
+It is a challenge that requires a coherent, integrated approach – led by government, but working in 
+close partnership with the private sector – that seeks to address the strategic vulnerabilities of an 
+increasingly hostile online environment.  Confronting and managing these risks must be balanced 
+against the civil liberties of australians, including the right to privacy, and the need to promote 
+efficiency and innovation to ensure that Australia realises the full potential of the digital economy.
+
+4
+
+tHe auStraLiaN gOVerNMeNt aPPrOaCH 
+tO Cyber SeCurity
+
+this Strategy articulates the overall aim and objectives of the australian government’s cyber security 
+policy and sets out the strategic priorities that the australian government will pursue to achieve these 
+objectives.  the Strategy also describes the key actions and measures that will be undertaken through 
+a comprehensive body of work across the australian government to achieve these strategic priorities.  
+
+In developing this Strategy the australian government undertook a comprehensive review of 
+australia’s cyber security policies, capabilities and arrangements in 2008.  
+
+this Strategy will guide the efforts of australian government agencies towards the achievement of the 
+australian government’s policy objectives.  this includes the work of australia’s intelligence, security, 
+law enforcement and regulatory agencies.  Importantly, the Strategy also provides a clear public 
+articulation of the australian government’s approach to cyber security.  this is in recognition that, 
+while the australian government has an important leadership role, effective cyber security efforts can 
+only be achieved through partnerships between government, business and the community, in australia 
+and internationally.
+
+aim
+
+the aim of the australian government’s cyber security policy is:
+
+The maintenance of a secure, resilient and trusted electronic operating environment that 
+supports Australia’s national security and maximises the benefits of the digital economy.
+
+Scope 
+
+The Australian Government defines cyber security as:
+
+Measures relating to the confidentiality, availability and integrity of information that is 
+processed, stored and communicated by electronic or similar means.
+
+the australian government recognises that, from the perspective of an australian Internet user, 
+protecting yourself online is not simply a matter of securing your computer.  It is also about sensible 
+online practices, such as protecting your identity and privacy and understanding how to respond to 
+fraudulent emails, cyber-bullying or stalking.  this includes parents who are concerned about their 
+children’s activities online, where as a result of their actions they may expose the computer to a virus 
+or expose themselves to offensive content, cyber-bullying or individuals seeking to groom them for the 
+purposes of sexual exploitation.
+
+this Strategy does not seek to address all of these risks.  It is focused on the availability, integrity and 
+confidentiality of Australia’s ICT.  However, it is essential that it works in harmony with other related 
+policies and programs, including cyber safety, identity security and privacy. 
+
+In particular, the australian government’s cyber security policy must be coordinated with its approach 
+to cyber safety, which is focused on protecting individuals, especially children, from exposure to illegal 
+and offensive content, cyber-bullying, and grooming online for the purposes of sexual exploitation.  
+
+5
+
+Cyber SeCurity Strategy
+
+In addition, there is a strong linkage between this Strategy and the Commonwealth Organised 
+Crime Strategic Framework and the efforts of all governments to respond to the threats posed by 
+organised crime.  In particular, this Strategy will be a contributing element to the development of the 
+Organised Crime Response Plan and specific cyber security capabilities and arrangements will be of 
+value for outreach to the community and the private sector on organised crime and in deepening the 
+understanding of the use of new technologies to enable the commission of organised crime. 
+
+Cyber Safety Plan
+
+Cyber safety concentrates on the broader social and personal risks associated with the use 
+of technology, particularly in relation to children.  these include issues such as cyber-bullying, 
+sexual grooming, exposure to illegal and inappropriate content, loss of personal information 
+and the promotion of inappropriate social and health behaviours. 
+
+In May 2008, the australian government committed $125.8 million over four years to a 
+comprehensive range of cyber safety measures. 
+
+the Cyber Safety Plan’s measures include:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+the expansion of the Australian Federal Police (AFP) Child Protection Operations Team to 
+detect and investigate online child sex exploitation
+the Commonwealth Director of Public Prosecutions helping deal with increased activity 
+resulting from the work of the aFP to ensure that prosecutions are handled quickly
+the examination of the introduction of Internet service provider (ISP) level filtering of 
+Refused Classification material under the existing National Classification Code and 
+whether additional ISP content filtering options should be available for those families who 
+wish to have such a service 
+education and outreach activities through the Australian Communications and Media 
+authority (aCMa) to implement a comprehensive range of education activities
+a Consultative Working Group to consider the broad range of cyber safety issues and 
+provide advice to the australian government to ensure properly developed and targeted 
+policy initiatives
+a Youth Advisory Group and online forum to provide advice on cyber safety issues from a 
+young person’s perspective, and
+research into the changing digital environment to identify issues and target future policy 
+and funding. 
+
+More information on the Cyber Safety Plan is available at www.dbcde.gov.au
+
+6
+
+National identity Security Strategy
+
+the National Identity Security Strategy aims to maximise the effectiveness and interoperability 
+of work across all levels of government to combat the misuse of stolen or assumed identities.
+
+the preservation and protection of a person’s identity is a right of all australians.  Identity 
+theft is a major invasion of privacy and a serious concern to the community.  to combat 
+identity crime and to better protect identities, australian governments have all agreed to the 
+development and implementation of the National Identity Security Strategy.  the Strategy 
+enhances identification processes through:
+
+• 
+
+• 
+
+• 
+• 
+• 
+
+improved registration and enrolment procedures, including a new system for the 
+electronic verification of documents used as evidence of identity
+enhanced security features on identity documents issued by government agencies, 
+reducing the risk of forgery
+ensuring accuracy in the identity information held by government agencies 
+strong authentication standards, and
+biometric interoperability, to confirm the identity of individuals.
+
+australian governments, in collaboration with the private sector, are working to enhance 
+identity security for all, particularly as business is increasingly conducted online.
+
+More information on the National Identity Security Strategy, including advice to individuals on 
+how to help protect themselves from identity theft and what to do if identity information has 
+been stolen or fraudulently used, is available at www.ag.gov.au
+
+7
+
+Cyber SeCurity Strategy
+
+guiding principles
+
+Consistent with the enduring principles outlined in the National Security Statement, the australian 
+government’s cyber security policy is based on the following guiding principles:
+
+National leadership:  the scale and complexity of the cyber security challenge requires strong 
+national leadership.  the australian government regulates the communications infrastructure on which 
+both private and public ICt depends.  the national and transnational nature of these technologies 
+makes the australian government best placed to identify the strategic threats and emerging 
+challenges to australia’s cyber security.  Furthermore, as a trustee of the private and personal 
+information of Australians, the Australian Government can model and influence best practice in cyber 
+security.
+
+Shared responsibilities:  All users, in enjoying the benefits of ICT, should take reasonable steps to 
+secure their own systems, exercise care in the communication and storage of sensitive information 
+and have an obligation to respect the information and systems of other users.
+
+Partnerships:  In light of these shared responsibilities, a partnership approach to cyber security 
+across all australian governments, the private sector and the broader australian community is 
+essential. 
+
+Active international engagement:  given the transnational nature of the Internet, in which 
+effective cyber security requires coordinated global action, australia must adopt an active, multi-
+layered approach to international engagement on cyber security.  this includes engagement with 
+other countries who share the australian government’s concerns about cyber security and through 
+organisations examining these issues, including the United Nations, International telecommunication 
+Union (ITU), Asia Pacific Economic Cooperation (APEC) and the Organisation for Economic 
+Cooperation and Development (OeCD). 
+
+Risk management:  In a globalised world where all Internet-connected systems are potentially 
+vulnerable and where cyber attacks may be difficult to detect, there is no such thing as absolute cyber 
+security.  therefore, when australia is assessing, prioritising and resourcing cyber security activities it 
+should consider where the greatest areas of risk to the national interest lie.
+
+Protecting Australian values:  australia must pursue cyber security policies that enhance individual 
+and collective security while preserving australians’ right to privacy and other fundamental values and 
+freedoms.  Maintaining this balance is a continuing challenge for all modern democracies seeking to 
+meet the complex cyber security challenges of the future.
+
+roles and responsibilities of australian government agencies
+
+the attorney-general’s Department is the lead agency for cyber security policy across the australian 
+government and chairs the Cyber Security Policy and Coordination (CSPC) Committee, which is 
+the interdepartmental committee that coordinates the development of cyber security policy for the 
+australian government.  
+
+Integral to the australian government’s Cyber Security Strategy are two key organisations: Cert 
+australia and the Cyber Security Operations Centre (CSOC).  a range of agencies contribute to 
+the implementation of the Strategy and the operation of Cert australia and the CSOC.  a detailed 
+description of the role of australian government agencies is at attachment a.
+
+8
+
+Cert australia
+
+the australian government is bringing together australia’s national computer emergency 
+response team (Cert) arrangements into a new government operated national Cert, Cert 
+australia.  this will enable a more integrated, holistic approach to cyber security across the 
+australian community by creating a single coordination point within the australian government 
+for the provision of information and advice.
+
+Cert australia will incorporate a range of current cyber security activities undertaken by 
+existing australian government agencies, including the australian government’s Computer 
+emergency readiness team (govCert.au) in order to:
+
+• 
+
+• 
+
+• 
+
+• 
+
+provide Australians with access to information on cyber threats, vulnerabilities in their 
+systems and information on how to better protect themselves
+promote greater shared understanding between government and business of the nature 
+and scale of cyber threats and vulnerabilities within australia’s private sector networks 
+and how these can be mitigated
+provide targeted advice and assistance to enable the owners and operators of critical 
+infrastructure and other systems of national interest to defend their systems from 
+sophisticated electronic attacks, working in close collaboration with intelligence and law 
+enforcement agencies, via the newly established Cyber Security Operations Centre 
+(CSOC), and
+provide a single Australian point of contact in the expanding global community of national 
+Certs to support more effective international cooperation.
+
+Cert australia will commence operations as the national Cert in early 2010.
+
+More information on Cert australia can be found at www.cert.gov.au
+
+Cyber Security Operations Centre
+
+established as an initiative of the australian government’s Defence White Paper, the Cyber 
+Security Operations Centre (CSOC) provides the australian government with all-source cyber 
+situational awareness and an enhanced ability to facilitate operational responses to cyber 
+security events of national importance.
+
+the CSOC’s core functions include:
+
+• 
+
+• 
+
+• 
+
+providing comprehensive understanding of the cyber threat and the security status of 
+government networks and networks of national importance
+identifying and analysing sophisticated cyber attacks and providing government with 
+response options, and
+assisting responses to cyber events across:
+o  government, and 
+o  critical private sector systems and infrastructure through the Joint Operating 
+
+arrangements and the attorney-general’s Department.
+More information on the CSOC can be found at www.dsd.gov.au
+
+9
+
+Cyber SeCurity Strategy
+
+ObJeCtiVeS
+
+the australian government’s cyber security policy is based on three key objectives. 
+
+ObJeCtiVe ONe:  aLL auStraLiaNS are aWare OF Cyber riSKS, SeCure tHeir 
+COMPuterS aND taKe StePS tO PrOteCt tHeir iDeNtitieS, PriVaCy aND FiNaNCeS 
+ONLiNe
+
+The Australian Government recognises the importance of building and maintaining the confidence 
+of all australians to participate in the digital economy.  the australian government is committed to 
+informing and educating australians on cyber security risks and empowering them with the knowledge 
+and practical tools to protect themselves online.
+
+as the Internet continues to be integrated into more aspects of daily life and more and more personal 
+and financial information is being placed online, cyber crime is becoming an increasing concern to 
+many australians.  there is potential for this to be further exacerbated by the growth in ‘always on’ 
+broadband connections and the increased bandwidth associated with next generation networks.  
+
+the inherent characteristics of a borderless, lightly regulated and largely anonymous online 
+environment make it impossible to prevent all security incidents from occurring.  However, government 
+and business must strive to limit cyber security risks to the australian community from becoming so 
+chronic or widespread as to undermine confidence in the digital economy.  There is a reasonable 
+expectation that governments and the private sector, including the Internet industry, will educate users 
+and their customers on the risks and the steps they can take to minimise them.
+
+a key role for the australian government is, therefore, to promote a robust culture of cyber security 
+that provides all Australians with the awareness and confidence to maximise the benefits that the 
+digital economy has to offer, while minimising their exposure to the risks of the online environment.  
+
+In this environment, all australians need to take reasonable steps to ensure the protection of their 
+personal information and Internet-connected ICt systems.  In order to do this effectively, users need 
+to be aware of the risks of being online and the relatively straightforward steps that they can take to 
+protect their systems and their information online. 
+
+the importance of this objective goes well beyond the protection of individuals, as compromised 
+home computers can readily be organised into ‘botnets’ that may be used to launch attacks against 
+government or other critical systems.
+
+By empowering all users with the knowledge and confidence to protect their information and systems 
+online, the australian government can help reduce the impact of cyber crime and mitigate the threat to 
+systems critical to the national interest.  Moreover, by addressing some of the systemic vulnerabilities 
+in australian networks, the australian government can strengthen australia’s ability to advocate similar 
+‘best practice’ approaches to cyber security in the international arena in order to support efforts to 
+promote a more secure and resilient online environment.
+
+10
+
+ObJeCtiVe tWO:  auStraLiaN buSiNeSSeS OPerate SeCure aND reSiLieNt 
+iNFOrMatiON aND COMMuNiCatiONS teCHNOLOgieS tO PrOteCt tHe iNtegrity OF 
+tHeir OWN OPeratiONS aND tHe iDeNtity aND PriVaCy OF tHeir CuStOMerS
+
+Business and government have shared interests and responsibilities for ensuring a secure and reliable 
+electronic operating environment on which both business and government services depend.
+
+as the australian government does not own the majority of the systems that are critical to the 
+community, it needs to identify ways in which it can influence the policies and practices of those that 
+do.  this includes State and territory government systems, government-business enterprises, and 
+organisations and companies operating in the private and non-government sectors.  these systems 
+are critical to Australia’s national interest and are therefore in need of particular and specific attention, 
+including direct support from the australian government.  
+
+For these reasons, the australian government works with the private sector to identify the systems 
+that are most critical to australia’s national interest, based on an assessment of risk that considers 
+factors such as: uniqueness, importance, vulnerability and attractiveness to potential adversaries.
+
+the australian government maintains trusted relationships with the owners and operators of systems 
+that are considered to be most critical to australia’s national interests.  Working through trusted 
+information exchange mechanisms, the australian government provides these organisations with 
+a better understanding of the cyber threat environment to build a greater shared understanding 
+of threats and vulnerabilities.  By gaining a greater awareness and understanding of these largely 
+privately owned systems of national interest, the australian government can better tailor its assistance 
+to the owners and operators of systems of national interest.  this may extend to providing targeted 
+advice and assistance in responding to sophisticated electronic threats.
+
+an understanding of the impact that a disruption to these systems would have on the national interest 
+is an essential part of the australian government’s ability to manage a crisis.  Cyber events need to be 
+managed in a coordinated and timely manner.  the australian government will put in place a plan to 
+ensure the continuity of government and critical services when a cyber event occurs.  
+
+the australian government is also committed to working with the broader business community to 
+optimise cyber security across the whole of the digital economy, by promoting a greater awareness of 
+cyber security risks and best practice approaches to how these can be mitigated.  With this knowledge 
+and these tools australian businesses can be empowered to ensure the security of their own ICt 
+systems and protect valuable customer information.
+
+Australian businesses are increasingly being entrusted with large amounts of financial and other 
+personal information on behalf of their customers.  the aggregation of this data can present an 
+attractive target for cyber criminals and businesses should therefore be mindful of their responsibilities 
+for protecting this information.  these responsibilities also extend to providing secure, trusted 
+environments in which their customers can transact online.
+
+Business is responsible for the security and reliability of their systems and infrastructure and the 
+transactions that take place on them.  Maintaining consumer confidence in transacting online is 
+fundamental to the success of the digital economy.
+
+11
+
+Cyber SeCurity Strategy
+
+What are systems of national interest?
+
+in today’s modern digital economy, systems of national interest 
+go beyond traditional notions of critical infrastructure such as 
+electricity grids, water storage and distribution, aviation and 
+maritime transport, and telecommunications networks.  they 
+also include, for example, systems of high economic value such 
+as those that support electronic transactions, hold sensitive 
+intellectual property such as biotechnology patents or other 
+commercial data associated with major international trade 
+negotiations.
+
+they are the systems which, if rendered unavailable or otherwise 
+compromised, could result in significant impacts on Australia’s 
+economic prosperity, international competitiveness, public safety, 
+social wellbeing or national defence and security.
+
+The identification of systems of national interest is not a static 
+process and a flexible approach is required to enable the 
+australian government to respond to the changing environment–in 
+terms of technology, usage, threat and risk.  it is for this reason 
+that the identification of systems of national interest must be 
+informed by an ongoing assessment of risk. 
+
+12
+
+Control systems security 
+
+Control systems, which include supervisory control and data acquisition (SCaDa) systems, 
+are devices and networks used to electronically control mechanical processes such as water 
+valves, electricity generation and transmission or the operation of a coal loader.  Using 
+these systems, operators are able to monitor processes and control infrastructure, from 
+across the road or across the globe.  Control systems are increasingly being interconnected 
+with corporate business networks and, directly or indirectly, to the Internet.  this, together 
+with rapid advances in technology, changing business needs, and the increasing threat 
+environment associated with the Internet, is compounding the vulnerability of control systems 
+to cyber threats.
+
+the australian government is working with control systems owners and operators to help 
+them secure their systems.  Under the auspices of the trusted Information Sharing Network 
+for Critical Infrastructure Protection (tISN), the australian government has:
+
+• 
+
+• 
+
+• 
+
+provided guidance and advice to TISN member organisations on control systems security 
+in the form of advisories and alerts on specific vulnerabilities and threats to control 
+systems and networks
+established a SCADA Community of Interest to provide a forum to raise the awareness 
+of security for control systems practitioners from critical infrastructure sectors, vendors, 
+consultants and researchers, and
+supported control systems practitioners participating in world’s best practice training in 
+advanced control systems cyber security conducted in the United States.
+
+the australian government, through Cert australia, operates trusted information exchanges 
+with the owners and operators of control systems.  this enables government and business 
+to share sensitive and detailed technical security information, thereby building a greater 
+understanding of the control systems environment and its threats.
+
+Cert australia is also partnering with australian academic organisations, such as edith 
+Cowan University, on vulnerability and mitigation research programs looking at initiatives such 
+as smartgrids and smart metering technologies and their security implications. 
+
+13
+
+Cyber SeCurity Strategy
+
+ObJeCtiVe tHree:  tHe auStraLiaN gOVerNMeNt eNSureS itS iNFOrMatiON aND 
+COMMuNiCatiONS teCHNOLOgieS are SeCure aND reSiLieNt
+
+the ICt systems of government and the information contained within them are a strategic national 
+asset.  the australian government therefore has a clear responsibility for ensuring the security and 
+resilience of its own ICt, including protecting the information it holds about australian people and 
+organisations.
+
+the australian government can only protect its information and ICt from threats and vulnerabilities 
+that it has identified.  It is critical that the Australian Government is proactive in identifying and 
+understanding these threats and vulnerabilities to ensure the development of appropriate mitigation 
+strategies.
+
+In order to achieve this objective, the australian government will enhance its understanding of the 
+cyber threat environment and respond appropriately to protect australian government information  
+and ICt.
+
+additionally, the australian government needs to have in place a consistent and integrated framework 
+of policies, procedures and technical standards to ensure the protection of its information and ICt – 
+one that recognises the security of systems as a fundamental component of all australian government 
+initiatives dependent upon ICt.
+
+this framework needs to be applied not only to australian government systems, but also the 
+interconnected government systems, such as e-health, that are increasingly being developed to assist 
+in shared service delivery between the Commonwealth and the States and territories.
+
+However, government systems represent only a fraction of the global ICt infrastructure on which 
+australia’s economic and national security depends.  the australian government is committed to 
+leading by example by embracing best practice in the protection of the australian government’s own 
+information systems, including the protection of the personal and corporate information entrusted to it.  
+By specifying minimum security standards that apply across government, the australian government 
+can create incentives for the market to make more secure services available to the public.
+
+14
+
+StrategiC PriOritieS
+
+In order to achieve these objectives, the australian government is undertaking a comprehensive body 
+of work based around the following set of integrated, mutually supporting strategic priorities.
+
+there are clear linkages between many of these priorities and the broader objectives of the Strategy, 
+for example, in relation to government systems.  However, it is important to note that the priorities 
+support the achievement of all objectives.  For example, international engagement, including the 
+sharing of information and expertise and the development of collaborative approaches, serves as an 
+enabler to all cyber security activities.
+
+PriOrity: tHreat aWareNeSS aND reSPONSe – iMPrOVe tHe DeteCtiON, aNaLySiS, 
+MitigatiON aND reSPONSe tO SOPHiStiCateD Cyber tHreatS, WitH a FOCuS ON 
+gOVerNMeNt, CritiCaL iNFraStruCture aND OtHer SySteMS OF NatiONaL iNtereSt 
+
+this priority covers initiatives to maintain capabilities for continuous, real-time monitoring of the online 
+threat environment, supported by established plans for responding to events should they occur. 
+
+Under this priority the australian government is undertaking a range of measures including:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+establishing a Cyber Security Operations Centre (CSOC) within the Department of Defence to 
+provide a 24/7 cyber situational awareness capability and coordinate responses to cyber security 
+events of national importance
+creating a new national computer emergency response team, CERT Australia, to share 
+information and improve the coordination of responses to cyber security threats between 
+government and the private sector
+actively participating in and facilitating trusted and timely information sharing within and between 
+government and business, nationally and internationally, to ensure the maintenance of situational 
+awareness and a consistent, global response to online threats
+developing an updated cyber security crisis management plan that outlines the arrangements for 
+responding to cyber security events of national significance, including coordination with the States 
+and territories and the private sector, and
+conducting a program of cyber security exercises to test and refine event response arrangements, 
+including the Cyber Storm series of exercises coordinated by the United States.
+
+15
+
+Cyber SeCurity Strategy
+
+Cyber Storm
+
+the United States Department of Homeland Security sponsors a series of large scale 
+cyber security exercises collectively called Cyber Storm.  Cyber Storm gives participants 
+the opportunity to exercise their internal event response and communications in a national 
+framework that is part of an international exercise.
+
+In March 2008, 56 australian organisations from across government and the private sector 
+participated in the second large-scale international cyber exercise, Cyber Storm II, along with 
+a broad range of government and non-government organisations from the United States, 
+Canada, New Zealand and the United Kingdom.  this exercise provided an opportunity for 
+stakeholders across the spectrum of cyber security and critical infrastructure in australia to test 
+their disaster recovery, communications and technical response processes to a cyber security 
+event. 
+
+australia will participate in Cyber Storm III to be held in late September 2010.
+
+16
+
+PriOrity: CuLturaL CHaNge – eDuCate aND eMPOWer aLL auStraLiaNS WitH tHe 
+iNFOrMatiON, CONFiDeNCe aND PraCtiCaL tOOLS tO PrOteCt tHeMSeLVeS ONLiNe 
+
+australians use ICt for a wide variety of purposes and at an ever-increasing rate.  In order to ensure 
+their personal and financial information and their identity and privacy are protected, it is essential that 
+they maintain an awareness and understanding of the cyber environment and its risks.
+
+this priority covers initiatives to conduct education and awareness raising activities to promote a 
+culture of cyber security amongst all australian ICt users.
+
+Under this priority the australian government is undertaking a range of measures including:
+
+• 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+• 
+
+• 
+
+a single authoritative website for cyber security information for Australian home users and small 
+business including those with limited cyber security knowledge and skills (www.staysmartonline.
+gov.au). 
+this website includes plain language alerts and advisories for the public including information on 
+new cyber security risks and how to address them  
+the creation of CERT Australia to ensure the Australian Internet community has access to 
+information on cyber security threats, vulnerabilities in their systems and information on how to 
+better protect their information technology environment
+practical tools, such as the SpamMATTERS5 reporting tool to address the growing problems of 
+spam 
+broader engagement with the commercial Internet industry, including working with industry on 
+the development of a voluntary Internet service provider (ISP) Code of Practice to promote best 
+practice approaches to deal with cyber security issues
+cyber security education modules for Australian primary and secondary schools
+an ongoing program of awareness raising, culminating in an annual Cyber Security Awareness 
+Week, conducted in partnership with business, consumer groups and community organisations, 
+and
+examining options to better inform and educate the community on a broad range of online risks, 
+including cyber security, identity security, cyber safety and online fraud. 
+
+5  Further information on SpamMatterS is available at www.acma.gov.au
+
+17
+
+Cyber SeCurity Strategy
+
+australian internet Security initiative 
+
+the australian Internet Security Initiative (aISI) helps address the problem of compromised 
+computers (sometimes referred to as ‘zombies’ or ‘bots’).  Computers can become 
+compromised through the installation of malicious software (malware) without a user’s 
+knowledge or consent that enables the computer to be controlled remotely for illegal and 
+harmful activities.
+
+Compromised computers are often combined into large groups known as ‘botnets’.  among 
+other things, ‘botnets’ are used for the mass distribution of spam and spyware, the hosting of 
+‘phishing’ sites designed to steal users’ personal information and distributed denial of service 
+attacks on websites to render them inaccessible. 
+
+On average, there were 4,291 aISI compromise reports per day over the 2008-09 year.  On an 
+annual basis, this represents 1.57 million discrete aISI reports.
+
+the aISI collects data from various sources on computers exhibiting ‘bot’ behaviour on the 
+australian Internet.  Using this data, the australian Communications and Media authority 
+(aCMa) provides daily reports to participating Internet service providers (ISPs) identifying 
+computers on their networks that have been reported to have been compromised in the 
+previous 24-hour period.  ISPs can then inform their customer that their computer appears to 
+be compromised and provide advice on how they can fix it. 
+
+there are 71 ISPs that participate in the program (as at October 2009).  aCMa intends to 
+progressively increase the number of ISPs participating in the aISI to ensure that more 
+compromised hosts on the Australian Internet are identified and their owners notified of the 
+compromise. 
+
+More information on the aISI can be found at www.acma.gov.au
+
+PriOrity: buSiNeSS-gOVerNMeNt PartNerSHiPS – PartNer WitH buSiNeSS tO 
+PrOMOte SeCurity aND reSiLieNCe iN iNFraStruCture, NetWOrKS, PrODuCtS aND 
+SerViCeS
+
+the australian government recognises that the economic and social wellbeing, national security 
+and defence of australia is often dependent upon systems that are owned and operated outside the 
+australian government.
+
+this priority therefore recognises that government and business must work together to provide more 
+secure products and services and maintain their ICt systems in ways that ensure the privacy and 
+security of customer information.  It recognises that ISPs, in particular, occupy a unique position at the 
+gateway to australians’ access to the Internet and therefore need to be a key partner in the australian 
+government’s efforts to maximise the cyber security of all australians.
+
+It also recognises that vulnerabilities in australia’s critical infrastructure and other systems of national 
+interest represent a greater level of risk to australia’s national security than systems supporting 
+broader online commerce and that a more intensive level of engagement is required between 
+government and the owners and operators of these systems of national interest.  It covers initiatives 
+
+18
+
+that enable the australian government to develop greater situational awareness of potential 
+vulnerabilities in critical private sector networks, while also providing mechanisms for the australian 
+government to provide tailored information and targeted assistance to the owners and operators of 
+these networks for dealing with sophisticated cyber threats.
+
+Under this priority the australian government is undertaking a range of measures including:
+
+• 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+using CERT Australia to strengthen trusted partnerships with the private sector for the sharing of 
+sensitive information on cyber threats, vulnerabilities and their potential consequences.
+this includes tailored alerts and advisories for australian businesses and more intensive trusted 
+information exchanges with high risk sectors to share information on sophisticated threats.  these 
+exchanges cover the telecommunications and banking and finance industries and the owners and 
+operators of the control systems that underpin much of the nation’s critical infrastructure
+strengthening engagement with the commercial Internet industry to raise awareness of cyber 
+security risks, identify cyber threats and vulnerabilities and appropriate mitigation strategies, 
+including through:
+• 
+•  working with industry on the development of a voluntary ISP Code of Practice to promote best 
+
+ISP participation in the Australian Internet Security Initiative, and 
+
+practice approaches to deal with cyber security issues
+
+broader engagement with business via the Trusted Information Sharing Network for Critical 
+Infrastructure Protection (tISN) to promote integrated, best practice approaches to cyber security 
+and critical infrastructure protection based on the concept of resilience 
+providing world-leading computer modelling capabilities for business and government via the 
+Critical Infrastructure Protection Modelling and analysis (CIPMa) program, which models the 
+complex relationships between critical infrastructure systems and shows how a failure in one 
+sector can greatly affect the operations of other sectors 
+facilitating access for industry representatives, including those working with critical systems in the 
+area of control systems, to education and training opportunities through collaboration with foreign 
+governments and educational institutions
+working with Standards Australia and other industry bodies to develop and promote best practice 
+standards, and
+ensuring that security issues are addressed in the design and operation of the NBN.
+
+19
+
+Cyber SeCurity Strategy
+
+Critical infrastructure Protection & the trusted information Sharing Network for 
+Critical infrastructure Protection
+
+Since the creation of the Critical Infrastructure Protection (CIP) Program in 2003, its primary 
+focus has been to share information and best practice with the owners and operators of critical 
+infrastructure, to strengthen and improve their security measures and to help inform their risk 
+management.  
+
+Critical infrastructure is defined as those physical facilities, supply chains, information 
+technologies and communication networks which, if destroyed, degraded or rendered 
+unavailable for an extended period, would adversely impact on the social or economic well-
+being of the nation or affect australia’s ability to ensure national security.
+
+the CIP Program is transitioning to a focus on building organisation resilience.  Organisation 
+resilience takes a holistic approach that seeks to break down the silos of security, risk, 
+emergency and business continuity management to help an organisation adapt, survive and 
+possibly thrive in a crisis.
+
+the trusted Information Sharing Network for Critical Infrastructure Protection (tISN) is a forum 
+where the owners and operators of critical infrastructure work together, sharing information 
+on the security issues that affect them.  It provides a trusted environment where industry and 
+government can share vital information on critical infrastructure protection and organisational 
+resilience.  the tISN has established a truly collaborative relationship between business and 
+government based on trust that is helping to build a more resilient australia.
+
+the tISN comprises nine Infrastructure assurance advisory groups (Iaags), each 
+representing different critical infrastructure sectors as follows: banking and finance, 
+communications, emergency services, energy, food chain, health (private), water services, 
+mass gatherings, and transport (aviation, maritime and surface).  the role of the Iaags is 
+to allow critical infrastructure owners and operators to work together and share information 
+on threats and vulnerabilities and appropriate measures and strategies to mitigate risk.  the 
+participation of government agencies, both Commonwealth and State and territory, in the 
+Iaags assist in building a greater shared understanding of CIP issues.
+
+Of particular relevance to cyber security is the tISN’s Communications Sector Iaag which 
+brings together telecommunications, international submarine cables, postal and broadcasting 
+owners and operators with the aim of enhancing the resilience of the sector to all hazards, 
+including cyber.
+
+More information on the tISN can be found at www.tisn.gov.au
+
+20
+
+PriOrity: gOVerNMeNt SySteMS – MODeL beSt PraCtiCe iN tHe PrOteCtiON OF 
+gOVerNMeNt iCt SySteMS, iNCLuDiNg tHe SySteMS OF tHOSe traNSaCtiNg WitH 
+gOVerNMeNt ONLiNe
+
+this priority recognises that the ICt systems of government, and the information contained within 
+them, is a strategic national asset.  It covers initiatives to protect australian government systems and 
+interconnected government systems that are increasingly being developed to assist in shared service 
+delivery between the Commonwealth and the States and territories.  It also includes reforms to whole 
+of government ICT procurement arrangements that provide cost efficiencies and specify minimum 
+security standards that apply across government.  these reforms have the potential to create 
+incentives for the market to make more secure services available to the public.
+
+Under this priority the australian government is undertaking a range of measures including:
+
+• 
+
+• 
+
+• 
+
+• 
+
+examining options to reduce the number of Australian Government Internet gateways to the 
+minimum number practical so as to maximise efficiency, reliability and security
+establishing more effective minimum security standards across government, including through 
+reforms to achieve a more centralised approach to the procurement and management of ICt 
+products and services.  this includes requiring cyber security risk assessments for all major 
+australian government ICt projects
+partnering with State and Territory governments and other key stakeholders to promote the 
+effective security of interconnected government systems, including through consideration of 
+relevant australian government security standards, and
+reviewing the Australian Government’s Protective Security Manual to ensure that its information 
+security policies and standards continue to keep pace with developments in technology and 
+reflect international best practice.  The aim of this review will be to, wherever practicable, link 
+australian government requirements to corresponding commercial standards to promote the 
+adoption of similar best practice approaches across the private sector.
+
+OnSecure
+
+OnSecure is a cooperative project between the Defence Signals Directorate (DSD) and the 
+Australian Government Information Management Office.  It aims to improve the collection of 
+information security event reports in the australian government and improve the analysis of 
+such events.  Information on potential threats, vulnerabilities and mitigation from this analysis 
+is then disseminated via OnSecure for all government agencies.  OnSecure is the central 
+australian government Internet site for information security material provided by DSD.
+
+21
+
+Cyber SeCurity Strategy
+
+PriOrity: iNterNatiONaL eNgageMeNt – PrOMOte a SeCure, reSiLieNt aND 
+truSteD gLObaL eLeCtrONiC OPeratiNg eNVirONMeNt tHat SuPPOrtS auStraLia’S 
+NatiONaL iNtereStS
+
+as an open, democratic society that is fully enmeshed in the globalised economy, australia’s 
+economic prosperity and national security is now fundamentally reliant on a secure and resilient online 
+environment.
+
+the global challenge of cyber security requires an increased effort in multilateral forums to improve 
+the security of interoperable networks.  this includes the United Nations and the ItU, regional forums 
+such as APEC and more subject specific international groups such as the Forum of Incident Response 
+and Security teams (FIrSt) and the International Watch and Warning Network (IWWN).  International 
+efforts include the development of global standards, expansion of the international legal system’s 
+capacity to combat cyber crime and the development and promotion of best practice in situational 
+awareness, strategic warning and event response.
+
+Under this priority the australian government is pursuing an active approach to international 
+engagement on cyber security through:
+
+• 
+
+• 
+• 
+
+• 
+
+ 
+
+bilateral or multilateral agreements with key allies and other likeminded nations to strengthen 
+cooperation on cyber security 
+regional forums, with a focus on capacity building initiatives within our region 
+international organisations to help promote international best practice and develop and foster a 
+coordinated global approach to combating cyber security threats, including spam, and
+developing an international engagement strategy to clearly define and articulate Australia’s 
+national interests and priorities in relation to cyber security and resilience.
+this strategy will identify priority areas for australia’s engagement in each of the above areas to 
+help ensure that australia’s diplomatic, security, law enforcement and broader government efforts 
+are coordinated and targeted towards the achievement of australia’s national interests.  
+
+22
+
+PriOrity: LegaL aND LaW eNFOrCeMeNt – MaiNtaiN aN eFFeCtiVe LegaL 
+FraMeWOrK aND eNFOrCeMeNt CaPabiLitieS tO target aND PrOSeCute Cyber 
+CriMe
+
+this priority recognises the increasing impact of cyber crime on the australian economy and society.  
+this includes organised crime which is increasingly making use of technology to fund, enable the 
+commission of and avoid law enforcement and regulatory detection and disruption of crime.  It covers 
+initiatives to maintain a strong legal framework, associated investigative and enforcement capabilities 
+and a technically-aware legal system to combat this growing challenge, both domestically and 
+internationally.
+
+What is cyber crime?
+
+The Australian Government defines cyber crime as those computer 
+offences under the Commonwealth Criminal Code Act 1995 (Part 10.7) 
+which involve the unauthorised access to, modification or impairment of 
+electronic communications. 
+
+Under this priority the australian government is undertaking a range of measures including:
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+providing additional resources for security and law enforcement agencies to enhance operational 
+capabilities for combating cyber crime and other cyber security threats
+ensuring that linkages are in place between cyber security and law enforcement efforts to combat 
+specific related crime types, including organised crime, through the sharing of information and 
+intelligence 
+in partnership with State and Territory governments, ensuring Australia’s criminal and civil legal 
+framework is robust and keeps pace with developments in technology and criminal behaviour.  
+For example, the Australian Government has introduced new legislation to provide a firmer 
+legal basis for legitimate computer network protection activities through amendments to the 
+Telecommunications (Interception and Access) Act 1979 
+providing Australian legal professionals with access to information and resources to provide them 
+with the requisite level of technological knowledge and understanding to effectively administer 
+these laws, and
+promoting the harmonisation of Australia’s legal framework for cyber security with other 
+jurisdictions and internationally to facilitate information sharing and law enforcement cooperation 
+across geographical borders.
+
+23
+
+Cyber SeCurity Strategy
+
+Legal Framework 
+
+australia has a comprehensive cyber security legal framework, comprising Commonwealth 
+and State and territory legislation.  at the Commonwealth level, the key elements of this 
+framework include:
+
+• 
+• 
+• 
+• 
+• 
+
+Criminal Code Act 1995 (as amended by the Cybercrime Act 2001)
+Telecommunications (Interception and Access) Act 1979
+Spam Act 2003 
+Telecommunications Act 1997, and
+Privacy Act 1998.
+
+Other relevant Commonwealth legislation includes:
+
+• 
+• 
+• 
+
+Surveillance Devices Act 2004
+Intelligence Services Act 2001, and
+Australian Security Intelligence Organisation Act 1979.
+
+Organised Crime Strategic Framework 
+
+Organised crime costs australia in the order of $10 to $15 billion each year.  these costs 
+impact on all australian governments and businesses.  Organised crime also causes 
+great harm to individuals and the broader community.  Organised criminal networks are 
+flexible, innovative and resilient.  These networks are profit driven, constantly looking for 
+new opportunities and operating across state, territory and national borders.  to respond to 
+these challenges the australian government has developed the Commonwealth Organised 
+Crime Strategic Framework.  the Framework establishes a comprehensive and coordinated 
+response to target the most significant threats from organised crime in order to reduce its 
+impact on the community.  the Framework will ensure our law enforcement, intelligence, policy 
+and regulatory agencies are collaborating effectively with each other, with their State and 
+territory counterparts and with australian businesses and the community to combat organised 
+crime.
+
+24
+
+PriOrity: KNOWLeDge, SKiLLS aND iNNOVatiON – PrOMOte tHe DeVeLOPMeNt OF a 
+SKiLLeD Cyber SeCurity WOrKFOrCe WitH aCCeSS tO reSearCH aND DeVeLOPMeNt 
+tO DeVeLOP iNNOVatiVe SOLutiONS
+
+a technically skilled workforce, supported by cutting edge research and development, is fundamental 
+to australia’s ability to develop innovative solutions to emerging cyber security challenges.  this 
+priority covers initiatives to build and retain this expertise within government and to harness the 
+resources of australia’s research community in support of the australian government’s cyber security 
+efforts.
+
+Under this priority the australian government is undertaking a range of measures including:
+
+• 
+
+• 
+
+ 
+
+• 
+
+ 
+
+developing recruitment and retention strategies aimed at ensuring a sufficient level of technical 
+expertise is developed and maintained within government agencies
+providing targeted funding and support for cyber security research and development activities 
+through a range of programs such as the research Support for National Security Program.
+this includes not only technological areas such as quantum cryptography, but may also include 
+research into areas of behavioural change, policy and market-based incentive mechanisms to 
+address systemic cyber security issues, and
+developing an annual set of research and development priorities to inform the broader science 
+and innovation community of the priority work required to achieve the australian government’s 
+cyber security policy.
+this work is being taken forward via the australian government’s National Security Science and 
+Innovation Strategy, which identifies cyber security as one of 12 priority areas where science and 
+innovation can enhance australia’s national security.
+
+National Security Science and innovation Strategy
+
+the National Security Science and Innovation Strategy (NSSIS) aims to enhance the 
+application of science and innovation to national security.  the NSSIS encourages better 
+targeted resource allocation through clearly defined national security objectives and priorities 
+for science and innovation.  the NSSIS policy framework aligns the national security and 
+science and innovation policy environments by providing a balanced approach to delivering 
+national security science and innovation outcomes that meet immediate requirements while 
+building the capacity to meet longer term challenges.  
+
+25
+
+Cyber SeCurity Strategy
+
+Critical infrastructure Protection Modelling and analysis
+
+One example of how science and innovation supports the australian government’s Cyber 
+Security Strategy is the Critical Infrastructure Protection Modelling and analysis (CIPMa) 
+program.  CIPMa is a world-leading computer modelling program that acts as a key 
+component of the australian government’s efforts to enhance critical infrastructure protection.  
+Based on a strong business-government partnership, CIPMa models and examines the 
+complex relationships and interdependencies between critical infrastructure systems, and 
+shows how a failure in one sector can greatly affect the operations of other sectors. 
+
+CIPMa enjoys strong support from the trusted Information Sharing Network for Critical 
+Infrastructure Protection (TISN), with five sectors (banking and finance, communications, 
+energy, water services and transport) currently engaged in the program.  
+
+CONCLuSiON
+
+Due to the pace of technological change and broader developments in the online threat environment, it 
+is necessary to undertake ongoing evaluation and regular reviews of the appropriateness of australian 
+government cyber security activities.  
+
+the process of evaluating the effectiveness of the cyber security policy will be undertaken as part 
+of the broader national security strategic evaluation framework announced in the Prime Minister’s 
+National Security Statement.
+
+the australian government will regularly review australia’s cyber security policies, programs and 
+capabilities.  this will ensure that the efforts of the australian government remains focussed on 
+maintaining a secure, resilient and trusted electronic operating environment that supports australia’s 
+national security and maximises the benefits of the digital economy.  This will be done in close 
+collaboration with the States and territories, the private sector and the broader community. 
+
+26
+
+attaCHMeNt a – auStraLiaN gOVerNMeNt 
+gOVerNaNCe arraNgeMeNtS
+
+at the forefront of the australian government’s Cyber Security Strategy are two key organisations, 
+currently being established and expected to be fully operational in early 2010:
+
+Cert australia – australia’s national computer emergency response team
+
+the attorney-general’s Department will progressively take responsibility for the national computer 
+emergency response team (Cert) function for australia – Cert australia will commence operations 
+in early 2010.
+
+Cert australia will bring together australia’s existing computer emergency response arrangements 
+under a new national Cert.  It will provide a single point of contact for cyber security information 
+for all australians and australian businesses and ensure australian Internet users have access to 
+information on cyber threats, vulnerabilities in their systems and information on how to better protect 
+their information technology environment. 
+
+It will incorporate a range of current cyber security activities undertaken by australian government 
+agencies, including the australian government Computer emergency readiness team (govCert.au).
+
+Cert australia will complement the work of the Cyber Security Operations Centre (CSOC).
+
+Cyber Security Operations Centre (CSOC)
+
+the CSOC in the Defence Signals Directorate is a Defence capability serving whole of government 
+cyber security needs to detect and defeat sophisticated cyber threats.  the CSOC provides cyber 
+situational awareness and an enhanced ability to facilitate coordinated responses to, and management 
+of, cyber security events of national importance.  Staffed by skilled experts from a number of australian 
+
+27
+
+Cyber SeCurity Strategy
+
+government agencies, it maximises the australian government’s ability to prevent, detect and rapidly 
+respond to fast evolving sophisticated cyber exploitation attempts and attacks. 
+
+the CSOC draws on an array of sources in the intelligence and security, law enforcement, national 
+Cert and industry communities to provide a comprehensive picture of threats to australian 
+information and systems.  the CSOC coordinates cyber event responses by government agencies 
+and works in collaboration with overseas partners.  It will accommodate a continuously staffed watch 
+office and analysis team able to prevent or respond immediately to significant cyber threats as they 
+are detected.
+
+australian government agencies
+
+A range of agencies make a significant contribution to the implementation of the Australian 
+government Cyber Security Strategy and the operation of Cert australia and the CSOC.  
+recognising that all australian government agencies have an important role to play in ensuring 
+the security and resilience of australian government systems, the following agencies have clear 
+responsibility for the delivery of australian government cyber security outcomes.
+
+the attorney-general’s Department (agD) is responsible for australian government protective 
+security policy and for criminal law and law enforcement policy, including:  
+
+• 
+
+• 
+• 
+
+• 
+
+providing whole of government coordination on cyber security policy, including crisis management 
+and international collaboration
+promulgating protective security policy for Australian Government agencies
+taking a leadership role in advancing business-government partnerships, including national CERT 
+arrangements, and
+providing cyber security guidance to owners and operators of critical infrastructure and other 
+businesses of national interest.
+
+Cert australia works with the Joint Operating arrangements (JOa) agencies to contribute to a shared 
+understanding of major events, provide a pathway to the national crisis management arrangements, 
+and be able to provide alerts and guidance to the private sector.
+
+the australian Communications and Media authority (aCMa) is responsible for the regulation 
+of broadcasting, the Internet, radiocommunications and telecommunications.  It contributes to cyber 
+security objectives by:
+
+• 
+• 
+
+• 
+
+• 
+• 
+
+gathering evidence and assisting in protecting Australians from computer fraud and identity theft
+ensuring Internet service providers (ISPs) and telecommunications providers are meeting their 
+regulatory obligations regarding criminal misuse and illegal content
+encouraging the development of codes of practice for ISPs and online content service providers 
+and monitoring compliance with these codes
+working with ISPs for the identification of compromised computers, and
+identifying, investigating and acting against those involved in the distribution of spam.
+
+28
+
+the australian Federal Police (aFP) enforces Commonwealth criminal law and protects 
+Commonwealth and national interests from crime in australia and overseas. In relation to cyber 
+security, the aFP:     
+
+• 
+
+• 
+
+• 
+
+• 
+
+provides a specialised investigative capacity to support the identification, investigation and 
+prosecution of complex technology enabled crime offences
+works in partnership with the Australian law enforcement community to respond to organised and 
+complex technology enabled crime
+actively engages in the implementation of crime prevention strategies aimed at raising awareness 
+of cyber security risks in the australian community, and
+cooperates with international agencies to investigate and prosecute technology enabled crime 
+and address cyber crime issues.
+
+aFP is a member agency of the JOa.
+
+the australian Security intelligence Organisation’s (ASIO) responsibilities are defined by the 
+Australian Security Intelligence Organisation Act 1979 and, in relation to cyber security, include: 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+investigating electronic attacks conducted for purpose of espionage, sabotage, terrorism or other 
+forms of politically motivated violence, attacks on the defence system and other matters that fall 
+under the heads of security in the ASIO Act
+collecting intelligence both domestically and internationally on such matters, assessing the 
+capabilities and intentions of persons and groups of security interest
+contributing to the investigation of computer network operations directed against Australia’s 
+national interests, including those targeting government and critical infrastructure assets
+producing threat assessments and protective security advice for government and critical 
+infrastructure, and
+liaising with business on behalf of the Australian intelligence community through the Business 
+Liaison Unit.
+
+aSIO is a member agency of the JOa.
+
+the Defence Signals Directorate (DSD) is the national authority on the security of ICt across 
+government.  DSD provides a range of information security services to ensure that sensitive 
+government electronic information systems are not susceptible to unauthorised access, compromise 
+or disruption.  Pursuant to the Intelligence Services Act 2001, DSD’s functions include: 
+
+• 
+
+• 
+
+providing material, advice and other assistance to Commonwealth and State authorities 
+on matters relating to the security and integrity of information that is processed, stored or 
+communicated by electronic or similar means, and
+providing assistance to Commonwealth, State and Territory authorities in relation to cryptography 
+and communications technologies.
+
+DSD, through the CSOC, is responsible for maintaining a comprehensive national picture of cyber 
+security threats, through monitoring and analysis of all information sources.  It provides a central point 
+for sharing information across government and coordinates with other agencies on response activities.
+
+29
+
+Cyber SeCurity Strategy
+
+DSD is responsible for developing and maintaining the australian government Information and 
+Communications technology Security Manual (ISM).
+
+DSD is a member agency of the JOa.
+
+the Department of broadband, Communications and the Digital economy (DBCDe) has 
+responsibility for creating an environment that supports australians in taking full advantage of the 
+opportunities offered by the digital economy by:
+
+• 
+
+• 
+
+• 
+
+• 
+
+working with the Internet industry and the community to raise awareness of cyber security risks 
+with a view to improving their online practices and behaviours
+working with the ISPs to enhance the security of their subscribers, including through the 
+development of codes of practice
+working across the BCDE portfolio to promote the alignment of activities that have cyber security 
+synergies with whole of government cyber security policy objectives, and
+collaborating internationally to address cyber security issues, ensuring that DBCDE international 
+activities align with whole of government objectives. 
+
+the Department of Finance and Deregulation’s australian government information Management 
+Office (agIMO) works with australian government agencies to ensure the productive application of 
+information and communication technologies (ICt).  It contributes to cyber security objectives by:
+
+• 
+
+• 
+
+• 
+• 
+
+• 
+
+ensuring that Australian Government ICT proposals have adequately considered cyber security 
+risks
+working with agencies to adopt a whole of government approach to the management of common 
+assets and data sharing
+promoting security and resilience as essential requirements of e-government initiatives
+developing whole of government strategies to help meet shortfalls in skilled cyber security 
+practitioners, and
+coordinating a strategy for managed Internet gateways for Australian Government agencies.
+
+the Joint Operating arrangements (JOa) were established by the australian government whereby 
+operational cyber security agencies (DSD, aFP and aSIO) identify, analyse and respond to cyber 
+events of serious national consequence.  the JOa agencies determine which agency has primary 
+carriage of a security event response on the basis of the nature of the event and individual agency 
+responsibilities.  It is intended that this process will be undertaken within the CSOC, drawing upon its 
+capabilities and the staff embedded within it from relevant australian government agencies.
+
+the Cyber Security Policy and Coordination (CSPC) Committee is the australian government 
+interdepartmental committee that coordinates the development of cyber security policy for the 
+australian government.  the CSPC Committee:
+
+• 
+• 
+• 
+
+• 
+
+provides whole of government strategic leadership on cyber security
+determines priorities for the Australian Government
+coordinates the response to cyber security events, noting that its coordination and policy 
+functions do not extend to the oversight of operations, and
+coordinates Australian Government cyber security policy internationally.
+
+30
+
+www.ag.gov.au/cybersecurity
+
+

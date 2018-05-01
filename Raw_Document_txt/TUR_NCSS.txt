@@ -1,0 +1,3188 @@
+ 
+
+ 
+ 
+
+REPUBLIC OF TURKEY  
+
+ 
+
+Ministry of Transport, Maritime Affairs and 
+
+Communications 
+
+ 
+ 
+
+National Cyber Security Strategy  
+
+and 
+
+2013-2014 Action Plan 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+[The page intentionally left blank.] 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+2/47 
+
+ 
+
+CONTENTS 
+
+1 
+
+Introduction 
+
+1.1  Definitions 
+1.2  Objective 
+1.3 
+Scope 
+1.4  Update 
+
+2  Cyber Security Risks 
+
+3 
+
+4 
+
+Principles 
+
+Strategic Cyber Security Actions 
+
+5  National Cyber Security Action Plan for the Term 2013 -2014 
+
+Carrying out Legislative Activities 
+
+Creating the National Cyber Incidents Response Organization 
+
+Strengthening the National Cyber Security Infrastructure 
+
+Carrying Out the Activities That Will Help with Judicial Processes 
+
+5.1 
+5.2 
+5.3 
+5.4 
+5.5  Human Resources Education and Awareness-Raising Activities on Cyber Security 
+5.6  Developing National Technologies in Cyber Security 
+5.7 
+
+Extending the Scope of the National Security Mechanisms 
+
+5 
+
+8 
+10 
+10 
+10 
+
+12 
+
+15 
+
+17 
+
+22 
+
+23 
+25 
+26 
+28 
+38 
+43 
+46 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+3/47 
+
+ 
+
+[The page intentionally left blank.] 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+4/47 
+
+ 
+
+1  Introduction 
+
+In  Turkey,  the  use  of  information  and  communication  technologies  (ICTs)  has 
+
+been spreading rapidly and ICTs are playing important roles in all aspects of our 
+
+lives.  In  addition  to  public  sector  organizations,  organizations  which  provide 
+
+services  in  critical  infrastructure  sectors  like  energy,  water  resources,  health, 
+
+transportation,  communication  and  financial  services  have  also  been  heavily 
+
+using  information  and  communication  systems.  These  systems  improve  the 
+
+quality and the speed of the services being provided, thus helping organizations 
+
+work more productively, contributing to the improvement of living standards.  
+
+As our public sector organizations use ICTs to provide services at an increased 
+
+rate,  it  has  become  an  important  aspect  of  our  national  security  and 
+
+competitiveness  to  ensure  the  security  of  information  and  communication 
+
+technologies. The vulnerabilities inherent in ICTs may cause denial of service or 
+
+abuse of service attacks, resulting in potential loss of lives, high scale economic 
+
+losses, disturbance of public order and/or threats to national security.  
+
+It is a fact that cyber space offers opportunities of anonymity and deniability for 
+
+attacks on information systems and data. The tools and knowledge required for 
+
+attacks are often cheap and easy to get, and it has been observed that anyone or 
+
+any systems across the world can participate in cyber-attacks, either knowingly 
+
+or unknowingly. And it is deemed almost impossible to determine who finances 
+
+and  organizes  these  enduring  and  advanced  cyber-attacks  that  target  the 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+5/47 
+
+ 
+
+information  systems  and  data  of  critical  infrastructures.  These  facts  and 
+
+conditions reveal the asymmetrical nature of the risks and threats in cyber space, 
+
+making them even more difficult to tackle.  
+
+In  light  of  this  context,  the  Decision  made  by  the  Council  of  Ministers  on  the 
+
+“Execution,  Management  and  Coordination  of  National  Cyber  Security 
+
+Activities”  was  published  in  the  Official  Gazette  dated  20th  October  2012, 
+
+numbered 28447 and came into force. Pursuant to this cabinet decision;  
+
+“In order to determine the precautions to be taken for cyber security, 
+
+to approve  -  and to ensure  implementation and coordination of  -  the 
+
+plans,  schedules,  reports,  procedures,  principles  and  standards  that 
+
+have  been  prepared,  a  Cyber  Security  Council  has  been  established, 
+
+which is to be presided by the Minister of Transport, Maritime Affairs 
+
+and  Communications  and  which  is  to  consist  of  the  undersecretaries 
+
+of  the  Ministries  of  Foreign  Affairs,  Interior,  National  Defense, 
+
+Transport,  Maritime  Affairs  and  Communications,  including  the 
+
+undersecretaries  of  Public  Order  and  Security,  National  Intelligence 
+
+Organization,  Head  of  Communication,  Electronic  and  Information 
+
+Systems  of  Turkish  General  Staff,  Head  of  Information  And 
+
+Communication Technologies Authority, Head of The - Scientific And 
+
+Technological  Research  Council,  Head  of  Financial  Crimes 
+
+Investigation 
+
+Council, 
+
+Telecommunications 
+
+Communication 
+
+Presidency  and  the  top  managers  of  the  ministries  and  the  public 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+6/47 
+
+ 
+
+organizations that are to be determined by the Minister of Transport, 
+
+Maritime Affairs and Communications.” 
+
+The  cabinet  decision  has  also  assigned  to  the  Ministry  of  Transport,  Maritime 
+
+Affairs  and  Communications  the  duty  to  prepare  policies,  strategies  and  action 
+
+plans  on  ensuring  cyber  security  at  the  national  level.  All  public  organizations 
+
+and  agencies,  natural  and  legal  persons,  are  obliged  to  perform  the  duties 
+
+assigned in the framework of the policies, strategies and action plans determined 
+
+by  the  Cyber  Security  Council,  and  to  comply  with  the  procedures,  principles 
+
+and standards that were also determined by the Council. 
+
+The  action  plan  which  was  prepared  pursuant  to  this  decision  defines  the 
+
+activities  intended  to  be  carried  out  within  the  term  2013-2014,  and  it  also 
+
+includes the periodical activities beyond these terms as well as the activities that 
+
+should always be carried out such as training and awareness-raising activities.  
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+7/47 
+
+ 
+
+1.1  Definitions 
+
+The concepts used in this document, refer to the following meanings; 
+
+Information  systems:  The  systems  involved  in  providing  services,  processes 
+
+and data by means of information and communication technologies. 
+
+Cyber space: The environment which consists of information systems that span 
+
+across the world including the networks that interconnect these systems, 
+
+Information systems of public organizations: The information systems which 
+
+belong  to  and/or  are  operated  by  the  public  organizations  and  agencies  of  the 
+
+Turkish Republic, 
+
+Information  systems  of  natural  and  legal  persons:  The  information  systems 
+
+which belong to and/or are operated by the natural and legal persons, subjected 
+
+to the laws of the Turkish Republic. 
+
+National  cyber  space:  The  environment  which  consists  of  the  information 
+
+systems that belong to public organizations, natural and legal persons, 
+
+Confidentiality:  Information  systems  and  data  can  be  accessed  by  authorized 
+
+persons  or  systems  only,  and  the  confidential  information  pertaining  to 
+
+information  systems  or  confidential  information  in  the  system  will  not  be 
+
+disclosed by unauthorized persons or systems. 
+
+Integrity:  Information  systems  and  information  can  be  changed  by  authorized 
+
+persons or systems only, 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+8/47 
+
+ 
+
+Accessibility:  Authorized  persons  and  transactions  can  access  information 
+
+systems and the information therein within the required time and quality, 
+
+Critical  infrastructures:  The  infrastructures  which  host  the  information 
+
+systems that can cause,  
+
+-  Loss of lives, 
+
+-  Large scale economic damages, 
+
+-  Security vulnerabilities and disturbance of public order at national level 
+
+when  the  confidentiality,  integrity  or  accessibility  of  the  information  they 
+
+process is compromised, 
+
+Cyber security  incident:  Violation of  confidentiality, integrity  or  accessibility 
+
+of information systems or of the information being processed by these systems, 
+
+Cyber security: Protection of information systems that make up the cyber space 
+
+from  attacks,  ensuring  the  confidentiality,  integrity  and  accessibility  of  the 
+
+information  being  processed  in  this  space,  detection  of  attacks  and  cyber 
+
+security incidents, putting into force the countermeasures against these incidents 
+
+and then putting these systems back to their states previous to the cyber security 
+
+incident.  
+
+National Cyber Security: The cyber security of all services, processes and data 
+
+–and the systems involved in provisioning of these- provided by the information 
+
+and communication technologies in the national cyber space. 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+9/47 
+
+ 
+
+1.2  Objective 
+
+The objective of National Cyber Security Strategy and 2013-2014 Action Plan is 
+
+to create an infrastructure towards achieving; 
+
+- 
+
+the  cyber  security  all  of  services,  processes  and  data  –and  the  systems 
+
+involved  in  provisioning  of  these-  provided  by  the  public  organizations 
+
+and agencies using information technologies, 
+
+- 
+
+the cyber security of information systems of critical infrastructures which 
+
+are operated by both the public and private sectors, 
+
+-  minimization  of  the  effects  of  cyber  security  incidents,  determination  of 
+
+strategic  cyber  security  actions  to  put  systems  back  to  their  regular 
+
+operational  states  as  soon  as  possible  following  the  incidents,  and  help 
+
+with  better  investigation  and  prosecution  of  the  incident  by  law 
+
+enforcement and judicial authorities. 
+
+1.3  Scope 
+
+The  National  Cyber Security  Strategy  and  2013-2014  Action  Plan  includes the 
+
+information  systems  of  public  organizations  and  the  information  systems  that 
+
+belong to critical infrastructures operated by both the public and private sectors.  
+
+1.4  Update 
+
+National Cyber Security Strategy and 2013-2014 Action Plan will be updated at 
+
+least once a year in a coordinated way at national level, taking into account the 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+10/47 
+
+ 
+
+requests from the public and private sectors, and considering also the changing 
+
+conditions and needs.  
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+11/47 
+
+ 
+
+2  Cyber Security Risks 
+
+The risks related to cyber security should realistically be determined in order for 
+
+the  strategic  cyber-security  actions  to  be  determined  in  the  best  way.  With  the 
+
+current know-how, the primary risk elements related to ICT systems in Turkey 
+
+are listed below; 
+
+1.  The  threat  is  asymmetrical  as  cyber  space  provides  opportunities  of 
+
+anonymity  and  deniability  for  attacks  on  information  systems  and  data, 
+
+and the tools and knowledge required for attacks are often cheap and easy 
+
+to  get,  and  anyone  or  any  systems  across  the  world  can  participate  in 
+
+cyber-attacks, either knowingly or unknowingly. 
+
+2.  Any  information  system  can  harm  another  due  to  the  structure  of  the 
+
+cyber  space  that  is  open  to  integrated  and  uninterrupted  communication 
+
+and  due  to  the  malware  and  other  similar  threat  agents  existing  in  the 
+
+cyber space. 
+
+3.  Most  of  the  critical  services  to  the  populations  today  are  provided  and 
+
+managed by information systems. 
+
+4.  Most  of  the  information  systems  of  critical  infrastructures  are  accessible 
+
+through the Internet,  
+
+5.  There  is  a  lack  of  national  awareness  on  the  subject,  in  spite  of  the  fact 
+
+that  cyber  security  at  the  national  level  can  only  be  maintained  by  the 
+
+contribution of all the citizens, 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+12/47 
+
+ 
+
+6.  Lack  of  coordination  amongst  the  partner  organizations  at  the  national 
+
+level in the field of cyber security. 
+
+7.  Attacks in cyber space to individuals or public agencies go unreported due 
+
+to the fear of damage to reputation or due to other reasons. 
+
+8.  The lack of national and international regulations about investigation and 
+
+prosecution  of  cyber  security  incidents  makes  it  even  more  difficult  to 
+
+cooperate, 
+
+9.  The services of critical infrastructures are negatively affected not only by 
+
+cyber-attacks but also by potential errors inherent in information systems, 
+
+user errors or natural disasters, and there is a lack of capabilities necessary 
+
+to take measures against these kinds of incidents,  
+
+10.  Public  organizations  do  not  have  good  enough  information  security 
+
+management infrastructures, 
+
+11.  Public  organizations  and  individuals  do  not  have  sufficient  level  of 
+
+information and awareness in terms of cyber security, 
+
+12.  Top managers of public organizations do not have sufficient information 
+
+about  cyber  security  or  they  do  not  seem  to  be  sufficiently  interested  in 
+
+the issue of cyber security, 
+
+13.  Public  organizations  are  not  sufficiently  structured  towards  achieving 
+
+cyber  security,  and  the  issue  of  cyber  security  is  regarded  as  a 
+
+responsibility of the IT departments only. 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+13/47 
+
+ 
+
+14.  The  staff  in  IT  departments  do  not  have  sufficient  level  of  information 
+
+and experience in the field of cyber security,  
+
+15.  There is limited number of staff who would be competent in investigation 
+
+and prosecution of crimes that have emerged as a result of cyber security 
+
+violations, 
+
+16.  The  auditing  steps  about  cyber  security  are  not  included  sufficiently  in 
+
+the internal audit procedures of organizations, 
+
+17.  Cyber  security  is  not  considered  as  an  indispensable  component  of  the 
+
+information systems which are procured or developed, thus cyber security 
+
+is  not  taken  into  account  at  sufficient  level  during  procurement  of 
+
+products  and  services  in  the  area  of  information  and  communication 
+
+technologies in public organizations, 
+
+18.  There  is  not  enough  national  manufacturing  in  terms  of  hardware  and 
+
+software. 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+14/47 
+
+ 
+
+3  Principles 
+
+The  principles  to  be  considered  in  ensuring  national  cyber  security  are  as 
+
+follows:  
+
+1.  Cyber  security  should  be  ensured  by  methods  which  are  based  on  risk 
+
+management and continual improvement. 
+
+2.  For  cyber  security,  in  addition  to  the  technical  dimension,  an  integrated 
+
+approach  should  be  adopted  that  would  involve  determining  strong  and 
+
+weak  sides  in  legal,  administrative,  economic,  political  and  social 
+
+dimensions, including threats and opportunities. 
+
+3.  Risk management should be based on the elements of removing technical 
+
+vulnerabilities,  preventing  attacks  and  threats,  and  minimizing  the 
+
+potential damages. 
+
+4.  It  should  be  regarded  essential  that  individuals,  organizations,  societies 
+
+and governments should perform all their legal and social responsibilities 
+
+towards achieving cyber security. 
+
+5.  Full  cooperation  with  the  private  sector,  including  the  participation  into 
+
+decision-making  mechanisms,  should  be  maintained  for  ensuring  the 
+
+security of critical infrastructures,  
+
+6.  It is regarded as essential that cooperation should be made with the public 
+
+and  private  sectors,  universities  and  non-governmental  organizations, 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+15/47 
+
+ 
+
+furthermore, international cooperation and information sharing should be 
+
+ensured in achieving and maintaining cyber space security.  
+
+7.  It is regarded as essential that diplomatic, technical and law enforcement 
+
+communication  channels  should  be  used  continually  and  effectively  for 
+
+international cooperation and information sharing. 
+
+8.  International  agreements  and  regulations  should  be  taken  into  account 
+
+while the needed legislative actions are carried out. 
+
+9.  The principles of rule of law, fundamental human rights and freedoms and 
+
+protection of privacy should be accepted as essential principles. 
+
+10.  Transparency,  accountability,  ethical  values  and  freedom  of  speech 
+
+should be supported in cyber space. 
+
+11. A balance should be kept between security and usability. 
+
+12.  Auditing and regulatory organizations should take care of ensuring cyber 
+
+security in areas which they are responsible for.  
+
+13.  Use  of  national  products  and  services  should  be  encouraged  in  meeting 
+
+the requirements of cyber security, and research and development projects 
+
+should  be  endorsed  for  developing  these,  and  the  concept  of  innovation 
+
+should be regarded as essential. 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+16/47 
+
+ 
+
+4  Strategic Cyber Security Actions 
+
+Overcoming  the  threats  in  cyber  space  which  have  been  increasing  every  day 
+
+and  minimizing  the  vulnerabilities  within  the  national  cyber  space  as  much  as 
+
+possible  are  of  utmost  importance  for  progressing  towards  an  information 
+
+society  which  we  have  aimed  to  reach  as  a  nation.  Effective,  high  quality  and 
+
+affordable usage of information technologies by all the members of the public is 
+
+important  while  evolving  into  an  information  society,  but  it  is  also  very 
+
+important  to  achieve  cyber  security  during  the  usage  of  these  information 
+
+technologies. Therefore, cyber security, which is expressed as the protection of 
+
+information systems as well as the confidentiality, integrity and accessibility of 
+
+the information being processed by these systems, is a strategic and multi-stake-
+
+holder  issue  that  would  affect  many  aspects  such  as  peace  and  welfare  of  the 
+
+society,  the  economic  development  and  stability  of  the  nation  and  the  national 
+
+security of our country which has the aim to become an information society. 
+
+In  this  framework,  it  has  been  determined  to  perform  strategic  actions  towards 
+
+achieving  national  cyber  security  in  the  2013-2014  term,  in  light  of  the 
+
+principles  determined  above.  These  actions  include  sub-actions  as  required, 
+
+which  are  listed  in  the  next  chapter  with  the  scheduled  deadlines  and  the 
+
+responsible/relevant  organizations.  The  strategic  actions  scheduled  to  be 
+
+performed in the term 2013-2014 has been grouped under the following titles.  
+
+.  
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+17/47 
+
+ 
+
+a)  Regulatory measures 
+
+In  the  2013-2014  term,  the  government  will  start  to  implement  regulatory 
+
+measures,  aiming  to  define  the  duties,  powers  and  responsibilities  of  the 
+
+public  organizations  and  agencies  and  to  remove  the  existing  problems  in 
+
+achieving national cyber security. These actions will be of a nature to support 
+
+criminal  law,  civil  law,  administrative  law  and  the  regulation  of  all 
+
+procedural provisions thereto. Also, a dictionary on terms of cyber security is 
+
+to be prepared to prevent potential conceptual confusions. 
+
+b)  Activities to help with judicial processes 
+
+Regarding  cyber-attacks,  in  the  framework  of  the  international  legal 
+
+requirements,  the  following  should  be  determined  to  protect  the  rights  of 
+
+victims; the source of attack, attacking systems and the  severity of effect on 
+
+the  end  users  who  receive  service  from  these  systems.  In  order  to  produce 
+
+this  information,  the  national  cyberspace  should  be  equipped  with  reliable 
+
+recording mechanisms that are compatible with the current technology. 
+
+c)  Establishing the National Cyber Incidents Response Organization 
+
+In  the  short  term,  a  Cyber  Incidents  Response  Organization  that  will 
+
+efficiently  operate  both  nationally  and  internationally  is  to  be  created  to 
+
+quickly  determine  the  threats  emerging  in  cyber  space,  to  develop  –  and  to 
+
+share- precautions for reducing or removing the effects of potential incidents- 
+
+thus public organizations and agencies will gain the capability to respond to 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+18/47 
+
+ 
+
+cyber security incidents. “The National Center for Cyber Incident Response” 
+
+(USOM),  which  will  be  available  7/24  to  respond  to  the  threats  that  may 
+
+affect the country, will be established, and sectoral "Teams for Responding to 
+
+Cyber  Incidents"  (SOME)  will  be  established  which  are  to  work  under  the 
+
+coordination  of  the  USOM.  The  sectoral  SOMEs  will  respond  to  cyber 
+
+incidents and they will also provide information and hold awareness raising 
+
+activities  specific  to  the  SOMEs  affiliated  to  themselves  and  to  the  sector 
+
+which they are responsible for. Also other SOMEs will be established within 
+
+public  organizations  and  agencies  which  are 
+
+to  operate  under 
+
+the 
+
+coordination  of  sectoral  SOMEs.  The  USOMs  and  the  SOMEs  –while 
+
+responding to incidents - will also act in coordination with judicial authorities 
+
+and  law  enforcement  agencies  to  provide  the  data  that  will  support  the 
+
+investigation.  As  the  national  contact  point,  the  USOM  will  be  in  close 
+
+cooperation  with 
+
+the  equivalent  authorities  of  other  countries  and 
+
+international organizations. 
+
+d)  Strengthening the National Cyber Security Infrastructure 
+
+In  the  short  and  the  medium  term,  all  public  organizations  will  have  wide 
+
+ranging  infrastructure  projects  that  will  support  the  cyber  security  of  public 
+
+information  systems.  Activities  will  be  held  for  ensuring  cyber  security  of 
+
+public  organizations,  with  priority  given  to  information  systems  of  critical 
+
+infrastructures. The information systems of key infrastructures, their level of 
+
+criticality,  their  relations  with  one  another  and  the  responsible  staff  will  be 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+19/47 
+
+ 
+
+determined.  The  cyber  security  of  the  information  systems  of  critical 
+
+infrastructures  will  be  ensured  by  both  technological  precautions  and 
+
+administrative measures and processes. To this effect, the proficiency levels 
+
+of all staff -on cyber security- primarily those of the top managers in public 
+
+organizations  will  be  increased  through  trainings  with  administrative  and 
+
+technological contents. The public organizations which do not have sufficient 
+
+proficiency in achieving cyber security will be supported with services to be 
+
+provided in technological and administrative aspects. 
+
+e)  Human Resources Education and Awareness Raising Activities in the 
+
+Field of Cyber Security 
+
+In  the  short  and  medium  term,  activities  will  be  carried  out  to  create 
+
+proficient human resources in needed numbers in the field of cyber security. 
+
+Regulations will be created to include the concept of cyber security into the 
+
+curricula  of  primary  schools,  secondary  schools,  high  schools,  non-formal 
+
+education  institutions  and  higher  education  organizations.  Events  will  be 
+
+organized with an aim to raise awareness –on cyber security- of information 
+
+system  auditors,  technology  developers,  system  administrators  and  all  other 
+
+relevant  parties,  and 
+
+to  provide 
+
+information 
+
+that  falls  under 
+
+their 
+
+responsibilities.  Auditing  steps  on  cyber  security  in  the  internal  audit 
+
+processes  of  organizations  will  also  be  discussed.  Also,  an  education 
+
+platform  will  be  created  for  all  citizens  in  order  to  create  and  develop 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+20/47 
+
+ 
+
+awareness  on  cyber  security,  and  initiatives  serving  this  purpose  will  be 
+
+supported. 
+
+f)  Developing National Technologies in the field of Cyber Security 
+
+In  the  medium  and  long  term,  technical  know-how  and  the  potential  and 
+
+capabilities of the country on cyber security will be increased. Efforts will be 
+
+made  to  have  public  and  private  sector  work  cooperatively  in  activities 
+
+towards meeting the needs of research and development. 
+
+g)  Extending the Scope of National Cyber Security Mechanisms 
+
+It is necessary to start working on extending the area of responsibility of our 
+
+national  security  organizations,  to  include  defense  against  malicious 
+
+activities carried out in national and international cyber space.  
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+21/47 
+
+ 
+
+5  National Cyber Security Action Plan for the Term 2013 -2014 
+
+This  chapter  includes  the  actions  towards  achieving  national  cyber  security  in 
+
+light  of  the  determined  principles  for  the  term  2013-2014  in  the  framework  of 
+
+the  national  cyber  security  strategy.  The  actions  are  grouped  by  the  titles 
+
+determined  in  the  fourth  part  of  this  document.  One  responsible  public 
+
+organization  and  agency  is  appointed  for  each  action, however, that  action  can 
+
+have  more  than  one  relevant  organization  and  agency.  In  such  cases,  it  is 
+
+envisioned that all the relevant organizations and agencies should act under the 
+
+coordination of the responsible organization and agency as required, and should 
+
+also  act  in  parallel  with  each  other  as  required,  to  carry  out  the  activities 
+
+required  by  the  action.  The  deadlines  for  some  of  the  actions  are  determined, 
+
+and  those  actions  which  are  envisioned  to  be  repeated  periodically  and  carried 
+
+out  constantly  are  particularly  specified.  There  are  a  total  of  29  action  items 
+
+scheduled to take place in 2013-2014. 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+22/47 
+
+ 
+
+5.1  Carrying out Legislative Activities 
+
+No  Action 
+
+Sub-Action 
+
+1.   
+
+Cyber Security 
+
+-  Cyber Security Council starts off and its operational procedures 
+
+Council’s start off  
+
+and principles are determined 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+ 
+
+Completed 
+
+ 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+Establishing the 
+
+-  Examining national and international regulations on cyber security 
+
+2.   
+
+regulations 
+
+related to cyber 
+
+security 
+
+and determining the regulations needed 
+
+July 2013 
+
+-  Ministry of Justice(Res) 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  Ministry of Foreign Affairs(Rel) 
+
+-  Ministry of Interior(Rel) 
+
+-  Ministry of National Defense (Rel) 
+
+-  The undersecretariat of Public Order 
+
+and Security(Rel) 
+
+-  The Information and Communication 
+
+Technologies Authority(Rel) 
+
+-  Creating a dictionary of cyber security terms 
+
+December 2014  -  Turkish Language Association(Res) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+23/47 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Ministry of Justice(Res) 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  Updating the current main regulations (laws) in a way to cover the 
+
+-  Ministry of Foreign Affairs(Rel) 
+
+subjects that need to be handled in the area of cyber security, and 
+
+-  Ministry of Interior(Rel) 
+
+completing the primary legislative activities that would meet the 
+
+September 2013 
+
+-  Ministry of National Defense (Rel) 
+
+Establishing the 
+
+needs for new regulations, and submitting them to the Cyber 
+
+-  Chief of Staff(Rel) 
+
+2.   
+
+regulations 
+
+related to cyber 
+
+security 
+
+Security Council. 
+
+-  The undersecretariat of Public Order 
+
+and Security(Rel) 
+
+-  The Information and Communication 
+
+Technologies Authority(Rel) 
+
+-  Ministry of Transport, Maritime 
+
+-  Carrying out the secondary legislative activities (regulations, 
+
+Affairs and Communications(Res) 
+
+edicts, activities related to Cyber Security Services.) 
+
+Continually 
+
+-  The public organizations responsible 
+
+ 
+
+for regulating and auditing the 
+
+critical sectors(Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+24/47 
+
+ 
+
+ 
+
+5.2  Carrying Out the Activities That Will Help with Judicial Processes 
+
+No  Action 
+
+Sub-Action 
+
+-  Determining the minimum requirements for logs to be kept to get 
+
+reliable evidence for post-incident examination. 
+
+Improving the 
+
+3.   
+
+evidence base for 
+
+cyber incidents 
+
+-  Relevant public organizations put into operation their convenient 
+
+logging mechanisms in conformity with the current technology 
+
+and the international standards to get reliable evidence for post-
+
+incident examination. 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Ministry of Interior(Res)  
+
+-  The Turkish Gendarmerie(Rel) 
+
+-  The undersecretariat of National Intelligence 
+
+Organization(Rel) 
+
+-  The Turkish National Police (Rel) 
+
+June 2013 
+
+-  The Information and Communication 
+
+Technologies Authority/ 
+
+Telecommunications Communication 
+
+Presidency(Rel) 
+
+-  The Scientific And Technological Research 
+
+Council of Turkey (Rel) 
+
+-  Ministry of Transport, Maritime Affairs 
+
+and Communications(Res) 
+
+March 2014 
+
+-  Ministry of Interior(Rel) 
+
+-  Ministry of Justice(Rel) 
+
+-  All public organizations(Rel) 
+
+-  Public agencies that operate in critical sectors will put into 
+
+operation their convenient logging mechanisms in conformity 
+
+with current technology and international standards to get reliable 
+
+evidence for post-incident examination. 
+
+-  The public organizations responsible for 
+
+May 2014 
+
+regulating and auditing the key 
+
+sectors(Res) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+25/47 
+
+ 
+
+ 
+
+5.3  Creating the National Cyber Incidents Response Organization 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) organizations 
+
+-  Establishing the National Center for Cyber Incident Response 
+
+Completed. 
+
+(USOM) which will provide service 24/7. 
+
+ 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+-  Ministry of Interior(Rel) 
+
+-  Preparing the procedures and processes related to the working 
+
+- The Information and Communication 
+
+Establishing the 
+
+procedures and principles of the Center to be put into operation 
+
+National Cyber 
+
+for cases that would require national and international 
+
+Technologies Authority/ 
+
+Telecommunications Communication 
+
+Incidents Response 
+
+cooperation 
+
+July 2013 
+
+Presidency(Rel) 
+
+(USOM) team and 
+
+-  Preparing a central help page for the public servants working in 
+
+establishing the 
+
+the area of cyber security and helping them with the online 
+
+4.   
+
+Teams for 
+
+communication of issues to be urgently taken action for. 
+
+Responding to 
+
+Cyber Incidents 
+
+against Sectoral 
+
+and Public Entities 
+
+(SOME) 
+
+-  Preparing the working principles, guidance documents and 
+
+training schedules to establish and operate the Teams for 
+
+Responding to Cyber Incidents against Sectoral and Public 
+
+Entities (SOME)  
+
+- The Turkish National Police (Rel) 
+
+- The Turkish Gendarmerie(Rel) 
+
+- The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+-  Ministry of Transport, Maritime Affairs and 
+
+Communications(Res) 
+
+-  The Information and Communication 
+
+Technologies Authority/ Telecommunications 
+
+August 2013 
+
+Communication Presidency(Rel) 
+
+-  The public organizations responsible for 
+
+regulating and auditing the critical sectors(Rel) 
+
+-  The Scientific And Technological Research 
+
+Council of Turkey (Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+26/47 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) organizations 
+
+-  USOM (The National Center for Cyber 
+
+Establishing the 
+
+National Cyber 
+
+Incidents Response 
+
+(USOM) team and 
+
+establishing the 
+
+4.   
+
+Teams for 
+
+Responding to 
+
+Cyber Incidents 
+
+against Sectoral 
+
+and Public Entities 
+
+(SOME) 
+
+-  Establishing the sectoral SOMEs which are specific to critical 
+
+Incident Response) (Res) 
+
+infrastructure sectors, and creating their teams as well as 
+
+December 2013 
+
+-  The public organizations responsible 
+
+providing trainings for them. 
+
+-  Sectoral SOMEs will operate directly under the coordination of 
+
+USOM  
+
+-  Sectoral SOMEs will benefit from the support to be provided by 
+
+the USOM 
+
+for regulating and auditing the critical 
+
+sectors(Rel) 
+
+-  USOM (The National Center for Cyber 
+
+Incident Response) (Res) 
+
+March 2014 
+
+-  The public organizations responsible for 
+
+regulating and auditing the critical 
+
+sectors(Rel) 
+
+-  USOM (The National Center for Cyber 
+
+-  Establishing the SOMEs of public organizations 
+
+September 2014 
+
+Incident Response) (Res) 
+
+-  All public organizations(Rel) 
+
+-  USOM (The National Center for 
+
+-  Public SOMEs will operate directly under the coordination of 
+
+Cyber Incident Response) (Res) 
+
+USOM.  
+
+-  Public SOMEs will benefit from the support to be provided by the 
+
+December 2014 
+
+-  The public organizations 
+
+responsible for regulating and 
+
+sectoral SOMEs and USOM they are affiliated to, if there is any. 
+
+auditing the critical sectors(Rel) 
+
+-  All public organizations(Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+27/47 
+
+ 
+
+ 
+
+5.4  Strengthening the National Cyber Security Infrastructure 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Information 
+
+security 
+
+5.   
+
+management 
+
+program in critical 
+
+infrastructures 
+
+-  Determining the critical infrastructures that could be the direct 
+
+ 
+
+-  The Scientific And Technological 
+
+target of cyber threats and that can disturb the public order if 
+
+July 2013 
+
+Research Council of Turkey (Res) 
+
+damaged. 
+
+-  Conducting the sectoral risk analysis of one of the “critical 
+
+infrastructures” which is to be determined later on. 
+
+-  Determining the methods of sectoral risk analysis  
+
+ 
+
+-  The public organizations responsible 
+
+for regulating and auditing the 
+
+August 2013 
+
+critical sectors(Rel) 
+
+September 
+
+2013  
+
+-  The public organizations responsible 
+
+-  Determining the requirements of sectoral emergency action plans 
+
+ February 2014 
+
+-  Completing the first one of the yearly risk analysis reporting 
+
+activities 
+
+-  Determining and implementing the requirements of sectoral 
+
+business continuity plans  
+
+for regulating and auditing the 
+
+critical sectors(Res) 
+
+March 2014 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+March 2014 
+
+-  USOM (The National Center for 
+
+Cyber Incident Response) (Rel) 
+
+-  Determining and implementing the sectoral security precautions 
+
+Continually 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+28/47 
+
+ 
+ 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Preparing the document on the Minimum Security Requirements 
+
+to be complied with by public organizations. 
+
+August 2013 
+
+-  Providing the first one of the cyber security trainings to the 
+
+system administrators and to other relevant technical staff based 
+
+The first one was 
+
+on the priority needs, and determining the proficiency of the 
+
+completed 
+
+Information 
+
+trained staff. 
+
+6.   
+
+security program 
+
+for the public 
+
+sector 
+
+-  Conducting the first one of the yearly tests and audits which is to 
+
+be compulsory for public organizations. And for the public 
+
+organizations which are to be prioritized, these tests and audits 
+
+December 2013 
+
+will be conducted in agreement with the relevant public 
+
+organizations. 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Res) 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  USOM (The National Center for 
+
+Cyber Incident Response) (Rel)  
+
+ 
+
+ 
+
+-  Publishing and updating the hardening documents and the 
+
+standards on information systems security 
+
+Continually 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Res) 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+29/47 
+
+ 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Briefing top managers who are responsible for information 
+
+systems and cyber security of public organizations 
+
+ Completed 
+
+7.   
+
+Strengthening 
+
+cyber security 
+
+training 
+
+infrastructure 
+
+-  Training and certifying the technical staff. 
+
+-  Providing trainings to the internal audit staff working in public 
+
+organizations and agencies, which will help them obtain the 
+
+competency to carry out audits on information systems. 
+
+ 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+May 2014 
+
+-  State Personnel 
+
+Administration(Rel) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+30/47 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Organizing cyber security exercises. 
+
+To be held once 
+
+every two years 
+
+as of 2013. 
+
+8.   
+
+Organizing cyber 
+
+security exercises 
+
+-  Ministry of Transport, Maritime Affairs and 
+
+Communications(Res) 
+
+-  Ministry of Interior(Rel) 
+
+-  The Information and Communication Technologies 
+
+Authority(Rel) 
+
+-  The Turkish National Police (Rel) 
+
+-  The Turkish Gendarmerie(Rel) 
+
+-  Chief of Staff(Rel) 
+
+-  The Scientific And Technological Research Council of Turkey 
+
+(Rel) 
+
+-  USOM (The National Center for Cyber Incident Response) 
+
+(Rel) 
+
+-  Sectoral SOMEs (The Teams for Responding to Cyber 
+
+Incidents) (Rel) 
+
+-  Ministry of Transport, Maritime Affairs and 
+
+Communications(Res) 
+
+-  Ministry of Foreign Affairs(Rel) 
+
+-  The Information and Communication Technologies 
+
+-  Organizing the first one of the International Cyber 
+
+Security Exercises with the leadership of Turkey. 
+
+May 2014 
+
+Authority(Rel) 
+
+-  The Turkish National Police (Rel) 
+
+-  Chief of Staff(Rel) 
+
+-  The Scientific And Technological Research Council of Turkey 
+
+(Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+31/47 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Determining the 
+
+secure 
+
+-  Determining the rules and procedures that will help 
+
+9.   
+
+communication 
+
+with secure data sharing amongst public 
+
+December 2013 
+
+rules for the public 
+
+organizations 
+
+sector 
+
+-  Ministry of Transport, Maritime Affairs and 
+
+Communications(Res) 
+
+-   The National Center for Cyber Incident Response) (Rel) 
+
+-  The Information and Communication Technologies 
+
+Authority(Rel) 
+
+-  The undersecretariat of Public Order and Security(Rel) 
+
+-  The Scientific And Technological Research Council of 
+
+Turkey(Rel) 
+
+-  Preparing the training programs about software security and 
+
+delivering those programs to software developers 
+
+December 2013 
+
+-  Publishing the document on fundamental rules on secure 
+
+software development independent from programming 
+
+languages for the software to be used in critical 
+
+infrastructures. 
+
+Implementation of 
+
+10. 
+
+the software 
+
+ 
+
+security program 
+
+December 2013 
+
+-  The Scientific And Technological Research Council of Turkey 
+
+(Res) 
+
+-  Ministry of Transport, Maritime Affairs and 
+
+Communications(Rel) 
+
+-  Turkish Standards organization(Rel) 
+
+-  In the scope of the security assessments of the software 
+
+that have been developed for critical infrastructures; 
+
+preparing –and submitting to the Cyber Security 
+
+Council- the feasibility studies towards implementing 
+
+and checking the technical requirements within critical 
+
+March 2014 
+
+infrastructure organizations.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+32/47 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Establishing a Honeypot system to detect cyber threats. 
+
+July 2013 
+
+-   The Information and 
+
+-  Establishing and developing a reporting system for national 
+
+Implementation of 
+
+cyber-attacks. 
+
+December 2013 
+
+Communication Technologies 
+
+Authority/ Telecommunications 
+
+Communication Presidency(Res) 
+
+11. 
+
+cyber threats 
+
+ 
+
+prevention project 
+
+-  Generating yearly statistics about cyber threats. 
+
+December 2013 
+
+-  Ministry of Transport, Maritime 
+
+-  Developing the mechanisms for detection, monitoring and 
+
+prevention of cyber threats. 
+
+ 
+
+December 2014 
+
+Affairs and Communications(Rel) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+Certification of 
+
+products and 
+
+12. 
+
+service providers in 
+
+ 
+
+the field of cyber 
+
+security  
+
+-  Determining the minimum requirements that natural and legal 
+
+persons should have, who carry out the security tests on 
+
+information systems, providing training and consultancy in the 
+
+September 2013 
+
+field of cyber security, offering the services in other areas to be 
+
+determined related to cyber security, and designing a 
+
+certification process for these natural and legal persons. 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+-  Turkish Standards 
+
+Organization(Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+33/47 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Certification of the 
+
+-  Determining the products of information technology and 
+
+products and 
+
+information systems–including their minimum security 
+
+12. 
+
+service providers in 
+
+ 
+
+requirements- which are used by public organizations and thus 
+
+August 2014 
+
+the field of cyber 
+
+are of critical importance, and providing the certification 
+
+security 
+
+determined.  
+
+-  Turkish Standards 
+
+organization(Res) 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  TURKAK (Turkish Accreditation 
+
+Agency) (Rel) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+-  Ministry of Justice(Res) 
+
+-  Ministry of Interior(Rel) 
+
+-  The Turkish National Police (Rel) 
+
+-  The Turkish Gendarmerie(Rel) 
+
+Determining the 
+
+rules towards 
+
+issuing a security 
+
+ 
+
+certification to 
+
+computer forensics 
+
+service providers  
+
+-  Determining the minimum requirements for natural and legal 
+
+persons who provide computer forensics services, and designing 
+
+May 2014 
+
+a certification process for them. 
+
+ 
+
+13. 
+
+ 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+34/47 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Determining  the  security  risk  levels  of  the  systems  –  and  of  the 
+
+data  –  which  process  transactions  in  electronic  environment, 
+
+regarding  all  public  organizations  and  agencies  and  the  private 
+
+September 2013 
+
+sector corporations that run critical information infrastructures.  
+
+-  Determining the procedures and principles of backing up 
+
+-  Ministry of Transport, Maritime 
+
+sensitive data of all public organizations and agencies and the 
+
+private sector corporations that run critical information 
+
+October 2013 
+
+Affairs and Communications(Res) 
+
+-  The Scientific And Technological 
+
+Establishing 
+
+business continuity 
+
+ 
+
+and data backup 
+
+infrastructures. 
+
+-  Preparation of business continuity plans by all public 
+
+systems 
+
+organizations and agencies and the private sector corporations 
+
+January 2014 
+
+that run critical information infrastructures. 
+
+Research Council of Turkey (Rel) 
+
+-  All public organizations and 
+
+agencies(Rel) 
+
+-  The public organizations 
+
+responsible for regulating and 
+
+-  Establishing information systems pursuant to the business 
+
+continuity plans. 
+
+July 2014 
+
+auditing the critical sectors(Rel) 
+
+-  Organizing the exercises suitable for business continuity plans, 
+
+and submitting the results to the Cyber Security Council. 
+
+December 2014 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+35/47 
+
+14. 
+
+ 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Determining a public agency or agencies that will offer data 
+
+center services for storing the internet web sites of public 
+
+October 2013 
+
+organizations in a domestic and reliable data center. 
+
+Moving the 
+
+internet web sites 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+-  The Information and Communication 
+
+Technologies Authority(Rel) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+15. 
+
+ 
+
+of public 
+
+organizations to 
+
+-  The public organizations like municipalities, hospitals, 
+
+local and reliable 
+
+data centers 
+
+provincial/district public organizations which do not host their 
+
+web sites internally will move their web sites to the pre-
+
+December 2013 
+
+- All public organizations and agencies 
+
+(Res) 
+
+determined data center/centers. 
+
+-  Carrying out regular and periodic inspections of these pre-
+
+determined data centers. 
+
+Continually 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+-  Developing an analysis infrastructure that will detect potential 
+
+Developing – and 
+
+data loss from key public organizations. 
+
+-  Determining the public organization on which this test 
+
+infrastructure will be applied by the Cyber Security Council 
+
+December 2013 
+
+January 2014 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Res) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+putting into 
+
+16. 
+
+operation- a test 
+
+ 
+
+infrastructure for 
+
+detecting data loss 
+
+-  Carrying out the tests to detect data loss and reporting the results. 
+
+May 2014 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+36/47 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Determining the 
+
+levels of access to 
+
+17. 
+
+ 
+
+data in public 
+
+organizations 
+
+-  Creating access control principles in conformity with the 
+
+international standards (e.g. TS ISO/IEC 27001) 
+
+October 2013 
+
+-  Cyber Security Council(Res) 
+
+-  Ministry of Transport, Maritime 
+
+-  Re-configuration of e-government applications of public 
+
+Affairs and Communications(Rel) 
+
+-  The Scientific And Technological 
+
+organizations in a way to prevent access to unauthorized data 
+
+February 2014 
+
+Research Council Of Turkey (Rel) 
+
+over the internet 
+
+-  All public organizations and 
+
+agencies (Rel) 
+
+-  Providing information about existing open source security 
+
+products that meet the minimum security criteria already 
+
+determined, which may be used by public and private sector 
+
+October 2013 
+
+organizations. 
+
+Promoting the 
+
+18. 
+
+usage of open 
+
+ 
+
+-  Creating platforms for developing new cyber security products 
+
+source products 
+
+with open source code. 
+
+February 2014 
+
+-  The Scientific And Technological 
+
+Research Council Of Turkey(Res) 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  Universities (Rel) 
+
+-  Preparing a schedule to move the suitable ones -of all the critical 
+
+information systems- to the operating systems with open source 
+
+May 2014 
+
+code. 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+37/47 
+
+ 
+
+ 
+
+5.5  Human Resources Education and Awareness-Raising Activities on Cyber Security 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Educate academics 
+
+19. 
+
+in the study of cyber 
+
+ 
+
+security 
+
+-  Providing scholarships to students for masters and doctoral 
+
+studies on cyber security.  
+
+October 2013 
+
+-  Establishing a commission in the Council of Higher Education 
+
+regarding the development of cyber security infrastructure. 
+
+Completed 
+
+Wider adoption of 
+
+undergraduate, graduate and doctoral programs of relevant 
+
+March 2014 
+
+-  Adding courses related to cyber security into the curricula of 
+
+cyber security 
+
+ 
+
+curricula in 
+
+universities 
+
+departments.  
+
+-  Preparing more books, magazines, articles and other sources on 
+
+the subject of cyber security in the Turkish language. 
+
+-  Council of Higher Education(Res) 
+
+-  Ministry of National 
+
+Education(Rel) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+-  Universities (Rel) 
+
+-  Council of Higher Education(Res) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+-  Universities (Rel) 
+
+20. 
+
+ 
+
+ 
+
+ 
+
+Continually 
+
+ 
+
+ 
+
+-  Opening at least two graduate programs on cyber security. 
+
+October 2013 
+
+-  Opening at least one doctoral program on cyber security. 
+
+October 2014 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+38/47 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Creating scholarship programs for the students who would 
+
+like to specialize in cyber security 
+
+September 2014 
+
+-  Council of Higher 
+
+Education(Res) 
+
+-  Ministry of National 
+
+Education(Rel) 
+
+-  The Scientific And 
+
+Technological Research Council 
+
+of Turkey (Rel) 
+
+-  Universities (Rel)  
+
+-  Organizing summer camps on cyber security. 
+
+To be held as of 
+
+the year 2013 
+
+-  The Scientific and Technological 
+
+Research Council of Turkey 
+
+(Res) 
+
+-  Creating internship programs in cyber security. 
+
+September 2014 
+
+-  Organizing promotion activities in universities related to 
+
+cyber security. 
+
+ 
+
+-  Council of Higher 
+
+Continually 
+
+Education(Res) 
+
+Implementing a 
+
+program to direct 
+
+21. 
+
+students towards 
+
+ 
+
+cyber security 
+
+expertise 
+
+ 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+39/47 
+
+No  Action 
+
+Sub-Action 
+
+-  Organizing cyber defense competitions amongst universities 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+To be held every 
+
+year 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+-  Council of Higher Education(Rel) 
+
+Implementing a 
+
+program to direct 
+
+21. 
+
+students towards 
+
+cyber security 
+
+expertise 
+
+-   Organizing video/poster competitions on information 
+
+security for awareness-raising in the primary, secondary, high 
+
+school and university categories. 
+
+To be held every 
+
+-  Ministry of National 
+
+year 
+
+Education(Res) 
+
+-  Experts working in USOMs and SOMEs will be trained and 
+
+they will gain experience in implementation. 
+
+Continually 
+
+-  Ministry of Transport, Maritime Affairs 
+
+and Communications(Res) 
+
+-  The Information and Communication 
+
+Technologies Authority(Rel) 
+
+-  USOM (The National Center for Cyber 
+
+Incident Response) (Rel) 
+
+-  SOMEs (The Teams for Responding to 
+
+Cyber Incidents) (Rel) 
+
+-  Increasing the capacities of the security units which will 
+
+-  Ministry of Interior(Res) 
+
+respond to cyber security incidents, and for training experts 
+
+Continually 
+
+-  The Scientific And Technological 
+
+and helping the experts gain experience in implementation. 
+
+Research Council of Turkey (Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+40/47 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Promoting cyber 
+
+security trainings 
+
+across primary, 
+
+22. 
+
+secondary, high 
+
+ 
+
+school and non-
+
+formal education 
+
+platforms. 
+
+-  Adding cyber security to the curricula of the departments of 
+
+-  Ministry of National 
+
+computer programming in vocational high schools. 
+
+Education(Res) 
+
+-  Placing the subject of cyber security into the course programs 
+
+-  The Scientific And Technological 
+
+which are under the field of information technology. 
+
+-  Including the cyber security trainings into the scope of the 
+
+March 2014  
+
+FATIH project 
+
+Research Council Of Turkey 
+
+(Rel) 
+
+-  The Information and 
+
+-  Open source code products should also be included in 
+
+Communication Technologies 
+
+information technology trainings 
+
+Authority(Rel) 
+
+-  Carrying out activities to increase the awareness level of 
+
+-  The Information and 
+
+computer users on cyber security (seminars, brochures, non-
+
+formal education activities, remote education by means of the 
+
+Continually 
+
+Raising awareness of 
+
+media and awareness-raising) 
+
+23. 
+
+computer users on 
+
+ 
+
+Communication Technologies 
+
+Authority(Res) 
+
+-  Ministry of National 
+
+Education(Rel) 
+
+cyber security. 
+
+-  Raising the awareness level of people on safe internet usage 
+
+-  Ministry of Transport, Maritime 
+
+and on “safe internet service”, further developing and 
+
+Continually 
+
+Affairs and Communications(Rel) 
+
+spreading the service. 
+
+-  Radio and Television Supreme 
+
+Council (Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+41/47 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and 
+
+Communications(Res) 
+
+-  Ministry of Foreign Affairs(Rel) 
+
+-  Organizing symposiums and conferences that would also 
+
+-  The Information and 
+
+Organizing national 
+
+discuss the economic, social and legal aspects of cyber 
+
+Communication Technologies 
+
+24. 
+
+and international 
+
+ 
+
+security. 
+
+Continually 
+
+Authority(Rel) 
+
+cyber security events 
+
+-  Participation in international conferences, meetings, seminars 
+
+-  The Scientific And Technological 
+
+and the exercises related to cyber security. 
+
+Research Council of Turkey (Rel) 
+
+-  All public organizations and 
+
+agencies(Rel) 
+
+-  Universities (Rel) 
+
+-  NGOs (Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+42/47 
+
+ 
+
+ 
+
+5.6  Developing National Technologies in Cyber Security 
+
+No  Action 
+
+Sub-Action 
+
+-  Creating and updating a list of the technologies that would 
+
+meet the cyber security requirements of the country. 
+
+-  Inclusion of cyber security as a priority subject into the current 
+
+promotion systems for projects. 
+
+March 2014 
+
+Stimulating research 
+
+25. 
+
+and development 
+
+ 
+
+activities 
+
+Establishing R&D 
+
+laboratories in the 
+
+ 
+
+field of Cyber 
+
+Security 
+
+-  Creating the promotion mechanisms for the national Research 
+
+and Development activities in the field of software, hardware 
+
+and similar information technology products related to cyber 
+
+security. 
+
+-  Establishing a laboratory infrastructure that would build 
+
+capacity to detect malware and their effects on information 
+
+systems. 
+
+ 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+Continually 
+
+-  The Supreme Council for Science 
+
+and Technology(Res) 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  Ministry of Science, Industry and 
+
+Technology(Rel) 
+
+March 2014 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+September 
+
+-  The Scientific And Technological 
+
+2013 
+
+Research Council of Turkey (Res) 
+
+26. 
+
+ 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+43/47 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Creating programs that will encourage and support the 
+
+-  Council of Higher Education(Res) 
+
+establishment of Research and Development laboratories on 
+
+March 2014 
+
+-  Ministry of Development(Rel) 
+
+Establishing R& D 
+
+cyber security in universities. 
+
+26. 
+
+laboratories in the 
+
+field of Cyber 
+
+Security 
+
+-  Establishing the first cyber security Research and 
+
+Development laboratory in universities in the scope of the 
+
+program.  
+
+September 
+
+2014 
+
+-  Ministry of Transport, Maritime 
+
+Affairs and Communications(Rel) 
+
+-  Ministry of Science, Industry and 
+
+Technology(Rel) 
+
+-  The Scientific And Technological 
+
+Research Council of Turkey (Rel) 
+
+Creating national 
+
+products and 
+
+ 
+
+solutions in the field 
+
+of cyber security 
+
+-  Holding regular activities in which the public and private 
+
+-  Ministry of Transport, Maritime 
+
+sectors, universities, NGOs and other information security 
+
+Affairs and Communications(Rel) 
+
+stake holders will participate in. 
+
+-  The Information and 
+
+-  Participants should cooperate on the following subjects; 
+
+Communication Technologies 
+
+correct usage of information technology products in the scope 
+
+October 2013 
+
+Authority(Rel) 
+
+of cyber security, technological precautions and requirements, 
+
+-  The Scientific And Technological 
+
+Research and Development requirements, information 
+
+Research Council of Turkey (Rel) 
+
+technology products being developed, administrative 
+
+precautions and regulations. 
+
+-  Universities (Rel) 
+
+-  NGOs (Rel) 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+44/47 
+
+27. 
+
+ 
+ 
+
+ 
+
+ 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Creating “promotion mechanisms” for public organizations to 
+
+-  Ministry of Science, Industry and 
+
+prefer in their information and communication systems; 
+
+Technology(Res) 
+
+Promoting national 
+
+ 
+
+products 
+
+ 
+
+. 
+
+a.   the products which are developed nationally, are 
+
+Affairs and Communications(Rel) 
+
+assessed in terms of security and are certified, 
+
+-  Ministry of Development (Rel) 
+
+-  Ministry of Transport, Maritime 
+
+b.   the products which were assessed in terms of security 
+
+and were certified, in cases where there is not any 
+
+national product. 
+
+February 2014 
+
+-  Ministry of Customs and 
+
+Trade(Rel) 
+
+-  Ministry of Economy(Rel) 
+
+-  Ministry of Finance(Rel) 
+
+-  Public Procurement 
+
+Authority(Rel) 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+45/47 
+
+28. 
+
+ 
+
+ 
+
+ 
+
+5.7  Extending the Scope of the National Security Mechanisms 
+
+No  Action 
+
+Sub-Action 
+
+Deadline 
+
+Responsible(Res) and 
+
+Relevant (Rel) Organizations 
+
+-  Determining the responsibilities of public organizations in case 
+
+of cyber security incidents in the cyber space and how to 
+
+March 2014 
+
+ensure coordination at national level. 
+
+Integrating national 
+
+-  Determining high priority potential attack scenarios targeting 
+
+cyber security 
+
+29. 
+
+concepts into the 
+
+ 
+
+national security 
+
+context 
+
+the country, including the effects of these attacks.  
+
+-  Determining priority actions required to be carried out to 
+
+analyze and improve the status of the mechanisms that would 
+
+be used in case of potential cyber security incidents . 
+
+-  Cyber Security Council(Res) 
+
+-  Ministry of Interior(Rel) 
+
+-  Ministry of National 
+
+Defense(Rel) 
+
+-  Ministry of Justice(Rel) 
+
+March 2014 
+
+-  General Secretariat of the 
+
+September 
+
+2014 
+
+National Security Council(Rel) 
+
+-  Chief of Staff(Rel) 
+
+-  The undersecretariat of National 
+
+Intelligence Organization(Rel) 
+
+-  The undersecretariat of Public 
+
+Order and Security(Rel) 
+
+-  The Turkish National Police (Rel) 
+
+-  The Turkish Gendarmerie (Rel) 
+
+ 
+
+ 
+
+ 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+46/47 
+
+ 
+
+ [The page intentionally left blank.] 
+
+National Cyber Security Strategy and 2013-2014 Action Plan 
+
+47/47 
+
+ 
+
+

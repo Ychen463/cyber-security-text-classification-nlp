@@ -1,0 +1,3051 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+REPUBLIC OF GHANA 
+
+MINISTRY OF COMMUNICATIONS 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ghana National Cyber Security Policy & Strategy  
+
+ 
+ 
+
+Final Draft    
+
+ 
+ 
+ 
+ 
+ 
+
+July 23 2015
+
+ 
+
+Document Version 
+
+Version 
+
+Date 
+
+Remark 
+
+Ver. 1.0 
+
+March 2015 
+
+Final Draft handed over to Ministry of 
+
+Communications 
+
+Ver. 2.0 
+
+7 September 2015  
+
+Final version after Validation Workshop 
+
+2 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Document Contact 
+
+Table of Contents 
+
+ 
+
+ ..................................................................................................................... 7 
+
+ ................................................................................................ 9 
+
+ ............................... 10 
+
+ .............................................................................................................................. 10 
+
+ ............................................................................................................................ 19 
+
+ ................................................................................................................................. 19 
+
+ ....................................................................................................... 20 
+
+ ........................................................................................................................ 22 
+
+ 
+
+ ............................................................................................................ 24 
+
+ .................................................................................... 12 
+
+ .............................................................................................................. 13 
+
+ ................................................................................................................ 14 
+
+ ................................................................................................................... 15 
+
+ ........................................................................................ 17 
+
+ ........................................................................ 18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+b.
+
+EXECUTIVE SUMMARY
+a.
+SECTION ONE: BACKGROUND
+I.
+CHALLENGES, DEVELOPMENTS WITH FOCUS ON THE POLICY
+Overview
+i.
+ii.
+Global Activities on Cyber Security
+Regional Initiatives
+iii.
+iv.
+Local Initiatives
+II. NEED FOR POLICY
+III. RELEVANT PROVISION – ICT4AD
+SECTION TWO: CYBER SECURITY POLICY
+INTRODUCTION
+DEFINITIONS
+CNII SECTORS FOR GHANA
+POLICY CONTEXT
+I.
+POLICY STATEMENT
+Legislative & Regulatory Framework
+Cyber Security Technology Framework
+Culture of security and Capacity Building
+Research & Development towards Self-Reliance
+Compliance and Enforcement
+Child Online Protection
+
+3 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ ......................................................................................... 24 
+
+ .................................................................................... 24 
+
+ ................................................................................. 25 
+
+ .................................................................... 25 
+
+ .................................................................................................... 26 
+
+ ............................................................................................................... 26 
+
+ ..................................................................................... 26 
+
+ ........................................................................................................... 27 
+
+ ......................................... 28 
+
+ ................................................................. 29 
+
+ ................................................................................... 35 
+
+ ................................................................................................................ 36 
+
+ .......................................................................................................................................... 37 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cyber Security Emergency Readiness
+International Cooperation
+SECTION THREE: NATIONAL CYBER SECURITY STRATEGY
+c.
+STRATEGIC ACTIONS FOR POLICY THRUST
+I.
+Strategy Implementation Timelines
+i.
+ii.
+Specific Initiatives
+APPENDIX
+National Cyber Security Policy Working Group
+National Cyber Security Awareness Program
+National Cyber Security Center (NCSC)
+National Cyber Security Council (NCSCC)
+National Cyber Security Crisis Management Plan (NCSCMP)
+National Computer Security Incidence Response Team (National CSIRT)
+
+ 
+
+ ........................................................................ 38 
+
+ .......................................................................... 42 
+
+ ................................................................................... 46 
+
+ ............................................................................... 50 
+
+ ............................................... 53 
+
+........................... 56 
+
+4 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+    GLOSSARY
+GLOSSARY    
+GLOSSARY
+GLOSSARY
+Africa Union 
+AU 
+ 
+Commonwealth Cyber Initiative 
+CCI 
+ 
+Computer Emergency Response Team 
+CERT  
+Council for Scientific and Industrial Research 
+CSIR 
+ 
+Computer Security Incidence Response Team 
+CSIRT  
+Critical National Information Infrastructure 
+CNII 
+ 
+Criminal Investigation Department 
+CID 
+ 
+COP                                        Child Online Protection    
+EOCO 
+Economic and Organized Crime Office 
+Electronic Transactions Act 
+ 
+ETA 
+Forum of Incident Response and Security Teams    
+FIRST            
+Ghanaian Academic and Research Network 
+GARNET 
+ICT4AD  
+Information and Communication Technology for Accelerated 
+Development  
+ITU 
+International telecommunications Union 
+IMPACT 
+Multilateral Partnership against Cyber Threat 
+ISOC/IEC 
+International Organization for Standardization / International 
+Electrotechnical Commission
+ 
+LI 
+Legislative Instrument 
+
+5 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+
+  
+
+MDA 
+ 
+NCA 
+ 
+NITA   
+NitaCERT  
+NCSAW 
+NCSC  
+NCSCC 
+NCSPWG 
+NCSCMP 
+PKI 
+ 
+ 
+R& D 
+SIM 
+ 
+UNECA        
+ 
+WG  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+
+Ministries, Departments and Agencies 
+National Communications Authority 
+National Information Technology Agency 
+NITA Computer Emergency Response Team 
+National Cyber Security Awareness Program 
+National Cyber Security Center 
+National Cyber Security Council 
+National Cyber Security Working Group 
+National Cyber Security Crisis Management Plan 
+Public Key Infrastructure 
+Research and Development 
+Subscriber Identification Module 
+United Nations Economic Commission for Africa    
+Working Group 
+
+6 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+    EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY    
+EXECUTIVE SUMMARY
+EXECUTIVE SUMMARY
+
+ The expansion of Internet access in Africa, representing the largest growth in the world, means 
+more people today have access to Internet, with its attendant risks of attack from people with 
+disruptive tendencies to defraud other Internet users and commit cybercrimes.  These disruptive 
+activities by cyber criminals has caused the debate on cyber security to be on the top of the 
+agenda for almost every country, and many countries are strategizing on how to combat the 
+cyber criminals. Several global initiatives are also addressing cyber crime and enhancement of 
+cyber security. The ITU’s IMPACT program is providing several member countries early warning 
+on cyber crimes and is helping these member countries secure their cyber space. The 
+Commonwealth Cyber Initiative (CCI) is another initiative that seeks to help commonwealth 
+countries adopt efficient cyber security policies and Infrastructure.   
+At the continental level, the African (AU) has developed a cyber security convention which was 
+ratified by African Presidents.  
+The cyber menace in Ghana has been more of cyber fraud. The popular “sakawa” where cyber 
+criminals defraud unsuspecting Internet users of large sums of money in Ghana and abroad 
+remains prevalent because of inadequate laws on cyber crime to prosecute cyber criminals.  
+The Electronic Transaction Act (2008) has provisions for law enforcement agencies to fight 
+cyber crime. However, this is not adequate for law enforcement in the fight against cyber crime 
+as there are legal gaps caused by rapidly change in the cyber landscape.   There is, however, 
+the need to fully address all aspects of cyber security, and apply a multi-stakeholder approach 
+to fighting the cyber menace.  Several initiatives are on-going to address the cyber menace, all 
+of which need to be brought under one umbrella for Ghana. 
+The Ministry of Communications, Ghana with the support of UN Economic Commission for 
+Africa (UNECA) began a process in 2011 to review some aspects of Ghana’s ICT for 
+Accelerated Development (ICT4AD) policy to identify gaps as a result the changing ICT 
+
+7 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+landscape and recent developments in ICTs that were not originally envisaged and put in the 
+document. Cyber security is one of the four thematic areas under this review and   the national 
+cyber security policy and strategy for Ghana has been developed. The policy has nine policy 
+pillars and includes effective governance, legal framework, technology framework, response 
+readiness and international cooperation. 
+Five special initiatives have been included in the first five year strategic plan. These initiatives 
+includes establishment of institutional frameworks, creating awareness, ensuring coordination of 
+cyber security initiatives and enforcement of cyber standards in Ghana. When fully 
+implemented, Ghana will have a solid cyber security base framework to address its cyber 
+needs. 
+
+8 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+      
+
+    
+
+    
+
+a.  SECTION ONE: BACKGROUND 
+
+9 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+ 
+
+    
+CHALLENGES, DEVELOPMENTS WITH FOCUS US US US OOOONNNN    THE POLICY
+I.I.I.I.
+CHALLENGES, DEVELOPMENTS WITH FOC
+THE POLICY    
+CHALLENGES, DEVELOPMENTS WITH FOC
+CHALLENGES, DEVELOPMENTS WITH FOC
+THE POLICY
+THE POLICY
+Overview
+Overview    
+i.i.i.i.
+Overview
+Overview
+ In recent times, Ghana has experienced a number of cyber attacks including defacing of 
+a number of government websites by Internet hackers. These attacks have a denting 
+effect on the cyber image of Ghana and are indications of security weakness of our 
+cyber infrastructure and space. Cyber attacks have become very sophisticated and 
+widespread and many countries are not only focusing on protecting their critical 
+information infrastructure but also ensuring that there are very good incidence responds 
+teams in place to respond to incidents cyber security incidents. 
+ Since the turn of the century, we have seen a rapid growth of the Internet in Ghana. The 
+growth has brought in its wake extensive cyber activities and subsequently attacks on 
+various information infrastructure as well as cyber fraud popularly known as “Sakawa”.  
+The biggest challenge is that the designated central point in the country where victims 
+of “Sakawa” can report to at the Police CID Cybercrime Unit is not visible nationally and 
+is under resourced. In cases when these incidences had been reported, it has taken 
+many years to apprehend any suspect because of the lack of expertise in tracking these 
+criminals using computers–based forensic skills.  To make matters worse, when such 
+cyber criminals were apprehended and processed to court, there are, more often, not 
+enough legal basis to prosecute these criminal, as the legal system is inadequate to 
+convict and punish cyber criminals.  Consequently, Ghana’s image continues dwindle in 
+cyberspace and is therefore considered as a cyber crime prone country. 
+For many years, cyber cafes have been the main source of Internet access, as many 
+people could not afford the high cost of personal computers and Internet access and, as 
+
+10 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+a result of lack of operational guideline, cyber cafes have become fertile ground for 
+cyber crime.  
+ Ghana’s mobile penetration stood at 115.64% as at the end of March 2015. The high 
+mobile penetration has brought about an increase in mobile phone threats and fraud. 
+The increased use of smart phones, especially with the introduction of M-commerce, is 
+likely to bring more incidents like hackings and other attacks to mobile phone users. 
+There is therefore a need to create awareness of risk of cyber attacks and exploitations 
+for mobile users. As a result of mobile fraud,  the National Communications Authority 
+registered all SIM card in Ghana but there still remain high crime in the mobile space as 
+cyber criminal continue to engage SIM Box fraud and other fraudulent activities. 
+ Until recently, Ghana’s Internet backbone and resources have been largely private 
+sector driven. This result has been that many government officials send and receiving 
+highly sensitive government information using free email services such Yahoo and 
+Google making it vulnerable to information theft. However, since 2008, with the 
+establishment of the National Information Technology Agency (NITA), Ghana embarked 
+on a massive government network rollout to ensure efficiency in government operations 
+and improved service delivery to citizens. . The result is that NITA now has Internet and 
+Data services to all Ministries Departments and Agencies (MDAs) and has  national 
+datacenter facilities that enable NITA provide email and webhosting services under 
+government designated second level domain (.gov.gh) NITA is also implementing the 
+Public Key 
+to enhance secure 
+Infrastructure 
+communication within government. There is the need of a strong public private 
+partnership in crafting our national cyber security policy to take care of the interests of 
+the private and public sectors. 
+ 
+
+(PKI) and Digital Certificates 
+
+11 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+Global    Activities on Cyber Security
+ii.ii.ii.ii.
+Global
+Activities on Cyber Security    
+Global
+Global
+Activities on Cyber Security
+Activities on Cyber Security
+Cyber Security is central to the Information and knowledge economy. Countries which 
+have high levels of networked computers and automation stand greater risks than 
+countries with less developed networked computer infrastructure. As many countries 
+with less developed network infrastructure strive to become a knowledge society, many 
+network infrastructures will be rolled out with automation. This is evidenced in many 
+African countries where over the last few years, massive submarine fiber optic cable 
+Internet transit have landed on the shores and  massive in-country fiber optic 
+backbones are being rolled out. An increase in network computer infrastructure will 
+bring a proportionate risk to critical information infrastructure.   
+For many years, many countries with high degree of networked computer infrastructure 
+have been working around securing their critical information infrastructure and have 
+developed cyber security policies and strategies to mitigate cyber incidences and 
+crimes.  
+ No one country control cyber space and everyone from anywhere in the world can 
+access information from the Internet. It is therefore very important that countries put in 
+place robust security around critical national information infrastructure and set up very 
+swift response systems as risk of attacks cannot be eliminated. Additionally using   an 
+international approach of cooperation to secure cyber space and mitigate cyber crimes 
+is also essential. 
+Many countries with high networked computer infrastructure and global companies   
+already have Computer Security Incidents Response Teams (CSIRTs) in place where 
+responses to cyber incidences are coordinated to mitigate the impact of cyber 
+incidences. However in developing economies, very few CSIRTs have been setup, 
+
+12 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+although it is top of the agenda for many of these countries as networked computer 
+infrastructure expands. 
+The International Telecommunication Union (ITU) through the International Multilateral 
+Partnership against Cyber Threat (IMPACT) program has over the last few years played 
+a leadership role is providing early warning systems and training cyber security experts 
+around the world. Today, IMPACT has over 152 countries members. ITU has indeed 
+developed a framework for developing countries to help them kick start a process of 
+developing policies and strategy around cyber security. 
+Forum of Incident Response and Security Teams (FIRST Inc.) is a global forum of 
+Computer Security Incidents Response Teams (CSIRTs). Membership to FIRST is by 
+recommendation and through a rigorous standards process. 
+The Budapest Convention on Cyber Security which has been in force since 2004 was 
+elaborated by the Council of Europe with the participation of Canada, Japan, South 
+Africa and the USA. The Convention is open to any country which wants to participate. 
+The convention is used as a guideline, reference standard or model law in more than 
+100 countries.  
+Regional    Init
+iii.iii.iii.iii.
+Regional
+Initiatives
+iatives    
+Regional
+Regional
+Init
+Init
+iatives
+iatives
+Governments in Africa today have moved the ICT discussion from infrastructure to 
+cyber security. A decade ago, infrastructure was a major challenge to many African 
+countries. Many countries have invested in massive in-country infrastructure and the 
+connectivity and access challenge is waning. The networked computer infrastructure 
+coming up in many African countries has opened up cyber space to many more citizens 
+and accompanying this, the risk of using the Internet. A few countries like Tunisia, South 
+Africa and Kenya already have a CERT in place. Many countries are also in the process 
+
+13 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+ 
+
+of developing cyber security policy and strategy (including formation of CERTs). In order 
+to harmonize the development of cyber security policy and strategy, the Africa Union 
+(AU) and the UN Economic Commission for Africa (UNECA) have developed a cyber 
+security and cybercrime convention and has been ratified by African heads of States. 
+Ratification of the convention, it can be argued, will foster regional cooperation in the 
+fight against cyber crime. 
+In 2010, AfricaCERT was formed and have been undertaking capacity building program 
+annually in different Africa countries on the establishment and management of CSIRTs 
+for African countries. 
+Local    Initiatives
+iv.iv.iv.iv.
+Local
+Initiatives        
+Local
+Local
+Initiatives
+Initiatives
+Today’s society thrives virtually on using the Internet for communication and business. 
+As networked computer infrastructure expands in the country, there is an increasing 
+threat to business and communication.    
+Recent several cyber attacks on government websites in Ghana is a wake-up call for 
+the development of a cyber security policy and strategy. Resolutions of cyber 
+incidences have been uncoordinated and in many cases, there were no reporting 
+structure put in place to guide in dealing with future attacks.  
+ The National Information Technology Agency (NITA)’s concern of ensuring security of 
+the government network initiated discussion amongst stakeholder in the Ministries, 
+Departments and Agencies (MDAs) to setup a NITA Computer Emergency Response 
+team (nitaCERT) to coordinate cyber incidences and assist in resolving future 
+incidences within the government network. 
+
+14 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ The Ministry of Communication initiated the  national Computer Emergency Response 
+Team (CERT) project in 2013 in collaboration with the ITU-IMPACT. The national CERT 
+was established in August 2014 is fully operational handling incidents and sending out 
+early warning to its constituents. The National Security Council and many other 
+institutions such as Ghanaian Academic and Research Network (GARNET) in academia 
+are working on different projects towards securing cyberspace.   
+ The SIM registration by NCA is another initiative to mitigate cyber crimes committed 
+using mobile phones. The Ghana Police Service has also put in place the cybercrime 
+Unit to alleviate cyber and other related crimes. The Economic and Organized Crime 
+Office (EOCO) under the Attorney General’s Department and Financial Intelligence 
+Center for the financial sector are all government initiatives geared towards mitigating 
+crime in general and computer crime in particular. 
+ On the business side, the opening of an e-Crime Bureau in Ghana has greatly helped 
+organizations investigate cyber crime thoroughly and improve protection of cyber space.  
+ In spite all these initiatives, the fact still remains that there is a general lack of education 
+on cyber security amongst the consuming public of ICT products and services which 
+needs to be addressed. 
+    II. II. II. II. NEED FOR POLICY
+NEED FOR POLICY    
+NEED FOR POLICY
+NEED FOR POLICY
+As Ghana strives to become an information and knowledge economy, there is an 
+increased emphasis on informational activities and the information industry.  Businesses 
+will compete on information and computer systems will work efficiently on the right 
+
+15 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+information to produce the output required. It is becoming extremely necessary for 
+nations to protect critical national information infrastructure to ensure national security in 
+the wake of recent cyber wars, and ensure a safe cyber space to enable wealth creation 
+for citizens. As networked computer infrastructure increases, there will be an increase in 
+attacks on critical information infrastructure that is required to sustain the economy of 
+the information and knowledge society. There is therefore an increasing need to protect 
+critical national information infrastructure (CNII) and create a robust incidence response 
+system when any attack is made on the CNII, to avoid loss of revenue due to down time 
+and ensure national security. 
+ The need to create a security culture by creating awareness of the enormous threats 
+that users, especially children, of the Internet are exposed to must be addressed by a 
+national cyber security policy.  Awareness creation (education) of the risks users of the 
+Internet  are exposed and the vulnerabilities on our phones, computers and PDAs to 
+can drastically reduce cyber incidences with its consequential loss of revenue when 
+business are involved. This will create a very conducive environment in the information 
+economy where Ghanaians can create wealth in peace without fear of harassment by 
+cyber criminal and fraudsters.  
+ Government business can be brought to a halt if the NITA infrastructure is attacked. In 
+the same way, many businesses may grind to a halt if the infrastructure of ISPs and 
+other public Internet and phone services are attacked.  There is therefore the need to 
+develop technical capacity of local technocrats to enable them manage the cyber 
+security risks to government and private sector critical information infrastructure.  In 
+order to share knowledge on incidence response and ensure that there is a uniform risk 
+management of all critical information infrastructures (both public and private), the policy 
+
+16 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+must address the need for a central coordinating body and work with a public private 
+partnership model. 
+ 
+III. RELEVANT PROVISION – ICT4AD 
+Pillar 14 of the ICT4AD policy relates to Security Agencies using ICT to combat 
+cybercrime. The pillar among other things places emphasis on capacity building, 
+international cooperation and building infrastructure for security agencies to enable 
+them use ICT to combat crime.  Additionally, the pillar is to ensure that the legal text of 
+the policy is up to date to help law enforcement agencies prosecute any cyber crime 
+offenders. 
+The Electronic Transaction Act (ETA) 2008 has specific legislation on cyber crime and 
+prescribes punishment for cyber crime perpetuators. The Act addresses issues on the 
+fight against cyber crime.  
+The Data Protection Act which has been passed by the Parliament of Ghana ensures 
+protection of private data of government, citizens and businesses in Ghana. 
+The Pillar 14 and the ETA fail to capture a holistic approach to securing the cyber space 
+as a means of mitigating cyber incidences that may affect the ability of citizens to create 
+wealth.  
+The several on-going initiatives which are not coordinated makes it impossible to know 
+what different agencies of Government, academia and business are doing to enhance 
+cyber security. A National Cyber Security 
+framework covering policy and 
+implementation strategy done holistically will ensure coordination and greatly enhance 
+the national cyber security of Ghana.  
+
+17 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+             
+
+b.  SECTION TWO: CYBER SECURITY POLICY  
+
+18 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+    
+
+INTRODUCTION  
+  Ghana’s determination to secure its cyber space is driven by a desire to ensure that our 
+people are free from cyber attacks with devastating effects. This is informed by the fact 
+that a people with a culture of cyber security achieved through awareness creation and 
+capacity building are in a better position to handle cyber attacks as and when they 
+occur. Our ability to identify and understand threats and how they can be handled 
+reduces the number of actual attacks significantly and enhances the continuous 
+operation of the national infrastructure on which critical information are held in the 
+interest and security of the nation. We also recognize that the threat is not restricted 
+only to government but also to operators who provide public services to citizens and 
+private networks, thus the need for private public partnership.  
+ DEFINITIONS 
+For the purpose of this policy document, 
+Critical National Information Infrastructure (CNII)
+Critical National Information Infrastructure (CNII) may be defined as those assets (real 
+Critical National Information Infrastructure (CNII)
+Critical National Information Infrastructure (CNII)
+and virtual), systems and functions that are vital to the nations that their incapacity or 
+destruction would have a devastating impact on: 
+National economic strength
+National economic strength    
+National economic strength
+National economic strength
+Confidence that the nation's key growth area can successfully compete in global 
+market while maintaining favorable standards of living. 
+  
+
+19 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+National image
+National image 
+National image
+National image
+Projection of national image towards enhancing stature and sphere of influence.  
+  
+National defense and security
+National defense and security 
+National defense and security
+National defense and security
+Guarantee sovereignty and independence whilst maintaining internal security.  
+  
+Government capability to funct
+Government capability to functions
+ions 
+Government capability to funct
+Government capability to funct
+ions
+ions
+Maintain order to perform and deliver minimum essential public services.  
+  
+Public health and safety
+Public health and safety 
+Public health and safety
+Public health and safety
+Delivering and managing optimal health care to the citizen. 
+ CNII SECTORS FOR GHANA 
+ Countries identify the CNII based on the level of networked computers and how attacks 
+on them can affect factors mentioned above. For the purpose of policy as it relates to 
+Ghana, the following sectors have been identified as CNII sectors: 
+1.    National Defense and Security 
+2.    Banking and Finance 
+3.    Information and Communications 
+4.    Energy 
+5.    Transportation 
+6.    Water 
+7.    Health Services  
+8.    Government 
+9.    Emergency services 
+
+20 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+10.  Food and Agriculture 
+ VISION 
+A secure and stable connected Ghana with Internet users working and creating wealth 
+in a safe cyber space, with a well-researched and trained academic and professional 
+community protecting Ghana’s cyber space equipped with global standards and 
+responding swiftly to cyber incidents, and with up-to-date laws and systems in place to 
+efficiently prosecute cyber criminals.  
+ MISSION STATEMENT  
+To identify, analyze, address and remediate the immediate and potential cyber security 
+threats posed on identified critical national information infrastructures (CNIIs) and put 
+measures in place that will adequately regulate and secure the system infrastructures 
+and meet the countries cyber security needs. 
+ POLICY SCOPE  
+This policy covers all aspect of cyber security and national response including fight 
+against cyber crime, creating public awareness, investment in education, scientific 
+research, and development of cyber laws and legal measures, national security, , law 
+enforcement and protection of critical national information infrastructures. (We can 
+rephrase sentence) 
+             
+
+21 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+POLICY CONTEXT 
+ Ghana, like many developing economies faces the risk of cyber-attacks. Different 
+uncoordinated initiatives are being put in place to secure the cyber space of Ghana. 
+Many custodians of critical national information infrastructure are unaware of their roles 
+in ensuring the maintenance of cyber security within the country.  The driving force 
+behind the national policy is the realization that a combination of persistent computer 
+vulnerabilities and worldwide connectivity has placed the national critical information 
+infrastructures at risks.  
+ In Africa, Governments are discussing how to secure their cyberspace in the wake of 
+heightened threats to national information infrastructure.  Several national initiatives are 
+taking place to ensure that legal systems are updated to enable proper persecution of 
+cyber criminals.  
+ The threat that cyber-attacks pose to African governments has prompted the African 
+Union Commission to develop a convention at the regional level to harmonize the efforts 
+of African countries in fighting cybercrime and ensuring cyber security.  
+ The cyber security policy will address major cyber risks facing Ghana from attacks on 
+the national information infrastructure. The policy seeks to address the lack of 
+awareness of risks users and businesses face doing business in cyber space. The 
+problem of “Sakawa” which has tagged as a haven of cyber fraudsters will be 
+addressed by the policy. The policy also addresses the need to develop knowledge 
+base, systems and technology framework for combating cyber-attacks and capacity 
+building for cyber security expects to make Ghana self–sufficient in the fight against 
+cybercrime and in the near future create a culture of cyber security in Ghana. 
+
+22 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+The National Cyber Security Policy (NCSP) seeks to address the risks to the Critical 
+National Information Infrastructure (CNII)    which comprises the networked information 
+systems of ten critical sectors. 
+The policy recognizes the critical and highly interdependent nature of the CNII and aims 
+to develop and establish a comprehensive program and a series of frameworks that will 
+ensure the effectiveness of cyber security controls over vital assets. It is being 
+developed to ensure that the CNII are protected to a level that commensurate the risks 
+faced. 
+The policy has been designed to facilitate Ghana’s move towards a knowledge-based 
+economy and will be based on a number of frameworks that comprises legislation and 
+regulatory, 
+international 
+aspects. 
+
+technology, public-private cooperation, 
+
+institutional, and 
+
+ 
+
+ 
+
+23 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+ 
+
+I.
+POLICY STATEMENT 
+ Effective Governance    
+ Government will centralize coordination of national cyber security initiatives and 
+promote effective cooperation between public and private sectors. In order to sustain 
+the gains from any initiatives, government will establish formal and encourage informal 
+information sharing exchanges. 
+ Legislative & Regulatory Framework 
+ Government through the Attorney General’s department set up a periodic process of 
+reviewing and enhancing Ghana’s laws relating to cyber space to address the dynamic 
+nature of cyber security threats. In order to empower national law enforcement agencies 
+to properly prosecute cyber security crimes, Government will establish progressive 
+capacity building programs to acquire new skills and effective ways of enforcing cyber 
+laws. Government will ensure that all applicable local legislation is complementary to 
+and in harmony with international laws, treaties and conventions.  
+    
+Cyber Security Technology Framework 
+ Policy measures will be put in place to develop a national cyber security technology 
+framework that specifies cyber security requirement controls and baselines for CNII 
+
+24 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+• 
+
+elements. This will be accompanied will mechanism 
+to 
+implement an 
+evaluation/certification program for cyber security product and systems.  
+  Culture of security and Capacity Building 
+    Government will invest every resource needed to develop, foster and maintain a 
+national culture of security. As part of the process of development of culture of cyber 
+security, government will support the standardization and coordination of cyber security 
+awareness and education programmes across all elements of the CNII. Government will 
+also:  • 
+Establish an effective mechanism for cyber security knowledge dissemination at 
+the national level 
+Identify minimum requirements and qualifications 
+information security 
+for 
+professionals  
+ Research & Development towards Self-Reliance 
+In order for Ghana to become self-reliant in protecting the CNII to a level that is 
+formalize 
+the risk, Government will 
+commensurate with 
+the coordination and 
+prioritization of cyber security research and development activities enlarge and 
+strengthen the cyber security research community. Research and development will be 
+encouraged by promoting the development and commercialization of intellectual 
+properties, technologies and innovations through focused research and development. 
+Government will also put measures in place to nurture the growth of cyber security 
+industry. 
+
+25 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Compliance and Enforcement 
+ In order to ensure compliance and enforcement, policy measures and mechanism will 
+be put in place to standardize cyber security systems across all elements of the CNII. 
+Government will also strengthen the monitoring and enforcement of standards and 
+develop a standard cyber security risk Management Framework. 
+ Child Online Protection 
+ Policy measures will be implemented through multi-stakeholder working by government 
+industry, Civil Society, and relevant international child online protection agencies.  
+Government will encourage dialogue at national and local levels to engage all 
+concerned and create awareness of the possibilities and dangers of the Internet.  
+ Cyber Security Emergency Readiness 
+ To ensure cyber security emergency readiness, government 
+together with all 
+stakeholders will develop effective cyber security incident reporting mechanisms. This 
+will include the development and strengthening of the national computer security 
+incidence response team (CSIRT) and sector CSIRTs, dissemination of vulnerability 
+advisories and threat warnings in a timely manner and the development of a standard 
+business continuity management framework. The government will also encourage all 
+elements of the CNII to monitor cyber security events and perform periodic vulnerability 
+assessment programs.  
+
+26 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+         International Cooperation 
+ Policy measures will be put in place to encourage the active participation of Ghana in all 
+relevant international cyber security bodies, panels and multi-national agencies. 
+Government will make every effort to promote active participation in all relevant 
+international cyber security activities by hosting an annual international cyber security 
+conference. 
+  
+
+27 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+ 
+
+ 
+
+c.
+
+SECTION THREE: NATIONAL CYBER SECURITY STRATEGY 
+
+28 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+    
+
+2. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. 
+
+ FIRST 5 
+FIRST 5 ––––YEAR CYBER SECURITY STRATEGIC PLAN
+YEAR CYBER SECURITY STRATEGIC PLAN    (2016 
+(2016 ––––    2020)
+2020)    
+FIRST 5 
+FIRST 5 
+YEAR CYBER SECURITY STRATEGIC PLAN
+YEAR CYBER SECURITY STRATEGIC PLAN
+(2016 
+(2016 
+2020)
+2020)
+For each policy thrust, specific strategic actions will be implemented under the first 5-
+year strategic plan. These actions may be implemented in isolation or in concert with 
+other strategic actions from other policy thrusts.    
+I.I.I.I.
+STRATEGIC ACTIONS FOR POLICY THRUST
+STRATEGIC ACTIONS FOR POLICY THRUST    
+STRATEGIC ACTIONS FOR POLICY THRUST
+STRATEGIC ACTIONS FOR POLICY THRUST
+Action 
+Policy Thrust    
+Policy Drivers    
+Action Plan    
+Collaborators 
+Item    
+1.
+Government will set up cyber security 
+Ministry of 
+Effective 
+Communications,   National Security 
+institutions and put in place governance 
+Governance
+Council, NITA, 
+structure to ensure long–term sustenance 
+NCA, Attorney 
+of Cyber Security activity 
+including 
+General 
+information exchange. Action will be 
+taken as collaboration of government, 
+business and civil society (public private 
+partnership Institutions). The institutions 
+to be setup include: 
+1.
+National Cyber Security Council 
+2.
+National Cyber Security Center 
+National 
+3.
+Computer 
+Security 
+Incidence 
+ Response 
+Team 
+(CSIRT) 
+National Cyber Security Policy 
+4.
+Working Group 
+Attorney General’s Department to do Attorney 
+Government will set up Cyber Law 
+Review  Committee 
+under 
+the 
+General’s 
+Department,  
+
+Ministry of 
+Communication, 
+Ministry of 
+
+29 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+Legislative and 
+Regulatory 
+Framework
+
+1.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ NITA  
+
+Interior,  
+
+Professional 
+Security 
+Associations, 
+Standards 
+Organizations, 
+Universities and 
+Professional 
+Certification 
+Centers 
+
+a study on the laws of Ghana to 
+accommodate legal challenges in the 
+cyber environment and child online 
+protection and review every three 
+year Stage 1:  identifications of issues in 
+the cyber environment  
+Stage 2. Review current laws on 
+cyber environment   
+Stage 3. Make recommendations for 
+amendment of national laws 
+Government in collaboration with key 
+stakeholders will review and adopt 
+international 
+information 
+/ cyber 
+security standards such as ISO/IEC 
+27000 series, NIST, etc to increase 
+robustness of CNII sectors and 
+ensure safety in cyberspace for all 
+Government and its partners will also 
+expand 
+the national certification 
+scheme 
+for 
+information security 
+management & assurance.
+A standardized Digital Forensics 
+Investigations Standards and Model 
+will be developed that will be used by 
+the academia to teach students, train 
+law enforcement agencies and to be 
+used by 
+the 
+lawyers and expert 
+witnesses in cybercrime cases.
+Digital Forensics 
+
+association  such  as 
+
+ 
+
+ 
+
+3. 
+
+ 
+
+Cyber Security 
+Technology 
+Framework
+
+ 
+
+  
+1.
+
+2. 
+
+3. 
+
+4.  Setup 
+
+professional 
+
+strong 
+
+30 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+4. 
+
+Culture of Cyber 
+Security & 
+Capacity Building 
+
+ 
+
+1.
+
+5. 
+
+ 
+
+Research & 
+Development 
+towards Self–
+Reliance
+
+31 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+Association of Ghana
+Efforts will be made 
+to 
+reduce 
+number of Information/cyber security 
+incidents 
+improved 
+through 
+awareness creations & online skill 
+development 
+for all stakeholders 
+including children by developing a 
+National Cyber Security Awareness 
+program and portal targeted at all 
+stakeholders by content providers 
+using different packaging for different 
+demographics. 
+Capacity will be built through an 
+increased certification course on 
+information and cyber security to 
+prepare Ghana for self-reliance in 
+cyber security. 
+Targeted capacity building will be 
+implemented for law enforcement on 
+cyber investigation and enforcement 
+to 
+improve prosecution of cyber 
+crime in Ghana. 
+A National R&D roadmap for Cyber 
+Security will be developed to ensure 
+that Ghana will be self sufficient 
+attending to its cyber security needs. 
+Technologies relevant & desirable for 
+CNII will be developed. 
+Domain competency development 
+will be provided for: 
+3.1.
+Natural growth of Cyber Security 
+Industry 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.
+3.
+1.
+2.
+3.
+
+Ministry of 
+Communications,  Non-
+governmental 
+Organizations, 
+Universities, 
+Professional 
+Certification 
+Centers 
+Cyber 
+businesses 
+ 
+
+Ministry of 
+Communications,  
+ 
+
+Ministry of 
+Education, 
+Universities, 
+Council for 
+Scientific and 
+Industrial 
+Research 
+(CSIR), 
+Professional 
+Certification 
+
+Centers, 
+NITA, 
+Communications  NITA, NCA, 
+ Ministry of 
+Ministry of 
+Environment, 
+Science & 
+technology, 
+Professional IT 
+Security Bodies, 
+Private Sector 
+(Finance, 
+Network 
+Operators), 
+Research and 
+Education 
+Network 
+Ministry of 
+Communications  National Security 
+Council, Private 
+Sector 
+(Financial, 
+Operators), 
+Ministry of 
+Interior, NITA 
+
+ 
+
+6. 
+
+ 
+
+ 
+
+7. 
+
+ 
+
+ 
+
+ 
+
+4.
+1.
+
+ 
+
+1.
+
+Compliance & 
+Enforcement 
+
+Cyber Security 
+Emergency 
+Readiness 
+
+ 
+
+2.
+
+ 
+
+3.2.
+Updating R&D roadmap regularly 
+Build Research Labs at Universities 
+A national Risk Management 
+framework for CNII will be developed 
+to ensure a uniform framework for all 
+CNII. 
+ 
+
+• 
+
+• 
+
+• 
+
+A framework for mitigation of risk of 
+cyber attacks and ensuring structures 
+for swift responses to attacks that 
+threaten national security through: 
+Setup of National Cyber Crises 
+management Committee (under 
+National Cyber security council) 
+Positioning National and sector 
+CSIRTs in the line of responding 
+to emergencies 
+Setup of National Cyber Crises 
+Management WG continuously 
+reviewing structures and making 
+recommendations to be acted on 
+by committee 
+Organize Hacking Workshops 
+to 
+
+32 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+to 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• 
+
+• 
+
+together 
+
+agencies  and 
+
+stakeholders  work 
+
+address children’s online risk by  
+
+exploit 
+systems 
+and 
+identify 
+vulnerabilities 
+Develop a framework for the protection of 
+children as they engage with the Internet 
+which ensures 
+that 
+that 
+1.
+Ensuring 
+  Organizational 
+Structures   put in place for  
+A  Monitoring Framework 
+Technical 
+Procedural 
+and 
+Measures  for  working with all 
+stakeholders  
+2.
+Capacity Building – Awareness 
+raising and public education. 
+3.
+Legal Measures  
+4.
+Implementation and International 
+Cooperation 
+Ghana will engage 
+in 
+relevant 
+international cyber security and child 
+online protection meetings and 
+prioritize engagement and join or 
+sign 
+International/regional 
+conventions  
+ 
+
+Communications  Ministry of 
+Ministry of 
+Gender, Children 
+and Social 
+Protection; 
+Ministry of 
+Interior, Ministry 
+of Educations 
+
+. 
+
+Ministry of 
+Foreign Affairs
+ 
+
+Ministry of 
+Communications, 
+National Security 
+Council, Ministry 
+of Interior, 
+Ministry of 
+Gender and 
+Child and Social 
+Protection 
+ 
+
+Child Online 
+Protection 
+   
+
+International 
+Cooperation 
+ 
+
+8. 
+
+ 
+
+9. 
+
+ 
+
+ 
+
+ 
+
+     
+
+33 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+    
+
+    
+
+34 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+i.i.i.i.
+Strategy Implementation Timelines
+Strategy Implementation Timelines    
+Strategy Implementation Timelines
+Strategy Implementation Timelines
+ The policy will be implemented in three stages: 
+ STRATEGY
+STRATEGY    TIMELINE
+TIMELINE    
+ACTIVITIES
+ACTIVITIES    
+STRATEGY
+STRATEGY
+TIMELINE
+TIMELINE
+ACTIVITIES
+ACTIVITIES
+Short Term Year 1 -2 
+Identifying CNII and addressin
+Identifying CNII and addressing immediate Concerns
+g immediate Concerns – Identify CNII, 
+Identifying CNII and addressin
+Identifying CNII and addressin
+g immediate Concerns
+g immediate Concerns
+analyze vulnerabilities and put in place stop gap measures while setting 
+up institutional structures and creating public awareness 
+The short term will focus on following policy thrust: 
+Effective governance  
+-
+Implement Action 4 to assist ministry of communications and 
+other stakeholders put in place a stop gap measure to identify 
+to 
+CNIIs, evaluate vulnerabilities and develop measures 
+address immediate concerns.  
+-
+Begin building institution by implementing Actions 1 - 3 
+Culture of Cyber Security  
+-
+Implement Action 2 to begin  awareness creation 
+Cyber Security Emergency Readiness  
+-
+ Implement Action 1 to develop framework 
+Child Online Protection     Develop framework for engaging with all 
+stakeholders 
+•Coordinate with local universities or existing entities to help 
+with the expertise. 
+•Set up the COP stakeholder Committee to serve as the 
+leading expert group advising the national Government on the 
+formulation and implementation of a national COP plan for the 
+Ghana. (Other actions stipulated in the Ghana COP strategy) 
+ 
+Building the infrastructure
+Building the infrastructure    ---- Setting-up the necessary systems, process, 
+Building the infrastructure
+Building the infrastructure
+standards and institutional arrangements (mechanisms) and building 
+
+35 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Year 3 - 4 
+
+Medium 
+Term 
+
+Long Term 
+ 
+
+Year 5+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+capacity amongst researchers and information security professionals 
+The medium term will focus on following policy thrust: 
+Culture of Cyber Security & Capacity Building  
+-
+Implement Action 1  
+Research & Development towards Self–Reliance  
+-
+Implement Actions 1 - 2 and accompanying infrastructure 
+Compliance and enforcement 
+-
+Implement Action 1 and accompanying infrastructure 
+Legislative and Regulatory Framework 
+-
+Implement Action 1 
+Developing self
+Developing self----reliance
+terms of 
+in 
+reliance - 
+technology as well as 
+Developing self
+Developing self
+reliance
+reliance
+professionals, monitoring the mechanisms for compliance, evaluating 
+and improving the mechanisms and creating the culture of cyber 
+security 
+The long term strategy will focus on following policy thrust: 
+Cyber Security Technology Framework 
+-
+Continuous review and improvement 
+Compliance & Enforcement 
+-
+Enforcing adopted Risk Management framework within CNII for 
+compliance 
+Culture of cyber security 
+-
+Continuous awareness creation 
+ 
+
+ 
+
+  
+ii.ii.ii.ii.
+Specific Initiatives
+Specific Initiatives    
+Specific Initiatives
+Specific Initiatives
+ 
+Details of Specific initiatives including strategic objectives, estimated cost and drivers 
+are attached in the appendix.  
+ 
+
+36 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+         
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    
+
+    
+
+    
+
+APPENDIX
+APPENDIX    
+APPENDIX
+APPENDIX
+
+37 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TECHNICAL PROPOSAL 
+
+APPENDIX -1 
+
+(STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) 
+
+• 
+
+• 
+
+• 
+
+    
+The Implementation Strategy: Programs and Initiatives
+The Implementation Strategy: Programs and Initiatives    
+The Implementation Strategy: Programs and Initiatives
+The Implementation Strategy: Programs and Initiatives
+ 
+National Cyber Securit
+National Cyber Security Policy Working Group
+y Policy Working Group    
+National Cyber Securit
+National Cyber Securit
+y Policy Working Group
+y Policy Working Group
+ 
+To assist MoC to collate all cyber security initiatives  
+To identify critical national information infrastructure in 
+sectors as defined by the policy 
+To support policy drivers to setup structures for  
+medium term strategy 
+To design and implement a comprehensive National 
+Cyber Security Awareness program  
+National Security, Law and order and enhanced cyber Security 
+In order to have continuous activity on the Cyber security policy 
+and strategy, it is proposed that the current Adhoc technical 
+
+ 
+Title of Program/Initiative 
+Program /Initiative Strategic  
+ Objective 
+Relevant Achievable National ICT4D 
+Policy Objective & Goals 
+Background to Program /Initiative 
+ 
+
+38 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+• 
+
+committee for cyber security be converted to a Working Group 
+(WG) to keep the momentum of the cyber security agenda to 
+ensure a quick implementation of the policy and strategy. 
+ 
+The National Cyber Security Policy WG (NSCPWG) will be 
+made up of current policy drafting Adhoc technical committee 
+which composition represent a public private collaboration and 
+by virtue of the selection of the members, also represent a 
+bottom-up approach. New members may be added 
+to 
+overcome any shortfall in skill such as legal expertise in the 
+conversion 
+from 
+the Adhoc Technical Committee 
+to 
+the 
+Working Group. The NCSPWG will assist the Ministry of 
+Communication to establish recommended specific programs 
+that require immediate attention such as the awareness 
+campaign for the first year of the policy. 
+The rationale for the setting up of WG is to avoid any vacuum 
+between the adoption of the policy and the implementation of 
+the long term structures of the policy as well as begin a process 
+of awareness creation. 
+Support implementing agency to begin actual 
+implementation of strategy 
+Develop a National Awareness Creation Program on  
+Cyber Security, including the creation of National Cyber 
+Security Awareness portal 
+Assisting policy implementing agencies to build the 
+structures for the achievement of long term goals 
+One year in active engagement with policy implementation 
+(may be extended if necessary) but will continue in advisory 
+role after first year 
+ 
+Program/Initiatives Deliverables    and Target
+Program/Initiatives Deliverables
+and Target    
+and Target
+and Target
+Program/Initiatives Deliverables
+Program/Initiatives Deliverables
+    
+
+• 
+
+• 
+
+• 
+
+39 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Description of Program/Initiative 
+
+ 
+
+Program/Initiative Implementation 
+Rationale 
+ 
+Program/Initiative Implementation 
+Specific Goals 
+ 
+Program/Initiative Timeframe 
+ 
+
+    
+    
+Time 
+Time ––––Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target    
+Program/Initiative Deliverables
+Program/Initiative Deliverables    
+Time 
+Time 
+Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target
+Program/Initiative Deliverables
+Program/Initiative Deliverables
+3-months form policy adoption 
+National Cyber Security Awareness 
+Program (NCSAP) 
+6-months from adoption of policy 
+National Cyber Security Awareness Portal 
+(NCSP) 
+12- Months from adoption of policy 
+Identification of Critical National 
+Information Infrastructure as prescribed by 
+the Policy (CNII ) and immediate 
+concerns. 
+ 
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost    
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+    
+Document detailing awareness program including, workshops, media 
+ NCSAP 
+activities, online activities etc. and budget. The outcome of program 
+will be well informed professionals and citizens on threats in 
+cyberspace and how they can guard against these threats. The main 
+beneficiaries will be government security professional, citizens and 
+businesses in Ghana.  
+NCSP 
+Oversee the creation of Interactive Portal with all relevant information, 
+downloads and support where citizens can report incidences, seek 
+ 
+support and receive updates of latest cyber security information. 
+Outcomes will include a one stop shop for citizens and business to 
+find everything on cyber security. The main beneficiaries are the 
+citizenry, government   and businesses in Ghana.  
+CNII 
+Oversee investigative work to determine the National Information 
+Infrastructure and determine critical ones based on policy documents. 
+ 
+NCSPWG will assist in selecting consultants to do exercise. The 
+outcome will be a document with all details of CNII as it is today and 
+expansion plans for next five years. The main beneficiary is 
+Government of Ghana.  
+ 
+Members of NCSWG must be rewarded for role for the period when 
+
+40 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+COST 
+
+they are actively involved in implementation. This must include a 
+seating allowance and expenses cover for any activity performed. If 
+WG meets monthly, estimated Budget of GHC100,000.00 per year 
+(seating allowance+ meals + venue)  ( In order to get the buy-in from 
+any entity in support of this plan, it will be appropriate to state 
+programme related costs as well or we simply refer to this budget as  
+OVERHEADS.)  
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation    
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation
+ 
+  
+Supporting Implementation 
+Supporting Implementation 
+    
+Supporting Implementation 
+Supporting Implementation 
+Agency
+Agency    
+Assigned Responsibility
+Assigned Responsibility    
+Agency
+Agency
+Assigned Responsibility
+Assigned Responsibility
+Supporting 
+Implementation  
+Ministry of Communications 
+Oversight of NCSWG, project 
+Agencies and their Assignment 
+funding / monitoring and evaluation 
+Responsibilities    
+National Security Council 
+Technical/security input for defining 
+CNII and security advisory for  
+ 
+creation of new cyber security 
+structure  
+Technical advisory and guide on 
+National Information 
+Technology Agency/ National 
+collating CNII, web portal  
+Communication Authority 
+Commitment of members to work to implement policy, motivation of 
+Program /Initiative Critical 
+Success Factors 
+WG members 
+Program/Initiative 
+Inactivity of WG members or lack of needed support form Ministry of 
+Implementation Risk Factors 
+Communications  
+Additional Comments and Remarks
+Additional Comments and Remarks    
+Additional Comments and Remarks
+Additional Comments and Remarks
+    
+ Non 
+ 
+
+41 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+TECHNICAL PROPOSAL 
+APPENDIX – 2  
+(STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) 
+    
+The Implementation    Strategy: Programs and Initiatives
+Strategy: Programs and Initiatives    
+The Implementation
+Strategy: Programs and Initiatives
+Strategy: Programs and Initiatives
+The Implementation
+The Implementation
+ 
+ 
+National Cyber Security Awareness Program
+National Cyber Security Awareness Program    
+National Cyber Security Awareness Program
+National Cyber Security Awareness Program
+Title of Program/Initiative 
+ 
+Program /Initiative Strategic  
+ To define Security Awareness Goals and 
+ Objective 
+Objectives 
+To identify Intended Audience ( Stakeholders, 
+General Public) 
+To define Topics to be covered 
+Identify Current Training Needs 
+To obtain Support  
+To establish Security Policy 
+To define Delivery Methods to be used 
+To develop a Strategy for Implementation 
+To design Awareness Strategy 
+To design Training Strategy 
+To develop Evaluation Methods 
+To create a National Awareness portal 
+ 
+ 
+The National Cyber Security Awareness Program shall be used 
+to stimulate, motivate, and remind the audience what is 
+
+Relevant Achievable National ICT4D 
+Policy Objective & Goals 
+Background to Program /Initiative 
+ 
+
+42 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+  
+Culture of Cyber Security, Awareness creation
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Description of Program/Initiative 
+ 
+Program/Initiative Implementation 
+Rationale 
+ 
+Program/Initiative Implementation 
+Specific Goals 
+ 
+Program/Initiative Time-Frame 
+ 
+    
+Program/Initiative Deliverables
+Program/Initiative Deliverables    
+Program/Initiative Deliverables
+Program/Initiative Deliverables
+
+expected of them.  
+The National Cyber Security Awareness Program is a program 
+to train different stakeholders on different aspects of cyber 
+security with the intent of helping them provide a reasonable 
+security consummate with the risks to avoid incidences of cyber 
+attacks. This will take the form of identification …, need 
+assessment, 
+training and evaluation of different sets of 
+stakeholders. The program will 
+include a cyber security 
+awareness portal that will establish a permanent  awareness 
+campaign on the internet 
+The rationale for the setting up the Awareness Campaign is that 
+an informed community is able to foresee any possible attack 
+and take appropriate preventive measure to overcome such 
+attacks. The campaign will be targeted at main stakeholders 
+and the general public to help develop culture of cyber security. 
+To develop a level of awareness in the community to 
+mitigate risk of cyber attacks by workshops, mass 
+media and other awareness programs 
+To develop a national awareness portal for easy 
+access to information on cyber security and easy 
+downloads for quick  fixes 
+ 
+On-going program. In the first year, it is proposed that the 
+National Cyber Security Policy WG begin work on the program 
+and hand over to the emerging organization that will be 
+responsible for ensuring that the country attains a level of 
+awareness to mitigate cyber incidences. 
+ 
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target    
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target
+    
+    
+Time ––––Bound Measurable (TBM) Target
+Time 
+Bound Measurable (TBM) Target    
+Time 
+Time 
+Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target
+
+43 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+    
+
+Detailed Awareness Program Time table 
+3-months from Policy Adoption 
+National Cyber Security Awareness Portal 
+6-months from adoption of policy 
+Start of Delivery of Holistic Awareness 
+12 Months from adoption of policy 
+program  
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost    
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+ 
+ Informed stakeholders and public. Outcome in substantial reduction in 
+National Cyber Security 
+Awareness Program 
+cyber incidences and crimes. Citizens and business in Ghana can 
+work in emerging information economy in peace to create worth.  
+Internet users in Ghana should  Know how get themselves a basic 
+level of protection against threats online 
+Estimated cost of entire program for 5 years will be about GHC2.5m 
+for year one. Annual budget of about GHC500, 000.00  
+National Cyber Security 
+One stop shop cyber security alerts, quick downloads and information 
+Awareness Portal  
+on emerging threats. Interactive portal where questions can be asked 
+through web 2.0 applications. Outcome will be informed community.  
+Estimated cost of portal creation and maintenance for year one is 
+GHC20,000.00 Subsequent year may be down 
+to 
+less 
+than 
+GHC10,000.00 
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation    
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation
+    
+  
+Supporting Implementation 
+ 
+Agency 
+Assigned Responsibility 
+Implementation  
+Supporting 
+Ministry of Communication & 
+Oversight of program; funding, 
+Agencies and their Assignment 
+monitoring and evaluation 
+National Cyber Security Policy 
+Responsibilities     
+( Capacity building after year 2) 
+WG (year one). National Cyber 
+Security Council and Center to 
+take over by end of year 2 
+Technical advisory and guide on 
+National Information 
+Technology Agency/ National 
+web portal development. Capacity 
+
+44 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+Program /Initiative Critical 
+Success Factors 
+Program/Initiative 
+Implementation Risk Factors 
+
+Communication Authority 
+building for year one 
+Support the awareness creation 
+Ministry of Information 
+programs 
+Availability of Funding 
+Commitment of supporting agencies 
+ Lack of funds and commitment to implement portal 
+ 
+Additional Comments and Remarks
+Additional Comments and Remarks    
+Additional Comments and Remarks
+Additional Comments and Remarks
+    
+
+ 
+
+ 
+
+45 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+TECHNICAL PROPOSAL 
+
+APPENDIX -3 
+
+(STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) 
+
+• 
+
+• 
+
+• 
+
+ 
+Title of Program/Initiative 
+Program /Initiative Strategic  
+ Objective 
+
+    
+The Implementation Strategy: Programs and Initiatives
+The Implementation Strategy: Programs and Initiatives    
+The Implementation Strategy: Programs and Initiatives
+The Implementation Strategy: Programs and Initiatives
+ 
+National Cyber Security Center (NCSC) 
+National Cyber Security Center (NCSC)     
+National Cyber Security Center (NCSC) 
+National Cyber Security Center (NCSC) 
+ 
+Strategic Objective of NCSC are : 
+National Cyber Security Policy Implementation: 
+Defines, communicates and updates (when necessary) 
+the national cyber security programs to all the CNII. 
+National Coordination: Closely coordinates cyber 
+security initiatives of various key Agencies and 
+organizations in Ghana. 
+Outreach: Promote and facilities formal and informal 
+mechanism for information sharing across the CNII. 
+This includes promoting cyber security awareness, 
+training and education programs to grow the 
+competency of information security professionals and 
+the industry as a whole. 
+Compliance Monitoring: Facilities the monitoring of 
+compliance to cyber security policies and standards 
+across the CNII. 
+Risk management: Assesses, identifies and manages 
+cyber security threats exploiting vulnerabilities and risks 
+across the CNII  
+Assist the National Cyber Security Council in all its 
+function activities and help industry to test its 
+emergency plans 
+Contribute to application of international standards on 
+
+• 
+
+• 
+
+• 
+
+• 
+
+46 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Relevant Achievable National ICT4D 
+Policy Objective & Goals 
+Background to Program /Initiative 
+ 
+Description of Program/Initiative 
+ 
+Program/Initiative Implementation 
+Rationale 
+ 
+Program/Initiative Implementation 
+Specific Goals 
+ 
+Program/Initiative time frame 
+ 
+
+cyber security as well as on accreditation and 
+certification of ICT infrastructure, services and 
+suppliers. 
+Effective Governance of National Cyber Security Policy 
+The NCSC is part of the proposed institutional structure to be 
+created to sustain the cyber security policy in the long term. 
+ 
+The Ghana Cyber Security Centre is envisioned to become a 
+one-stop coordination centre 
+for national cyber security 
+initiatives by adopting a coordinated and focused approach, 
+with the key objective of strengthening the country’s cyber 
+security arena. 
+The centre will be under the purview of the Ministry of 
+Communications, and overseen by the National Cyber Security 
+Council for policy direction and the National Security Council in 
+times of national crisis. 
+The rationale for the setting up the NCSC is the help establish 
+and institutional approach to coordinating the policies of CNII 
+sectors to ensure that the risks of attack are at the barest 
+minimum and disaster recovery and business continuity 
+processes put in place to take care of any eventual breach. It 
+will also spearhead all awareness and education activities on 
+Cyber security after creation. 
+To make Ghana a safe destination for cyber activity  
+To boost national image in its sphere of influence and 
+make it a leader in the region 
+To ensure that Ghana has technical skill to maintain 
+low level of risk that will be achieved 
+To be set up within first two years. 
+ 
+
+- 
+
+- 
+
+- 
+
+47 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target    
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target
+
+    
+    
+    
+Program/Initiative Deliverables
+Program/Initiative Deliverables    
+Bound Measurable (TBM) Target    
+TimeTimeTimeTime––––Bound Measurable (TBM) Target
+Program/Initiative Deliverables
+Program/Initiative Deliverables
+Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target
+Creation of Structures and function of 
+By 6 months from Adoption of the policy 
+NCSC 
+By 12 months from the adoption of the policy 
+ 
+Legal framework for establishment passed 
+Financial Sourcing & Establishment of 
+By 18 months from adoption of policy 
+NCSC 
+ 
+Program /Initiative: Output, Outcome and Bene
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+ficiaries and Estimated Cost    
+Program /Initiative: Output, Outcome and Bene
+Program /Initiative: Output, Outcome and Bene
+ficiaries and Estimated Cost
+ficiaries and Estimated Cost
+    
+NCSC 
+Center for operational coordination of all cyber initiatives and 
+continuously creating culture of cyber security 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation    
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation
+ 
+Supporting Implementation 
+  
+Supporting Implementation 
+    
+Supporting Implementation 
+Supporting Implementation 
+Agency
+Agency    
+Assigned Responsibility
+Assigned Responsibility    
+Agency
+Agency
+Assigned Responsibility
+Assigned Responsibility
+Implementation  
+Supporting 
+Developing structures, paper work 
+Ministry of Communications 
+Agencies and their Assignment 
+for legal establishment, sourcing 
+NCSPWG 
+Responsibilities    
+funding for its establishment 
+Establishment of physical 
+National Security Council, 
+National Cyber Security 
+infrastructure to operationalize 
+Center, oversee operations of 
+Council (NCSCC) 
+ 
+Center after establishment 
+Program /Initiative Critical 
+Legislative approval of initiative 
+
+48 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Success Factors 
+Program/Initiative 
+Implementation Risk Factors 
+Non 
+
+Funding of initiative by GOG and/or development partners 
+ 
+Delay in passing necessary legislative instruments 
+Lack of funding  
+Additional Comments and Remarks
+Additional Comments and Remarks    
+Additional Comments and Remarks
+Additional Comments and Remarks
+    
+
+ 
+
+ 
+
+49 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+TECHNICAL PROPOSAL 
+
+APPENDIX -4 
+
+(STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) 
+
+ 
+Title of Program/Initiative 
+Program /Initiative Strategic  
+ Objective 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+    
+The Implementation Strategy: Programs and Initiatives
+The Implementation Strategy: Programs and Initiatives    
+The Implementation Strategy: Programs and Initiatives
+The Implementation Strategy: Programs and Initiatives
+ 
+National Cyber Security Council (NCSCC) 
+National Cyber Security Council (NCSCC)     
+National Cyber Security Council (NCSCC) 
+National Cyber Security Council (NCSCC) 
+ 
+Strategic objective of NCSC are : 
+To oversee the national cyber security policy and 
+strategy; 
+To identify National cyber security priorities and 
+initiatives 
+To coordinate cyber security measures at the national 
+level 
+To help foster public-private relations required to 
+address cyber security issues 
+To collaborate with government agencies, security 
+services, general directorate for security etc for the 
+purpose of establishing standards and uniform 
+investigative procedures and development of 
+institutional consensus 
+To collaborate with the structures responsible 
+application of the law at regional and International level 
+To coordination of measures and development of digital 
+identity systems as well as management and best 
+practice in digital identity 
+To development of standards training and capacity 
+building programs for agencies and the creation of a 
+national platform for the purpose of coordinating 
+
+• 
+
+• 
+
+• 
+
+50 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+Relevant Achievable National ICT4D 
+Policy Objective & Goals 
+Background to Program /Initiative 
+ 
+Description of Program/Initiative 
+ 
+Program/Initiative Implementation 
+Rationale 
+ 
+Program/Initiative Implementation 
+Specific Goals 
+ 
+Program/Initiative Time-Frame 
+ 
+    
+Program/Initiative Deliverables
+Program/Initiative Deliverables    
+Program/Initiative Deliverables
+Program/Initiative Deliverables
+Creation of Structures and function of 
+NCSCC 
+ 
+
+technical assistance and training initiatives at the 
+international level 
+Cyber Security and fight against cyber crime 
+The NCSCC is part of the proposed institutional structure to be 
+created to sustain the cyber security policy in the long term. 
+ 
+The NCSCC shall be formed to serve as the high-level liaison 
+center for cyber security and shall be responsible for adopting 
+or approving the policies put forward for implementation of the 
+function center to be known as the National Cyber Security 
+Center. The council shall be chaired by the Vice-President of 
+Ghana. 
+The rationale for the setting up the NCSCC is to serve as the 
+high level governance institution overseeing all issues on cyber 
+security.   
+To ensure that appropriate policies are in place to 
+make Ghana a safe destination for cyber activity  
+To boost national image in its sphere of influence and 
+make it a leader in the region 
+To ensure Ghana is part international conventions and 
+is playing its role as a leader in the region 
+To set up within two years 
+ 
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target    
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target
+    
+    
+TimeTimeTimeTime----Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target    
+Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target
+By  6  months from Adoption of the policy 
+By 12 months from the adoption of the policy 
+
+51 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+- 
+
+- 
+
+- 
+
+Legal framework for establishment passed 
+Financial Sourcing & Establishment of 
+By 18 months from adoption of policy 
+NCSCC 
+ 
+Program /Initiative: Output, 
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Outcome and Beneficiaries and Estimated Cost    
+Program /Initiative: Output, 
+Program /Initiative: Output, 
+Outcome and Beneficiaries and Estimated Cost
+Outcome and Beneficiaries and Estimated Cost
+    
+Governance institution with full oversight of policy and ensuring full 
+NCSCC 
+implementation of policy after its creation 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation    
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation
+ 
+  
+Supporting Implementation 
+Supporting Implementation 
+    
+Supporting Implementation 
+Supporting Implementation 
+Agency
+Agency    
+Assigned Responsibility
+Assigned Responsibility    
+Agency
+Agency
+Assigned Responsibility
+Assigned Responsibility
+Implementation  
+Supporting 
+Ministry of Communications, 
+Developing structures, paper work 
+Agencies and their Assignment 
+NCSPWG 
+for legal establishment, sourcing 
+Responsibilities    
+funding for its establishment 
+National Security Council,  
+Establishment of physical 
+infrastructure to operationalize 
+ 
+council, Oversee operations of 
+council after establishment 
+Legislative approval for establishment 
+Program /Initiative Critical 
+Success Factors 
+Funding 
+Program/Initiative 
+Delay or no approval of LI 
+Implementation Risk Factors 
+Lack of funding  
+Additional Comments and Remarks
+Additional Comments and Remarks    
+Additional Comments and Remarks
+Additional Comments and Remarks
+    
+ 
+
+52 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+TECHNICAL PROPOSAL 
+
+APPENDIX -5 
+
+(STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) 
+
+ 
+
+• 
+
+• 
+
+• 
+
+• 
+
+Title of Program/Initiative 
+ 
+Program /Initiative Strategic  
+ Objective 
+Relevant Achievable National ICT4D 
+Policy Objective & Goals 
+Background to Program /Initiative 
+ 
+Description of Program/Initiative 
+ 
+Program/Initiative Implementation 
+Rationale 
+ 
+
+    
+The Implementation Strategy: Programs and
+The Implementation Strategy: Programs and    Initiatives
+Initiatives    
+The Implementation Strategy: Programs and
+The Implementation Strategy: Programs and
+Initiatives
+Initiatives
+ 
+    National Cyber Security Crisis Management Plan (NCSCMP) 
+National Cyber Security Crisis Management Plan (NCSCMP)     
+National Cyber Security Crisis Management Plan (NCSCMP) 
+National Cyber Security Crisis Management Plan (NCSCMP) 
+ 
+Strategic Objective of NCSCMP are : 
+To increase preparedness of country against cyber 
+attacks 
+To enhance capability to respond to cyber security 
+issues 
+To provide coordinated effort in handling cyber attacks 
+to minimize impact to socio – economic activities 
+ 
+Cyber Security Emergency Readiness 
+The NCSCMP was conceived to ensure that a coordinated swift 
+response is made to any cyber incidences having a bearing on 
+national security.  
+A framework that outlines strategy for cyber attack mitigation 
+and coordination amongst Ghanaian CNIIs through public and 
+private collaboration 
+Rational for implementing this initiative to ensure the country’s 
+prepared to react to any cyber security emergency. The plan 
+envisages a management committee which will under the 
+council where ultimate decision are made on any major attacks 
+and a working group created in as Public Private Partnership 
+(PPP) and having membership from the center, the national 
+
+53 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+- 
+
+- 
+
+- 
+
+CSIRT, CNII sectors and  any related agencies to enforce any 
+tactic adopted for resolving any major attacks. 
+Help Ghana maintain a level of readiness to react to 
+Program/Initiative Implementation 
+any major attacks 
+Specific Goals 
+Ensure swift response to any major attacks by ensuring 
+ 
+that decision making structures are in place and 
+working smoothly 
+Ensure that all CNIIs maintain their own emergency 
+plan and test it from time to time. 
+ Come into place when NCSC, NCSCC and National CSIRT 
+Program/Initiative Time-Frame 
+have all been formed and in place. Time frame will be about 24 
+ 
+months from the adoption of this policy  
+ 
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target    
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target
+    
+    
+    
+Time 
+Time ––––Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target    
+Program/Initiative Deliverables
+Program/Initiative Deliverables    
+Bound Measurable (TBM) Target
+Time 
+Time 
+Bound Measurable (TBM) Target
+Program/Initiative Deliverables
+Program/Initiative Deliverables
+6 months from the setup of NCSC, NCSCC and National 
+National Cyber Crises management 
+CSIRT 
+Committee 
+6 months from the setup of NCSC, NCSCC and National 
+National Cyber Crises management WG 
+CSIRT 
+ 
+ 12 Months from the setup of NCSC, NCSCC and National 
+National Cyber Crises management Plan 
+CSIRT  
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost    
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+    
+Decision making body at the national level for cyber attacks of with 
+National Cyber Crises 
+national security implications 
+management Committee 
+National Cyber Crises 
+Implementation coordination of major cyber attacks that has national 
+security  implications 
+management WG 
+National Cyber Crises 
+Procedures for decision making and implementation of actions during 
+cyber emergency 
+management Plan 
+
+54 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+ 
+ 
+ment, Monitoring and Evaluation    
+Project Implementation Manage
+Project Implementation Management, Monitoring and Evaluation
+ment, Monitoring and Evaluation
+ment, Monitoring and Evaluation
+Project Implementation Manage
+Project Implementation Manage
+ 
+  
+Supporting Implementation 
+Supporting Implementation 
+    
+Supporting Implementation 
+Supporting Implementation 
+Agency
+Agency    
+Assigned Responsibility
+Assigned Responsibility    
+Agency
+Agency
+Assigned Responsibility
+Assigned Responsibility
+Supporting 
+Implementation  
+Oversee formation of crises 
+National Security Council, 
+Agencies and their Assignment 
+National Cyber Security 
+management committee and its 
+Responsibilities    
+workings 
+Council 
+National Cyber Security 
+Setup of Working Group 
+Center, National CERT, NITA, 
+CNII Sectors 
+Setup of National Cyber Security council 
+Program /Initiative Critical 
+Success Factors 
+Setup of National and sector CSIRTs 
+Delay in setting up structures prescribe by policy 
+Program/Initiative 
+Implementation Risk Factors 
+ 
+Additional Comments and Remarks
+Additional Comments and Remarks    
+Additional Comments and Remarks
+Additional Comments and Remarks
+    
+ 
+
+ 
+
+55 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+TECHNICAL PROPOSAL 
+
+APPENDIX -6 
+
+(STRUCTURING THE IMPLEMENTATION STRATEGY PROGRAMS AND INTIATIVE) 
+
+• 
+
+• 
+
+    
+Strategy: Programs and Initiatives    
+The Implementation 
+The Implementation Strategy: Programs and Initiatives
+Strategy: Programs and Initiatives
+Strategy: Programs and Initiatives
+The Implementation 
+The Implementation 
+ 
+ 
+National Computer Security Incidence Response Team 
+National Computer Security Incidence Response Team 
+National Computer Security Incidence Response Team 
+National Computer Security Incidence Response Team 
+Title of Program/Initiative 
+(National CSIRT) 
+(National CSIRT)     
+(National CSIRT) 
+(National CSIRT) 
+ 
+Strategic Objective of National CSIRT are : 
+Program /Initiative Strategic  
+To provide reactive and proactive services, 
+ Objective 
+To communicate timely information on relevant 
+threats, whenever necessary, bringing their 
+assistance to bear for response to incidents  
+Cyber Security Emergency Preparedness 
+Relevant Achievable National ICT4D 
+Policy Objective & Goals 
+ 
+Background to Program /Initiative 
+ 
+The Ghana National Computer Security Incidence Response 
+Description of Program/Initiative 
+Team is to be established to take charge of the national 
+ 
+information infrastructure protection actions and serve as a 
+base for national coordination to respond to ICT security threats 
+at regional and international level. The nation cert shall be 
+empowered to execute the following minimum services. 
+The rationale for the setting up the NCERT will be to … 
+Program/Initiative Implementation 
+Rationale 
+ 
+National CSIRT will be created to perform the following tasks: 
+Program/Initiative Implementation 
+Specific Goals 
+Reactive services:
+Reactive services: early warning and precaution notice, 
+Reactive services:
+Reactive services:
+incidents processing, incidents analysis, incident response 
+ 
+
+56 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+ 
+
+ 
+
+ 
+
+facility, incidents response coordination, incident response 
+on the web, vulnerability treatment, vulnerability analysis, 
+and vulnerability response and vulnerability response 
+coordination; 
+Proactive 
+Proactive 
+services:
+services: 
+technological 
+public 
+notice, 
+Proactive 
+Proactive 
+services:
+services:
+surveillance, security audit and assessment, security 
+installations and maintenance, security tools development, 
+intrusion detection services and security 
+information 
+dissemination, etc; and 
+Artifacts treatment: artifacts analysis, response to artifacts, 
+Artifacts treatment
+Artifacts treatment
+Artifacts treatment
+response 
+coordination of 
+risk analysis, 
+to artifacts, 
+continuation and resumption of activities after disaster, 
+security 
+consultation 
+and 
+sensitization 
+campaign, 
+education/training and product appraisal or certification. 
+ 
+Should be in place in 18 months from  the adoption of the policy 
+Program/Initiative Time-Frame 
+ 
+ 
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target    
+Program/Initiatives Deliverables and Target
+Program/Initiatives Deliverables and Target
+    
+    
+    
+Time 
+Time ––––Bound Measurable (TBM) Target
+Bound Measurable (TBM) Target    
+Program/Initiative Deliverables
+Program/Initiative Deliverables    
+Bound Measurable (TBM) Target
+Time 
+Time 
+Bound Measurable (TBM) Target
+Program/Initiative Deliverables
+Program/Initiative Deliverables
+6 – months from approval of Policy 
+ National CSIRT institution 
+ 
+12 –months from approval of policy 
+Laboratories, early warning system 
+18 - Months from approval of policy 
+Full operational capacity 
+ 
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost    
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+Program /Initiative: Output, Outcome and Beneficiaries and Estimated Cost
+    
+Fully functional CSIRT with well trained staff and fully equipped 
+National CSIRT 
+laboratories responding to cyber threats and maintain risk to the CNII 
+
+57 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+at a reasonable level 
+ 
+ 
+ 
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation    
+Project Implementation Management, Monitoring and Evaluation
+Project Implementation Management, Monitoring and Evaluation
+ 
+  
+    
+Supporting Implementation
+Supporting Implementation    
+Supporting Implementation
+Supporting Implementation
+Assigned Responsibility
+Assigned Responsibility    
+Agency
+Agency    
+Assigned Responsibility
+Assigned Responsibility
+Agency
+Agency
+Supporting 
+Implementation  
+Development of institutional 
+Ministry of Communications 
+Agencies and their Assignment 
+structures of National CSIRT 
+with support of CCI 
+Responsibilities    
+Support implementation by making 
+National Security Council 
+security input and requirements 
+ 
+definition 
+Provide technical support for 
+National Information 
+implementation of National CERT 
+Technology Agency/ National 
+Communication Authority 
+Program /Initiative Critical 
+Agreement on Support of CCI 
+Willingness of MOC to implement initiative 
+Success Factors 
+Program/Initiative 
+No drive from MOC 
+No agreement with CCI 
+Implementation Risk Factors 
+ 
+Additional Comments and Remarks
+Additional Comments and Remarks    
+Additional Comments and Remarks
+Additional Comments and Remarks
+    
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+58 | P a g e         N a t i o n a l   C y b e r   S e c u r i t y   P o l i c y   &   S t r a t e g y  
+ 
+
+

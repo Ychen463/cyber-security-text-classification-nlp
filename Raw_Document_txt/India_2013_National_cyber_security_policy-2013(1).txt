@@ -1,0 +1,773 @@
+ 
+ 
+ 
+
+National Cyber Security Policy -2013 
+
+ 
+ 
+ 
+Preamble 
+ 
+1.  Cyberspace1  is  a  complex  environment  consisting  of  interactions  between  people,  software  and 
+
+services,  supported  by  worldwide  distribution  of  information  and  communication  technology  (ICT) 
+
+devices and networks.  
+
+ 
+
+2.  Owing  to  the  numerous  benefits  brought  about  by  technological  advancements, the  cyberspace 
+
+today is a common pool used by citizens, businesses, critical information infrastructure, military and 
+
+governments  in  a  manner  that  makes  it  difficult  to  draw  clear  boundaries  among  these  different 
+
+groups. The cyberspace is expected to be more complex in the foreseeable future, with many fold 
+
+increase in networks and devices connected to it.  
+
+ 
+
+3. Information Technology (IT) is one of the critical sectors that rides on and resides in cyberspace. 
+
+It has emerged as one of the most significant growth catalysts for the Indian economy. In addition to 
+
+fuelling India’s economy, this sector is also positively influencing the lives of its people through direct 
+
+and  indirect  contribution  to the  various  socio-economic  parameters such  as  employment, standard 
+
+of living and diversity among others. The sector has played a significant role in transforming India’s 
+
+image  to  that  of  a  global  player  in  providing  world-class  technology  solutions  and  IT  business 
+
+services. The government has been a key driver for increased adoption of IT-based products and IT 
+
+enabled  services  in  Public  services  (Government  to  citizen  services,  citizen  identification,  public 
+
+distribution  systems),  Healthcare  (telemedicine,  remote  consultation,  mobile  clinics),  Education  (e-
+
+Learning, virtual classrooms, etc) and Financial services (mobile banking / payment gateways), etc. 
+
+Such  initiatives  have  enabled  increased  IT  adoption  in  the  country  through  sectoral  reforms  and 
+
+National  programmes  which  have  led  to  creation  of  large  scale  IT  infrastructure  with  corporate  / 
+
+private participation. 
+
+ 
+
+4. In the light of the growth of IT sector in the country, ambitious plans for rapid social transformation 
+
+& inclusive growth and India’s prominent role in the IT global market, providing right kind of focus for 
+
+creating secure computing environment and adequate trust & confidence in electronic transactions, 
+
+software,  services,  devices  and  networks,  has  become  one  of  the  compelling  priorities  for  the 
+
+country.    Such  a  focus  enables  creation  of  a  suitable  cyber  security  eco-system  in  the  country,  in 
+
+tune with globally networked environment. 
+
+ 
+
+                                                           
+1
+ISO / IEC 27032-2012 
+
+ 
+
+Page 1 of 9 
+ 
+
+5.  Cyberspace  is  vulnerable  to  a  wide  variety  of  incidents,  whether  intentional  or  accidental, 
+
+manmade  or  natural,  and  the  data  exchanged  in  the  cyberspace  can  be  exploited  for  nefarious 
+
+purposes by both nation- states and non-state actors. Cyber attacks that target the infrastructure or 
+
+underlying  economic  well-being  of  a  nation  state  can  effectively  reduce  available  state  resources 
+
+and  undermine  confidence  in  their  supporting  structures.    A  cyber  related  incident  of  national 
+
+significance  may  take  any  form;  an  organized  cyber  attack,  an  uncontrolled  exploit  such  as 
+
+computer virus or worms or any malicious software code,  a national disaster with significant cyber 
+
+consequences  or  other  related  incidents  capable  of  causing  extensive  damage  to  the  information 
+
+infrastructure  or  key  assets.    Large-scale  cyber  incidents  may  overwhelm  the  government,  public 
+
+and  private  sector  resources  and  services  by  disrupting functioning  of  critical  information  systems.  
+
+Complications  from  disruptions  of  such  a  magnitude  may  threaten  lives,  economy  and  national 
+
+security.    Rapid  identification,  information  exchange,  investigation  and  coordinated  response  and 
+
+remediation  can  mitigate  the  damage  caused  by  malicious  cyberspace  activity.  Some  of  the 
+
+examples  of  cyber  threats  to  individuals,  businesses  and  government  are  identity  theft,  phishing, 
+
+social engineering, hactivism, cyber terrorism, compound threats targeting mobile devices and smart 
+
+phone,  compromised  digital  certificates,  advanced  persistent  threats,  denial  of  service,  bot  nets, 
+
+supply chain attacks, data leakage, etc. The protection of information infrastructure and preservation 
+
+of the confidentiality, integrity and availability of information in cyberspace is the essence of a secure 
+
+cyber space. 
+
+ 
+
+6.  There  are  various  ongoing  activities  and  programs  of  the  Government  to  address  the  cyber 
+
+security  challenges  which  have  significantly  contributed  to  the  creation  of  a  platform  that  is  now 
+
+capable  of  supporting  and  sustaining  the  efforts  in  securing  the  cyber  space.  Due  to  the  dynamic 
+
+nature of cyberspace, there is now a need for these actions to be unified under a National Cyber 
+
+Security  Policy,  with  an  integrated  vision  and  a  set  of  sustained  &  coordinated  strategies  for 
+
+implementation.   
+
+ 
+
+7.  The cyber security policy is an evolving task and it caters to the whole spectrum of ICT users and 
+
+providers  including  home  users  and small, medium  and  large  enterprises  and  Government  &  non-
+
+Government entities. It serves as an umbrella framework for defining and guiding the actions related 
+
+to  security  of  cyberspace.  It  also  enables  the  individual  sectors  and  organizations  in  designing 
+
+appropriate  cyber  security  policies  to  suit  their  needs.  The  policy  provides  an  overview  of  what  it 
+
+takes  to  effectively  protect  information,  information  systems  &  networks  and  also  gives  an  insight 
+
+into  the  Government’s  approach  and  strategy  for  protection  of  cyber  space  in  the  country.    It  also 
+
+outlines  some  pointers  to  enable  collaborative  working  of  all  key  players  in  public  &  private  to 
+
+safeguard  country’s  information  and  information  systems.    This  policy,  therefore,  aims  to  create  a 
+
+cyber security framework, which leads to specific actions and programmes to enhance the security 
+
+posture of country’s cyber space. 
+
+ 
+
+ 
+
+Page 2 of 9 
+ 
+
+ 
+
+ 
+
+I.  Vision 
+
+To build a secure and resilient cyberspace for citizens, businesses and 
+
+Government 
+
+II.  Mission 
+
+To  protect  information  and  information  infrastructure  in  cyberspace,  build  capabilities  to 
+
+prevent and respond to cyber threats, reduce vulnerabilities and minimize damage from 
+
+cyber  incidents  through  a  combination  of  institutional  structures,  people,  processes, 
+
+technology and cooperation. 
+
+III. Objectives 
+
+1)  To  create  a  secure  cyber  ecosystem  in  the  country,  generate  adequate  trust  & 
+
+confidence in IT systems and transactions in cyberspace and thereby enhance adoption 
+
+of IT in all sectors of the economy.   
+
+2)  To create an assurance framework for design of security policies and for promotion and 
+
+enabling actions for compliance to global security standards and best practices by way of 
+
+conformity assessment (product, process, technology & people). 
+
+3)  To strengthen the Regulatory framework for ensuring a Secure Cyberspace ecosystem. 
+
+4)  To  enhance  and  create  National  and  Sectoral  level  24  x  7  mechanisms  for  obtaining 
+
+strategic  information  regarding  threats  to  ICT  infrastructure,  creating  scenarios  for 
+
+response,  resolution  and  crisis  management  through  effective  predictive,  preventive, 
+
+protective, response and recovery actions. 
+
+5)  To enhance the protection and resilience of Nation’s critical information infrastructure by 
+
+operating  a  24x7  National  Critical  Information  Infrastructure  Protection  Centre  (NCIIPC) 
+
+and  mandating  security  practices  related  to  the  design,  acquisition,  development,  use 
+
+and operation of information resources. 
+
+6)  To  develop  suitable  indigenous  security  technologies  through  frontier  technology 
+
+research,  solution  oriented  research,  proof  of  concept,  pilot  development,  transition, 
+
+diffusion  and  commercialisation  leading  to  widespread  deployment  of  secure  ICT 
+
+products  /  processes  in  general  and  specifically  for  addressing  National  Security 
+
+requirements.  
+
+7)  To  improve  visibility  of  the  integrity  of  ICT  products  and  services  by  establishing 
+
+infrastructure for testing & validation of security of such products.  
+
+Page 3 of 9 
+ 
+
+8)  To  create  a  workforce  of  500,000  professionals  skilled  in  cyber  security  in  the  next  5 
+
+years through capacity building, skill development and training. 
+
+9)  To  provide  fiscal  benefits  to  businesses  for  adoption  of  standard  security  practices  and 
+
+processes. 
+
+10) To enable protection of information while in process, handling, storage & transit so as to 
+
+safeguard privacy of citizen's data and for reducing economic losses due to cyber crime 
+
+or data theft. 
+
+11) To  enable  effective  prevention,  investigation  and  prosecution  of  cyber  crime  and 
+
+enhancement of law enforcement capabilities through appropriate legislative intervention. 
+
+12) To create a culture of cyber security and privacy enabling responsible user behaviour & 
+
+actions through an effective communication and promotion strategy.  
+
+13) To develop effective public private partnerships and collaborative engagements through 
+
+technical  and  operational  cooperation  and  contribution  for  enhancing  the  security  of 
+
+cyberspace. 
+
+14) To  enhance  global  cooperation  by  promoting  shared  understanding  and  leveraging 
+
+relationships for furthering the cause of security of cyberspace. 
+
+IV. Strategies 
+
+A.  Creating a secure cyber ecosystem  
+
+1) 
+
+To  designate  a  National  nodal  agency  to  coordinate  all  matters  related  to  cyber 
+
+security in the country, with clearly defined roles & responsibilities. 
+
+2) 
+
+To  encourage  all  organizations,  private  and  public  to  designate  a member  of senior 
+
+management,  as  Chief  Information  Security  Officer  (CISO),  responsible  for  cyber 
+
+security efforts and initiatives.  
+
+3) 
+
+To  encourage  all  organizations  to  develop  information  security  policies  duly 
+
+integrated with their business plans and implement such policies as per international 
+
+best practices. Such policies should include establishing standards and mechanisms 
+
+for  secure  information  flow  (while  in  process,  handling,  storage  &  transit),  crisis 
+
+management  plan,  proactive  security  posture  assessment  and  forensically  enabled 
+
+information infrastructure. 
+
+4) 
+
+To  ensure  that  all  organizations  earmark  a  specific  budget  for  implementing  cyber 
+
+security initiatives and for meeting emergency response arising out of cyber incidents.  
+
+5) 
+
+To provide fiscal schemes and incentives to encourage entities to install, strengthen 
+
+and upgrade information infrastructure with respect to cyber security. 
+
+Page 4 of 9 
+ 
+
+6) 
+
+To  prevent  occurrence  and  recurrence  of  cyber  incidents  by  way  of  incentives  for 
+
+technology development, cyber security compliance and proactive actions. 
+
+7) 
+
+To establish a mechanism for sharing information and for identifying and responding 
+
+to cyber security incidents and for cooperation in restoration efforts. 
+
+8) 
+
+To encourage entities to adopt guidelines for procurement of trustworthy ICT products 
+
+and  provide  for  procurement  of  indigenously  manufactured  ICT  products  that  have 
+
+security implications. 
+
+B.  Creating an assurance framework 
+
+1) 
+
+To promote adoption of global best practices in information security and compliance 
+
+and thereby enhance cyber security posture. 
+
+2) 
+
+To create infrastructure for conformity  assessment and certification of compliance to 
+
+cyber  security  best  practices,  standards  and  guidelines  (Eg.  ISO  27001  ISMS 
+
+certification,  IS  system  audits,  Penetration  testing  /  Vulnerability  assessment, 
+
+application security testing, web security testing). 
+
+3) 
+
+To enable implementation of global security best practices in formal risk assessment 
+
+and  risk  management  processes,  business  continuity  management  and  cyber  crisis 
+
+management plan by all entities within Government and in critical sectors, to reduce 
+
+the risk of disruption and improve the security posture. 
+
+4) 
+
+To  identify  and  classify  information  infrastructure  facilities  and  assets  at  entity  level 
+
+with  respect  to  risk  perception  for  undertaking  commensurate  security  protection 
+
+measures. 
+
+5) 
+
+To encourage secure application / software development processes based on global 
+
+best practices. 
+
+6) 
+
+To create conformity assessment framework for periodic verification of compliance to 
+
+best practices, standards and guidelines on cyber security. 
+
+7) 
+
+To  encourage  all  entities  to  periodically  test  and  evaluate  the  adequacy  and 
+
+effectiveness of technical and operational security control measures implemented in 
+
+IT systems and in networks. 
+
+C.  Encouraging Open Standards 
+
+1) 
+
+To encourage use of open standards to facilitate interoperability and data exchange 
+
+among different products or services. 
+
+2) 
+
+To promote a consortium of Government and private sector to enhance the 
+
+availability of tested and certified IT products based on open standards. 
+
+ 
+
+Page 5 of 9 
+ 
+
+D.  Strengthening the Regulatory framework 
+
+1) 
+
+To develop  a  dynamic  legal  framework  and  its periodic  review  to  address  the  cyber 
+
+security challenges arising out of technological developments in cyber space (such as 
+
+cloud  computing,  mobile  computing,  encrypted  services  and  social  media)  and  its 
+
+harmonization  with  international  frameworks  including  those  related  to  Internet 
+
+governance. 
+
+2) 
+
+To  mandate  periodic  audit  and  evaluation  of  the  adequacy  and  effectiveness  of 
+
+security of information infrastructure as may be appropriate, with respect to regulatory 
+
+framework. 
+
+3) 
+
+To enable, educate and facilitate awareness of the regulatory framework.  
+
+E.  Creating mechanisms for security threat early warning, vulnerability management and 
+
+response to security threats 
+
+1) 
+
+To create National level systems, processes, structures and mechanisms to generate 
+
+necessary  situational  scenario  of  existing  and  potential  cyber  security  threats  and 
+
+enable  timely  information  sharing for  proactive,  preventive  and  protective  actions  by 
+
+individual entities.  
+
+2) 
+
+To operate a 24x7 National Level Computer Emergency Response Team (CERT-In) 
+
+to  function  as  a  Nodal  Agency  for  coordination  of  all  efforts  for  cyber  security 
+
+emergency  response  and  crisis  management.  CERT-In  will  function  as  an  umbrella 
+
+organization in enabling creation and operationalization of sectoral CERTs as well as 
+
+facilitating  communication  and  coordination  actions  in  dealing  with  cyber  crisis 
+
+situations.  
+
+3)       To operationalise 24x7 sectoral CERTs for all coordination and communication actions 
+
+within the respective sectors for effective incidence response & resolution and cyber 
+
+crisis   management. 
+
+4) 
+
+To implement Cyber Crisis Management Plan for dealing with cyber related incidents 
+
+impacting critical national processes or endangering public safety and security of the 
+
+Nation,  by  way  of  well  coordinated,  multi  disciplinary  approach  at  the  National, 
+
+Sectoral as well as entity levels. 
+
+5) 
+
+To conduct and facilitate regular cyber security drills & exercises at National, sectoral 
+
+and entity levels to enable assessment of the security posture and level of emergency 
+
+preparedness in resisting and dealing with cyber security incidents. 
+
+F.  Securing E-Governance services 
+
+1) 
+
+To  mandate  implementation  of  global  security  best  practices,  business  continuity 
+
+management and cyber crisis management plan for all e-Governance initiatives in the 
+
+country, to reduce the risk of disruption and improve the security posture. 
+
+Page 6 of 9 
+ 
+
+2) 
+
+To  encourage  wider  usage  of  Public  Key  Infrastructure  (PKI)  within  Government for 
+
+trusted communication and transactions. 
+
+3) 
+
+To engage information security professionals / organisations to assist e-Governance 
+
+initiatives and ensure conformance to security best practices. 
+
+G.  Protection and resilience of Critical Information Infrastructure 
+
+1) 
+
+To  develop  a  plan  for  protection  of  Critical  Information  Infrastructure  and  its 
+
+integration with business plan at the entity level and implement such plan. The plans 
+
+shall include establishing mechanisms for secure information flow (while in process, 
+
+handling,  storage  &  transit),  guidelines  and  standards,  crisis  management  plan, 
+
+proactive  security  posture  assessment  and 
+
+forensically  enabled 
+
+information 
+
+infrastructure. 
+
+2) 
+
+To  Operate  a  24x7  National  Critical  Information  Infrastructure  Protection  Centre 
+
+(NCIIPC)  to  function  as  the  nodal  agency  for  critical  information  infrastructure 
+
+protection in the country. 
+
+3) 
+
+To  facilitate  identification,  prioritisation,  assessment,  remediation  and  protection  of 
+
+critical  infrastructure  and  key  resources  based  on  the  plan  for  protection  of  critical 
+
+information infrastructure.  
+
+4) 
+
+To  mandate  implementation  of  global  security  best  practices,  business  continuity 
+
+management  and  cyber  crisis  management  plan  by  all  critical  sector  entities,  to 
+
+reduce the risk of disruption and improve the security posture. 
+
+5) 
+
+To  encourage  and  mandate  as  appropriate,  the  use  of  validated  and  certified  IT 
+
+products. 
+
+6) 
+
+7) 
+
+To mandate security audit of critical information infrastructure on a periodic basis. 
+
+To mandate certification for all security roles right from CISO / CSO to those involved 
+
+in operation of critical information infrastructure.  
+
+8) 
+
+To mandate secure application / software development process (from design through 
+
+retirement) based on global best practices. 
+
+H.  Promotion of Research & Development in cyber security 
+
+1) 
+
+To  undertake  Research  &  Development  programs  for  addressing  all  aspects  of 
+
+development aimed at short term, medium term and long term goals.  The Research 
+
+&  Development  programs  shall  address  all  aspects  including  development  of 
+
+trustworthy  systems,  their  testing,  deployment  and  maintenance  throughout  the  life 
+
+cycle and include R&D on cutting edge security technologies. 
+
+Page 7 of 9 
+ 
+
+2) 
+
+To  encourage  Research  &  Development  to  produce  cost-effective,  tailor-made 
+
+indigenous security solutions meeting a wider range of cyber security challenges and 
+
+target for export markets. 
+
+3) 
+
+To facilitate transition, diffusion and commercialisation of the outputs  of Research & 
+
+Development  into  commercial  products  and  services  for  use  in  public  and  private 
+
+sectors. 
+
+4) 
+
+ 
+
+5) 
+
+ 
+
+To  set  up  Centres  of  Excellence  in  areas  of  strategic  importance  for  the  point  of 
+
+security of cyber space. 
+
+To  collaborate  in  joint  Research  &  Development  projects  with  industry  and 
+
+academia in frontline technologies and solution oriented research. 
+
+I.  Reducing supply chain risks 
+
+1) 
+
+To  create  and  maintain  testing  infrastructure  and  facilities  for  IT  security  product 
+
+evaluation and compliance verification as per global standards and practices. 
+
+2) 
+
+To build trusted relationships with product / system vendors and service providers for 
+
+improving end-to-end supply chain security visibility. 
+
+3) 
+
+To  create  awareness  of  the  threats,  vulnerabilities  and  consequences  of  breach  of 
+
+security  among  entities  for  managing  supply  chain  risks  related  to  IT  (products, 
+
+systems or services) procurement. 
+
+J.  Human Resource Development 
+
+1) 
+
+To  foster  education  and  training  programs  both  in  formal  and  informal  sectors  to 
+
+support the Nation’s cyber security needs and build capacity.  
+
+2) 
+
+To establish cyber security training infrastructure across the country by way of public 
+
+private partnership arrangements. 
+
+3) 
+
+To establish cyber security concept labs for awareness and skill development in key 
+
+areas. 
+
+4) 
+
+To  establish  institutional  mechanisms  for  capacity  building  for  Law  Enforcement 
+
+Agencies.  
+
+K.  Creating Cyber Security Awareness 
+
+1) 
+
+To promote and launch a comprehensive national awareness program on security of 
+
+cyberspace. 
+
+2) 
+
+To  sustain  security  literacy  awareness  and  publicity  campaign  through  electronic 
+
+media to help citizens to be aware of the challenges of cyber security.  
+
+3) 
+
+To  conduct,  support  and  enable  cyber  security  workshops  /  seminars  and 
+
+certifications. 
+
+Page 8 of 9 
+ 
+
+L.  Developing effective Public Private Partnerships  
+
+1) 
+
+To  facilitate  collaboration  and  cooperation  among  stakeholder  entities  including 
+
+private  sector,  in  the  area  of  cyber  security  in  general  and  protection  of  critical 
+
+information 
+
+infrastructure 
+
+in  particular 
+
+for  actions  related 
+
+to  cyber 
+
+threats, 
+
+vulnerabilities,  breaches,  potential  protective  measures,  and  adoption  of  best 
+
+practices. 
+
+2) 
+
+3) 
+
+To create models for collaborations and engagement with all relevant stakeholders. 
+
+To create a think tank for cyber security policy inputs, discussion and deliberations. 
+
+M.  Information sharing and cooperation 
+
+1) 
+
+To  develop  bilateral  and  multi-lateral  relationships  in  the  area  of  cyber  security  with 
+
+other countries.  
+
+2) 
+
+To  enhance  National  and  global  cooperation  among  security  agencies,  CERTs, 
+
+Defence agencies and forces, Law Enforcement Agencies and the judicial systems. 
+
+3) 
+
+To create mechanisms for dialogue related to technical and operational aspects with 
+
+industry  in  order  to  facilitate  efforts  in  recovery  and  resilience  of  systems  including 
+
+critical information infrastructure. 
+
+N.  Prioritized approach for implementation 
+
+To  adopt  a  prioritized  approach  to  implement  the  policy  so  as  to  address  the  most 
+
+critical areas in the first instance. 
+
+V.  Operationalisation of the Policy  
+
+This  policy  shall  be  operationalised  by  way  of  detailed  guidelines  and  plans  of  action  at 
+
+various levels such as national, sectoral, state, ministry, department and enterprise, as may 
+
+be appropriate, to address the challenging requirements of security of the cyberspace. 
+
+ 
+
+ 
+
+Page 9 of 9 
+ 
+
+

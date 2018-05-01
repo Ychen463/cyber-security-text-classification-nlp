@@ -1,0 +1,719 @@
+Para imprimir o texto da consulta sem formatação, clique em IMPRIMIR no final da página.  
+
+Para visualizar os dados, clique em DADOS DA CONSULTA  
+
+CONSULTA PÚBLICA Nº 21 
+
+ 
+Título 
+ 
+
+REGULAMENTO SOBRE GESTÃO DE RISCO DAS REDES DE TELECOMUNICAÇÕES E 
+
+USO DE SERVIÇOS DE TELECOMUNICAÇÕES EM SITUAÇÕES DE EMERGÊNCIA E 
+
+DESASTRES  
+
+ 
+Título I - Capítulo I 
+
+  
+
+TÍTULO I 
+
+DISPOSIÇÕES GERAIS 
+
+CAPÍTULO I 
+
+DO OBJETIVO E DA ABRANGÊNCIA 
+
+ 
+
+  
+Art. 1º.  O presente Regulamento tem o objetivo de estabelecer medidas a serem 
+tomadas pelas prestadoras de serviços de telecomunicações, com o acompanhamento 
+da Anatel, de forma a promover a identificação, análise, avaliação e tratamento dos 
+riscos que possam afetar a segurança e o desempenho das redes e serviços de 
+telecomunicações de interesse coletivo, bem como coordenar ações na ocorrência de 
+emergência e desastres. 
+  
+§1°. Para atender o objetivo do caput, este Regulamento estabelece: 
+I – Medidas relativas ao gerenciamento do risco das redes e serviços de 
+telecomunicações; 
+II – Medidas de preparação e resposta a serem tomadas na ocorrência de desastres, 
+situações de emergência e estado de calamidade pública. 
+  
+§2°. As medidas previstas neste Regulamento são facultativas às Prestadoras de 
+Pequeno Porte e obrigatórias às demais prestadoras de serviço de telecomunicações de 
+interesse coletivo. 
+Paragrafo único: A Anatel, a seu critério, poderá incluir ou excluir prestadoras dessa 
+obrigação considerando sua relevância na infraestrutura dos serviços de 
+telecomunicações brasileiros. 
+  
+§3º. As prestadoras do respectivo serviço de telecomunicações são responsáveis pelos 
+ônus decorrentes dessas medidas. 
+Título I - Capítulo II 
+
+CAPÍTULO II 
+
+DAS DEFINIÇÕES 
+
+  
+Art. 2º. Para fins deste Regulamento, além das definições constantes da legislação e 
+regulamentação, aplicam-se as seguintes definições: 
+ I. Análise de riscos: análise e avaliação das vulnerabilidades das redes e dos sistemas 
+que suportam a oferta de serviços, fundamentadas na hierarquização dos elementos 
+necessários à prestação dos serviços.  
+ II. COBRADE: Classificação e codificação brasileira de desastres. 
+ III. Desastre: resultado de eventos adversos, naturais ou provocados pelo homem 
+sobre um cenário vulnerável, causando grave perturbação ao funcionamento de uma 
+comunidade ou sociedade envolvendo extensivas perdas e danos humanos, materiais, 
+econômicos ou ambientais, que excede a sua capacidade de lidar com o problema 
+usando meios próprios. 
+ IV. Elementos de redes críticos: infraestruturas de telecomunicações (instalações, 
+serviços, bens e sistemas) que se forem interrompidos ou destruídos, provocarão sério 
+impacto social, econômico, político, internacional ou à segurança do Estado e da 
+sociedade. 
+ V. Estado de Calamidade Pública: situação de alteração intensa e grave das condições 
+de normalidade em um determinado município, estado ou região, decretada em razão 
+de desastre, comprometendo substancialmente sua capacidade de resposta. 
+ VI. Metodologia para Avaliação de Riscos: metodologia a ser utilizada pela Anatel com 
+objetivo de identificar os elementos críticos do sistema brasileiro de telecomunicações. 
+ VII.Plano de Contingência: as ações a serem realizadas em situações de interrupção 
+e/ou de desastres contendo os recursos de telecomunicações específicos para 
+responder a interrupções do serviço, emergências e desastres, bem como as estratégias 
+a serem adotadas para assegurar condições de continuidade das atividades e para 
+limitar graves perdas decorrentes de risco de segurança. 
+ VIII. Plano de Gerenciamento de Riscos (PGRiscos):  plano a ser implementado pelas 
+prestadoras de serviços de telecomunicações de interesse coletivo com a finalidade de 
+mitigar as vulnerabilidades das redes de telecomunicações e ampliar a capacidade de 
+responder a interrupções do serviço, emergências e desastres. 
+IX.Prestadora de Pequeno Porte: Prestadora de Serviço de Telecomunicações com até 
+cinquenta mil acessos ativos. 
+X.Risco de segurança dos sistemas de telecomunicações: probabilidade de interrupção 
+de um elemento, de uma rede ou de um serviço de telecomunicações como 
+consequência de um desastre ou de um evento que possa afetar a integridade, a 
+confidencialidade e a disponibilidade das redes ou serviços.  
+XI. Situação de Emergência: situação de alteração intensa e grave das condições de 
+normalidade em um determinado município, estado ou região, decretada em razão de 
+desastre, comprometendo parcialmente sua capacidade de resposta. 
+Título II - Capítulo I 
+
+DAS MEDIDAS DE GERENCIAMENTO DE RISCO E DOS PLANOS DE CONTINGÊNCIA 
+
+TÍTULO II 
+
+  
+
+CAPÍTULO I 
+
+DO PLANO DE GERNCIAMENTO DE RISCOS 
+
+  
+Art. 3º. As prestadoras de serviços de telecomunicações de interesse coletivo devem 
+implementar Planos de Gerenciamento de Riscos (PGRiscos) dos sistemas de 
+telecomunicações das redes de suporte aos serviços prestados.  
+Parágrafo único: Os Planos de que trata o caput devem ser compatíveis com a base de 
+clientes, a natureza e a complexidade dos produtos, serviços, atividades, processos e 
+sistemas da prestadora.  
+  
+Art. 4º. O Plano de Gerenciamento de Riscos (PGRiscos) das redes e serviços de 
+telecomunicações deve conter no mínimo:  
+ I. Metodologia utilizada para sua elaboração; 
+II. Identificação das vulnerabilidades dos sistemas de telecomunicações (elementos 
+críticos) e dos riscos associados aos serviços de telecomunicações e seus impactos; 
+III. Medidas adotadas para mitigação das vulnerabilidades mapeadas, incluindo a 
+descrição sobre a redundância física e lógica da rede de transporte e de sinalização, dos 
+elementos principais elementos de redes, como também deve ser incluída uma 
+descrição dos sistemas alternativos de energia; 
+IV.Hierarquia dos elementos de redes críticos; 
+V. Estrutura da equipe responsável pelo Plano de Gerenciamento dos Riscos (PGRiscos), 
+contendo a identificação dos responsáveis ou gerência competente. 
+VI.Plano de contingência, contendo a identificação de responsável pela execução do 
+plano em cada Unidade Federativa da Área de Prestação de Serviço; 
+VII. Plano de divulgação interna; 
+VIII. Identificação, se for o caso, da adoção de padrões e normas nacionais ou 
+internacionais quanto a gerenciamento de risco de suas redes.  
+  
+§1º.  O PGRiscos deve ser aprovado anualmente pela diretoria das prestadoras  e pelo 
+conselho de administração, se houver.  
+  
+§2º. O PGRiscos deve ser atualizado, com periodicidade máxima anual.  
+  
+§3º. O PGRiscos deve ser submetido a testes/simulações, com periodicidade máxima 
+anual, para avaliação dos sistemas de controle de riscos de segurança implementados e 
+dos planos de contingência, e devem ser acompanhados de relatórios. 
+  
+§4º. Os relatórios mencionados no § 3º também devem ser submetidos à diretoria das 
+prestadoras e ao conselho de administração, se houver, que devem manifestar-se 
+expressamente acerca das ações a serem implementadas para correção tempestiva das 
+deficiências apontadas.  
+  
+§5º. O PGRiscos deve ser disseminado ao pessoal da prestadora, em seus diversos 
+níveis, estabelecendo papéis e responsabilidades, bem como as dos prestadores de 
+
+serviços terceirizados, resguardando-se o compartilhamento das informações sensíveis 
+apenas para as pessoas que exerçam diretamente atividades de planejamento e 
+execução do Plano, no que couber;  
+  
+§6º. Os documentos do PGRiscos e os relatórios mencionados no § 3º, bem como os 
+documentos que comprovem a sua aprovação, deverão estar disponíveis para Anatel 
+sempre que solicitados. 
+  
+§7º As prestadoras deverão, sempre que possível, estabelecer acordos de cooperação 
+para facilitar o provimento de recursos de telecomunicações e ampliar a capacidade 
+para responder a interrupções do serviço, emergências e desastres.  
+  
+§8º A Anatel a seu critério ou resultante da aplicação da Metodologia de Avaliação de 
+Riscos poderá incluir ou excluir elementos críticos.  
+  
+Art. 5º. A estrutura operacional das prestadoras para o gerenciamento das redes e 
+serviços de telecomunicações deve estar capacitada a identificar, monitorar, analisar, 
+avaliar e tratar os riscos. 
+Paragrafo único. Caso a estrutura de gerenciamento de risco seja única para o Grupo 
+Econômico, deve ser identificada a prestadora do Grupo responsável pelas suas 
+funções.  
+Título II - Capítulo II 
+
+CAPÍTULO II 
+
+DO SISTEMA DE GERENCIAMENTO DE RISCOS E REDES DE TELECOMUNICAÇÕES 
+
+  
+Art. 6º. Para alcançar o objetivo deste Regulamento a Anatel implantará sistema 
+próprio de recebimento e gerenciamento de informações das redes das prestadoras de 
+serviços de telecomunicações de interesse coletivo, as quais devem abranger, no 
+mínimo: 
+I- Informações referentes a elementos críticos de telecomunicações deverão ser 
+informados com periodicidade máxima anual. Os elementos de redes a serem avaliados 
+serão definidos pela Metodologia de Avaliação de Riscos. 
+II- As informações referentes a inventários (elementos de rede e rotas críticas) deverão 
+ser enviadas ao sistema sempre que houver alteração nos ativos da rede com o 
+seguinte detalhamento: 
+a. Identificação do ativo (número de ordem, identificação da prestadora, nome do 
+ativo, tipo de serviço, código do ativo conforme classificação Anatel, endereço do ativo, 
+coordenadas geográficas, hierarquia do ativo, topologia, número STEL); 
+b. Capacidade máxima do ativo (Erlang, quantidade de usuários e Mbit/s). 
+c. Quando o ativo for uma rota de transmissão, as informações deverão detalhar os 
+pontos intermediários de forma que possa ser identificada a rota no momento do 
+detalhamento gráfico. 
+  
+
+III- Informações referentes à capacidade e tráfego de elementos de redes e rotas a 
+cada 30 (trinta) minutos com o seguinte detalhamento: 
+a. Identificação do ativo; 
+b. Situação do ativo; 
+c. Capacidade utilizada do Ativo (Erlang, quantidade de usuários ativos e ocupação em 
+Mbit/s). 
+  
+IV- Informações referentes a falhas com impacto significativo em serviços de 
+telecomunicações devem ser enviadas para o Sistema da Anatel citado no caput tão 
+logo sejam identificadas nos sistemas de gerência de redes das prestadoras, bem como 
+informação de manutenção a cada 30 minutos ou quando houver alguma atualização 
+até que a mesma tenha sido restabelecida, com o seguinte detalhamento:  
+a. Identificação do ativo; 
+b. Situação do ativo, nível de bloqueio; 
+c. Data e hora do inicio da falha; 
+d. Data e hora da previsão da recuperação da falha; 
+e. Data e hora da recuperação da falha; 
+f.  Motivo da falha/interrupção, serviços e regiões impactadas, capacidade impactada, 
+contingências adotadas, e outras informações relevantes; 
+g. Além do envio das informações de falha tão logo tenha sido detectada, deverão ser 
+enviados informações de manutenção a cada 30 minutos ou quando houver alguma 
+atualização até que a mesma tenha sido restabelecida.  
+  
+§1º.  Maior detalhamento das informações que deverão ser enviadas à Agência, dos 
+elementos a serem monitorados, bem como a periodicidade e a forma de seu envio, 
+para o recebimento e gerenciamento de que trata o caput, serão definidas por grupo de 
+trabalho com a participação da Anatel e de representante das Prestadoras. 
+  
+§2º.  Para coleta das informações necessárias para o gerenciamento de risco, a Anatel 
+poderá estabelecer mecanismos de recebimento dos sistemas de gerência de rede das 
+prestadoras.  
+  
+Art. 7º. O Plano e a estrutura de Gerenciamento de Riscos deverão ser implementados 
+no prazo máximo de seis meses após a aprovação deste Regulamento. 
+  
+ Art. 8º. A Anatel poderá determinar a adoção de controles adicionais, nos casos de 
+inadequação ou insuficiência dos controles de risco de segurança das redes e serviços 
+de telecomunicações implementados pelas prestadoras . 
+Título II - Capítulo III 
+
+CAPÍTULO III 
+
+DO GRUPO DE GERENCIAMENTO DE RISCOS E REDES DE TELECOMUNICAÇÕES 
+
+  
+Art. 9º Para a implantação dos processos de envio das informações para compor o 
+Sistema de Gerenciamento de Riscos e Rede de Telecomunicações, em especial os 
+
+previstos no art. 6º, será constituído o Grupo de Gerenciamento de Risco e Redes de 
+Telecomunicações (GGRR), sob a coordenação da Anatel. 
+  
+§1º. O GGRR será composto por representantes da Anatel, das prestadoras e empresa 
+desenvolvedora do sistema. 
+  
+§2º. A seu critério, a Anatel poderá convidar representantes de outras entidades para 
+fazerem parte do GGRR. 
+  
+§3º. Os membros do GGRR serão nomeados em sua reunião de instalação. 
+  
+§4º. Os conflitos no âmbito do GGRR serão decididos pelos representantes da Anatel. 
+  
+ Art.10 São atribuições do GGRR, dentre outras: 
+  
+I. Coordenação, definição, elaboração de cronograma detalhado de atividades e 
+acompanhamento da implantação dos processos de envio de informações ao sistema de 
+gerenciamento de risco e redes; 
+II.  Validação dos procedimentos operacionais para envio de informações ao sistema de 
+gerenciamento de risco e redes; 
+III. Realização dos testes de funcionamento do envio das informações; 
+IV. Validação técnico-operacional do envio de informações ao sistema de 
+gerenciamento de risco e redes. 
+Título III - Capítulo I 
+
+DAS MEDIDAS DE PREPARAÇÃO E RESPOSTA PARA SITUAÇÕES DE EMERGÊNCIA E 
+
+TÍTULO III 
+
+DESASTRES 
+
+  
+
+CAPÌTULO I 
+
+DAS MEDIDAS DE PREPARAÇÃO PARA SITUAÇÕES DE EMERGÊNCIA E DESASTRES 
+
+  
+Art. 11. Nos municípios em que foi reconhecida situação de emergência ou estado de 
+calamidade pública que tenha afetado as redes de suporte aos serviços de 
+telecomunicações mais de 3 (três) vezes nos últimos 36 (trinta e seis) meses, as 
+prestadoras do SMP deverão, durante os meses de maior risco de desastre, manter 
+sistemas alternativos para prestação do serviço. 
+Título III - Capítulo II 
+
+CAPÌTULO II 
+
+DAS MEDIDAS DE RESPOSTA PARA SITUAÇÕES DE EMERGÊNCIA E DESASTRES 
+
+  
+Art. 12. Uma vez reconhecida situação de emergência ou estado de calamidade pública, 
+nos termos da Lei nº 12.608 de 10 de abril de 2012 e observado o art. 17, as 
+prestadoras de serviços de telecomunicações deverão adotar nas regiões dos 
+
+municípios mapeados, por pelo menos 7 (sete) dias ou enquanto perdurar a situação de 
+emergência ou estado de calamidade pública, as medidas de contingência previstas no 
+Plano de Gerenciamento de Riscos (PGRiscos) com vistas ao reestabelecimento do 
+serviço de telecomunicações com a maior brevidade possível.  
+§ 1º. As prestadoras deverão garantir o acesso aos serviços de telecomunicações à 
+Defesa Civil, Corpo de Bombeiros, Polícia Militar e Civil, serviço público de remoção de 
+doentes (ambulância) e serviço público de resgates a vítimas de sinistros. 
+  
+§ 2º. As prestadoras deverão garantir o acesso aos serviços de telecomunicações à 
+população, observados os seguintes requisitos: 
+I-  as prestadoras do SMP e SME deverão tomar ações para assegurar a continuidade 
+dos serviços nas áreas afetadas, seja otimizando a rede projetada ou com reforços de 
+sistemas temporários e móveis; 
+II- as concessionárias do STFC deverão suspender a cobrança de ligações locais e de 
+longa distância originadas nos Telefones de Uso Público (TUP) e nos acessos individuais 
+instalados em abrigos, sendo facultada à prestadora estabelecer mecanismos de 
+gerenciamento de tráfego de forma a assegurar seu uso racional, como por exemplo, 
+limitando a duração das chamadas realizadas. 
+  
+§3º. O reestabelecimento do serviço, previsto neste artigo, será realizado, no que 
+couber, com o uso dos seguintes elementos: 
+I.  Estações Rádio Base móveis; 
+II. Geradores Móveis; 
+III. Centrais Móveis; 
+IV.Sistemas via satélite; 
+V. Instalação de acessos individuais em abrigos. 
+  
+§ 4º. Os terminais de telecomunicações cedidos via comodato serão utilizados 
+exclusivamente para atender às medidas de resposta para situações de emergência e 
+desastres. 
+  
+Art. 13 As prestadoras do SMP, SME, SeAC, TV a Cabo, MMDS, DTH deverão, quando 
+acionadas pelo órgão governamental competente sobre a eminência de desastres, 
+disseminar notificação de alerta e de orientação aos usuários localizados nos municípios 
+em situação de risco. 
+§ 1º A disseminação da notificação de alerta e de orientação pelas prestadoras do SMP 
+e SME, contendo mensagem pré-estabelecida pelo órgão governamental competente, 
+deverá ser realizada através de mensagens de texto e mensagens de voz. 
+  
+§ 2º A disseminação da notificação de alerta e de orientação pelas prestadoras do 
+SeAC, TV a Cabo, MMDS, DTH contendo mensagem pré-estabelecida pelo órgão 
+governamental competente, deverá ser realizada através de avisos ou mensagens 
+superpostas à programação normal (pop-ups). 
+  
+
+§3º. O conteúdo da mensagem e o momento em que deve ser encaminhado o alerta 
+são de responsabilidade do órgão governamental competente. 
+  
+§4º. As prestadoras de serviços de telecomunicações devem enviar o alerta 
+imediatamente após a comunicação do órgão governamental competente ou quando 
+este determinar. 
+  
+Art. 14 Somente ensejam as medidas de resposta previstas no art. 12 as situações de 
+emergência ou estados de calamidade pública reconhecidos tendo em vista desastres 
+cuja codificação (COBRADE) esteja prevista no Anexo I deste Regulamento. 
+Título III - Capítulo III 
+
+DA REDE NACIONAL DE EMERGÊNCIA DE PRESTADORAS DE TELECOMUNICAÇÕES – 
+
+CAPÍTULO III 
+
+RENET 
+
+  
+Art. 15. As prestadoras de serviços de telecomunicações deverão compor, junto com 
+representantes da Anatel, a Rede Nacional de Emergência de Prestadoras de 
+Telecomunicações (RENET). 
+§ 1º. São objetivos da RENET: 
+I - Prover ou suplementar sistemas de comunicações, quando os meios normais forem 
+insuficientes, ineficazes ou impedidos para operação nas ações de prevenção, na 
+ocorrência de desastre, situação de emergência ou estado de calamidade pública em 
+localidades do território nacional; e 
+II - Promover a capacitação de seus integrantes preparando-os para atuar em situações 
+de emergência envolvendo serviços de telecomunicações. 
+  
+§ 2º. A RENET será ativada em situações de emergência ou calamidade pública 
+nacional, estadual ou municipal. 
+  
+§ 3º. Compete à Anatel no âmbito da RENET: 
+I- Dirigir e coordenar a RENET, interagindo com Órgãos Nacionais de Segurança Pública 
+e Defesa Civil; 
+II-Fazer a abertura e o encerramento da RENET, convocando seus participantes. 
+  
+§ 4º. Após o encerramento da RENET, os representantes das prestadoras de serviços 
+de telecomunicações deverão, no prazo de 15 (quinze) dias, enviar à Anatel relatório de 
+atividades executadas no âmbito do desastre. 
+§ 5º. A Anatel deverá solicitar para as prestadoras de serviço de telecomunicações 
+indicação de 1 (um) titular e 3 (três) suplentes, de forma que pelo menos um 
+representante esteja à disposição da RENET quando necessário. 
+  
+§ 6º. Na indicação dos representantes deverá constar: 
+I – Nome completo; 
+II – Números de contato (Fax, fixo e móvel); 
+
+III – Endereço de correio eletrônico; e  
+IV – Endereço comercial. 
+Título IV 
+
+TÍTULO IV 
+
+DAS SANÇÕES 
+
+  
+Art. 16. A infração a este Regulamento, bem como a inobservância dos deveres 
+decorrentes deste Regulamento, sujeita os infratores às sanções aplicáveis pela Anatel, 
+conforme definidas no Livro III, Título VI “Das Sanções” da Lei nº 9.472, de 16 de julho 
+de 1997, em consonância com o disposto em regulamentação específica.  
+Título V 
+
+TÍTULO V 
+
+DAS DISPOSIÇÕES FINAIS 
+
+  
+Art. 17. É dever das prestadoras de serviços de telecomunicações colocar a disposição 
+das autoridades e dos agentes da defesa civil, nos casos de calamidade pública, todos 
+os meios, sistemas e disponibilidades que lhe forem solicitados com vistas a dar-lhes 
+suporte ou a amparar as populações atingidas. 
+  
+Art. 18. Não configurará infração a este Regulamento elevado nível de exposição ao 
+risco operacional das redes de suporte aos serviços de telecomunicações de interesse 
+coletivo. 
+Anexo I 
+ 
+
+DESASTRES QUE ENSEJAM MEDIDAS DE RESPOSTA PARA EMERGÊNCIAS E 
+
+ANEXO I 
+
+CATEGORIA 
+
+GRUPO 
+
+SUBGRUPO 
+
+TIPO 
+
+SUBTIPO 
+
+COBRADE 
+
+DESASTRES 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1. Terremoto 
+
+1. Tremor de terra 
+
+2. Tsunami 
+
+2. Emanação vulcânica 
+
+0 
+
+1. Quedas, Tombamentos e 
+rolamentos 
+
+  
+
+  
+
+  
+
+  
+
+0 
+
+0 
+
+0 
+
+1. Blocos 
+
+2. Lascas 
+
+3. Matacões 
+
+4. Lajes 
+
+3. Movimento de 
+massa 
+
+2. Deslizamentos 
+
+1. Deslizamentos de 
+solo e ou rocha 
+
+1.1.1.1.0 
+
+1.1.1.2.0 
+
+1.1.2.0.0 
+
+1.1.3.1.1 
+
+1.1.3.1.2 
+
+1.1.3.1.3 
+
+1.1.3.1.4 
+
+1.1.3.2.1 
+
+3. Corridas de Massa 
+
+1. Solo/Lama 
+
+1.1.3.3.1 
+
+  
+
+1. GEOLÓGICO 
+
+  
+
+  
+
+4. Subsidências e colapsos 
+
+1. Erosão Costeira/Marinha 
+
+2. Erosão de Margem Fluvial 
+
+0 
+
+0 
+
+0 
+
+2. Rocha/Detrito 
+
+1.1.3.3.2 
+
+4. Erosão 
+
+3. Erosão Continental 
+
+  
+
+1. Inundações 
+
+2. HIDROLÓGICO 
+
+2. Enxurradas 
+
+3. Alagamentos 
+
+0 
+
+0 
+
+0 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+3. METEOROLÓGICO 
+
+1. Sistemas de Grande 
+Escala/Escala Regional 
+
+1. Ciclones 
+
+2. Frentes Frias/Zonas de 
+Convergência 
+
+2. Tempestades 
+
+1. Tempestade 
+Local/Convectiva 
+
+1. Laminar 
+
+2. Ravinas 
+
+3. Boçorocas 
+
+0 
+
+0 
+
+0 
+
+1. Ventos Costeiros 
+(Mobilidade de 
+Dunas) 
+
+2. Marés de 
+Tempestade 
+(Ressacas) 
+
+0 
+
+1. Tornados 
+
+2. Tempestade de 
+Raios 
+
+1.1.3.4.0 
+
+1.1.4.1.0 
+
+1.1.4.2.0 
+
+1.1.4.3.1 
+
+1.1.4.3.2 
+
+1.1.4.3.3 
+
+1.2.1.0.0 
+
+1.2.2.0.0 
+
+1.2.3.0.0 
+
+1.3.1.1.1 
+
+1.3.1.1.2 
+
+1.3.1.2.0 
+
+1.3.2.1.1 
+
+1.3.2.1.2 
+
+3. Granizo 
+
+1.3.2.1.3 
+
+4. Chuvas Intensas 
+
+1.3.2.1.4 
+
+5. Vendaval 
+
+1.3.2.1.5 
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+1. NATURAL 
+
+ 
+
+ 
+ 
+
+

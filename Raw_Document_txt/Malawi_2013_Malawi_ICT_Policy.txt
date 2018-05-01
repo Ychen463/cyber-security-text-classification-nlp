@@ -1,0 +1,1364 @@
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Republic of Malawi 
+
+ 
+
+NATIONAL ICT POLICY   
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+An ICT-led Malawi 
+
+2013 
+
+ 
+
+TABLE OF CONTENTS 
+
+Item   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+       Page 
+
+FOREWORD ................................................................................................ii 
+
+PREFACE ....................................................... Error! Bookmark not defined. 
+
+LIST OF ACRONYMS AND ABBREVIATIONS .................................................... iv 
+
+GLOSSARY OF TERMS ................................................................................. v 
+
+1. 
+
+INTRODUCTION .............................................................................. 1 
+
+1.1. 
+
+BACKGROUND ................................................................................ 1 
+
+1.2. 
+
+LINKAGES WITH OTHER RELATED POLICIES ....................................... 2 
+
+1.3. 
+
+Problem DEFINITION ....................................................................... 4 
+
+1.4. 
+
+PURPOSE OF THE POLICY ................................................................. 5 
+
+2. 
+
+BROAD POLICY DIRECTION .............................................................. 6 
+
+2.1. 
+
+OVERAL POLICY GOAL ..................................................................... 6 
+
+2.2. 
+
+OVERAL POLICY OUTCOMES ............................................................. 6 
+
+2.3. 
+
+OVERAL POLICY OBJECTIVES ............................................................ 7 
+
+3. 
+
+POLICY PRIORITY AREAS ................................................................. 7 
+
+3.1. 
+
+STRATEGIC ICT LEADERSHIP ............................................................ 8 
+
+3.2. 
+
+HUMAN CAPITAL DEVELOPMENT ....................................................... 8 
+
+3.3. 
+
+E-GOVERNMENT SERVICES .............................................................. 9 
+
+3.4. 
+
+ICT IN INDUSTRIES ......................................................................... 9 
+
+3.5. 
+
+ICT INFRASTRUCTURE DEVELOPMENT ............................................. 10 
+
+3.6. 
+
+ICT IN THE PRIORITY GROWTH SECTORS ........................................ 11 
+
+3.7. 
+
+RESPONSIVE ICT LEGAL, REGULATORY AND INSTITUTIONAL 
+
+FRAMEWORK ................................................................................ 11 
+
+3.8. 
+
+PROMOTING NATIONAL SECURITY .................................................. 12 
+
+3.9. 
+
+INTERNATIONAL COOPERATION...................................................... 12 
+
+3.10.  UNIVERSAL ACCESS OF ICT AND ICT RELATED SERVICES.................. 13 
+
+4. 
+
+IMPLEMENTATION STRATEGY ......................................................... 14 
+
+4.1. 
+
+INSTUTIONAL ARRANGEMENTS....................................................... 14 
+
+4.2. 
+
+OBLIGATIONS, RESPONSIBILITIES AND PERFORMANCE 
+
+ACCOUNTABILITY OF MITA ............................................................. 15 
+
+4.3. 
+
+IMPLEMENTATION PLAN ................................................................. 16 
+
+4.4. 
+
+MONITORING AND EVALUATION ..................................................... 16 
+
+i 
+
+ 
+
+ii 
+
+ 
+
+ 
+
+iii 
+
+ 
+
+ 
+
+LIST OF ACRONYMS AND ABBREVIATIONS 
+
+ICT 
+
+Information and Communications Technology 
+
+MACRA 
+
+Malawi Communications Regulatory Authority 
+
+MDGs 
+
+Millennium Development Goals 
+
+MGDS II 
+
+Malawi Growth & Development Strategy II 
+
+MITA 
+
+Malawi Information Technology Agency 
+
+TCP/IP 
+
+Transmission Control Protocol/Internet Protocol 
+
+UNECA 
+
+United Nations Economic Commission for Africa 
+
+UNDP 
+
+United Nations Development Programme 
+
+ 
+
+ 
+
+ 
+
+ 
+
+iv 
+
+GLOSSARY OF TERMS 
+
+Broadcasting: any communication or transmission of any message or signal to 
+
+the public by means of any electronic gadgets. 
+
+e-Government Service: public service provided electronically by a Ministry or 
+
+Government  department,  local  authority,  or  body  established  by  or  under  any 
+
+law or controlled or funded by the Government. 
+
+ICT: (Information and Communications Technology) the technologies including 
+
+computers,  telecommunication,  audio-visual  systems,  and  postal  systems  that 
+
+enable the collection, processing, transportation and delivery of information and 
+
+communication services to users. 
+
+Information  Society:  social,  business  and  educational  environment  where 
+
+individuals and organisations communicate and access the world’s commercial, 
+
+educational and entertainment resources over a universal network linking them 
+
+together. 
+
+Internet:  an  interconnected  system  of  networks  that  connects  computers  via 
+
+the Transmission Control Protocol Internet Protocol (TCP/IP) and includes future 
+
+versions thereof.  
+
+Local Content: information that emphasize the culture and language diversity 
+
+of Malawi and are produced by or under Malawians’ control. 
+
+Knowledge-based  Economy:  Is  an  economy  which  embraces  development 
+
+and utilisation of ICT in its socio-economic development activities. 
+
+Operator:  a person or organisation that operates ICT facilities and/or services 
+
+of telecommunications, broadcasting, IT applications, or postal services. 
+
+Regulation: the process of ensuring that public utilities operate in accordance 
+
+with legal rules.  These rules may govern the offering of service by an operator 
+
+and includes practices, classification and definitions. 
+
+ 
+
+v 
+
+Telecommunication: 
+
+  any  domestic  or 
+
+international 
+
+transmission  of 
+
+information  by  wire,  radio  waves,  optical  media,  or  other  electromagnetic 
+
+systems, between or among points of user’s choosing. 
+
+Tele-density:  Percentage of telephone users in a population. 
+
+Universal  Access:  allowing  everyone  in  the  country  to  have  access  to  ICT 
+
+facilities within a reasonable distance and at a reasonable cost. 
+
+Universal Service: a policy of the Government to make ICT services, including 
+
+advanced ICT services available throughout the country at affordable prices so 
+
+that they are either available or easily accessible to anyone whenever they are 
+
+needed, regardless of their geographic or physical location, and with due regard 
+
+to people with special needs. 
+
+ 
+
+vi 
+
+1. INTRODUCTION  
+
+The  National  Information  and  Communications  Technology  Policy  has  been 
+
+developed by Government of Malawi  to give direction on ICT development in the 
+
+country.   
+
+ 
+
+The  ICT  Policy  will  support  the  national  goal  of  wealth  creation  and  reduction  of 
+
+poverty through sustainable economic growth and infrastructure development.  
+
+The policy is providing a framework for deployment, exploitation and development 
+
+of  ICT  to  support  the  process  of  accelerated  socio-economic  development  in 
+
+Malawi.  Government  will  provide  direction 
+
+for  systematic  ICT  program 
+
+development,  implementation,  monitoring  and  review  through  this  policy. 
+
+Government aims at consolidating an ICT approach for the mobilization, allocation 
+
+and utilization of resources to realize institutional, community, sector and national 
+
+development policies and strategies. 
+
+This  ICT  Policy  covers  Information  Technology  (IT),  Telecommunications, 
+
+Broadcasting and Postal services.  
+
+The ICT Policy aims at guiding: 
+
+a.  The provision of ICT services in the rural areas and to the vulnerable groups; 
+
+b.  The investment in priority ICT areas; 
+
+c.  The Public Sector  in the planning for the national development and utilization 
+
+of ICT; and 
+
+d.  The  formulation  of  an  appropriate  regulatory  and  legal  framework  aimed  at 
+
+safeguarding  fundamental  human  rights,  protecting  privacy,  promoting 
+
+electronic services, and promoting competition in the ICT sector. 
+
+ 
+
+1.1.  BACKGROUND  
+
+ICT has increasingly become one of the dominant factors affecting every facet of 
+
+development not only in Malawi but the world over.  Significant ICT advances are 
+
+constantly  taking  place  and  continue  to  impact  on  socio-economic  operations  at 
+
+various  levels  of  society.    ICT  advances  have  brought  about  changes  in  the  way 
+
+business  is  conducted.    At  the  moment  nations  and  organizations  are  investing 
+
+ 
+
+1 
+
+more resources into the development and use of ICT in order to be more efficient 
+
+and effective in their operations. 
+
+Malawi, as one of the developing economies in the world, has over the years faced 
+
+a number of socio-economic challenges which are associated, among other things, 
+
+with  inadequate  communication  infrastructure,  very  low  utilization  of  ICTs  and 
+
+lack of information. 
+
+Major  reforms  in  the  ICT  sector  started  in  the  1990s  through  separation  and 
+
+commercialization  of  the  then  incumbent  Telecom  operator  and  Post  Office  into 
+
+Malawi Telecom Limited (MTL) and Malawi Postal Corporation (MPC), respectively. 
+
+These  reforms  were  supported  by  the  Communications  Sector  Policy  and  the 
+
+Communications  Act  of  1998.  In  addition,  through  the  Act,  the  Malawi 
+
+Communications  Regulatory  Authority  (MACRA)  was  established.  However,  with 
+
+passage  of  time,  the  1998  Communications  Sector  Policy  has  been  overtaken  by 
+
+the significant developments in ICT. 
+
+ The  Millennium  Development  Goals  (MDG)  report  of  2011  for  Malawi  indicates 
+
+that use of Internet by the population  in  Malawi  improved from the low  levels of 
+
+0.07 percent in 2005 to 17 percent in 2011.  Use of mobile and fixed telephones 
+
+(tele-density)  has  improved  from  2.63  percent  to  about  27  percent  in  the  same 
+
+period. This is largely due to the increase in use of mobile telephones.  While data 
+
+on computer ownership and use for Malawi is not available, the country has a very 
+
+low  computer  density  as  compared  to  other  countries  in  the  African  region.  
+
+Furthermore,  most  of  the  telephones  and  computers  are  concentrated  in  urban 
+
+areas.  Government of Malawi, through various initiatives, has provided a total of 
+
+51 tele-centres that are currently operating in rural areas, providing access to ICT 
+
+equipment and Internet services to the general public.  Currently Malawi is ranked 
+
+number  159  out  of  the  190  countries  on  the  UNDP’s  e-government  development 
+
+index. 
+
+For  Malawi  to  play  a  meaningful  role  in  the  global  economy,  the  above  status 
+
+needs to improve.   
+
+ 
+
+1.2.  LINKAGES WITH OTHER RELATED POLICIES 
+
+A  number  of  existing  policies,  legislation  and  programmes  have  in  one  way  or 
+
+another informed and fostered the development of this ICT Policy.  Within the ICT 
+
+ 
+
+2 
+
+sector,  relevant  policies  that  have  contributed  to  the  development  of  the  Policy 
+
+including  the  1998  Communications  Sector  Policy,  Digital  Broadcasting  Policy  of 
+
+2013  and  the  Science  and  Technology  Policy.    Other  policies  include  the  Vision 
+
+2020,  the  Malawi  Growth  and  Development  Strategy  II,  the  Millennium 
+
+Development  Goals  (Goal  8:    Developing  Global  Partnerships)  and  the  1998 
+
+National  Decentralization  Policy.    In  addition  to  the  above,  several  existing 
+
+enactments  and  programs  have  also  encouraged  this  process.    Of  particular 
+
+significance include the Communications Act (1998),  the Science and Technology 
+
+Act of 2003.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+1.3.  PROBLEM DEFINITION   
+
+In terms of the ICT Sector, Malawi is faced with the following challenges: 
+
+i. 
+
+Inadequate ICT infrastructure especially in the rural areas.  As of 2012, there 
+
+was  a  total  of  only  2,112  kilometres  of  fiber  optic  cable  in  the  country, 
+
+concentrated  in  urban  areas.        The  situation  described  above  makes  it  a 
+
+challenge  for  Malawi  to  provide  electronic  services  to  the  general  public, 
+
+especially to those that reside in rural areas.   
+
+ii.  Underdeveloped  research  and  development  capacity  in  ICT.    No  patented 
+
+ICT-based innovation has been recorded in the country.  The country imports 
+
+almost all of its ICT products and services. 
+
+iii. 
+
+Inadequate specialized ICT professionals and institutional capacity. There are 
+
+very  few  certified  professionals  in  specialist  ICT  areas.    Malawi  continues  to 
+
+depend  on  international  experts  as  well  as  institutions  for  capacity 
+
+development and for implementing and managing complex ICT initiatives.        
+
+iv.  High  investment  cost  for  ICT  infrastructure.    ICT  infrastructure  is  heavily 
+
+dependent on imported material.  Linked to the above challenge, experts for 
+
+constructing the infrastructure have to be imported.  Return on investment is 
+
+low, especially in the rural areas due to the low telephone and computer use 
+
+in those areas, and investors shun from investing in the rural areas.  This is 
+
+evidenced through the inadequate ICT infrastructure in Malawian rural areas. 
+
+v.  Lack of local and relevant Internet content and e-services that may be useful 
+
+to the rural communities makes it difficult to implement ICT programmes.   
+
+vi.  Lack  of  legal  instruments  for  protection  of  individuals  and  societies  from 
+
+abuse  arising  from  the  use  of  ICT  and  participation  in  information  society.  
+
+Users do not trust online and electronic services in the absence of the law. 
+
+vii.  Lack  of  awareness  of  ICT  and  e-services  and  their  potential.    Awareness 
+
+programmes on ICT and ICT-based services have not been implemented on a 
+
+large scale in Malawi due to a lack of coordination. 
+
+viii.  Low  levels  of  online  public  services  and  low  levels  of  engaging  the  citizens 
+
+using  ICTs.    There  has  never  been  a  deliberate  policy  to  facilitate  the 
+
+provision  of  electronic  platforms  for  citizen  engagement  in  the  development 
+
+ 
+
+4 
+
+process.  Public entities, therefore, have not been encouraged to ensure that 
+
+their services are available online and electronically. 
+
+The above challenges are of huge magnitude and have a negative impact on the 
+
+growth  of  the  economy.    In  addition,  the  e-government  development  index  of 
+
+2011 ranks Malawi on number 159 out of 190 countries in the World.  
+
+ 
+
+Largely  responses  to  the  problems  have  been  uncoordinated  and  far  apart.  The 
+
+following section elaborates the responses to specific problems: 
+
+  To  address  the  challenge  of  inadequate  ICT  infrastructure  especially  in  the 
+
+rural  areas,  government  has  established  tele-centres 
+
+in  rural  areas. 
+
+Government  is  also  implementing  a  Regional  Communication  Infrastructure 
+
+Program  Malawi  Project  (RCIP-MW)  that  will  implement  fiber  optic  cable 
+
+connectivity to Tanzania with very high speed Internet Capacity.   
+
+  Government  is  currently  reviewing  the  Communications  Act  (1998)  and 
+
+drafting  the  Electronic  Transactions  and  Management  Bill  in  order  to  address 
+
+the challenges that are affecting the development of ICT in the country. 
+
+  Government 
+
+is 
+
+implementing  an  e-Schools 
+
+initiative  where  computer 
+
+laboratories with internet access are being implemented in public schools.   
+
+The  development  of  this  policy  will,  among  other  things,  help  Government  and 
+
+various  stakeholders  to  effectively  deal  with  the  above  mentioned  and  any 
+
+emerging problems associated with ICT at different levels of society. 
+
+ 
+
+1.4.  PURPOSE OF THE POLICY 
+
+Given  the  benefits  and  opportunities  offered  by  ICT,  it  is  acknowledged  that 
+
+Malawi  cannot  effectively  forge  ahead  with  its  development  agenda  without 
+
+putting  in  place  an  appropriate  framework  for  ICT  to  support  and  accelerate 
+
+various  initiatives  and  interventions  at  all  levels  of  society.    Therefore,  this  ICT 
+
+Policy sets out Malawi’s development agenda in the information age based on the 
+
+fundamental principles of the Constitution of the Republic of Malawi as outlined in 
+
+Chapter  3.  The  policy  is  also  based  on  the  Policy  Framework  Document:  “An 
+
+Integrated  ICT-led  Socio-economic  Development  Policy  and  Plan  Development 
+
+Framework for Malawi’’. 
+
+5 
+
+ 
+
+In this Policy, Government has defined priority areas that will have a huge impact 
+
+in  the  realization  of  an  information  society  and  knowledge-based  economy.    As 
+
+Malawi implements the policy, the following benefits are expected to be realised: 
+
+ 
+
+job  creation  and  foreign  currency  savings  through  local  production  of  ICT-
+
+based products and services; 
+
+  higher  education  status  for  the  country  due  to  the  increased  access  to 
+
+education and learning materials at all levels of education;  
+
+ 
+
+lower  doctor-patient  ratios  and  improved  access  to  medical  care  and 
+
+information;  
+
+  diversified marketing opportunities  and increased income for the country.  
+
+Some  of  the  initiatives  that  will  be  implemented  through  this  policy  include 
+
+improvement  of  ICT  infrastructure  and  connectivity  to  international  internet 
+
+routes with increased internet bandwidth.  These initiatives are intended to bring 
+
+down the cost of communication especially for the internet-based applications and 
+
+services.   
+
+Through  this  policy,  Government  will  establish  a  legal  and  regulatory  framework 
+
+to protect consumers of ICT products and services.  
+
+ 
+
+2.  BROAD POLICY DIRECTION 
+
+2.1.  OVERAL POLICY GOAL 
+
+The goal of the ICT Policy is to contribute to socio-economic development through 
+
+maximum integration of ICT in all sectors and the provision of ICT services to the 
+
+rural areas.  
+
+2.2.  OVERAL POLICY OUTCOMES 
+
+The following outcomes will be realized after implementing this policy: 
+
+a.  Increased access to basic health and educational facilities; and increased skills 
+
+in ICT; 
+
+b.  Improved  engagement  of  citizens,  increased  access  to  Government  services 
+
+and improved Government transparency; 
+
+ 
+
+6 
+
+c.  Vibrant  ICT  industry  that  will  facilitate  the  development  of  ICT  products  and 
+
+services as well invigorating other industries; 
+
+d.  Universal Access to ICT Services; 
+
+e.  Diversified income opportunities for Malawi; 
+
+f.  Provision of enhanced ICT services in a secure and trustworthy environment; 
+
+g.  Professional and world-class ICT-based products and services; 
+
+h.  Improved access to relevant information and public services. 
+
+ 
+
+2.3.  OVERAL POLICY OBJECTIVES 
+
+The  overall  objective  of  the  policy  is  to  facilitate  the  creation  of  an  enabling 
+
+environment  for  efficient,  effective  and  sustainable  utilisation,  exploitation  and 
+
+development  of  ICT  in  all  sectors  of  the  economy,  including  the  rural  and 
+
+underserved  communities,  in  order  to  attain  an  information-rich  and  knowledge-
+
+based society and economy. 
+
+ 
+
+3. POLICY PRIORITY AREAS 
+
+The  transformation  of  Malawi  into  a  predominantly  information-rich  society  and 
+
+knowledge-based  economy  requires  targeting  areas  of  priority  and  of  major 
+
+contribution to the economy in a more integrated approach.  In this respect,  ten 
+
+priority areas have been addressed by the policy; namely:  
+
+1.  Strategic ICT Leadership,  
+
+2.  Human Capital Development,  
+
+3.  E-Government Services,  
+
+4. 
+
+5. 
+
+6. 
+
+ICT in Industries,  
+
+ICT Infrastructure Development,  
+
+ICT in the priority Growth Sectors,  
+
+7.  Responsive ICT Legal, Regulatory and Institutional Framework,  
+
+8.  National Security, 
+
+9. 
+
+International Cooperation, and 
+
+10.  Universal Access of ICT and ICT related services. 
+
+ 
+
+7 
+
+ 
+
+ 
+
+3.1.  STRATEGIC ICT LEADERSHIP  
+
+An analysis of Malawi’s ICT environment currently indicates that there is need to 
+
+build  and  enhance  ICT  strategic  leadership  for  an  integrated  and  responsive 
+
+national ICT programme.  The policy aims at establishing strategic ICT leadership 
+
+at  all  levels  of  society  to  take  the  lead  in  sourcing;  creating  an  attractive 
+
+environment  for  investors  and  consumers;  identifying  areas  needing  priority 
+
+funding and support; and obtaining and directing resources.   
+
+Objective:  To provide sustained high level ICT leadership and championship 
+
+oversight, inspiration and political goodwill.  
+
+Policy Statement 1:  The policy will ensure that Government shall raise the level 
+
+of  awareness  among  those  in  leadership  positions  on  the  role,  use,  application 
+
+and potential of ICT. 
+
+Policy  Statement  2:    The  policy  will  ensure  that  Government  shall  raise  the 
+
+profile  of  ICT  in  the  society  and  promote  confidence  in  utilizing  ICTs  to  the 
+
+citizens. 
+
+3.2.  HUMAN CAPITAL DEVELOPMENT 
+
+The  value  of  human  capital  is  increased  through  education,  healthcare  and 
+
+acquisition of skills through training.  Currently, there is limited access to health, 
+
+education and training services by the majority of Malawians.  The integration of 
+
+ICT  in  service  delivery  within  the  education  and  health  sectors  will  facilitate  and 
+
+accelerate interventions in human capital development.  
+
+Objective:      To  increase  access  to  healthcare,  education  and  training  facilities 
+
+through ICT utilization. 
+
+Policy Statement 1:  The policy will ensure that Government shall integrate ICTs 
+
+in the education systems at all levels in order to improve access to and quality of 
+
+education; improve management of education systems. 
+
+Policy Statement 2: The policy will ensure that Government shall integrate ICTs 
+
+in  the  health  delivery  systems  at  all  levels  in  order  to  improve  access  to  the 
+
+ 
+
+8 
+
+nation’s  limited  health  facilities,  improve  management  of  health  services  and 
+
+information dissemination, and enhance medical research. 
+
+Policy Statement 3: Government shall develop a large pool of highly skilled ICT 
+
+personnel  to  carry  out  ICT  research  and  develop  ICT  innovations  within  the 
+
+country. 
+
+ 
+
+3.3.  E-GOVERNMENT SERVICES 
+
+Electronic government is the utilisation of ICTs in provision of public services.  Use 
+
+of ICTs enhances accountability and promotes equitable allocation and distribution 
+
+of  public  resources.    ICT  plays  a  crucial  role  in  improving  the  efficiency  of  the 
+
+operations  of  the  public  service;  particularly  in  improving  the  delivery  of  quality 
+
+service  to  the  general  public  and  the  provision  of  national  security.    Malawi  is 
+
+currently  ranked  159  out  of  190  countries  due  to  its  low  utilisation  of  ICTs  for 
+
+public service provision.   
+
+Policy  Statement  1:    Government  shall  deploy  ICTs  to  facilitate  effective  and 
+
+efficient  public  service  delivery  and  interaction  between  the  public  service  and 
+
+citizens of Malawi, companies, government institutions, cooperating partners and 
+
+other stakeholders of the Government of Malawi; 
+
+Policy  Statement  2:    Government  shall  deploy  ICTs  in  order  to  enhance 
+
+oversight functions in Government. 
+
+ 
+
+3.4.  ICT IN INDUSTRIES 
+
+Malawi  is  currently  promoting  the  production  of  export-quality  products  and 
+
+services through its  local  industry sector.   However, the country still depends on 
+
+imported goods as the local industry is unable to meet even the internal demands.  
+
+The ICT industry in Malawi is under-developed.  The growth of the ICT industry, if 
+
+properly  harnessed,  will  influence  the  rapid  development  of  all  industries  in 
+
+Malawi.   
+
+Policy  Statement  1:    The  policy  shall  promote  the  use  of  ICT  in  the  private 
+
+sector’s service delivery and in research and development of goods and services; 
+
+ 
+
+9 
+
+Policy Statement 2:  Government shall promote local and foreign investment for 
+
+innovative production, R&D and diffusion of ICT by the private sector. 
+
+Policy  Statement  3:    Government  shall  establish  and  promote  an  enabling 
+
+environment for private sector investment in ICT; 
+
+Policy  Statement  4:    The  policy  will  ensure  that  Government  introduces 
+
+initiatives  to  promote  the  development  of  a  domestic  and  export-oriented  ICT 
+
+industry; 
+
+Policy Statement 5:  Government shall promote the implementation of “Green” 
+
+ICT to encourage the use of environmentally-friendly ICT products. 
+
+ 
+
+3.5.  ICT INFRASTRUCTURE DEVELOPMENT 
+
+ICT  infrastructure  is  the  base  for  communication  and  delivery  of  electronic 
+
+services.    ICT  infrastructure  in  Malawi  is  under-developed,  especially  in  the  rural 
+
+areas.   
+
+Objective : To develop the ICT Infrastructure in order to improve access and 
+delivery of services as well as reduce communication costs. 
+
+Policy  Statement  1:  Government shall  promote  ICT  infrastructure  development 
+
+in  all  areas  of  the  country  to  provide  basic  means  for  electronic  communication 
+
+and delivery of e-services.   
+
+Policy Statement 2: Government shall facilitate the establishment of a reliable, 
+
+adaptive  and  robust  national  ICT  backbone  infrastructure  that  feeds  into  equally 
+
+high quality regional and international ICT infrastructure; 
+
+Policy  Statement  3:  Government  shall  promote  and  facilitate  domestic  and 
+
+foreign private sector investments in ICT infrastructure development; 
+
+Policy Statement 4: Government shall encourage sharing and co-location of ICT 
+
+infrastructure and ICT facilities by service providers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+3.6.  ICT IN THE PRIORITY GROWTH SECTORS  
+
+The  growth  sectors  of  MGDS  include  Agriculture,  Tourism  and  Mining.  There  is 
+
+potential  for  ICT  to  stimulate,  modernise  and  sustain  processes  and  systems  in 
+
+agriculture, tourism and mining sectors.  
+
+Policy Statement 1: Government shall encourage the utilisation of ICTs in agro-
+
+business  industry;  agricultural  extension  services;  research  in  agricultural 
+
+production and processing.   
+
+Policy  Statement  2:  Government  shall  encourage  the  utilisation  of  ICTs  to 
+
+ensure  that  Malawi’s  presence  as  a  unique  and  attractive  tourist  destination  is 
+
+recognized  on  the  global  map  through  the  provision  of  up-to-date  tourism 
+
+information; 
+
+Policy Statement 3: Government shall ensure that ICTs are used to strengthen 
+
+sustainable  natural  resource  and  environmental  management  practices;  Provide 
+
+access to geographical information on natural resources and wildlife habitats and 
+
+exact location and quantities of minerals;  
+
+Policy  Statement  4:  Government  shall  encourage  the  use  of  ICT  to  explore 
+
+marketing  opportunities  for  Malawi’s  products  including  exportable  natural 
+
+resources products; 
+
+Policy  Statement  5:  Government  shall  promote  the  utilisation  of  ICTs  in 
+
+environmental protection. 
+
+ 
+
+3.7.  RESPONSIVE ICT LEGAL, REGULATORY AND INSTITUTIONAL 
+
+FRAMEWORK 
+
+The  ICT  Sector  is  a  very  dynamic  sector  that  requires  regular  updates  in 
+
+legislations  and  regulations.    Currently,  Malawi’s  Communications  sector  is 
+
+regulated  by  the  Communications  Act  1998,  which  only  focuses  on  postal, 
+
+broadcasting and telecommunications. 
+
+Policy  Statement  1:  The  policy  will  ensure  that  Government  develops  and 
+
+harmonises  legal  instruments  to  ensure  that  the  ICT  industry  is  regulated  to 
+
+safeguard  human  rights,  facilitate  fair  competition  within  the  industry  and 
+
+promote accountability to the public.   
+
+ 
+
+11 
+
+Policy Statement 2:  The policy will ensure that Government develops laws and 
+
+institutional  framework  to  govern  the  use  of  electronic  evidence,  and  to 
+
+coordinate development and utilisation of ICTs in Malawi. 
+
+3.8.  PROMOTING NATIONAL SECURITY 
+
+Globalization  and  pervasiveness  of  crime  and  other  security  challenges  have 
+
+brought perverse tendencies which are threats to national security.  Malawi needs 
+
+to  establish  adequate  capacity  to  deal  with  national  security,  violation  of  human 
+
+rights,  undesirable  impacts  of  ICTs  including  the  violation  of  privacy,  spread  of 
+
+undesirable materials, cyber-crimes, digital frauds and terrorism.  Surveillance and 
+
+readiness of security agencies require the use of specialized skills and ICTs. 
+
+Policy  Statement  1:  Government  shall  create  statutory  obligations  for  ICT 
+
+service providers to address security needs of the country. 
+
+Policy  Statement  2:    Government  shall  enhance  the  capacity  of  security 
+
+agencies  to  be  up  to  date  with  developments  in  the  ICT  sector,  including 
+
+cyber crimes. 
+
+Policy  Statement  3:  Government  shall  use  ICTs  to  provide  early  warnings  to 
+
+mitigate risks and impact of disasters and facilitate relief management. 
+
+Policy  Statement  4:    Government  shall  promote  the  use  of  ICTs  to  mitigate 
+
+crimes and enhance public security. 
+
+Policy  Statement  5:    Government  shall  establish  mechanisms  for  cooperation 
+
+with international security agencies to combat cross-border crimes. 
+
+ 
+
+3.9.  INTERNATIONAL COOPERATION 
+
+ICT is the key element in the globalisation process.   Countries cannot operate in 
+
+isolation and close cooperation between different countries is of great importance.  
+
+In  accordance  with  the  existing  foreign  policy,  the  Government  of  Malawi  will 
+
+therefore,  consolidate  the  existing  regional  and  international  relationships  in  the 
+
+ICT sector and establish new ones where they do not exist.  
+
+Policy  Statement  1:    Government  shall  ensure  that  Malawi  is  a  major  and 
+
+regular  player  in  the  regional  and  international  ICT  committees  and  increase  the 
+
+level of participation in regional and international ICT fora. 
+
+ 
+
+12 
+
+Policy  Statement  2:    Government  shall  ensure  that  Malawi  adheres  to  the  ICT 
+
+standards  as  enlisted  in  international  and  regional  agreements  to  which  it  is  a 
+
+signatory. 
+
+ 
+
+3.10. UNIVERSAL ACCESS OF ICT AND ICT RELATED SERVICES. 
+
+The  majority  of  Malawians  live  in  rural  and  underserved  areas.    These  areas  do 
+
+not  have  adequate  access  to  ICT  services  due  to  poor  or  no  network  coverage, 
+
+insufficient  access  to  public  pay  phones  as  well  as  personal  phones,  very  limited 
+
+availability  of  postal  and  Internet  services,  limited  TV  coverage,  and  lack  of 
+
+relevant  Internet  content  that  may  be  useful  to  them.    One  of  the  fundamental 
+
+principles of the Constitution of the Republic of Malawi is to enhance the quality of 
+
+life in rural communities and to recognize rural standards of living. 
+
+Policy  Statement  1:    Government  shall  ensure  that  all  people  in  every  part  of 
+
+the country have access to affordable, reliable and efficient essential ICT services 
+
+in their community by 2016. 
+
+Policy  Statement  2:  Government  shall  promote  the  development  and 
+
+implementation  of  initiatives  for  the  creation  and  development  of  electronic  local 
+
+content that will inform, educate and entertain the public. 
+
+Policy  Statement  3:    Government  shall  ensure  the  provision  of  financial 
+
+incentives to ICT service providers for expansion of infrastructure and services to 
+
+areas  that  are  not  economically  viable  and  ensure  that  services  are  viable  and 
+
+sustainable in the long term; 
+
+Policy  Statement  4:    Government  shall  facilitate  the  deployment  and 
+
+exploitation  of  ICTs  in  the  promotion  of  diversification  and  improvement  of  the 
+
+quality  of  information;  increasing  accessibility  to  ranges of  information  resources 
+
+within  and  outside  the  country  and  creating  a  supportive  environment  for  the 
+
+development of the mass media and the private press in the information age; 
+
+Policy  Statement  5:  Government,  in  coordination  with  Non-governmental 
+
+organizations  and  development  partners,  shall  mobilize  financial  resources  for 
+
+implementation of ICT programmes for women and the youth; 
+
+Policy Statement 6: Government shall encourage and promote the development 
+
+of special ICT services for the disadvantaged communities and the disabled; 
+
+ 
+
+13 
+
+Policy  Statement  7:  Government,  in  coordination  with  Non-governmental 
+
+organizations  and  development  partners  develop  capacities  targeted  at  special 
+
+groups of people in society to ensure that ICT initiatives are all-inclusive; 
+
+Policy  Statement  8:    Government  shall  encourage  development  partners,  non-
+
+government organizations, as well as the private sector's participation to facilitate 
+
+the roll-out of community-based ICT initiatives. 
+
+ 
+
+4. IMPLEMENTATION STRATEGY 
+
+4.1.  INSTUTIONAL ARRANGEMENTS 
+
+The following institutions or agencies will play a central role in the coordination of 
+
+implementing the ICT Policy: 
+
+1.  The  Department  of  E-Government  should  be  restructured  into  Malawi 
+
+Information  Technology  Agency  (MITA)  that  will  be  a  quasi-autonomous 
+
+organization  under  the  ministry  responsible  for  ICT.  The  organization 
+
+should  be  charged  with  responsibility  of  accelerating  a  robust  ICT 
+
+development and utilization in Malawi; 
+
+2.  The  Ministry  responsible  for  Information  should  be  responsible  for  ICT 
+
+Policy formulation, monitoring and evaluation; 
+
+3.  The  mandate  of  the  Cabinet  Committee  on  Media  and  Communications 
+
+should  be  enhanced  to  include  provision  of  ICT  strategic  direction  and 
+
+oversight  for  Malawi’s  ICT  sector  and  ensure  that  ICT  is  integrated  in 
+
+national development; 
+
+4.  A  National  ICT  Steering  Committee  with  membership  from  Principal 
+
+Secretaries  and  Heads  of  public  institutions  and  Chamber  of  Commerce 
+
+shall  be  established  to  provide  oversight  and  leadership  on  Sector  ICT 
+
+Strategy  formulation  and  implementation.  The  committee  shall  report  to 
+
+the Cabinet Committee through the Ministry responsible for information; 
+
+5.  District  ICT  Committees  shall  be  established  to  be  responsible  for 
+
+determination  of  ICT  utilization  for  rural  development  and  service  delivery 
+
+and monitoring of ICT utilization among sectors and communities; 
+
+ 
+
+14 
+
+6.  Community  ICT  Committees  or  Clubs  shall  be  established  in  communities 
+
+with  responsibility  to  determine  utilization  of  ICT  in  demanding  and 
+
+accessing  services  from  relevant  authorities;  and  will  contribute  towards 
+
+identification of the needs for ICT centers; 
+
+7.  The capacity of Malawi Communications Regulatory Authority (MACRA) shall 
+
+be  enhanced  to  effectively  discharge  current  and  additional  mandate  as  a 
+
+regulatory body on ICTs. 
+
+Roles  and  responsibilities  for  other  implementing  agencies  have  been  outlined  in 
+
+the Implementation Strategy document. 
+
+ 
+
+4.2.  OBLIGATIONS, RESPONSIBILITIES AND PERFORMANCE 
+
+ACCOUNTABILITY OF MITA 
+
+Obligations 
+
+MITA  shall  be  charged  with  the  responsibility  of  accelerating  a  robust  ICT 
+
+development in Malawi. 
+
+ Responsibilities  
+
+The responsibilities of MITA shall include the following: 
+
+1. 
+
+2. 
+
+3. 
+
+To implement the National ICT Policy. 
+
+To lead in ICT innovation and development. 
+
+To coordinate human and institutional development for the promotion 
+
+of ICT development and utilization.  
+
+4. 
+
+To facilitate ICT development and utilization across all sectors i.e. rural 
+
+community  access,  e-government,  and  among  the  business  and 
+
+private sector.  
+
+5. 
+
+To  coordinate  all  national  ICT  programs  to  ensure  their  linkage  with 
+
+national priorities. 
+
+6. 
+
+7. 
+
+8. 
+
+To coordinate sustainable development of ICT infrastructure in Malawi. 
+
+To develop and enforce ICT standards in Malawi.  
+
+To mobilize financial  resources for the implementation of the National 
+
+ICT Policy.  
+
+ 
+
+ 
+
+15 
+
+Performance Accountabilities of MITA 
+
+Currently, the department of E-Government with support from UNDP 
+
+is  coordinating  the  development  of  Malawi  Master  ICT  Plan.  The 
+
+master  plan  shall  be  for  the  period  2013  –  2024,  phased  into  four 
+
+phases.  The  plan  shall  be  comprehensive  and  shall  include  smart 
+
+performance indicators. 
+
+MITA  shall  be  responsible  for  the  implementation  of  the  plan. 
+
+Annually the Ministry responsible for ICTs shall develop performance 
+
+agreements with MITA. 
+
+ 
+
+4.3.  IMPLEMENTATION PLAN 
+
+Implementation  of  this  policy  will  be  guided  by  the  detailed  Implementation, 
+
+Monitoring and Evaluation Strategy which is separate document that accompanies 
+
+the policy document.   
+
+ 
+
+4.4.  MONITORING AND EVALUATION 
+
+The  implementation  of  the  Policy  shall  be  monitored  and  evaluated  for 
+
+effectiveness  and  responsiveness  in  meeting  intended  goals  and  objectives. 
+
+Monitoring  will  be  done  annually  or  as  may  be  determined.  Evaluation  shall  be 
+
+conducted every three years to measure impact.  
+
+ 
+
+16 
+
+
