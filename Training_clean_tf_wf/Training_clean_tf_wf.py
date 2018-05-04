@@ -22,7 +22,7 @@ import os.path
 # In[267]:
 
 
-directory = 'C:/Users/gisel/Desktop/WF'
+directory = '#word frequency directory'
 category_list = [category for category in listdir(directory)]
 subcategory_name_list =[]
 dic = {}
@@ -155,15 +155,15 @@ def ensure_dir(file_path):
 txtpath_list=[]
 for n,category in enumerate(category_list):
     for subcategory in dic[category_list[n]]:
-        wf_path = "C:/Users/gisel/Desktop/WF/" + category_list[n]+'/'+ subcategory+'.csv'
-        tfidf_path = "C:/Users/gisel/Desktop/un crawl raw data/tfidf/"+ category_list[n] + " tfidf.csv"
+        wf_path = "word frequency directory" + category_list[n]+'/'+ subcategory+'.csv'
+        tfidf_path = "#tfidf word directory"+ category_list[n] + " tfidf.csv"
         
         
-        txt_path = "C:/Users/gisel/Desktop/Cyber-master/Raw_Training_txt_combine/"+ category_list[n]+'/'+ subcategory+'.txt'
+        txt_path = "#raw training data directory"+ category_list[n]+'/'+ subcategory+'.txt'
         txtpath_list.append(txt_path)
         
-        output_scv_path = "C:/Users/gisel/Desktop/Cyber-master/Training_clean_tf_wf/"+ category_list[n]+'/'+ subcategory+'.csv'
-        output_txt_path = "C:/Users/gisel/Desktop/Cyber-master/Training_clean_tf_wf/"+ category_list[n]+'/'+ subcategory+'.txt'
+        output_scv_path = "#output scv directory"+ category_list[n]+'/'+ subcategory+'.csv'
+        output_txt_path = "#output txt directory"+ category_list[n]+'/'+ subcategory+'.txt'
 
         directory = os.path.dirname(output_scv_path)
 
