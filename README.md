@@ -60,7 +60,6 @@ This tool enables users to interact with the data and the classification result 
 (2) Sentences
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20selected%20Category.png?raw=true)
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20seleted%20Sub-category.png?raw=true)
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20selected%20Category.png?raw=true)
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20seleted%20Sub-category.png?raw=true)
+
 
 
