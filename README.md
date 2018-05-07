@@ -31,6 +31,7 @@ Due to high dimension of our matrix, we decide to use principal component analys
 
 Hierarchical clustering is a method of clustering analysis which seeks to build a hierarchical clusters between each point. We use hierarchical clustering to see clusters.
 
+
 (4) K-means
 
 K-means is another method to do clustering under unsupervised learning. It randomly chooses point as centroid point, and calculate the distance to cluster each point. Then it would recalculate and correct the centroid point until it won’t change. And it is difficult to set the exact number of clusters.
