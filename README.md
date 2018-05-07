@@ -54,6 +54,22 @@ We decide to use six categories under unsupervised result. And use LDA model to 
 
 ## Sentence search engine
 This tool enables users to interact with the data and the classification result we got. Once the user choose a country, the information of categorized sentences will show up as follows, which can give user an overall understanding of the Cyber Security policies of this country. Users can choose different categories and subcategories which they are interested in. Here we use "the United States" as an example.
+
+
+(1) Choose Country
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20choose%20country.png?raw=true)
+
+(2) User Interaction:category Category/Sub
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Category.jpg?raw=true)
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Sub-Category.jpg?raw=true)
+
+(3) Sentences
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20selected%20Category.png?raw=true)
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20seleted%20Sub-category.png?raw=true)
+
+
+
+
 (1) User Interaction: Category/Subcategory
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Category.jpg?raw=true)
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Sub-Category.jpg?raw=true)
