@@ -53,9 +53,13 @@ We decide to use six categories under unsupervised result. And use LDA model to 
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Labeled%20Result%20Data.png?raw=true)
 
 ## Sentence search engine
-This tool enables users to interact with the data and the classification result we got. Once the user choose a country, the information of categorized sentences will show up as follows, which can give user an overall understanding of the Cyber Security policies of this country. Users can choose different categories and subcategories which they are interested in.
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Category.png?raw=true)
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Sub-Category.png?raw=true)
+This tool enables users to interact with the data and the classification result we got. Once the user choose a country, the information of categorized sentences will show up as follows, which can give user an overall understanding of the Cyber Security policies of this country. Users can choose different categories and subcategories which they are interested in. Here we use "the United States" as an example.
+(1) User Interaction: Category/Subcategory
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Category.jpg?raw=true)
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Sub-Category.jpg?raw=true)
+(2) Sentences
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20selected%20Category.png?raw=true)
+![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20seleted%20Sub-category.png?raw=true)
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20selected%20Category.png?raw=true)
 ![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20seleted%20Sub-category.png?raw=true)
 
