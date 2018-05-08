@@ -69,13 +69,3 @@ This tool enables users to interact with the data and the classification result 
 
 
 
-
-(1) User Interaction: Category/Subcategory
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Category.jpg?raw=true)
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/User%20Interaction%20with%20selected%20Sub-Category.jpg?raw=true)
-(2) Sentences
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20selected%20Category.png?raw=true)
-![](https://github.com/Ychen463/Cyber/blob/master/Result%20Pic/Sentences%20of%20seleted%20Sub-category.png?raw=true)
-
-
-
