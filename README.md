@@ -7,6 +7,7 @@ Credit to Co-authors: Yanlin Chen, Yunjian Wei, Yifan Yu, Wen Xue, Xianya Qin
 
 # Objective
 We want to build a tool to analyze the text of Cybersecurity strategies of more than 75 countries to find their commonalities, differences, and key characteristics.
+https://github.com/UniteIdeas/CyberSecurityNLP/wiki
 
 # Methodology
 ## Supervised Learning
